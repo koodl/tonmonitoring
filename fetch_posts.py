@@ -7,7 +7,7 @@ BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
 CHANNEL_ID = os.environ.get("TELEGRAM_CHANNEL_ID") # Например, @tonmonitoring
 
 # Формируем URL для запроса к Telegram Bot API
-url = f"https://api.telegram.org/bot{BOT_TOKEN}/getChatHistory?chat_id={CHANNEL_ID}&limit=10"
+url = f"https://api.telegram.org/bot{BOT_TOKEN}/getChatHistory?chat_id={CHANNEL_ID}&limit=100"
 
 # Отправляем запрос и получаем ответ
 response = requests.get(url)
