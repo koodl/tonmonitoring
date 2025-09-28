@@ -1,20 +1,36 @@
-import requests
+import asyncio
 import json
 import os
+from telethon.sync import TelegramClient
+from telethon.tl.types import Message
 
-# Получаем секреты из GitHub Actions
-BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN")
-CHANNEL_ID = os.environ.get("TELEGRAM_CHANNEL_ID") # Например, @tonmonitoring
+# Получаем данные из секретов GitHub
+API_ID = os.environ.get("TELEGRAM_API_ID")
+API_HASH = os.environ.get("TELEGRAM_API_HASH")
+CHANNEL_USERNAME = os.environ.get("TELEGRAM_CHANNEL_ID")
+SESSION_NAME = "telegram_session"
 
-# Формируем URL для запроса к Telegram Bot API
-url = f"https://api.telegram.org/bot{BOT_TOKEN}/getChatHistory?chat_id={CHANNEL_ID}&limit=100"
+async def main():
+    # Создаем клиент и подключаемся
+    async with TelegramClient(SESSION_NAME, API_ID, API_HASH) as client:
+        posts_data = []
+        
+        # Запрашиваем 100 последних сообщений
+        async for message in client.iter_messages(CHANNEL_USERNAME, limit=100):
+            if isinstance(message, Message) and message.text:
+                post = {
+                    'id': message.id,
+                    'text': message.text,
+                    'date': message.date.isoformat() # Сохраняем дату в стандартном формате
+                }
+                posts_data.append(post)
 
-# Отправляем запрос и получаем ответ
-response = requests.get(url)
-data = response.json()
+    # Сохраняем данные в posts.json
+    with open("posts.json", "w", encoding="utf-8") as f:
+        json.dump({"posts": posts_data}, f, ensure_ascii=False, indent=4)
+    
+    print(f"Успешно сохранено {len(posts_data)} постов в posts.json")
 
-# Сохраняем результат в файл
-with open("posts.json", "w", encoding="utf-8") as f:
-    json.dump(data, f, ensure_ascii=False, indent=4)
-
-print("Посты успешно сохранены в posts.json")
+# Запускаем асинхронную функцию
+if __name__ == "__main__":
+    asyncio.run(main())

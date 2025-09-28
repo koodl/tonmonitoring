@@ -2,9 +2,8 @@ name: Fetch Telegram Posts
 
 on:
   schedule:
-    # Запускать каждые 30 минут
     - cron: '*/30 * * * *'
-  workflow_dispatch: # Для ручного запуска
+  workflow_dispatch:
 
 jobs:
   fetch-posts:
@@ -21,11 +20,12 @@ jobs:
           python-version: '3.10'
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install telethon # Устанавливаем telethon
 
       - name: Run fetch posts script
         env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_API_ID: ${{ secrets.TELEGRAM_API_ID }}
+          TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
         run: python fetch_posts.py
 
