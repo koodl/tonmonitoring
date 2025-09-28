@@ -10,15 +10,54 @@
     <link rel="canonical" href="https://tonmonitoring.com/" />
     <style>
       body{
-        text-align: center;
+        min-height: 100vh;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
       }
-      img {
-        width: 50%;
+      header {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      }
+      .logo {
+        width: 100%;
+        margin: 8px 0 0 0;
+      }
+      h1 {
+        margin: 0;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-family: Montserrat;
+      }
+      footer {
+        width: 100%;
+        margin-top: auto;
+      }
+      .footer-txt {
+        position: absolute;
+        bottom: -2px;
+        left: 4px;
+        right: 4px;
       }
     </style>
   </head>
   <body>
-    <img src="/img/logo.svg" alt="TON Monitoring">
-    <h1>Not very soon...</h1>
+    <header>
+      <img src="/img/logo.svg" alt="TON Monitoring" class="logo">
+      <h1>TON MONITORING</h1>
+    </header>
+
+    <main>
+
+    </main>
+
+    <footer>
+      <img src="/img/tm-name.svg" alt="TON Monitoring" class="footer-txt">
+    </footer>
   </body>
 </html>
