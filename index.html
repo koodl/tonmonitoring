@@ -52,11 +52,47 @@
     </header>
 
     <main>
-
+      <div id="telegram-feed">
+        <!-- Посты будут загружены сюда -->
+      </div>
     </main>
 
     <footer>
       <img src="/img/tm-name.svg" alt="TON Monitoring" class="footer-txt">
     </footer>
+
+    <script>
+document.addEventListener("DOMContentLoaded", function() {
+    // Загружаем файл posts.json
+    fetch('posts.json')
+        .then(response => response.json())
+        .then(data => {
+            const feedContainer = document.getElementById('telegram-feed');
+            
+            // Проверяем, что ответ от API успешный
+            if (data.ok) {
+                // Проходим по каждому сообщению
+                data.result.messages.forEach(message => {
+                    // Создаем HTML-элемент для поста
+                    const postElement = document.createElement('div');
+                    postElement.className = 'post';
+                    
+                    // Добавляем текст сообщения
+                    if (message.text) {
+                        const textElement = document.createElement('p');
+                        textElement.innerText = message.text;
+                        postElement.appendChild(textElement);
+                    }
+
+                    // Можно добавить обработку фото, видео и т.д.
+                    
+                    // Добавляем пост на страницу
+                    feedContainer.appendChild(postElement);
+                });
+            }
+        })
+        .catch(error => console.error('Ошибка загрузки постов:', error));
+});
+    </script>
   </body>
 </html>
