@@ -83,94 +83,52 @@
 }
     </style>
     <script>
-document.addEventListener("DOMContentLoaded", function() {
-    fetch('posts.json')
-        .then(response => response.json())
-        .then(posts => {
-            const feedContainer = document.getElementById('telegram-feed');
-
-            posts.forEach(post => {
-                const postElement = document.createElement('div');
-                postElement.className = 'post';
-
-                // Проверяем, есть ли текст и сущности для форматирования
-                if (post.text && post.entities) {
-                    let htmlText = post.text;
-                    // Копируем и сортируем сущности в обратном порядке по смещению (offset)
-                    // Это нужно, чтобы при замене текста не сбивались индексы следующих сущностей
-                    const entities = post.entities.slice().sort((a, b) => b.offset - a.offset);
-
-                    entities.forEach(entity => {
-                        const start = entity.offset;
-                        const end = entity.offset + entity.length;
-                        const originalText = htmlText.substring(start, end);
-                        let replacement = originalText;
-
-                        switch (entity.type) {
-                            case 'bold':
-                                replacement = `<b>${originalText}</b>`;
-                                break;
-                            case 'italic':
-                                replacement = `<i>${originalText}</i>`;
-                                break;
-                            case 'text_link':
-                                replacement = `<a href="${entity.url}" target="_blank" rel="noopener noreferrer">${originalText}</a>`;
-                                break;
-                            case 'mention':
-                                // Создаем ссылку на профиль, убирая @ из начала
-                                replacement = `<a href="https://t.me/${originalText.substring(1)}" target="_blank" rel="noopener noreferrer">${originalText}</a>`;
-                                break;
-                            case 'hashtag':
-                                 // Создаем ссылку на поиск по хештегу, убирая #
-                                replacement = `<a href="https://t.me/hashtag/${originalText.substring(1)}" target="_blank" rel="noopener noreferrer">${originalText}</a>`;
-                                break;
-                            case 'cashtag':
-                                replacement = `<span class="cashtag">${originalText}</span>`;
-                                break;
-                            case 'custom_emoji':
-                                replacement = `<span class="custom-emoji" data-id="${entity.custom_emoji_id}"></span>`;
-                                break;
-                            // Можно добавить и другие типы: 'underline', 'strikethrough', 'code', 'pre'
-                        }
-                        
-                        // Заменяем часть строки на HTML-код
-                        htmlText = htmlText.slice(0, start) + replacement + htmlText.slice(end);
-                    });
-                    
-                    const textElement = document.createElement('p');
-                    textElement.innerHTML = htmlText; // Используем innerHTML для вставки HTML
-                    postElement.appendChild(textElement);
-
-                } else if (post.text) {
-                    // Если сущностей нет, просто вставляем текст
-                    const textElement = document.createElement('p');
-                    textElement.innerText = post.text;
-                    postElement.appendChild(textElement);
-                }
-
-                feedContainer.appendChild(postElement);
-            });
-        })
-        .catch(error => console.error('Ошибка загрузки постов:', error));
-
-    function initializeCustomEmojis() {
-        const emojiElements = document.querySelectorAll('.custom-emoji');
-        emojiElements.forEach(el => {
-            const emojiId = el.dataset.id;
-            const emojiUrl = customEmojiMap[emojiId];
-
-            if (emojiUrl) {
-                lottie.loadAnimation({
-                    container: el, // DOM-элемент для рендера
-                    renderer: 'svg',
-                    loop: true,
-                    autoplay: true,
-                    path: emojiUrl // URL .tgs или .json файла
-                });
-            }
-        });
+document.addEventListener('DOMContentLoaded', function() {
+    // 1. Найдите контейнер, куда будут вставляться посты
+    const feedContainer = document.getElementById('telegram-feed');
+    if (!feedContainer) {
+        console.error('Элемент с id="telegram-feed" не найден на странице.');
+        return;
     }
 
+    // 2. Загрузите данные из файла posts.json
+    fetch('posts.json')
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Ошибка сети при загрузке posts.json');
+            }
+            return response.json();
+        })
+        .then(posts => {
+            // 3. Для каждого поста в файле создайте свой виджет
+            posts.forEach(post => {
+                // Проверяем, что в объекте поста есть все нужные данные
+                if (post.chat && post.chat.username && post.message_id) {
+
+                    // Создаем элемент <script> для виджета
+                    const telegramScript = document.createElement('script');
+                    telegramScript.async = true;
+                    telegramScript.src = 'https://telegram.org/js/telegram-widget.js?22';
+
+                    // Формируем идентификатор поста из данных: "имя_канала/id_сообщения"
+                    const postIdentifier = `${post.chat.username}/${post.message_id}`;
+
+                    // Устанавливаем все необходимые data-атрибуты
+                    telegramScript.setAttribute('data-telegram-post', postIdentifier);
+                    telegramScript.setAttribute('data-width', '100%');
+                    // Вы можете добавить другие атрибуты для кастомизации
+                    // telegramScript.setAttribute('data-color', '343638');
+                    // telegramScript.setAttribute('data-dark-color', 'FFFFFF');
+
+                    // 4. Добавляем скрипт в контейнер.
+                    // Он автоматически загрузится и отрендерит виджет поста.
+                    feedContainer.appendChild(telegramScript);
+                }
+            });
+        })
+        .catch(error => {
+            console.error('Не удалось загрузить и обработать посты:', error);
+        });
 });
 
     </script>
