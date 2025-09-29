@@ -11,15 +11,22 @@
     <style>
       html {
         box-sizing: border-box;
+        height: 100%;
+        overflow: hidden;
+        position: fixed;
       }
       *, *:before, *:after {
         box-sizing: inherit;
       }
       body{
+        height: 100%;
+        position: relative;
         max-width: 100vw;
         min-height: 100dvh;
         margin: 0;
         padding: 0;
+        overflow-y: scroll;
+        -webkit-overflow-scrolling: touch;
         overflow-x: clip;
         overscroll-behavior-x: contain;
         display: flex;
