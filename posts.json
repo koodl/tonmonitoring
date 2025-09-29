@@ -1,1 +1,45 @@
-
+[
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5238004177031953682",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 10,
+        "offset": 48,
+        "type": "text_link",
+        "url": "https://www.businesswire.com/news/home/20250929276105/en/TON-Strategy-Company-to-Stake-%24TON-Reserves-Channel-Cash-Flows-Into-Buybacks"
+      },
+      {
+        "length": 4,
+        "offset": 101,
+        "type": "cashtag"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 Компания TON Strategy Company (Nasdaq: TONX) разместила в стейкинге 82% своих резервов в Toncoin ($TON) и направит полученный доход на обратный выкуп акций.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1759153396,
+    "message_id": 1164
+  }
+]
