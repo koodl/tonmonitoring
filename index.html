@@ -61,36 +61,80 @@
       <img src="/img/tm-name.svg" alt="TON Monitoring" class="footer-txt">
     </footer>
 
+    <style>
+.cashtag {
+    color: #007bff;
+    cursor: pointer;
+}
+
+.custom-emoji {
+    /* Стили для кастомных эмодзи. Можно задать размер. */
+    display: inline-block;
+    vertical-align: middle;
+    /* Можно добавить фоновое изображение как временное решение */
+}
+    </style>
     <script>
 document.addEventListener("DOMContentLoaded", function() {
-    // Загружаем файл posts.json
     fetch('posts.json')
         .then(response => response.json())
-        .then(posts => { // 'posts' — это теперь массив объектов
+        .then(posts => {
             const feedContainer = document.getElementById('telegram-feed');
-            
-            // Проходим по каждому посту в массиве
+
             posts.forEach(post => {
-                // Создаем HTML-элемент для поста
                 const postElement = document.createElement('div');
                 postElement.className = 'post';
-                
-                // Добавляем текст сообщения, если он есть
-                if (post.text) {
+
+                // Проверяем, есть ли текст и сущности для форматирования
+                if (post.text && post.entities) {
+                    let htmlText = post.text;
+                    // Копируем и сортируем сущности в обратном порядке по смещению (offset)
+                    // Это нужно, чтобы при замене текста не сбивались индексы следующих сущностей
+                    const entities = post.entities.slice().sort((a, b) => b.offset - a.offset);
+
+                    entities.forEach(entity => {
+                        const start = entity.offset;
+                        const end = entity.offset + entity.length;
+                        const originalText = htmlText.substring(start, end);
+                        let replacement = originalText;
+
+                        switch (entity.type) {
+                            case 'text_link':
+                                replacement = `<a href="${entity.url}" target="_blank" rel="noopener noreferrer">${originalText}</a>`;
+                                break;
+                            case 'custom_emoji':
+                                // Оборачиваем в span с data-id для дальнейшей обработки или стилизации.
+                                // Отображение самого эмодзи потребует дополнительной логики (например, загрузки tgs-файла).
+                                replacement = `<span class="custom-emoji" data-id="${entity.custom_emoji_id}">${originalText}</span>`;
+                                break;
+                            case 'cashtag':
+                                // Оборачиваем в span для стилизации, как в Telegram.
+                                replacement = `<span class="cashtag">${originalText}</span>`;
+                                break;
+                            // Сюда можно добавить обработку других типов: 'bold', 'italic', 'mention', 'hashtag' и т.д.
+                        }
+                        
+                        // Заменяем часть строки на HTML-код
+                        htmlText = htmlText.slice(0, start) + replacement + htmlText.slice(end);
+                    });
+                    
                     const textElement = document.createElement('p');
-                    // Используем innerHTML для обработки ссылок и других сущностей в будущем
-                    textElement.innerHTML = post.text;
+                    textElement.innerHTML = htmlText; // Используем innerHTML для вставки HTML
+                    postElement.appendChild(textElement);
+
+                } else if (post.text) {
+                    // Если сущностей нет, просто вставляем текст
+                    const textElement = document.createElement('p');
+                    textElement.innerText = post.text;
                     postElement.appendChild(textElement);
                 }
 
-                // В будущем здесь можно добавить обработку фото, видео и т.д.
-                
-                // Добавляем пост на страницу
                 feedContainer.appendChild(postElement);
             });
         })
         .catch(error => console.error('Ошибка загрузки постов:', error));
 });
+
     </script>
   </body>
 </html>
