@@ -95,6 +95,11 @@
 
 
     <script>
+      window.addEventListener('touchmove', (event) => {
+        event.preventDefault();
+      }, { passive: false });
+
+
 document.addEventListener('DOMContentLoaded', function() {
     // 1. Найдите контейнер, куда будут вставляться посты
     const feedContainer = document.getElementById('telegram-feed');
