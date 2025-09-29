@@ -156,5 +156,49 @@
     },
     "date": 1759160889,
     "message_id": 1166
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5310031775018285687",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 3,
+        "type": "text_link",
+        "url": "https://t.me/portals/market?startapp=659773038"
+      },
+      {
+        "length": 8,
+        "offset": 11,
+        "type": "text_link",
+        "url": "https://t.me/gift_newstg/4251"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🪟 Portals лидирует по количеству подарков на маркете с 432 689 штуками и обошел Tonnel по торговому объему за все время, достигнув $90 723 256.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1759175003,
+    "message_id": 1167
   }
 ]
