@@ -62,8 +62,14 @@
     </footer>
 
     <style>
+.post {
+  margin: 16px;
+  padding: 0 12px;
+  border: 1px solid #000;
+  border-radius: 8px;
+}
 .cashtag {
-    color: #007bff;
+    color: #0e80fa;
     cursor: pointer;
 }
 
@@ -99,19 +105,30 @@ document.addEventListener("DOMContentLoaded", function() {
                         let replacement = originalText;
 
                         switch (entity.type) {
+                            case 'bold':
+                                replacement = `<b>${originalText}</b>`;
+                                break;
+                            case 'italic':
+                                replacement = `<i>${originalText}</i>`;
+                                break;
                             case 'text_link':
                                 replacement = `<a href="${entity.url}" target="_blank" rel="noopener noreferrer">${originalText}</a>`;
                                 break;
-                            case 'custom_emoji':
-                                // Оборачиваем в span с data-id для дальнейшей обработки или стилизации.
-                                // Отображение самого эмодзи потребует дополнительной логики (например, загрузки tgs-файла).
-                                replacement = `<span class="custom-emoji" data-id="${entity.custom_emoji_id}">${originalText}</span>`;
+                            case 'mention':
+                                // Создаем ссылку на профиль, убирая @ из начала
+                                replacement = `<a href="https://t.me/${originalText.substring(1)}" target="_blank" rel="noopener noreferrer">${originalText}</a>`;
+                                break;
+                            case 'hashtag':
+                                 // Создаем ссылку на поиск по хештегу, убирая #
+                                replacement = `<a href="https://t.me/hashtag/${originalText.substring(1)}" target="_blank" rel="noopener noreferrer">${originalText}</a>`;
                                 break;
                             case 'cashtag':
-                                // Оборачиваем в span для стилизации, как в Telegram.
                                 replacement = `<span class="cashtag">${originalText}</span>`;
                                 break;
-                            // Сюда можно добавить обработку других типов: 'bold', 'italic', 'mention', 'hashtag' и т.д.
+                            case 'custom_emoji':
+                                replacement = `<span class="custom-emoji" data-id="${entity.custom_emoji_id}">${originalText}</span>`;
+                                break;
+                            // Можно добавить и другие типы: 'underline', 'strikethrough', 'code', 'pre'
                         }
                         
                         // Заменяем часть строки на HTML-код
