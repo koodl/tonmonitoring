@@ -44,6 +44,7 @@
         margin: 8px 4px -8px;
       }
     </style>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lottie-web/5.12.2/lottie.min.js"></script>
   </head>
   <body>
     <header>
@@ -67,6 +68,7 @@
   padding: 0 12px;
   border: 1px solid #000;
   border-radius: 8px;
+  font: 100 1em / 1.4 sans-serif;
 }
 .cashtag {
     color: #0e80fa;
@@ -126,7 +128,7 @@ document.addEventListener("DOMContentLoaded", function() {
                                 replacement = `<span class="cashtag">${originalText}</span>`;
                                 break;
                             case 'custom_emoji':
-                                replacement = `<span class="custom-emoji" data-id="${entity.custom_emoji_id}">${originalText}</span>`;
+                                replacement = `<span class="custom-emoji" data-id="${entity.custom_emoji_id}"></span>`;
                                 break;
                             // Можно добавить и другие типы: 'underline', 'strikethrough', 'code', 'pre'
                         }
@@ -150,6 +152,25 @@ document.addEventListener("DOMContentLoaded", function() {
             });
         })
         .catch(error => console.error('Ошибка загрузки постов:', error));
+
+    function initializeCustomEmojis() {
+        const emojiElements = document.querySelectorAll('.custom-emoji');
+        emojiElements.forEach(el => {
+            const emojiId = el.dataset.id;
+            const emojiUrl = customEmojiMap[emojiId];
+
+            if (emojiUrl) {
+                lottie.loadAnimation({
+                    container: el, // DOM-элемент для рендера
+                    renderer: 'svg',
+                    loop: true,
+                    autoplay: true,
+                    path: emojiUrl // URL .tgs или .json файла
+                });
+            }
+        });
+    }
+
 });
 
     </script>
