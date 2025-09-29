@@ -105,8 +105,11 @@ document.addEventListener('DOMContentLoaded', function() {
             return response.json();
         })
         .then(posts => {
+            // Переворачиваем массив. Теперь итерация пойдет с конца к началу.
+            const reversedPosts = posts.reverse();
+
             // 3. Для каждого поста в файле создайте свой виджет
-            posts.forEach(post => {
+            reversedPosts.forEach(post => {
                 // Проверяем, что в объекте поста есть все нужные данные
                 if (post.chat && post.chat.username && post.message_id) {
 
