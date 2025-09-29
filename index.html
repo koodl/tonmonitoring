@@ -23,6 +23,7 @@
       header {
         width: calc(100% - 4px);
         height: fit-content;
+        height: max-content;
         margin: 2px 0px 0px;
         display: flex;
         flex-direction: column;
@@ -67,26 +68,7 @@
       <img src="/img/logo.svg" alt="TON Monitoring" class="logo">
     </footer>
 
-    <style>
-.post {
-  margin: 16px;
-  padding: 0 12px;
-  border: 1px solid #000;
-  border-radius: 8px;
-  font: 100 1em / 1.4 sans-serif;
-}
-.cashtag {
-    color: #0e80fa;
-    cursor: pointer;
-}
 
-.custom-emoji {
-    /* Стили для кастомных эмодзи. Можно задать размер. */
-    display: inline-block;
-    vertical-align: middle;
-    /* Можно добавить фоновое изображение как временное решение */
-}
-    </style>
     <script>
 document.addEventListener('DOMContentLoaded', function() {
     // 1. Найдите контейнер, куда будут вставляться посты
