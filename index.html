@@ -66,30 +66,28 @@ document.addEventListener("DOMContentLoaded", function() {
     // Загружаем файл posts.json
     fetch('posts.json')
         .then(response => response.json())
-        .then(data => {
+        .then(posts => { // 'posts' — это теперь массив объектов
             const feedContainer = document.getElementById('telegram-feed');
             
-            // Проверяем, что ответ от API успешный
-            if (data.ok) {
-                // Проходим по каждому сообщению
-                data.result.messages.forEach(message => {
-                    // Создаем HTML-элемент для поста
-                    const postElement = document.createElement('div');
-                    postElement.className = 'post';
-                    
-                    // Добавляем текст сообщения
-                    if (message.text) {
-                        const textElement = document.createElement('p');
-                        textElement.innerText = message.text;
-                        postElement.appendChild(textElement);
-                    }
+            // Проходим по каждому посту в массиве
+            posts.forEach(post => {
+                // Создаем HTML-элемент для поста
+                const postElement = document.createElement('div');
+                postElement.className = 'post';
+                
+                // Добавляем текст сообщения, если он есть
+                if (post.text) {
+                    const textElement = document.createElement('p');
+                    // Используем innerHTML для обработки ссылок и других сущностей в будущем
+                    textElement.innerHTML = post.text;
+                    postElement.appendChild(textElement);
+                }
 
-                    // Можно добавить обработку фото, видео и т.д.
-                    
-                    // Добавляем пост на страницу
-                    feedContainer.appendChild(postElement);
-                });
-            }
+                // В будущем здесь можно добавить обработку фото, видео и т.д.
+                
+                // Добавляем пост на страницу
+                feedContainer.appendChild(postElement);
+            });
         })
         .catch(error => console.error('Ошибка загрузки постов:', error));
 });
