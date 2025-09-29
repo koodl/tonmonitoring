@@ -79,5 +79,44 @@
     },
     "date": 1759159357,
     "message_id": 1165
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1759159363,
+    "entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 11,
+        "offset": 185,
+        "type": "text_link",
+        "url": "https://www.courtwatch.news/p/145-biking-across-america-to-murder-a-governor"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "✈️ Министерство юстиции США получило разрешение суда на удаленный доступ к серверам Telegram по делу об эксплуатации детей из-за отказа мессенджера сотрудничать со следствием, сообщает CourtWatch.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1759159357,
+    "message_id": 1165
   }
 ]
