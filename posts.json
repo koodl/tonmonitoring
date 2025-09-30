@@ -1211,5 +1211,48 @@
     },
     "date": 1759261407,
     "message_id": 1178
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 25,
+        "type": "mention"
+      },
+      {
+        "length": 8,
+        "offset": 34,
+        "type": "text_link",
+        "url": "https://t.me/web3che/839"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 Автор Telegram-канала @web3che считает, что для того чтобы обойти Solana, TON Foundation следует перенять ее стратегию финансовой поддержки мемкоинов и последующего развития токенизированных акций.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1759265355,
+    "message_id": 1179
   }
 ]
