@@ -341,5 +341,70 @@
     },
     "date": 1759235699,
     "message_id": 1170
+  },
+  {
+    "caption": "🅰️ Health In Tech и AlphaTON Capital подписали протокол о намерениях для совместной разработки HITChain — платформы для обработки страховых случаев в здравоохранении на блокчейне The Open Network (TON).",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5314597028901190799",
+        "length": 3,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 38,
+        "type": "text_link",
+        "url": "https://www.prnewswire.com/news-releases/health-in-tech-and-alphaton-capital-sign-strategic-letter-of-intent-to-develop-hitchain-302569980.html"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 70,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEk2jb3RD3ezcB1Uo4eOOecA2aBvlwAALB8zEbW3fgSgk7JVJIw8KLAQADAgADcwADNgQ",
+        "file_size": 1491,
+        "file_unique_id": "AQADwfMxG1t34Ep4"
+      },
+      {
+        "height": 320,
+        "width": 250,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEk2jb3RD3ezcB1Uo4eOOecA2aBvlwAALB8zEbW3fgSgk7JVJIw8KLAQADAgADbQADNgQ",
+        "file_size": 17396,
+        "file_unique_id": "AQADwfMxG1t34Epy"
+      },
+      {
+        "height": 800,
+        "width": 626,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEk2jb3RD3ezcB1Uo4eOOecA2aBvlwAALB8zEbW3fgSgk7JVJIw8KLAQADAgADeAADNgQ",
+        "file_size": 70216,
+        "file_unique_id": "AQADwfMxG1t34Ep9"
+      },
+      {
+        "height": 1280,
+        "width": 1002,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEk2jb3RD3ezcB1Uo4eOOecA2aBvlwAALB8zEbW3fgSgk7JVJIw8KLAQADAgADeQADNgQ",
+        "file_size": 90099,
+        "file_unique_id": "AQADwfMxG1t34Ep-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1759239440,
+    "message_id": 1171
   }
 ]
