@@ -276,5 +276,70 @@
     },
     "date": 1759230918,
     "message_id": 1169
+  },
+  {
+    "caption": "💎 Платформа для KOL-маркетинга TRBE выделила проектам в экосистеме TON грантовый пул на $1 млн в токенах TRBE.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 37,
+        "type": "text_link",
+        "url": "https://t.me/tonbuild/79"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEkmjbznMJHuPdhEdlM9VFXMc9JCgRAAIU8zEbW3fgSiISrbAeTlJ_AQADAgADcwADNgQ",
+        "file_size": 1555,
+        "file_unique_id": "AQADFPMxG1t34Ep4"
+      },
+      {
+        "height": 320,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEkmjbznMJHuPdhEdlM9VFXMc9JCgRAAIU8zEbW3fgSiISrbAeTlJ_AQADAgADbQADNgQ",
+        "file_size": 15864,
+        "file_unique_id": "AQADFPMxG1t34Epy"
+      },
+      {
+        "height": 800,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEkmjbznMJHuPdhEdlM9VFXMc9JCgRAAIU8zEbW3fgSiISrbAeTlJ_AQADAgADeAADNgQ",
+        "file_size": 51759,
+        "file_unique_id": "AQADFPMxG1t34Ep9"
+      },
+      {
+        "height": 1280,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEkmjbznMJHuPdhEdlM9VFXMc9JCgRAAIU8zEbW3fgSiISrbAeTlJ_AQADAgADeQADNgQ",
+        "file_size": 57780,
+        "file_unique_id": "AQADFPMxG1t34Ep-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1759235699,
+    "message_id": 1170
   }
 ]
