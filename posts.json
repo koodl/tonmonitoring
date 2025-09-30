@@ -731,5 +731,70 @@
     },
     "date": 1759246956,
     "message_id": 1173
+  },
+  {
+    "caption": "💎 Для TON-проектов запущен TON VC Club — приватный Telegram-канал, объединяющий более 100 венчурных инвесторов и бизнес-ангелов.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 20,
+        "type": "text_link",
+        "url": "https://t.me/toneuropehub/437"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIElmjcA2cke-sjpKfLaZPBhGbPz_pCAAIh9TEbW3fgSuTVs1O7RrgZAQADAgADcwADNgQ",
+        "file_size": 2020,
+        "file_unique_id": "AQADIfUxG1t34Ep4"
+      },
+      {
+        "height": 320,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIElmjcA2cke-sjpKfLaZPBhGbPz_pCAAIh9TEbW3fgSuTVs1O7RrgZAQADAgADbQADNgQ",
+        "file_size": 26932,
+        "file_unique_id": "AQADIfUxG1t34Epy"
+      },
+      {
+        "height": 800,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIElmjcA2cke-sjpKfLaZPBhGbPz_pCAAIh9TEbW3fgSuTVs1O7RrgZAQADAgADeAADNgQ",
+        "file_size": 104802,
+        "file_unique_id": "AQADIfUxG1t34Ep9"
+      },
+      {
+        "height": 1280,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIElmjcA2cke-sjpKfLaZPBhGbPz_pCAAIh9TEbW3fgSuTVs1O7RrgZAQADAgADeQADNgQ",
+        "file_size": 129735,
+        "file_unique_id": "AQADIfUxG1t34Ep-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1759249256,
+    "message_id": 1174
   }
 ]
