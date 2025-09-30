@@ -200,5 +200,43 @@
     },
     "date": 1759175003,
     "message_id": 1167
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5202211379875972809",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 90,
+        "type": "text_link",
+        "url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=90423&ref=319479888&type=HTML&symbol=TONX&cdn=b92b65596a8ff1d90babdf10e0a56314&companyName=TON+Strategy+Company&formType=4&formDescription=Statement+of+changes+in+beneficial+ownership+of+securities&dateFiled=2025-09-29"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 Исполнительный председатель TON Strategy Co (TONX) Мануэль Штотц 29 сентября 2025 года приобрел 70 000 акций компании на сумму $497 602.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1759218657,
+    "message_id": 1168
   }
 ]
