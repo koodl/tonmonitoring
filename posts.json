@@ -470,5 +470,70 @@
     },
     "date": 1759243980,
     "message_id": 1172
+  },
+  {
+    "caption": "💎 TON Foundation и агентство SERA запустили на блокчейне TON голосование для выбора шести человек, которые отправятся в космос на ракете Blue Origin в 2026 году.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 35,
+        "type": "text_link",
+        "url": "https://cointelegraph.com/news/ton-sera-onchain-astronaut-voting"
+      },
+      {
+        "length": 11,
+        "offset": 62,
+        "type": "text_link",
+        "url": "https://t.me/sera_mission_control_bot/app"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1759244320,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 60,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIElGjb7sy9TocYRT0SbF31WUtDGwzCAAI99DEbW3fgSrkWNqrSSQQHAQADAgADcwADNgQ",
+        "file_size": 1595,
+        "file_unique_id": "AQADPfQxG1t34Ep4"
+      },
+      {
+        "height": 213,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIElGjb7sy9TocYRT0SbF31WUtDGwzCAAI99DEbW3fgSrkWNqrSSQQHAQADAgADbQADNgQ",
+        "file_size": 21770,
+        "file_unique_id": "AQADPfQxG1t34Epy"
+      },
+      {
+        "height": 319,
+        "width": 480,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIElGjb7sy9TocYRT0SbF31WUtDGwzCAAI99DEbW3fgSrkWNqrSSQQHAQADAgADeAADNgQ",
+        "file_size": 26377,
+        "file_unique_id": "AQADPfQxG1t34Ep9"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1759243980,
+    "message_id": 1172
   }
 ]
