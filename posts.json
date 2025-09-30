@@ -600,5 +600,70 @@
     },
     "date": 1759243980,
     "message_id": 1172
+  },
+  {
+    "caption": "💎 Ят Сиу (Animoca Brands), Макс Кровн (TON), Эндрю Рогозов (TOP) и Фарох Сармад (Myriad Markets) на TON Stage обсудят NFT 2.0, роялти и владение в эпоху токенизированной культуры.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 111,
+        "type": "text_link",
+        "url": "https://t.me/vibes/1490"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 51,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIElWjb-myUmwueMyUFtdqyGRIZKmotAALG9DEbW3fgSiYDQeipXcl8AQADAgADcwADNgQ",
+        "file_size": 1197,
+        "file_unique_id": "AQADxvQxG1t34Ep4"
+      },
+      {
+        "height": 180,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIElWjb-myUmwueMyUFtdqyGRIZKmotAALG9DEbW3fgSiYDQeipXcl8AQADAgADbQADNgQ",
+        "file_size": 13713,
+        "file_unique_id": "AQADxvQxG1t34Epy"
+      },
+      {
+        "height": 450,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIElWjb-myUmwueMyUFtdqyGRIZKmotAALG9DEbW3fgSiYDQeipXcl8AQADAgADeAADNgQ",
+        "file_size": 55749,
+        "file_unique_id": "AQADxvQxG1t34Ep9"
+      },
+      {
+        "height": 720,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIElWjb-myUmwueMyUFtdqyGRIZKmotAALG9DEbW3fgSiYDQeipXcl8AQADAgADeQADNgQ",
+        "file_size": 71681,
+        "file_unique_id": "AQADxvQxG1t34Ep-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1759246956,
+    "message_id": 1173
   }
 ]
