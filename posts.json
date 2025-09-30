@@ -1146,5 +1146,70 @@
     },
     "date": 1759261407,
     "message_id": 1178
+  },
+  {
+    "caption": "✈️ Павел Дуров в интервью Лексу Фридману рассказал о философии и разработке Telegram, давлении со стороны спецслужб и Apple, а также о блокчейне TON.\nКороткое содержание",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440479333481217835",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 41,
+        "type": "text_link",
+        "url": "https://www.youtube.com/watch?v=qjPH9njnaVU"
+      },
+      {
+        "length": 19,
+        "offset": 150,
+        "type": "text_link",
+        "url": "https://teletype.in/@selfowner/iu3jw9d4Wzp"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1759263338,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 50,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEmmjcMt8BPR23TizfNmlBOKqoxs5hAAIm9zEbW3fgSvkh-nW02TyVAQADAgADcwADNgQ",
+        "file_size": 1306,
+        "file_unique_id": "AQADJvcxG1t34Ep4"
+      },
+      {
+        "height": 178,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEmmjcMt8BPR23TizfNmlBOKqoxs5hAAIm9zEbW3fgSvkh-nW02TyVAQADAgADbQADNgQ",
+        "file_size": 12148,
+        "file_unique_id": "AQADJvcxG1t34Epy"
+      },
+      {
+        "height": 332,
+        "width": 596,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEmmjcMt8BPR23TizfNmlBOKqoxs5hAAIm9zEbW3fgSvkh-nW02TyVAQADAgADeAADNgQ",
+        "file_size": 19760,
+        "file_unique_id": "AQADJvcxG1t34Ep9"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1759261407,
+    "message_id": 1178
   }
 ]
