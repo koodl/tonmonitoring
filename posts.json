@@ -940,5 +940,76 @@
     },
     "date": 1759254477,
     "message_id": 1176
+  },
+  {
+    "caption": "🎁 Сервис Thermos выпустил десктопную и планшетную версию для торговли подарками и стикерами.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5402276844923811424",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 10,
+        "type": "text_link",
+        "url": "https://t.me/thermos/thermos?startapp=ref_1325a707-f392-4bc5-b73d-eb1797f8e9db"
+      },
+      {
+        "length": 8,
+        "offset": 18,
+        "type": "text_link",
+        "url": "https://t.me/thermos_news/19"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEmWjcJx0zuUrfYlJrIh0yMEf9GSAVAAK89jEbW3fgSrNTk5ntW1YNAQADAgADcwADNgQ",
+        "file_size": 1285,
+        "file_unique_id": "AQADvPYxG1t34Ep4"
+      },
+      {
+        "height": 320,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEmWjcJx0zuUrfYlJrIh0yMEf9GSAVAAK89jEbW3fgSrNTk5ntW1YNAQADAgADbQADNgQ",
+        "file_size": 16741,
+        "file_unique_id": "AQADvPYxG1t34Epy"
+      },
+      {
+        "height": 1000,
+        "width": 1000,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEmWjcJx0zuUrfYlJrIh0yMEf9GSAVAAK89jEbW3fgSrNTk5ntW1YNAQADAgADeQADNgQ",
+        "file_size": 55629,
+        "file_unique_id": "AQADvPYxG1t34Ep-"
+      },
+      {
+        "height": 800,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEmWjcJx0zuUrfYlJrIh0yMEf9GSAVAAK89jEbW3fgSrNTk5ntW1YNAQADAgADeAADNgQ",
+        "file_size": 66390,
+        "file_unique_id": "AQADvPYxG1t34Ep9"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1759258397,
+    "message_id": 1177
   }
 ]
