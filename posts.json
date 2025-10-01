@@ -1254,5 +1254,49 @@
     },
     "date": 1759265355,
     "message_id": 1179
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5449715707895902060",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "custom_emoji_id": "5444938196729228549",
+        "length": 2,
+        "offset": 2,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 33,
+        "type": "text_link",
+        "url": "https://www.binance.com/en/support/announcement/detail/a77f1232bd7c446796d87a3047e71819"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💲🔄 Binance 3 октября 2025 года откроет торговлю токеном EVAA (EVAA) на платформе Binance Alpha и запустит бессрочный контракт EVAAUSDT на Binance Futures.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1759308264,
+    "message_id": 1180
   }
 ]
