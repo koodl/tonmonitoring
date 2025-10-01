@@ -5697,5 +5697,76 @@
     },
     "date": 1759349133,
     "message_id": 1191
+  },
+  {
+    "caption": "✈️ Рыночная капитализация мемкоина Pedro выросла с $55 000 до более чем $170 000 на фоне публикации фотографий и видео девушки Павла Дурова с енотом.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440479333481217835",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 5,
+        "offset": 35,
+        "type": "text_link",
+        "url": "https://dedust.io/coins/EQBGtsm26tdn6bRjZrmLZkZMqk-K8wd4R66k52ntPU4UzcV0"
+      },
+      {
+        "length": 10,
+        "offset": 89,
+        "type": "text_link",
+        "url": "https://t.me/julivavilovaa/935"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 76,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEqWjdktDVxuVGNpZUQbIncr0FNgZ0AALb9zEbW3fwSm0CPHrwn0VRAQADAgADcwADNgQ",
+        "file_size": 1058,
+        "file_unique_id": "AQAD2_cxG1t38Ep4"
+      },
+      {
+        "height": 271,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEqWjdktDVxuVGNpZUQbIncr0FNgZ0AALb9zEbW3fwSm0CPHrwn0VRAQADAgADbQADNgQ",
+        "file_size": 14413,
+        "file_unique_id": "AQAD2_cxG1t38Epy"
+      },
+      {
+        "height": 677,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEqWjdktDVxuVGNpZUQbIncr0FNgZ0AALb9zEbW3fwSm0CPHrwn0VRAQADAgADeAADNgQ",
+        "file_size": 50901,
+        "file_unique_id": "AQAD2_cxG1t38Ep9"
+      },
+      {
+        "height": 1084,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEqWjdktDVxuVGNpZUQbIncr0FNgZ0AALb9zEbW3fwSm0CPHrwn0VRAQADAgADeQADNgQ",
+        "file_size": 69230,
+        "file_unique_id": "AQAD2_cxG1t38Ep-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1759351504,
+    "message_id": 1193
   }
 ]
