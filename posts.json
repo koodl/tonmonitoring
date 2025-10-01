@@ -1896,5 +1896,50 @@
     },
     "date": 1759326744,
     "message_id": 1186
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1759326827,
+    "entities": [
+      {
+        "custom_emoji_id": "5440704428422229664",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "custom_emoji_id": "5451704453847608160",
+        "length": 4,
+        "offset": 2,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 75,
+        "type": "text_link",
+        "url": "https://finance.yahoo.com/news/telegram-let-users-trade-tokenized-060216124.html"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "👛🇺🇸 Запуск торговли токенизированными активами (акциями США) в Telegram начнется в октябре с кастодиального сервиса Wallet, а позже функция будет расширена на некастодиальный кошелек TON.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1759326744,
+    "message_id": 1186
   }
 ]
