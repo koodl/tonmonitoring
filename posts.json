@@ -1298,5 +1298,75 @@
     },
     "date": 1759308264,
     "message_id": 1180
+  },
+  {
+    "caption": "💎 Вышло обсуждение The Network State, DAO и силы сообщества в Telegram и TON с CEO $TONX Вероникой Капустиной. Содержание.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5238004177031953682",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 10,
+        "offset": 9,
+        "type": "text_link",
+        "url": "https://x.com/gatewatchhq/status/1973139613813186727?s=46"
+      },
+      {
+        "length": 5,
+        "offset": 84,
+        "type": "cashtag"
+      },
+      {
+        "length": 10,
+        "offset": 112,
+        "type": "text_link",
+        "url": "https://teletype.in/@selfowner/Xqv6e6sMcJ5"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "video": {
+      "file_name": "Token2049_DAOs,_Community_Power_&_The_Network_State_Telegram_and.mp4",
+      "height": 720,
+      "mime_type": "video/mp4",
+      "width": 1280,
+      "thumbnail": {
+        "height": 180,
+        "width": 320,
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgSdaNzw1SByWEZzUoH-oVr855RPJV4AAix7AAJbd-hKkmfJkphrnq0BAAdtAAM2BA",
+        "file_size": 5779,
+        "file_unique_id": "AQADLHsAAlt36Epy"
+      },
+      "file_id": "BAACAgIAAyEFAASerMeaAAIEnWjc8NUgclhGc1KB_qFa_OeUTyVeAAIsewACW3foSpJnyZKYa56tNgQ",
+      "file_size": 384791527,
+      "file_unique_id": "AgADLHsAAlt36Eo",
+      "duration": 1771,
+      "thumb": {
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgSdaNzw1SByWEZzUoH-oVr855RPJV4AAix7AAJbd-hKkmfJkphrnq0BAAdtAAM2BA",
+        "file_unique_id": "AQADLHsAAlt36Epy",
+        "file_size": 5779,
+        "width": 320,
+        "height": 180
+      }
+    },
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1759310037,
+    "message_id": 1181
   }
 ]
