@@ -1433,5 +1433,71 @@
     },
     "date": 1759314932,
     "message_id": 1182
+  },
+  {
+    "caption": "💎 TON Foundation назначила директором по маркетингу Джерардо Каруччи, ранее работавшего в Apple и Nike.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 18,
+        "type": "text_link",
+        "url": "https://t.me/toncoin/2074"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1759315105,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEnmjdA_TlHcJJAAGWmr6HUC2VRnEEmAACB_AxG1t36Ep-Xtfhu0wntQEAAwIAA3MAAzYE",
+        "file_size": 1696,
+        "file_unique_id": "AQADB_AxG1t36Ep4"
+      },
+      {
+        "height": 320,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEnmjdA_TlHcJJAAGWmr6HUC2VRnEEmAACB_AxG1t36Ep-Xtfhu0wntQEAAwIAA20AAzYE",
+        "file_size": 16895,
+        "file_unique_id": "AQADB_AxG1t36Epy"
+      },
+      {
+        "height": 800,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEnmjdA_TlHcJJAAGWmr6HUC2VRnEEmAACB_AxG1t36Ep-Xtfhu0wntQEAAwIAA3gAAzYE",
+        "file_size": 54709,
+        "file_unique_id": "AQADB_AxG1t36Ep9"
+      },
+      {
+        "height": 1280,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEnmjdA_TlHcJJAAGWmr6HUC2VRnEEmAACB_AxG1t36Ep-Xtfhu0wntQEAAwIAA3kAAzYE",
+        "file_size": 69263,
+        "file_unique_id": "AQADB_AxG1t36Ep-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1759314932,
+    "message_id": 1182
   }
 ]
