@@ -1596,5 +1596,71 @@
     },
     "date": 1759320610,
     "message_id": 1184
+  },
+  {
+    "caption": "✈️ Основатель Telegram и попечитель IQanat Павел Дуров посетил школу для сельских детей в Казахстане, где пообщался с 500 учениками.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440479333481217835",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 55,
+        "type": "text_link",
+        "url": "https://www.instagram.com/p/DPQeF3zDAYc/"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1759320787,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 51,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEoGjdGiIsYkAKtufo-ZRq-wwZ2sbIAALJ8DEbW3foSvOOJMFuv7UfAQADAgADcwADNgQ",
+        "file_size": 1654,
+        "file_unique_id": "AQADyfAxG1t36Ep4"
+      },
+      {
+        "height": 180,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEoGjdGiIsYkAKtufo-ZRq-wwZ2sbIAALJ8DEbW3foSvOOJMFuv7UfAQADAgADbQADNgQ",
+        "file_size": 22978,
+        "file_unique_id": "AQADyfAxG1t36Epy"
+      },
+      {
+        "height": 449,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEoGjdGiIsYkAKtufo-ZRq-wwZ2sbIAALJ8DEbW3foSvOOJMFuv7UfAQADAgADeAADNgQ",
+        "file_size": 100697,
+        "file_unique_id": "AQADyfAxG1t36Ep9"
+      },
+      {
+        "height": 719,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEoGjdGiIsYkAKtufo-ZRq-wwZ2sbIAALJ8DEbW3foSvOOJMFuv7UfAQADAgADeQADNgQ",
+        "file_size": 146549,
+        "file_unique_id": "AQADyfAxG1t36Ep-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1759320610,
+    "message_id": 1184
   }
 ]
