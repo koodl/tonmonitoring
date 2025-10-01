@@ -1499,5 +1499,43 @@
     },
     "date": 1759314932,
     "message_id": 1182
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5314597028901190799",
+        "length": 3,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 10,
+        "offset": 30,
+        "type": "text_link",
+        "url": "https://www.animocabrands.com/animoca-brands-alphaton-capital-announce-equity-and-token-investments"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🅰️ AlphaTON Capital намерена приобрести у Animoca Brands контрольный пакет акций (51%) в игровой Web3-платформе GAMEE для расширения в экосистеме Telegram.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1759315321,
+    "message_id": 1183
   }
 ]
