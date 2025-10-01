@@ -2104,5 +2104,43 @@
     },
     "date": 1759346337,
     "message_id": 1188
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 10,
+        "offset": 43,
+        "type": "text_link",
+        "url": "https://t.me/telelakel/663"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "✈️ Блокчейн-подарки в Telegram можно будет установить в качестве фона для профиля или канала, но их нельзя будет передать или продать внутри мессенджера.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1759348307,
+    "message_id": 1189
   }
 ]
