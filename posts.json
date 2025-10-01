@@ -1662,5 +1662,150 @@
     },
     "date": 1759320610,
     "message_id": 1184
+  },
+  {
+    "caption": "COINCRAFT 2.0 — самый яркий криптофорум осени, который даст жару🔥 \n\n📅 Даты: 15–16 октября\n📍 Локация: Москва, VK Stadium\n\n5000+ участников — от новичков до акул крипто индустрии\n\n40+ спикеров — собрали самых топовых экспертов\n\n30+ стендов — стартапы, фонды, биржи и другие компании в выставочной зоне\n4 самые актуальные темы: \n\nИнвестиции, майнинг, трейдинг, тренды и будущее крипторынка\n\nПочему стоит пойти?\n\n— Инсайты и знания\nРеальные кейсы от топов индустрии, которые помогут вам быть в тренде\n\n— Нетворкинг на миллион\n\nЗа 2 дня — контакты, сделки и партнёрства, как за целый год.\n\n— Шоу\nИнтерактивы и перформансы — точно будет, что вспомнить!\n\n— Клиенты\nСтенды или спонсорство, чтобы ваш проект заметили.\n\n\n👉 Приобрести можно на сайте coin-craft.ru.\nПО ПРОМОКОДУ «TONMON» будет скидка 10% на любой тип билетов!\n\n💪Подписывайся чтобы быть в курсе всех новостей COINCRAFT 2.0",
+    "caption_entities": [
+      {
+        "length": 13,
+        "offset": 0,
+        "type": "bold"
+      },
+      {
+        "length": 52,
+        "offset": 15,
+        "type": "bold"
+      },
+      {
+        "length": 5,
+        "offset": 72,
+        "type": "bold"
+      },
+      {
+        "length": 8,
+        "offset": 95,
+        "type": "bold"
+      },
+      {
+        "length": 16,
+        "offset": 124,
+        "type": "bold"
+      },
+      {
+        "length": 12,
+        "offset": 181,
+        "type": "bold"
+      },
+      {
+        "length": 12,
+        "offset": 229,
+        "type": "bold"
+      },
+      {
+        "length": 59,
+        "offset": 330,
+        "type": "bold"
+      },
+      {
+        "length": 20,
+        "offset": 391,
+        "type": "bold"
+      },
+      {
+        "length": 19,
+        "offset": 391,
+        "type": "underline"
+      },
+      {
+        "length": 16,
+        "offset": 414,
+        "type": "bold"
+      },
+      {
+        "length": 10,
+        "offset": 503,
+        "type": "bold"
+      },
+      {
+        "length": 3,
+        "offset": 590,
+        "type": "bold"
+      },
+      {
+        "length": 7,
+        "offset": 653,
+        "type": "bold"
+      },
+      {
+        "length": 13,
+        "offset": 743,
+        "type": "text_link",
+        "url": "https://coin-craft.ru/"
+      },
+      {
+        "length": 13,
+        "offset": 743,
+        "type": "underline"
+      },
+      {
+        "length": 13,
+        "offset": 868,
+        "type": "text_link",
+        "url": "https://t.me/forum_coincraft"
+      },
+      {
+        "length": 13,
+        "offset": 868,
+        "type": "underline"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEoWjdInuug4LvweOyCMei61UD54ThAAJN8TEbW3foSvmptA7wJ70FAQADAgADcwADNgQ",
+        "file_size": 2380,
+        "file_unique_id": "AQADTfExG1t36Ep4"
+      },
+      {
+        "height": 320,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEoWjdInuug4LvweOyCMei61UD54ThAAJN8TEbW3foSvmptA7wJ70FAQADAgADbQADNgQ",
+        "file_size": 34970,
+        "file_unique_id": "AQADTfExG1t36Epy"
+      },
+      {
+        "height": 800,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEoWjdInuug4LvweOyCMei61UD54ThAAJN8TEbW3foSvmptA7wJ70FAQADAgADeAADNgQ",
+        "file_size": 138780,
+        "file_unique_id": "AQADTfExG1t36Ep9"
+      },
+      {
+        "height": 1280,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEoWjdInuug4LvweOyCMei61UD54ThAAJN8TEbW3foSvmptA7wJ70FAQADAgADeQADNgQ",
+        "file_size": 200419,
+        "file_unique_id": "AQADTfExG1t36Ep-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1759322747,
+    "message_id": 1185
   }
 ]
