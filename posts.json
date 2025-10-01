@@ -1941,5 +1941,64 @@
     },
     "date": 1759326744,
     "message_id": 1186
+  },
+  {
+    "caption": "💎 Лучшие продажи на Getgems за неделю.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5442796949373740481",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEo2jdQwRF_LX-m2mU8FLZNG4G0dyWAAJN8jEbW3foSsWkKYUEbndmAQADAgADcwADNgQ",
+        "file_size": 1721,
+        "file_unique_id": "AQADTfIxG1t36Ep4"
+      },
+      {
+        "height": 320,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEo2jdQwRF_LX-m2mU8FLZNG4G0dyWAAJN8jEbW3foSsWkKYUEbndmAQADAgADbQADNgQ",
+        "file_size": 18616,
+        "file_unique_id": "AQADTfIxG1t36Epy"
+      },
+      {
+        "height": 800,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEo2jdQwRF_LX-m2mU8FLZNG4G0dyWAAJN8jEbW3foSsWkKYUEbndmAQADAgADeAADNgQ",
+        "file_size": 70113,
+        "file_unique_id": "AQADTfIxG1t36Ep9"
+      },
+      {
+        "height": 1280,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEo2jdQwRF_LX-m2mU8FLZNG4G0dyWAAJN8jEbW3foSsWkKYUEbndmAQADAgADeQADNgQ",
+        "file_size": 89079,
+        "file_unique_id": "AQADTfIxG1t36Ep-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1759331076,
+    "message_id": 1187
   }
 ]
