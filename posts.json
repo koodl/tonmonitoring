@@ -14880,5 +14880,81 @@
     },
     "date": 1759349133,
     "message_id": 1191
+  },
+  {
+    "caption": "✈️🍏 Apple начала отправлять коды верификации для Apple ID через Telegram-аккаунт @VerificationCodes.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "custom_emoji_id": "5443111912210459950",
+        "length": 2,
+        "offset": 2,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 10,
+        "offset": 18,
+        "type": "text_link",
+        "url": "https://t.me/checked/115"
+      },
+      {
+        "length": 18,
+        "offset": 82,
+        "type": "mention"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 51,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEs2je7FVQvIu15ZJJPH5De9ZHtAZdAAKm9zEbApf4SuuSuglkx8onAQADAgADcwADNgQ",
+        "file_size": 840,
+        "file_unique_id": "AQADpvcxGwKX-Ep4"
+      },
+      {
+        "height": 180,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEs2je7FVQvIu15ZJJPH5De9ZHtAZdAAKm9zEbApf4SuuSuglkx8onAQADAgADbQADNgQ",
+        "file_size": 3935,
+        "file_unique_id": "AQADpvcxGwKX-Epy"
+      },
+      {
+        "height": 450,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEs2je7FVQvIu15ZJJPH5De9ZHtAZdAAKm9zEbApf4SuuSuglkx8onAQADAgADeAADNgQ",
+        "file_size": 11122,
+        "file_unique_id": "AQADpvcxGwKX-Ep9"
+      },
+      {
+        "height": 720,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEs2je7FVQvIu15ZJJPH5De9ZHtAZdAAKm9zEbApf4SuuSuglkx8onAQADAgADeQADNgQ",
+        "file_size": 14745,
+        "file_unique_id": "AQADpvcxGwKX-Ep-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1759439957,
+    "message_id": 1203
   }
 ]
