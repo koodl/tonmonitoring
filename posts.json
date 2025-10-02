@@ -12376,5 +12376,70 @@
     },
     "date": 1759349133,
     "message_id": 1191
+  },
+  {
+    "caption": "✈️ Президент Казахстана Касым-Жомарт Токаев и основатель Telegram Павел Дуров на форуме Digital Bridge 2025 обсудили сотрудничество в сферах образования, искусственного интеллекта и кибербезопасности.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440479333481217835",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 108,
+        "type": "text_link",
+        "url": "https://t.me/kazinform_news/83915"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 44,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIErmjegA2buRdlN-tXqJNpd-x0QdigAAL-_TEbApfwSrHoMW1SYGziAQADAgADcwADNgQ",
+        "file_size": 1063,
+        "file_unique_id": "AQAD_v0xGwKX8Ep4"
+      },
+      {
+        "height": 157,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIErmjegA2buRdlN-tXqJNpd-x0QdigAAL-_TEbApfwSrHoMW1SYGziAQADAgADbQADNgQ",
+        "file_size": 14690,
+        "file_unique_id": "AQAD_v0xGwKX8Epy"
+      },
+      {
+        "height": 392,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIErmjegA2buRdlN-tXqJNpd-x0QdigAAL-_TEbApfwSrHoMW1SYGziAQADAgADeAADNgQ",
+        "file_size": 66256,
+        "file_unique_id": "AQAD_v0xGwKX8Ep9"
+      },
+      {
+        "height": 627,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIErmjegA2buRdlN-tXqJNpd-x0QdigAAL-_TEbApfwSrHoMW1SYGziAQADAgADeQADNgQ",
+        "file_size": 87081,
+        "file_unique_id": "AQAD_v0xGwKX8Ep-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1759412237,
+    "message_id": 1198
   }
 ]
