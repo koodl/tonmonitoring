@@ -10632,5 +10632,43 @@
     },
     "date": 1759390480,
     "message_id": 1194
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440479333481217835",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 15,
+        "type": "text_link",
+        "url": "https://qazinform.com/news/pavel-durov-announces-opening-of-ai-lab-in-kazakhstan-244bff"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "✈️ Павел Дуров объявил об открытии в Казахстане лаборатории искусственного интеллекта — совместного проекта Telegram и казахстанского суперкомпьютерного кластера.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1759391237,
+    "message_id": 1195
   }
 ]
