@@ -13150,5 +13150,69 @@
     },
     "date": 1759418703,
     "message_id": 1200
+  },
+  {
+    "caption": "✈️🔄 Издание Unchained Crypto выпустило статью о том, как Telegram и Binance превращают ончейн-активность в игры для содействия росту.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "custom_emoji_id": "5444938196729228549",
+        "length": 2,
+        "offset": 2,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 30,
+        "type": "text_link",
+        "url": "https://unchainedcrypto.com/the-onchain-5-how-telegram-and-binance-turn-going-onchain-into-fun-and-games/"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 60,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEsWjenNLxlms2H1dBxTAxCM_NsTaUAAIE_zEbApfwSlnNjY6E8CFOAQADAgADcwADNgQ",
+        "file_size": 1867,
+        "file_unique_id": "AQADBP8xGwKX8Ep4"
+      },
+      {
+        "height": 249,
+        "width": 374,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEsWjenNLxlms2H1dBxTAxCM_NsTaUAAIE_zEbApfwSlnNjY6E8CFOAQADAgADeAADNgQ",
+        "file_size": 21401,
+        "file_unique_id": "AQADBP8xGwKX8Ep9"
+      },
+      {
+        "height": 213,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEsWjenNLxlms2H1dBxTAxCM_NsTaUAAIE_zEbApfwSlnNjY6E8CFOAQADAgADbQADNgQ",
+        "file_size": 26308,
+        "file_unique_id": "AQADBP8xGwKX8Epy"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1759419602,
+    "message_id": 1201
   }
 ]
