@@ -13722,5 +13722,77 @@
     },
     "date": 1759349133,
     "message_id": 1191
+  },
+  {
+    "caption": "✈️🔄 Издание Unchained Crypto выпустило статью о том, как Telegram и Binance превращают ончейн-активность в игры для содействия росту.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "custom_emoji_id": "5444938196729228549",
+        "length": 2,
+        "offset": 2,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 30,
+        "type": "text_link",
+        "url": "https://unchainedcrypto.com/the-onchain-5-how-telegram-and-binance-turn-going-onchain-into-fun-and-games/"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1759423107,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 60,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEsWjeqoMM8IzellkJQlYK9FWgV8YCAAKU9TEbApf4Srkvpo9yg5aCAQADAgADcwADNgQ",
+        "file_size": 1842,
+        "file_unique_id": "AQADlPUxGwKX-Ep4"
+      },
+      {
+        "height": 213,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEsWjeqoMM8IzellkJQlYK9FWgV8YCAAKU9TEbApf4Srkvpo9yg5aCAQADAgADbQADNgQ",
+        "file_size": 23567,
+        "file_unique_id": "AQADlPUxGwKX-Epy"
+      },
+      {
+        "height": 533,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEsWjeqoMM8IzellkJQlYK9FWgV8YCAAKU9TEbApf4Srkvpo9yg5aCAQADAgADeAADNgQ",
+        "file_size": 85873,
+        "file_unique_id": "AQADlPUxGwKX-Ep9"
+      },
+      {
+        "height": 853,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEsWjeqoMM8IzellkJQlYK9FWgV8YCAAKU9TEbApf4Srkvpo9yg5aCAQADAgADeQADNgQ",
+        "file_size": 111415,
+        "file_unique_id": "AQADlPUxGwKX-Ep-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1759419602,
+    "message_id": 1201
   }
 ]
