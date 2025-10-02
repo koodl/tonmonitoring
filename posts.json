@@ -12695,5 +12695,70 @@
     },
     "date": 1759349133,
     "message_id": 1191
+  },
+  {
+    "caption": "✈️ Глава Binance Чанпэн Чжао сообщил о встрече с Павлом Дуровым в Астане для обмена мнениями о нескольких странах.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440479333481217835",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 29,
+        "type": "text_link",
+        "url": "https://x.com/cz_binance/status/1973754618552488159?s=46"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 64,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEr2jeiuZxfl_qi0XfJu8FcxYh6uaWAAJO_jEbApfwSrY1iGUwMUXIAQADAgADcwADNgQ",
+        "file_size": 1612,
+        "file_unique_id": "AQADTv4xGwKX8Ep4"
+      },
+      {
+        "height": 226,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEr2jeiuZxfl_qi0XfJu8FcxYh6uaWAAJO_jEbApfwSrY1iGUwMUXIAQADAgADbQADNgQ",
+        "file_size": 23416,
+        "file_unique_id": "AQADTv4xGwKX8Epy"
+      },
+      {
+        "height": 566,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEr2jeiuZxfl_qi0XfJu8FcxYh6uaWAAJO_jEbApfwSrY1iGUwMUXIAQADAgADeAADNgQ",
+        "file_size": 106418,
+        "file_unique_id": "AQADTv4xGwKX8Ep9"
+      },
+      {
+        "height": 905,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEr2jeiuZxfl_qi0XfJu8FcxYh6uaWAAJO_jEbApfwSrY1iGUwMUXIAQADAgADeQADNgQ",
+        "file_size": 148072,
+        "file_unique_id": "AQADTv4xGwKX8Ep-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1759415014,
+    "message_id": 1199
   }
 ]
