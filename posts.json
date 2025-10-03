@@ -2,45 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "edit_date": 1759159363,
-    "entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 11,
-        "offset": 185,
-        "type": "text_link",
-        "url": "https://www.courtwatch.news/p/145-biking-across-america-to-murder-a-governor"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "✈️ Министерство юстиции США получило разрешение суда на удаленный доступ к серверам Telegram по делу об эксплуатации детей из-за отказа мессенджера сотрудничать со следствием, сообщает CourtWatch.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1759159357,
-    "message_id": 1165
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "entities": [
       {
         "custom_emoji_id": "5440613134597387384",
@@ -15891,5 +15852,70 @@
     },
     "date": 1759349133,
     "message_id": 1191
+  },
+  {
+    "caption": "✈️ По данным Mash, мошенническая схема по продаже токенов TON, в рамках которой организатор представлялся другом Павла Дурова, стала причиной крупных обысков в обменниках Москва-Сити.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 5,
+        "offset": 13,
+        "type": "text_link",
+        "url": "https://t.me/mash/68314"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEtGjflE3ou9m-3A3jVtJcELkEiPCwAAIB-jEbApf4SnNvZzExOdDFAQADAgADcwADNgQ",
+        "file_size": 2150,
+        "file_unique_id": "AQADAfoxGwKX-Ep4"
+      },
+      {
+        "height": 320,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEtGjflE3ou9m-3A3jVtJcELkEiPCwAAIB-jEbApf4SnNvZzExOdDFAQADAgADbQADNgQ",
+        "file_size": 40773,
+        "file_unique_id": "AQADAfoxGwKX-Epy"
+      },
+      {
+        "height": 800,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEtGjflE3ou9m-3A3jVtJcELkEiPCwAAIB-jEbApf4SnNvZzExOdDFAQADAgADeAADNgQ",
+        "file_size": 204508,
+        "file_unique_id": "AQADAfoxGwKX-Ep9"
+      },
+      {
+        "height": 1080,
+        "width": 1080,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEtGjflE3ou9m-3A3jVtJcELkEiPCwAAIB-jEbApf4SnNvZzExOdDFAQADAgADeQADNgQ",
+        "file_size": 220487,
+        "file_unique_id": "AQADAfoxGwKX-Ep-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1759482957,
+    "message_id": 1204
   }
 ]
