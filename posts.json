@@ -1,70 +1,5 @@
 [
   {
-    "caption": "💎 TON Foundation и агентство SERA запустили на блокчейне TON голосование для выбора шести человек, которые отправятся в космос на ракете Blue Origin в 2026 году.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 35,
-        "type": "text_link",
-        "url": "https://cointelegraph.com/news/ton-sera-onchain-astronaut-voting"
-      },
-      {
-        "length": 11,
-        "offset": 62,
-        "type": "text_link",
-        "url": "https://t.me/sera_mission_control_bot/app?startapp=2LG5JC5E"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1759244835,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 60,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIElGjb7sy9TocYRT0SbF31WUtDGwzCAAI99DEbW3fgSrkWNqrSSQQHAQADAgADcwADNgQ",
-        "file_size": 1595,
-        "file_unique_id": "AQADPfQxG1t34Ep4"
-      },
-      {
-        "height": 213,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIElGjb7sy9TocYRT0SbF31WUtDGwzCAAI99DEbW3fgSrkWNqrSSQQHAQADAgADbQADNgQ",
-        "file_size": 21770,
-        "file_unique_id": "AQADPfQxG1t34Epy"
-      },
-      {
-        "height": 319,
-        "width": 480,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIElGjb7sy9TocYRT0SbF31WUtDGwzCAAI99DEbW3fgSrkWNqrSSQQHAQADAgADeAADNgQ",
-        "file_size": 26377,
-        "file_unique_id": "AQADPfQxG1t34Ep9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1759243980,
-    "message_id": 1172
-  },
-  {
     "caption": "💎 Ят Сиу (Animoca Brands), Макс Кровн (TON), Эндрю Рогозов (TOP) и Фарох Сармад (Myriad Markets) на TON Stage обсудят NFT 2.0, роялти и владение в эпоху токенизированной культуры.",
     "caption_entities": [
       {
@@ -16722,5 +16657,64 @@
     },
     "date": 1759349133,
     "message_id": 1191
+  },
+  {
+    "caption": "📦 Сервис Sticker Pad станет открытой платформой для художников и авторов, где они смогут запускать стикеры по механике мемепада.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5449670138292894907",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 6,
+        "offset": 22,
+        "type": "text_link",
+        "url": "https://t.me/sticker_community/292"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "video": {
+      "file_name": "IMG_4940.MP4",
+      "height": 848,
+      "mime_type": "video/mp4",
+      "width": 848,
+      "thumbnail": {
+        "height": 320,
+        "width": 320,
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgS5aN_Kpr3Vk9mTJfRs3JprZ5uYdUkAAiOPAAIClwABSzBM9yw8kMCGAQAHbQADNgQ",
+        "file_size": 16886,
+        "file_unique_id": "AQADI48AAgKXAAFLcg"
+      },
+      "file_id": "BAACAgIAAyEFAASerMeaAAIEuWjfyqa91ZPZkyX0bNyaa2ebmHVJAAIjjwACApcAAUswTPcsPJDAhjYE",
+      "file_size": 4498630,
+      "file_unique_id": "AgADI48AAgKXAAFL",
+      "duration": 23,
+      "thumb": {
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgS5aN_Kpr3Vk9mTJfRs3JprZ5uYdUkAAiOPAAIClwABSzBM9yw8kMCGAQAHbQADNgQ",
+        "file_unique_id": "AQADI48AAgKXAAFLcg",
+        "file_size": 16886,
+        "width": 320,
+        "height": 320
+      }
+    },
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1759496871,
+    "message_id": 1209
   }
 ]
