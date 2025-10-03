@@ -1,70 +1,5 @@
 [
   {
-    "caption": "💎 Платформа для KOL-маркетинга TRBE выделила проектам в экосистеме TON грантовый пул на $1 млн в токенах TRBE.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 37,
-        "type": "text_link",
-        "url": "https://t.me/tonbuild/79"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEkmjbznMJHuPdhEdlM9VFXMc9JCgRAAIU8zEbW3fgSiISrbAeTlJ_AQADAgADcwADNgQ",
-        "file_size": 1555,
-        "file_unique_id": "AQADFPMxG1t34Ep4"
-      },
-      {
-        "height": 320,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEkmjbznMJHuPdhEdlM9VFXMc9JCgRAAIU8zEbW3fgSiISrbAeTlJ_AQADAgADbQADNgQ",
-        "file_size": 15864,
-        "file_unique_id": "AQADFPMxG1t34Epy"
-      },
-      {
-        "height": 800,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEkmjbznMJHuPdhEdlM9VFXMc9JCgRAAIU8zEbW3fgSiISrbAeTlJ_AQADAgADeAADNgQ",
-        "file_size": 51759,
-        "file_unique_id": "AQADFPMxG1t34Ep9"
-      },
-      {
-        "height": 1280,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEkmjbznMJHuPdhEdlM9VFXMc9JCgRAAIU8zEbW3fgSiISrbAeTlJ_AQADAgADeQADNgQ",
-        "file_size": 57780,
-        "file_unique_id": "AQADFPMxG1t34Ep-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1759235699,
-    "message_id": 1170
-  },
-  {
     "caption": "🅰️ Health In Tech и AlphaTON Capital подписали протокол о намерениях для совместной разработки HITChain — платформы для обработки страховых случаев в здравоохранении на блокчейне The Open Network (TON).",
     "caption_entities": [
       {
@@ -16343,5 +16278,70 @@
     },
     "date": 1759484529,
     "message_id": 1206
+  },
+  {
+    "caption": "💎 Проект Memelandia 2.0 будет скоро запущен на блокчейне TON.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 37,
+        "type": "text_link",
+        "url": "https://x.com/s0meone_u_know/status/1974047328169340980?s=46"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEt2jfmtdHBthBpaw0U5pKwcVuW_0zAAIl-jEbApf4Sja26Nhkt2apAQADAgADcwADNgQ",
+        "file_size": 2146,
+        "file_unique_id": "AQADJfoxGwKX-Ep4"
+      },
+      {
+        "height": 320,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEt2jfmtdHBthBpaw0U5pKwcVuW_0zAAIl-jEbApf4Sja26Nhkt2apAQADAgADbQADNgQ",
+        "file_size": 30990,
+        "file_unique_id": "AQADJfoxGwKX-Epy"
+      },
+      {
+        "height": 800,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEt2jfmtdHBthBpaw0U5pKwcVuW_0zAAIl-jEbApf4Sja26Nhkt2apAQADAgADeAADNgQ",
+        "file_size": 120133,
+        "file_unique_id": "AQADJfoxGwKX-Ep9"
+      },
+      {
+        "height": 1280,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEt2jfmtdHBthBpaw0U5pKwcVuW_0zAAIl-jEbApf4Sja26Nhkt2apAQADAgADeQADNgQ",
+        "file_size": 153988,
+        "file_unique_id": "AQADJfoxGwKX-Ep-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1759484631,
+    "message_id": 1207
   }
 ]
