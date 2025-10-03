@@ -1,70 +1,5 @@
 [
   {
-    "caption": "🅰️ Health In Tech и AlphaTON Capital подписали протокол о намерениях для совместной разработки HITChain — платформы для обработки страховых случаев в здравоохранении на блокчейне The Open Network (TON).",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5314597028901190799",
-        "length": 3,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 38,
-        "type": "text_link",
-        "url": "https://www.prnewswire.com/news-releases/health-in-tech-and-alphaton-capital-sign-strategic-letter-of-intent-to-develop-hitchain-302569980.html"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 70,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEk2jb3RD3ezcB1Uo4eOOecA2aBvlwAALB8zEbW3fgSgk7JVJIw8KLAQADAgADcwADNgQ",
-        "file_size": 1491,
-        "file_unique_id": "AQADwfMxG1t34Ep4"
-      },
-      {
-        "height": 320,
-        "width": 250,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEk2jb3RD3ezcB1Uo4eOOecA2aBvlwAALB8zEbW3fgSgk7JVJIw8KLAQADAgADbQADNgQ",
-        "file_size": 17396,
-        "file_unique_id": "AQADwfMxG1t34Epy"
-      },
-      {
-        "height": 800,
-        "width": 626,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEk2jb3RD3ezcB1Uo4eOOecA2aBvlwAALB8zEbW3fgSgk7JVJIw8KLAQADAgADeAADNgQ",
-        "file_size": 70216,
-        "file_unique_id": "AQADwfMxG1t34Ep9"
-      },
-      {
-        "height": 1280,
-        "width": 1002,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEk2jb3RD3ezcB1Uo4eOOecA2aBvlwAALB8zEbW3fgSgk7JVJIw8KLAQADAgADeQADNgQ",
-        "file_size": 90099,
-        "file_unique_id": "AQADwfMxG1t34Ep-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1759239440,
-    "message_id": 1171
-  },
-  {
     "caption": "💎 TON Foundation и агентство SERA запустили на блокчейне TON голосование для выбора шести человек, которые отправятся в космос на ракете Blue Origin в 2026 году.",
     "caption_entities": [
       {
@@ -16343,5 +16278,70 @@
     },
     "date": 1759484631,
     "message_id": 1207
+  },
+  {
+    "caption": "✈️ Telegram занял пятое место в рейтинге социальных платформ по числу ежедневных активных пользователей, достигнув показателя в 500 млн.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 5,
+        "offset": 12,
+        "type": "text_link",
+        "url": "https://x.com/jbfxdotme/status/1974055161795351007?s=46"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 50,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEuGjfoqMIDe8niFPQPIgjEZIGh9WHAAJf-jEbApf4Sr5-MDs3PQoWAQADAgADcwADNgQ",
+        "file_size": 935,
+        "file_unique_id": "AQADX_oxGwKX-Ep4"
+      },
+      {
+        "height": 179,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEuGjfoqMIDe8niFPQPIgjEZIGh9WHAAJf-jEbApf4Sr5-MDs3PQoWAQADAgADbQADNgQ",
+        "file_size": 9371,
+        "file_unique_id": "AQADX_oxGwKX-Epy"
+      },
+      {
+        "height": 447,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEuGjfoqMIDe8niFPQPIgjEZIGh9WHAAJf-jEbApf4Sr5-MDs3PQoWAQADAgADeAADNgQ",
+        "file_size": 34593,
+        "file_unique_id": "AQADX_oxGwKX-Ep9"
+      },
+      {
+        "height": 716,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEuGjfoqMIDe8niFPQPIgjEZIGh9WHAAJf-jEbApf4Sr5-MDs3PQoWAQADAgADeQADNgQ",
+        "file_size": 45755,
+        "file_unique_id": "AQADX_oxGwKX-Ep-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1759486627,
+    "message_id": 1208
   }
 ]
