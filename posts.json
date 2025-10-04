@@ -4,44 +4,6 @@
     "delete_chat_photo": false,
     "entities": [
       {
-        "custom_emoji_id": "5314597028901190799",
-        "length": 3,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 21,
-        "type": "text_link",
-        "url": "https://www.globenewswire.com/news-release/2025/10/01/3159152/0/en/Animoca-Brands-and-AlphaTON-Capital-announce-equity-and-token-investments-AlphaTON-intends-to-acquire-GAMEE.html"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🅰️ AlphaTON Capital планирует купить на открытом рынке токены GMEE на сумму до $3 млн и WAT на $1 млн.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1759390480,
-    "message_id": 1194
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
         "custom_emoji_id": "5440479333481217835",
         "length": 2,
         "offset": 0,
@@ -7679,6 +7641,83 @@
     ],
     "channel_chat_created": false,
     "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 51,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEv2jhaK1Fxu0GU0CH9FNjZECdSZTTAAIIAAEyG04mEUtD80fdJSZNkwEAAwIAA3MAAzYE",
+        "file_size": 1249,
+        "file_unique_id": "AQADCAABMhtOJhFLeA"
+      },
+      {
+        "height": 180,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEv2jhaK1Fxu0GU0CH9FNjZECdSZTTAAIIAAEyG04mEUtD80fdJSZNkwEAAwIAA20AAzYE",
+        "file_size": 15029,
+        "file_unique_id": "AQADCAABMhtOJhFLcg"
+      },
+      {
+        "height": 450,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEv2jhaK1Fxu0GU0CH9FNjZECdSZTTAAIIAAEyG04mEUtD80fdJSZNkwEAAwIAA3gAAzYE",
+        "file_size": 55925,
+        "file_unique_id": "AQADCAABMhtOJhFLfQ"
+      },
+      {
+        "height": 720,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEv2jhaK1Fxu0GU0CH9FNjZECdSZTTAAIIAAEyG04mEUtD80fdJSZNkwEAAwIAA3kAAzYE",
+        "file_size": 72311,
+        "file_unique_id": "AQADCAABMhtOJhFLfg"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1759602861,
+    "message_id": 1215
+  },
+  {
+    "caption": "⚡️ Торговый объем на Storm Trade в сентябре достиг $182 млн, при этом было выкуплено 2,5 млн токенов $STORM, а прибыль лучшего трейдера составила $10,7 тыс.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440700872189306557",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 11,
+        "offset": 21,
+        "type": "text_link",
+        "url": "https://app.storm.tg/?ref=4A9K28ypKx&t=659773038"
+      },
+      {
+        "length": 6,
+        "offset": 44,
+        "type": "text_link",
+        "url": "https://t.me/storm_trade_news_ru/1010"
+      },
+      {
+        "length": 6,
+        "offset": 101,
+        "type": "cashtag"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1759602984,
     "group_chat_created": false,
     "photo": [
       {
