@@ -1,43 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440479333481217835",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 15,
-        "type": "text_link",
-        "url": "https://qazinform.com/news/pavel-durov-announces-opening-of-ai-lab-in-kazakhstan-244bff"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "✈️ Павел Дуров объявил об открытии в Казахстане лаборатории искусственного интеллекта — совместного проекта Telegram и казахстанского суперкомпьютерного кластера.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1759391237,
-    "message_id": 1195
-  },
-  {
     "caption": "✈️ Павел Дуров объявил об открытии в Казахстане лаборатории искусственного интеллекта — совместного проекта Telegram и казахстанского суперкомпьютерного кластера.",
     "caption_entities": [
       {
@@ -7764,5 +7726,70 @@
     },
     "date": 1759602861,
     "message_id": 1215
+  },
+  {
+    "caption": "Ⓜ️ MarketApp добавил \nаренду подарков.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440413672021193348",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 3,
+        "type": "text_link",
+        "url": "https://marketapp.ws/?ref=4f3c0f3da205a650381bf028b1207d17"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 75,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEwGjhkPYYzxiib98g6lvbCH1xe3CkAALyAAEyG04mEUtj8tNEataCtQEAAwIAA3MAAzYE",
+        "file_size": 1243,
+        "file_unique_id": "AQAD8gABMhtOJhFLeA"
+      },
+      {
+        "height": 320,
+        "width": 265,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEwGjhkPYYzxiib98g6lvbCH1xe3CkAALyAAEyG04mEUtj8tNEataCtQEAAwIAA20AAzYE",
+        "file_size": 14087,
+        "file_unique_id": "AQAD8gABMhtOJhFLcg"
+      },
+      {
+        "height": 800,
+        "width": 663,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEwGjhkPYYzxiib98g6lvbCH1xe3CkAALyAAEyG04mEUtj8tNEataCtQEAAwIAA3gAAzYE",
+        "file_size": 48885,
+        "file_unique_id": "AQAD8gABMhtOJhFLfQ"
+      },
+      {
+        "height": 1280,
+        "width": 1061,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEwGjhkPYYzxiib98g6lvbCH1xe3CkAALyAAEyG04mEUtj8tNEataCtQEAAwIAA3kAAzYE",
+        "file_size": 64503,
+        "file_unique_id": "AQAD8gABMhtOJhFLfg"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1759613174,
+    "message_id": 1216
   }
 ]
