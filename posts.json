@@ -1,64 +1,5 @@
 [
   {
-    "caption": "✈️ Павел Дуров объявил об открытии в Казахстане лаборатории искусственного интеллекта — совместного проекта Telegram и казахстанского суперкомпьютерного кластера.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440479333481217835",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 15,
-        "type": "text_link",
-        "url": "https://qazinform.com/news/pavel-durov-announces-opening-of-ai-lab-in-kazakhstan-244bff"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1759391394,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 56,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEq2jeLqIsSshHvL3kMlhCM2pmKd5PAAJB-zEbApfwSrsxDVk8S7L7AQADAgADcwADNgQ",
-        "file_size": 909,
-        "file_unique_id": "AQADQfsxGwKX8Ep4"
-      },
-      {
-        "height": 200,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEq2jeLqIsSshHvL3kMlhCM2pmKd5PAAJB-zEbApfwSrsxDVk8S7L7AQADAgADbQADNgQ",
-        "file_size": 7996,
-        "file_unique_id": "AQADQfsxGwKX8Epy"
-      },
-      {
-        "height": 500,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEq2jeLqIsSshHvL3kMlhCM2pmKd5PAAJB-zEbApfwSrsxDVk8S7L7AQADAgADeAADNgQ",
-        "file_size": 17252,
-        "file_unique_id": "AQADQfsxGwKX8Ep9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1759391237,
-    "message_id": 1195
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "edit_date": 1759391470,
@@ -7791,5 +7732,64 @@
     },
     "date": 1759613174,
     "message_id": 1216
+  },
+  {
+    "caption": "🎁 Концепт функции аренды подарков в Telegram.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440615647153256792",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 11,
+        "type": "text_link",
+        "url": "https://t.me/MrTonOfficial/23"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "video": {
+      "file_name": "IMG_4949.MP4",
+      "height": 640,
+      "mime_type": "video/mp4",
+      "width": 640,
+      "thumbnail": {
+        "height": 320,
+        "width": 320,
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgTBaOJbdfvOFOyKw_IL_pLl2fkoJpsAAkOKAAL0thBLAAHEr1251_FNAQAHbQADNgQ",
+        "file_size": 14525,
+        "file_unique_id": "AQADQ4oAAvS2EEty"
+      },
+      "file_id": "BAACAgIAAyEFAASerMeaAAIEwWjiW3X7zhTsisPyC_6S5dn5KCabAAJDigAC9LYQSwABxK9dudfxTTYE",
+      "file_size": 1232624,
+      "file_unique_id": "AgADQ4oAAvS2EEs",
+      "duration": 14,
+      "thumb": {
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgTBaOJbdfvOFOyKw_IL_pLl2fkoJpsAAkOKAAL0thBLAAHEr1251_FNAQAHbQADNgQ",
+        "file_unique_id": "AQADQ4oAAvS2EEty",
+        "file_size": 14525,
+        "width": 320,
+        "height": 320
+      }
+    },
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1759665013,
+    "message_id": 1217
   }
 ]
