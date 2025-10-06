@@ -1,63 +1,5 @@
 [
   {
-    "caption": "💎 Эрик Херц присоединился к TON Foundation, где будет отвечать за игры, стикеры, интеллектуальную собственность и социальное направление.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 13,
-        "offset": 13,
-        "type": "text_link",
-        "url": "https://x.com/kdbisgreat?s=21"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIErGjeNZcn0FllxYocHG5V82uribL0AAJn-zEbApfwSqWFqW65pZdzAQADAgADcwADNgQ",
-        "file_size": 1657,
-        "file_unique_id": "AQADZ_sxGwKX8Ep4"
-      },
-      {
-        "height": 400,
-        "width": 400,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIErGjeNZcn0FllxYocHG5V82uribL0AAJn-zEbApfwSqWFqW65pZdzAQADAgADeAADNgQ",
-        "file_size": 19597,
-        "file_unique_id": "AQADZ_sxGwKX8Ep9"
-      },
-      {
-        "height": 320,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIErGjeNZcn0FllxYocHG5V82uribL0AAJn-zEbApfwSqWFqW65pZdzAQADAgADbQADNgQ",
-        "file_size": 21919,
-        "file_unique_id": "AQADZ_sxGwKX8Epy"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1759393175,
-    "message_id": 1196
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "edit_date": 1759393606,
@@ -7602,5 +7544,43 @@
     },
     "date": 1759742737,
     "message_id": 1218
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5411157501557110248",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 12,
+        "offset": 17,
+        "type": "text_link",
+        "url": "https://t.me/kuznetsovton/1543"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🕐 Илья Кузнецов предположил, что будущая функция аренды подарков будет использоваться для доступа в закрытые чаты и скамерами для повышения доверия, а основными бенефициарами станут крупные холдеры и сервисы-посредники.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1759749749,
+    "message_id": 1219
   }
 ]
