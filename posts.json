@@ -1,70 +1,5 @@
 [
   {
-    "caption": "💎 TON Foundation предупредил о росте числа фейковых аккаунтов, имитирующих его сотрудников, и напомнил, что доверять следует только профилям с верификационной меткой.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 11,
-        "offset": 18,
-        "type": "text_link",
-        "url": "https://x.com/ton_blockchain/status/1973686495857742183?s=46"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIErWjeSwJ-xssk2SPyI6UF_UAYEkwmAAJD_DEbApfwSpCa6QpD_XdwAQADAgADcwADNgQ",
-        "file_size": 1434,
-        "file_unique_id": "AQADQ_wxGwKX8Ep4"
-      },
-      {
-        "height": 320,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIErWjeSwJ-xssk2SPyI6UF_UAYEkwmAAJD_DEbApfwSpCa6QpD_XdwAQADAgADbQADNgQ",
-        "file_size": 14767,
-        "file_unique_id": "AQADQ_wxGwKX8Epy"
-      },
-      {
-        "height": 800,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIErWjeSwJ-xssk2SPyI6UF_UAYEkwmAAJD_DEbApfwSpCa6QpD_XdwAQADAgADeAADNgQ",
-        "file_size": 53411,
-        "file_unique_id": "AQADQ_wxGwKX8Ep9"
-      },
-      {
-        "height": 1280,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIErWjeSwJ-xssk2SPyI6UF_UAYEkwmAAJD_DEbApfwSpCa6QpD_XdwAQADAgADeQADNgQ",
-        "file_size": 66101,
-        "file_unique_id": "AQADQ_wxGwKX8Ep-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1759398658,
-    "message_id": 1197
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "edit_date": 1759405191,
@@ -6940,5 +6875,43 @@
     },
     "date": 1759784899,
     "message_id": 1223
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5352822667332318362",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 12,
+        "offset": 33,
+        "type": "text_link",
+        "url": "https://t.me/OfficialBAYC/129"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🐒 Авторы стикерпака BAYC + MAYC анонсировали скорый релиз и предостерегли пользователей от мошеннических ссылок.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1759788634,
+    "message_id": 1224
   }
 ]
