@@ -1,259 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1759391470,
-    "entities": [
-      {
-        "custom_emoji_id": "5453871960633140636",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 6,
-        "offset": 3,
-        "type": "bold"
-      },
-      {
-        "custom_emoji_id": "5451875054243574098",
-        "length": 2,
-        "offset": 10,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 13,
-        "type": "bold"
-      },
-      {
-        "custom_emoji_id": "5247076204523051913",
-        "length": 2,
-        "offset": 23,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 10,
-        "offset": 26,
-        "type": "bold"
-      },
-      {
-        "custom_emoji_id": "5247147797332912219",
-        "length": 2,
-        "offset": 37,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 40,
-        "type": "bold"
-      },
-      {
-        "length": 2,
-        "offset": 49,
-        "type": "bold"
-      },
-      {
-        "custom_emoji_id": "5453871960633140636",
-        "length": 2,
-        "offset": 49,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 1,
-        "offset": 51,
-        "type": "bold"
-      },
-      {
-        "length": 3,
-        "offset": 52,
-        "type": "text_link",
-        "url": "https://t.me/xrocket/cex?startapp=trade-TON-USDT_ref-ZOn6vGVawZ-us_dashboard-uc_72039e7e6324471d91496f1c711729ab"
-      },
-      {
-        "length": 3,
-        "offset": 52,
-        "type": "bold"
-      },
-      {
-        "length": 1,
-        "offset": 55,
-        "type": "bold"
-      },
-      {
-        "custom_emoji_id": "5305757436450201094",
-        "length": 2,
-        "offset": 63,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 2,
-        "offset": 73,
-        "type": "bold"
-      },
-      {
-        "custom_emoji_id": "5451875054243574098",
-        "length": 2,
-        "offset": 73,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 1,
-        "offset": 75,
-        "type": "bold"
-      },
-      {
-        "length": 3,
-        "offset": 76,
-        "type": "text_link",
-        "url": "https://t.me/xrocket/cex?startapp=trade-NOT-USDT_ref-ZOn6vGVawZ-us_dashboard-uc_72039e7e6324471d91496f1c711729ab"
-      },
-      {
-        "length": 3,
-        "offset": 76,
-        "type": "bold"
-      },
-      {
-        "length": 1,
-        "offset": 79,
-        "type": "bold"
-      },
-      {
-        "custom_emoji_id": "5305757436450201094",
-        "length": 2,
-        "offset": 90,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 2,
-        "offset": 100,
-        "type": "bold"
-      },
-      {
-        "custom_emoji_id": "5247076204523051913",
-        "length": 2,
-        "offset": 100,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 1,
-        "offset": 102,
-        "type": "bold"
-      },
-      {
-        "length": 4,
-        "offset": 103,
-        "type": "text_link",
-        "url": "https://t.me/xrocket/cex?startapp=trade-ANON-TON_ref-ZOn6vGVawZ-us_dashboard-uc_72039e7e6324471d91496f1c711729ab"
-      },
-      {
-        "length": 4,
-        "offset": 103,
-        "type": "bold"
-      },
-      {
-        "length": 1,
-        "offset": 107,
-        "type": "bold"
-      },
-      {
-        "custom_emoji_id": "5305757436450201094",
-        "length": 2,
-        "offset": 119,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 2,
-        "offset": 129,
-        "type": "bold"
-      },
-      {
-        "custom_emoji_id": "5247147797332912219",
-        "length": 2,
-        "offset": 129,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 1,
-        "offset": 131,
-        "type": "bold"
-      },
-      {
-        "length": 5,
-        "offset": 132,
-        "type": "text_link",
-        "url": "https://t.me/xrocket/cex?startapp=trade-BUILD-TON_ref-ZOn6vGVawZ-us_dashboard-uc_72039e7e6324471d91496f1c711729ab"
-      },
-      {
-        "length": 5,
-        "offset": 132,
-        "type": "bold"
-      },
-      {
-        "length": 1,
-        "offset": 137,
-        "type": "bold"
-      },
-      {
-        "custom_emoji_id": "5305757436450201094",
-        "length": 2,
-        "offset": 146,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 1,
-        "offset": 156,
-        "type": "text_link",
-        "url": "https://xrocket.tg/tg_in_msg:dash:72039e7e6324471d91496f1c711729ab"
-      },
-      {
-        "length": 42,
-        "offset": 158,
-        "type": "italic"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "reply_markup": {
-      "inline_keyboard": [
-        [
-          {
-            "callback_data": "tg_in_msg:dash:72039e7e6324471d91496f1c711729ab",
-            "text": "Обновить"
-          },
-          {
-            "text": "Купить",
-            "url": "https://t.me/xrocket/app?startapp=landing_TONCOIN_NOT_ANON_BUILD-ref_ZOn6vGVawZ-us_dashboard1-uc_72039e7e6324471d91496f1c711729ab"
-          }
-        ]
-      ]
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🪙 2.80 $ 🪙 0.00163 $ 🪙 0.000866 $ 🪙 0.143 $\n\n🪙 TON 2.80 $ 📈 +4.67%\n🪙 NOT 0.00163 $ 📈 +6.54%\n🪙 ANON 0.000866 $ 📈 +2.35%\n🪙 BUILD 0.143 $ 📈 +4.67%\n​\nПоследнее обновление: 2025-10-02 07:51 UTC",
-    "via_bot": {
-      "first_name": "xRocket",
-      "id": 5014831088,
-      "is_bot": true,
-      "username": "xrocket"
-    },
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1759349133,
-    "message_id": 1191
-  },
-  {
     "caption": "💎 Эрик Херц присоединился к TON Foundation, где будет отвечать за игры, стикеры, интеллектуальную собственность и социальное направление.",
     "caption_entities": [
       {
@@ -7791,5 +7537,70 @@
     },
     "date": 1759665013,
     "message_id": 1217
+  },
+  {
+    "caption": "💎 TON разместила статью о том, что успех внедрения блокчейна в институциональной среде зависит от инфраструктуры, отвечающей требованиям корпоративной безопасности, интеграции и пользовательского опыта, при этом TON выделяет свои технические показатели и интеграцию с Telegram как преимущества для институциональных клиентов.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 6,
+        "offset": 18,
+        "type": "text_link",
+        "url": "https://blog.ton.org/the-infrastructure-institutions-need-to-succeed"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 53,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEwmjjixF8Xve239kle3gkmGLsKd9EAALKAjIb9LYgS3MztOLL9ROXAQADAgADcwADNgQ",
+        "file_size": 1028,
+        "file_unique_id": "AQADygIyG_S2IEt4"
+      },
+      {
+        "height": 190,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEwmjjixF8Xve239kle3gkmGLsKd9EAALKAjIb9LYgS3MztOLL9ROXAQADAgADbQADNgQ",
+        "file_size": 13694,
+        "file_unique_id": "AQADygIyG_S2IEty"
+      },
+      {
+        "height": 474,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEwmjjixF8Xve239kle3gkmGLsKd9EAALKAjIb9LYgS3MztOLL9ROXAQADAgADeAADNgQ",
+        "file_size": 53703,
+        "file_unique_id": "AQADygIyG_S2IEt9"
+      },
+      {
+        "height": 759,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEwmjjixF8Xve239kle3gkmGLsKd9EAALKAjIb9LYgS3MztOLL9ROXAQADAgADeQADNgQ",
+        "file_size": 68104,
+        "file_unique_id": "AQADygIyG_S2IEt-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1759742737,
+    "message_id": 1218
   }
 ]
