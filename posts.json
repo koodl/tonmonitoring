@@ -1,69 +1,5 @@
 [
   {
-    "caption": "✈️🔄 Издание Unchained Crypto выпустило статью о том, как Telegram и Binance превращают ончейн-активность в игры для содействия росту.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "custom_emoji_id": "5444938196729228549",
-        "length": 2,
-        "offset": 2,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 30,
-        "type": "text_link",
-        "url": "https://unchainedcrypto.com/the-onchain-5-how-telegram-and-binance-turn-going-onchain-into-fun-and-games/"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 60,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEsWjenNLxlms2H1dBxTAxCM_NsTaUAAIE_zEbApfwSlnNjY6E8CFOAQADAgADcwADNgQ",
-        "file_size": 1867,
-        "file_unique_id": "AQADBP8xGwKX8Ep4"
-      },
-      {
-        "height": 249,
-        "width": 374,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEsWjenNLxlms2H1dBxTAxCM_NsTaUAAIE_zEbApfwSlnNjY6E8CFOAQADAgADeAADNgQ",
-        "file_size": 21401,
-        "file_unique_id": "AQADBP8xGwKX8Ep9"
-      },
-      {
-        "height": 213,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEsWjenNLxlms2H1dBxTAxCM_NsTaUAAIE_zEbApfwSlnNjY6E8CFOAQADAgADbQADNgQ",
-        "file_size": 26308,
-        "file_unique_id": "AQADBP8xGwKX8Epy"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1759419602,
-    "message_id": 1201
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "edit_date": 1759420852,
@@ -6170,5 +6106,75 @@
     },
     "date": 1759866704,
     "message_id": 1230
+  },
+  {
+    "caption": "Ⓜ️ Проект @mint приобрела группа во главе с бывшим сооснователем TON Society Джеком Бутом, который займет пост CEO.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5276019924706292346",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 5,
+        "offset": 10,
+        "type": "mention"
+      },
+      {
+        "length": 9,
+        "offset": 16,
+        "type": "text_link",
+        "url": "https://t.me/founder/731"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 42,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEz2jljNSwhlF6E3KfKU7s39DQiYJFAAKTEjIb2D8pS1jJ_n8GdHQTAQADAgADcwADNgQ",
+        "file_size": 831,
+        "file_unique_id": "AQADkxIyG9g_KUt4"
+      },
+      {
+        "height": 320,
+        "width": 148,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEz2jljNSwhlF6E3KfKU7s39DQiYJFAAKTEjIb2D8pS1jJ_n8GdHQTAQADAgADbQADNgQ",
+        "file_size": 13547,
+        "file_unique_id": "AQADkxIyG9g_KUty"
+      },
+      {
+        "height": 800,
+        "width": 369,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEz2jljNSwhlF6E3KfKU7s39DQiYJFAAKTEjIb2D8pS1jJ_n8GdHQTAQADAgADeAADNgQ",
+        "file_size": 66494,
+        "file_unique_id": "AQADkxIyG9g_KUt9"
+      },
+      {
+        "height": 1280,
+        "width": 590,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIEz2jljNSwhlF6E3KfKU7s39DQiYJFAAKTEjIb2D8pS1jJ_n8GdHQTAQADAgADeQADNgQ",
+        "file_size": 86455,
+        "file_unique_id": "AQADkxIyG9g_KUt-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1759874260,
+    "message_id": 1231
   }
 ]
