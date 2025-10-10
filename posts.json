@@ -1,259 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1759494559,
-    "entities": [
-      {
-        "custom_emoji_id": "5453871960633140636",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 6,
-        "offset": 3,
-        "type": "bold"
-      },
-      {
-        "custom_emoji_id": "5451875054243574098",
-        "length": 2,
-        "offset": 10,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 13,
-        "type": "bold"
-      },
-      {
-        "custom_emoji_id": "5247076204523051913",
-        "length": 2,
-        "offset": 23,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 10,
-        "offset": 26,
-        "type": "bold"
-      },
-      {
-        "custom_emoji_id": "5247147797332912219",
-        "length": 2,
-        "offset": 37,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 40,
-        "type": "bold"
-      },
-      {
-        "length": 2,
-        "offset": 49,
-        "type": "bold"
-      },
-      {
-        "custom_emoji_id": "5453871960633140636",
-        "length": 2,
-        "offset": 49,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 1,
-        "offset": 51,
-        "type": "bold"
-      },
-      {
-        "length": 3,
-        "offset": 52,
-        "type": "text_link",
-        "url": "https://t.me/xrocket/cex?startapp=trade-TON-USDT_ref-ZOn6vGVawZ-us_dashboard-uc_72039e7e6324471d91496f1c711729ab"
-      },
-      {
-        "length": 3,
-        "offset": 52,
-        "type": "bold"
-      },
-      {
-        "length": 1,
-        "offset": 55,
-        "type": "bold"
-      },
-      {
-        "custom_emoji_id": "5305452214599314921",
-        "length": 2,
-        "offset": 63,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 2,
-        "offset": 73,
-        "type": "bold"
-      },
-      {
-        "custom_emoji_id": "5451875054243574098",
-        "length": 2,
-        "offset": 73,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 1,
-        "offset": 75,
-        "type": "bold"
-      },
-      {
-        "length": 3,
-        "offset": 76,
-        "type": "text_link",
-        "url": "https://t.me/xrocket/cex?startapp=trade-NOT-USDT_ref-ZOn6vGVawZ-us_dashboard-uc_72039e7e6324471d91496f1c711729ab"
-      },
-      {
-        "length": 3,
-        "offset": 76,
-        "type": "bold"
-      },
-      {
-        "length": 1,
-        "offset": 79,
-        "type": "bold"
-      },
-      {
-        "custom_emoji_id": "5305452214599314921",
-        "length": 2,
-        "offset": 90,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 2,
-        "offset": 100,
-        "type": "bold"
-      },
-      {
-        "custom_emoji_id": "5247076204523051913",
-        "length": 2,
-        "offset": 100,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 1,
-        "offset": 102,
-        "type": "bold"
-      },
-      {
-        "length": 4,
-        "offset": 103,
-        "type": "text_link",
-        "url": "https://t.me/xrocket/cex?startapp=trade-ANON-TON_ref-ZOn6vGVawZ-us_dashboard-uc_72039e7e6324471d91496f1c711729ab"
-      },
-      {
-        "length": 4,
-        "offset": 103,
-        "type": "bold"
-      },
-      {
-        "length": 1,
-        "offset": 107,
-        "type": "bold"
-      },
-      {
-        "custom_emoji_id": "5305452214599314921",
-        "length": 2,
-        "offset": 119,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 2,
-        "offset": 129,
-        "type": "bold"
-      },
-      {
-        "custom_emoji_id": "5247147797332912219",
-        "length": 2,
-        "offset": 129,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 1,
-        "offset": 131,
-        "type": "bold"
-      },
-      {
-        "length": 5,
-        "offset": 132,
-        "type": "text_link",
-        "url": "https://t.me/xrocket/cex?startapp=trade-BUILD-TON_ref-ZOn6vGVawZ-us_dashboard-uc_72039e7e6324471d91496f1c711729ab"
-      },
-      {
-        "length": 5,
-        "offset": 132,
-        "type": "bold"
-      },
-      {
-        "length": 1,
-        "offset": 137,
-        "type": "bold"
-      },
-      {
-        "custom_emoji_id": "5305452214599314921",
-        "length": 2,
-        "offset": 146,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 1,
-        "offset": 156,
-        "type": "text_link",
-        "url": "https://xrocket.tg/tg_in_msg:dash:72039e7e6324471d91496f1c711729ab"
-      },
-      {
-        "length": 42,
-        "offset": 158,
-        "type": "italic"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "reply_markup": {
-      "inline_keyboard": [
-        [
-          {
-            "callback_data": "tg_in_msg:dash:72039e7e6324471d91496f1c711729ab",
-            "text": "Обновить"
-          },
-          {
-            "text": "Купить",
-            "url": "https://t.me/xrocket/app?startapp=landing_TONCOIN_NOT_ANON_BUILD-ref_ZOn6vGVawZ-us_dashboard1-uc_72039e7e6324471d91496f1c711729ab"
-          }
-        ]
-      ]
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🪙 2.79 $ 🪙 0.00160 $ 🪙 0.000867 $ 🪙 0.139 $\n\n🪙 TON 2.79 $ 📉 -1.10%\n🪙 NOT 0.00160 $ 📉 -2.14%\n🪙 ANON 0.000867 $ 📉 -0.78%\n🪙 BUILD 0.139 $ 📉 -0.29%\n​\nПоследнее обновление: 2025-10-03 12:29 UTC",
-    "via_bot": {
-      "first_name": "xRocket",
-      "id": 5014831088,
-      "is_bot": true,
-      "username": "xrocket"
-    },
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1759349133,
-    "message_id": 1191
-  },
-  {
     "caption": "📦 Сервис Sticker Pad станет открытой платформой для художников и авторов, где они смогут запускать стикеры по механике мемепада.",
     "caption_entities": [
       {
@@ -3496,5 +3242,287 @@
     },
     "date": 1760096565,
     "message_id": 1251
+  },
+  {
+    "caption": "🎙️5 дней до COINCRAFT 2.0! \n\n❤️ Уже совсем скоро состоится один из самых масштабных блокчейн-форумов России — COINCRAFT 2.0! \n\n🗓 15–16 октября 2025 года\n📍 г.Москва, VK Stadium\n\nЧто вас ждёт на COINCRAFT 2.0: \n1️⃣Основные 4 секции выступлений: Инвестиции, Майнинг, Трейдинг, Тренды и Будущее \n\n2️⃣Шоу, перформансы и интерактив — скучно точно не будет! \n\n🎤 Топовые спикеры и звёзды криптоиндустрии:\n\n🔴Марсель Миннахмедов – Инвестор с опытом более 8 лет, основатель закрытого инвест-клуба Marsel Invest\n🔴Никита Ануфриев –основатель YouTube канала «Хедлайнеры»\n🔴Рафаэль Манвелян – Автор канала «Слезы Сатоши»\n🔴Владислав Мартынов – Серийный IT-предприниматель, экс-советник Ethereum Foundation \n🔴Олег Полунин – ТОП-1 трейдер в СНГ, блогер, амбассадор ICELAB и CryptoCopy\n🔴Томас Крылов  – Представитель правления Evedex - гибридной децентрализованной биржи. \n🔴Сергей Хитров  – Основатель Blockchain Life Forum, Listing.Help, Jets.Capital \n🔴Дмитрий Климченко – Founder экосистемы THE VSЁ и гарант всего общества. \n🔴Раст Пентагон – Трейдер, основатель криптоконсалтинга Take Profit. \n\n💡 Темы: стратегии инвестиций, алгоритмическая торговля, токенизация активов (RWA), ИИ в DeFi, мем-токены и многое другое\n\nПодписывайся на официальный телеграмм канал форума и следи за всеми новостями там❤️\n\nПриобрести билет можно со скидкой 10% можно по нашему индивидуальному промокоду TONMON на сайте https://coin-craft.ru/",
+    "caption_entities": [
+      {
+        "length": 28,
+        "offset": 0,
+        "type": "bold"
+      },
+      {
+        "custom_emoji_id": "5413449210206914015",
+        "length": 2,
+        "offset": 30,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 14,
+        "offset": 111,
+        "type": "text_link",
+        "url": "https://coin-craft.ru/"
+      },
+      {
+        "length": 14,
+        "offset": 111,
+        "type": "bold"
+      },
+      {
+        "length": 9,
+        "offset": 158,
+        "type": "text_link",
+        "url": "https://xn--c1a.xn--80adxhks/"
+      },
+      {
+        "length": 31,
+        "offset": 180,
+        "type": "bold"
+      },
+      {
+        "length": 142,
+        "offset": 212,
+        "type": "blockquote"
+      },
+      {
+        "custom_emoji_id": "5249200705801037824",
+        "length": 3,
+        "offset": 212,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 10,
+        "offset": 215,
+        "type": "bold"
+      },
+      {
+        "length": 19,
+        "offset": 226,
+        "type": "bold"
+      },
+      {
+        "custom_emoji_id": "5249048268821767577",
+        "length": 3,
+        "offset": 296,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 1,
+        "offset": 353,
+        "type": "underline"
+      },
+      {
+        "length": 42,
+        "offset": 359,
+        "type": "bold"
+      },
+      {
+        "length": 41,
+        "offset": 359,
+        "type": "underline"
+      },
+      {
+        "custom_emoji_id": "5318840353510408444",
+        "length": 2,
+        "offset": 402,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 19,
+        "offset": 404,
+        "type": "bold"
+      },
+      {
+        "custom_emoji_id": "5318840353510408444",
+        "length": 2,
+        "offset": 505,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 15,
+        "offset": 507,
+        "type": "bold"
+      },
+      {
+        "custom_emoji_id": "5318840353510408444",
+        "length": 2,
+        "offset": 563,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 16,
+        "offset": 565,
+        "type": "bold"
+      },
+      {
+        "custom_emoji_id": "5318840353510408444",
+        "length": 2,
+        "offset": 612,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 18,
+        "offset": 614,
+        "type": "bold"
+      },
+      {
+        "custom_emoji_id": "5318840353510408444",
+        "length": 2,
+        "offset": 698,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 12,
+        "offset": 700,
+        "type": "bold"
+      },
+      {
+        "custom_emoji_id": "5318840353510408444",
+        "length": 2,
+        "offset": 775,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 12,
+        "offset": 777,
+        "type": "bold"
+      },
+      {
+        "custom_emoji_id": "5318840353510408444",
+        "length": 2,
+        "offset": 863,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 13,
+        "offset": 865,
+        "type": "bold"
+      },
+      {
+        "length": 13,
+        "offset": 916,
+        "type": "text_link",
+        "url": "https://listing.help/"
+      },
+      {
+        "length": 12,
+        "offset": 930,
+        "type": "text_link",
+        "url": "https://jets.capital/"
+      },
+      {
+        "custom_emoji_id": "5318840353510408444",
+        "length": 2,
+        "offset": 944,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 17,
+        "offset": 946,
+        "type": "bold"
+      },
+      {
+        "custom_emoji_id": "5318840353510408444",
+        "length": 2,
+        "offset": 1019,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 14,
+        "offset": 1021,
+        "type": "bold"
+      },
+      {
+        "length": 5,
+        "offset": 1093,
+        "type": "bold"
+      },
+      {
+        "length": 38,
+        "offset": 1213,
+        "type": "bold"
+      },
+      {
+        "length": 5,
+        "offset": 1251,
+        "type": "text_link",
+        "url": "https://t.me/forum_coincraft"
+      },
+      {
+        "length": 5,
+        "offset": 1251,
+        "type": "bold"
+      },
+      {
+        "length": 7,
+        "offset": 1256,
+        "type": "bold"
+      },
+      {
+        "custom_emoji_id": "5413728889887293537",
+        "length": 2,
+        "offset": 1294,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 14,
+        "offset": 1321,
+        "type": "bold"
+      },
+      {
+        "length": 22,
+        "offset": 1394,
+        "type": "text_link",
+        "url": "https://coin-craft.ru/"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIE5GjpEkgwYo4r_Iveic4YlAT2xEv9AAI4_TEblwtIS1aE_cgn2HSOAQADAgADcwADNgQ",
+        "file_size": 2316,
+        "file_unique_id": "AQADOP0xG5cLSEt4"
+      },
+      {
+        "height": 320,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIE5GjpEkgwYo4r_Iveic4YlAT2xEv9AAI4_TEblwtIS1aE_cgn2HSOAQADAgADbQADNgQ",
+        "file_size": 34818,
+        "file_unique_id": "AQADOP0xG5cLSEty"
+      },
+      {
+        "height": 800,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIE5GjpEkgwYo4r_Iveic4YlAT2xEv9AAI4_TEblwtIS1aE_cgn2HSOAQADAgADeAADNgQ",
+        "file_size": 131135,
+        "file_unique_id": "AQADOP0xG5cLSEt9"
+      },
+      {
+        "height": 1280,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIE5GjpEkgwYo4r_Iveic4YlAT2xEv9AAI4_TEblwtIS1aE_cgn2HSOAQADAgADeQADNgQ",
+        "file_size": 171601,
+        "file_unique_id": "AQADOP0xG5cLSEt-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760105033,
+    "message_id": 1252
   }
 ]
