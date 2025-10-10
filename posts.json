@@ -1,71 +1,5 @@
 [
   {
-    "caption": "🅰️ Либерленд избрал в Конгресс Британни Кайзер из AlphaTON Capital, известную защитой цифровых прав и опытом в Cambridge Analytica, которая планирует в парламенте страны защищать цифровые права граждан и продвигать прозрачность с помощью блокчейн-технологий.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5314597028901190799",
-        "length": 3,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 6,
-        "offset": 14,
-        "type": "text_link",
-        "url": "https://www.mitrade.com/insights/news/live-news/article-3-1168443-20251003"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1759497626,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 70,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEumjfzV4VWllw7PCaoFK5dvVgppbPAAJO-jEbApcAAUuZwC-rmHQ1SQEAAwIAA3MAAzYE",
-        "file_size": 1590,
-        "file_unique_id": "AQADTvoxGwKXAAFLeA"
-      },
-      {
-        "height": 320,
-        "width": 248,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEumjfzV4VWllw7PCaoFK5dvVgppbPAAJO-jEbApcAAUuZwC-rmHQ1SQEAAwIAA20AAzYE",
-        "file_size": 19189,
-        "file_unique_id": "AQADTvoxGwKXAAFLcg"
-      },
-      {
-        "height": 800,
-        "width": 619,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEumjfzV4VWllw7PCaoFK5dvVgppbPAAJO-jEbApcAAUuZwC-rmHQ1SQEAAwIAA3gAAzYE",
-        "file_size": 93884,
-        "file_unique_id": "AQADTvoxGwKXAAFLfQ"
-      },
-      {
-        "height": 1280,
-        "width": 990,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEumjfzV4VWllw7PCaoFK5dvVgppbPAAJO-jEbApcAAUuZwC-rmHQ1SQEAAwIAA3kAAzYE",
-        "file_size": 142373,
-        "file_unique_id": "AQADTvoxGwKXAAFLfg"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1759497566,
-    "message_id": 1210
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "edit_date": 1759506094,
@@ -3523,5 +3457,43 @@
     },
     "date": 1760107767,
     "message_id": 1254
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5465289156231981775",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 12,
+        "offset": 28,
+        "type": "text_link",
+        "url": "https://coinpedia.org/news/secs-hester-peirce-warns-investors-about-telegram-cryptocurrency-scams/"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🦅 Комиссар SEC Хестер Пирс предупредила инвесторов о мошенниках в Telegram, которые выдают себя за нее для продвижения фейковых криптовалют, и заявила, что не использует мессенджер для личных сообщений.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760112232,
+    "message_id": 1255
   }
 ]
