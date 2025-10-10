@@ -1,70 +1,5 @@
 [
   {
-    "caption": "➿ Сервис split.tg добавил возможность аренды NFT подарков с оплатой в TON.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5462883227221913609",
-        "length": 1,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 9,
-        "type": "text_link",
-        "url": "https://split.tg/?ref=UQCv_g6U-fhIbRTbbJbcUEzjK93ZtXyYAHW46TLb3ZEuY3Qg"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 64,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEvGjgyrLSbQqFYIbQ7vzx9YzvM3icAAI99zEbTiYJS3TV2a-jtetoAQADAgADcwADNgQ",
-        "file_size": 1103,
-        "file_unique_id": "AQADPfcxG04mCUt4"
-      },
-      {
-        "height": 320,
-        "width": 226,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEvGjgyrLSbQqFYIbQ7vzx9YzvM3icAAI99zEbTiYJS3TV2a-jtetoAQADAgADbQADNgQ",
-        "file_size": 11144,
-        "file_unique_id": "AQADPfcxG04mCUty"
-      },
-      {
-        "height": 800,
-        "width": 566,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEvGjgyrLSbQqFYIbQ7vzx9YzvM3icAAI99zEbTiYJS3TV2a-jtetoAQADAgADeAADNgQ",
-        "file_size": 42117,
-        "file_unique_id": "AQADPfcxG04mCUt9"
-      },
-      {
-        "height": 1280,
-        "width": 905,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEvGjgyrLSbQqFYIbQ7vzx9YzvM3icAAI99zEbTiYJS3TV2a-jtetoAQADAgADeQADNgQ",
-        "file_size": 51182,
-        "file_unique_id": "AQADPfcxG04mCUt-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1759562418,
-    "message_id": 1212
-  },
-  {
     "caption": "🎉 Розыгрыш 5 билетов на форум CoinCraft 2.0.\n\n🗓 Когда: 15–16 октября\n🗺 Где: Москва, VK Stadium\n💸 Что: Масштабный форум по криптовалютам с топовым контентом!\n  \n🔥 Что вас ждёт:\n📈 4 секции: Инвестиции, Майнинг, Трейдинг, Тренды и Будущее\n🎤 Крутые спикеры и звёзды криптоиндустрии\n🎭 Шоу, перформансы и интерактив — скучно не будет!\n💡 Темы: стратегии инвестиций, алгоритмическая торговля, токенизация активов (RWA), ИИ в DeFi, мем-токены и многое другое \n\n💰 Билеты стоят от 9 900 ₽, но мы разыгрываем 5 стандартных билетов абсолютно бесплатно для вас! 🥳  \n\n🎁 Как участвовать в розыгрыше:\n1️⃣ Подпишитесь на канал CoinCraft 👉  Ссылка\n2️⃣ Заполните короткую анкету 👉  Ссылка \n\n🏆 Итоги подведём 5 октября, а победители получат билеты на email!  \n\nХотите узнать больше о форуме или купить билеты? Заходите на сайт: coin-craft.ru  \nНе упустите шанс!",
     "caption_entities": [
       {
@@ -3130,5 +3065,63 @@
     },
     "date": 1760114959,
     "message_id": 1258
+  },
+  {
+    "caption": "🅰️ AlphaTON Capital получила поздравление от Nasdaq за инициативу по токенизации финансирования исследований рака, которая была отображена на башне Nasdaq на Таймс-сквер.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5314597028901190799",
+        "length": 3,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 21,
+        "type": "text_link",
+        "url": "https://www.globenewswire.com/news-release/2025/10/10/3164835/0/en/AlphaTON-Capital-Receives-Nasdaq-Congratulations-for-Groundbreaking-Cancer-Research-Tokenization-Initiative.html"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 60,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIE62jpVbyJ6NYL5dnQzhrvypYZ2q6AAALJ_jEblwtISwvaZ1F-HlxsAQADAgADcwADNgQ",
+        "file_size": 1902,
+        "file_unique_id": "AQADyf4xG5cLSEt4"
+      },
+      {
+        "height": 214,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIE62jpVbyJ6NYL5dnQzhrvypYZ2q6AAALJ_jEblwtISwvaZ1F-HlxsAQADAgADbQADNgQ",
+        "file_size": 29607,
+        "file_unique_id": "AQADyf4xG5cLSEty"
+      },
+      {
+        "height": 514,
+        "width": 768,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIE62jpVbyJ6NYL5dnQzhrvypYZ2q6AAALJ_jEblwtISwvaZ1F-HlxsAQADAgADeAADNgQ",
+        "file_size": 90757,
+        "file_unique_id": "AQADyf4xG5cLSEt9"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760122300,
+    "message_id": 1259
   }
 ]
