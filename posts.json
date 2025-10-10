@@ -1,43 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5238004177031953682",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 24,
-        "type": "text_link",
-        "url": "https://www.sec.gov/Archives/edgar/data/1566610/000149315225016864/formdef14a.htm"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 TON Strategy Company проведет виртуальное ежегодное общее собрание акционеров 24 октября 2025 года, на котором акционерам предложено выбрать пять директоров, одобрить компенсацию ключевых руководителей, установить периодичность последующих голосований по компенсации и утвердить выбор аудиторской фирмы Grassi & Co., CPAs, P.C. на 2025 год.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1759576551,
-    "message_id": 1214
-  },
-  {
     "caption": "⚡️ Торговый объем на Storm Trade в сентябре достиг $182 млн, при этом было выкуплено 2,5 млн токенов $STORM, а прибыль лучшего трейдера составила $10,7 тыс.",
     "caption_entities": [
       {
@@ -3035,5 +2997,35 @@
     },
     "date": 1760122300,
     "message_id": 1259
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1760138887,
+    "entities": [
+      {
+        "custom_emoji_id": "5238004177031953682",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      }
+    ],
+    "group_chat_created": false,
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 CEO Вероника Капустина и CFO и COO Sarah Josephine Olsen 7 октября получили по 631 864 акции (RSU) компании TON Strategy Co в рамках программы мотивации сотрудников.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760096565,
+    "message_id": 1251
   }
 ]
