@@ -1,70 +1,5 @@
 [
   {
-    "caption": "✈️ Telegram занял пятое место в рейтинге социальных платформ по числу ежедневных активных пользователей, достигнув показателя в 500 млн.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 5,
-        "offset": 12,
-        "type": "text_link",
-        "url": "https://x.com/jbfxdotme/status/1974055161795351007?s=46"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 50,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEuGjfoqMIDe8niFPQPIgjEZIGh9WHAAJf-jEbApf4Sr5-MDs3PQoWAQADAgADcwADNgQ",
-        "file_size": 935,
-        "file_unique_id": "AQADX_oxGwKX-Ep4"
-      },
-      {
-        "height": 179,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEuGjfoqMIDe8niFPQPIgjEZIGh9WHAAJf-jEbApf4Sr5-MDs3PQoWAQADAgADbQADNgQ",
-        "file_size": 9371,
-        "file_unique_id": "AQADX_oxGwKX-Epy"
-      },
-      {
-        "height": 447,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEuGjfoqMIDe8niFPQPIgjEZIGh9WHAAJf-jEbApf4Sr5-MDs3PQoWAQADAgADeAADNgQ",
-        "file_size": 34593,
-        "file_unique_id": "AQADX_oxGwKX-Ep9"
-      },
-      {
-        "height": 716,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEuGjfoqMIDe8niFPQPIgjEZIGh9WHAAJf-jEbApf4Sr5-MDs3PQoWAQADAgADeQADNgQ",
-        "file_size": 45755,
-        "file_unique_id": "AQADX_oxGwKX-Ep-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1759486627,
-    "message_id": 1208
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "edit_date": 1759486850,
@@ -3733,5 +3668,58 @@
     },
     "date": 1760080429,
     "message_id": 1249
+  },
+  {
+    "caption": "👛 В Crypto Wallet появилась функция автоматической продажи криптовалют (TON, USDT, BTC и других) с выводом средств на банковскую карту через партнера Mercuryo.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440704428422229664",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "video": {
+      "file_name": "IMG_4985.MP4",
+      "height": 848,
+      "mime_type": "video/mp4",
+      "width": 848,
+      "thumbnail": {
+        "height": 320,
+        "width": 320,
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgTiaOjjG3gLZnak5IAjfInqKIxHs4MAAuaQAAKXC0BL73u5iJCwF6UBAAdtAAM2BA",
+        "file_size": 17239,
+        "file_unique_id": "AQAD5pAAApcLQEty"
+      },
+      "file_id": "BAACAgIAAyEFAASerMeaAAIE4mjo4xt4C2Z2pOSAI3yJ6iiMR7ODAALmkAAClwtAS-97uYiQsBelNgQ",
+      "file_size": 2470701,
+      "file_unique_id": "AgAD5pAAApcLQEs",
+      "duration": 17,
+      "thumb": {
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgTiaOjjG3gLZnak5IAjfInqKIxHs4MAAuaQAAKXC0BL73u5iJCwF6UBAAdtAAM2BA",
+        "file_unique_id": "AQAD5pAAApcLQEty",
+        "file_size": 17239,
+        "width": 320,
+        "height": 320
+      }
+    },
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760092955,
+    "message_id": 1250
   }
 ]
