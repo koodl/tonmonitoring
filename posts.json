@@ -2,44 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 10,
-        "offset": 68,
-        "type": "text_link",
-        "url": "https://t.me/tginfo/4338"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "✈️ Для получения метки от Роскомнадзора теперь боту «Trust Channel» необходимо предоставить права администратора, а каждый администратор должен передать боту свой номер телефона.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1759512706,
-    "message_id": 1211
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1759514446,
     "entities": [
       {
@@ -3293,5 +3255,70 @@
     },
     "date": 1760113071,
     "message_id": 1256
+  },
+  {
+    "caption": "✈️ Telegram выпустил обновление v12.1.0, добавив комментарии и реакции в групповых звонках.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 41,
+        "type": "text_link",
+        "url": "http://telegram.org/blog/comments-in-video-chats-threads-for-bots"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 58,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIE6WjpNvcC9x-QzZgxUp0dDDCCMlFTAAIP_jEblwtIS8KEsqsM-9rJAQADAgADcwADNgQ",
+        "file_size": 1880,
+        "file_unique_id": "AQADD_4xG5cLSEt4"
+      },
+      {
+        "height": 208,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIE6WjpNvcC9x-QzZgxUp0dDDCCMlFTAAIP_jEblwtIS8KEsqsM-9rJAQADAgADbQADNgQ",
+        "file_size": 31374,
+        "file_unique_id": "AQADD_4xG5cLSEty"
+      },
+      {
+        "height": 520,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIE6WjpNvcC9x-QzZgxUp0dDDCCMlFTAAIP_jEblwtIS8KEsqsM-9rJAQADAgADeAADNgQ",
+        "file_size": 141012,
+        "file_unique_id": "AQADD_4xG5cLSEt9"
+      },
+      {
+        "height": 780,
+        "width": 1200,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIE6WjpNvcC9x-QzZgxUp0dDDCCMlFTAAIP_jEblwtIS8KEsqsM-9rJAQADAgADeQADNgQ",
+        "file_size": 160658,
+        "file_unique_id": "AQADD_4xG5cLSEt-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760114423,
+    "message_id": 1257
   }
 ]
