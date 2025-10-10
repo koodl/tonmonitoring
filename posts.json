@@ -1,43 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440615647153256792",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 16,
-        "offset": 14,
-        "type": "text_link",
-        "url": "https://t.me/Xem_Ton/5649"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🎁 В Telegram распространяется мошеннический проект NexusGift, который обманывает пользователей, обещая деньги за продажу NFT-подарков, а затем блокирует их или требует оплатить «комиссию».",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1759484529,
-    "message_id": 1206
-  },
-  {
     "caption": "💎 Проект Memelandia 2.0 будет скоро запущен на блокчейне TON.",
     "caption_entities": [
       {
@@ -3760,5 +3722,43 @@
     },
     "date": 1760058218,
     "message_id": 1247
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 10,
+        "offset": 25,
+        "type": "text_link",
+        "url": "https://t.me/tontech/142"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 Команда Torch Finance предложила стандарт токенизированных хранилищ на TON, который вводит единый интерфейс для работы с DeFi-хранилищами.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760080244,
+    "message_id": 1248
   }
 ]
