@@ -1,64 +1,5 @@
 [
   {
-    "caption": "📦 Сервис Sticker Pad станет открытой платформой для художников и авторов, где они смогут запускать стикеры по механике мемепада.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5449670138292894907",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 6,
-        "offset": 22,
-        "type": "text_link",
-        "url": "https://t.me/sticker_community/292"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "video": {
-      "file_name": "IMG_4940.MP4",
-      "height": 848,
-      "mime_type": "video/mp4",
-      "width": 848,
-      "thumbnail": {
-        "height": 320,
-        "width": 320,
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgS5aN_Kpr3Vk9mTJfRs3JprZ5uYdUkAAiOPAAIClwABSzBM9yw8kMCGAQAHbQADNgQ",
-        "file_size": 16886,
-        "file_unique_id": "AQADI48AAgKXAAFLcg"
-      },
-      "file_id": "BAACAgIAAyEFAASerMeaAAIEuWjfyqa91ZPZkyX0bNyaa2ebmHVJAAIjjwACApcAAUswTPcsPJDAhjYE",
-      "file_size": 4498630,
-      "file_unique_id": "AgADI48AAgKXAAFL",
-      "duration": 23,
-      "thumb": {
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgS5aN_Kpr3Vk9mTJfRs3JprZ5uYdUkAAiOPAAIClwABSzBM9yw8kMCGAQAHbQADNgQ",
-        "file_unique_id": "AQADI48AAgKXAAFLcg",
-        "file_size": 16886,
-        "width": 320,
-        "height": 320
-      }
-    },
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1759496871,
-    "message_id": 1209
-  },
-  {
     "caption": "🅰️ Либерланд избрал в Конгресс Британни Кайзер из AlphaTON Capital, известную защитой цифровых прав и опытом в Cambridge Analytica, которая планирует в парламенте страны защищать цифровые права граждан и продвигать прозрачность с помощью блокчейн-технологий.",
     "caption_entities": [
       {
@@ -3524,5 +3465,76 @@
     },
     "date": 1760105033,
     "message_id": 1252
+  },
+  {
+    "caption": "💎 Заявление сооснователя TON Society Джека Бута о распределении $27 млн за SBT-активности вызвало недоумение в криптосообществе, участники которого сообщили о неполучении выплат.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 3,
+        "type": "text_link",
+        "url": "https://t.me/kuznetsovton/1545?comment=88859"
+      },
+      {
+        "length": 7,
+        "offset": 91,
+        "type": "text_link",
+        "url": "https://t.me/c/2355186724/1967"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 69,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIE5WjpHCC_n-_LwdvTCXSW9EAGB2rLAAJy_TEblwtIS_7P_ZdPwzHIAQADAgADcwADNgQ",
+        "file_size": 1604,
+        "file_unique_id": "AQADcv0xG5cLSEt4"
+      },
+      {
+        "height": 320,
+        "width": 245,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIE5WjpHCC_n-_LwdvTCXSW9EAGB2rLAAJy_TEblwtIS_7P_ZdPwzHIAQADAgADbQADNgQ",
+        "file_size": 29643,
+        "file_unique_id": "AQADcv0xG5cLSEty"
+      },
+      {
+        "height": 800,
+        "width": 613,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIE5WjpHCC_n-_LwdvTCXSW9EAGB2rLAAJy_TEblwtIS_7P_ZdPwzHIAQADAgADeAADNgQ",
+        "file_size": 106689,
+        "file_unique_id": "AQADcv0xG5cLSEt9"
+      },
+      {
+        "height": 1280,
+        "width": 981,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIE5WjpHCC_n-_LwdvTCXSW9EAGB2rLAAJy_TEblwtIS_7P_ZdPwzHIAQADAgADeQADNgQ",
+        "file_size": 134540,
+        "file_unique_id": "AQADcv0xG5cLSEt-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760107552,
+    "message_id": 1253
   }
 ]
