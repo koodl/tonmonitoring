@@ -1,70 +1,5 @@
 [
   {
-    "caption": "💎 Проект Memelandia 2.0 будет скоро запущен на блокчейне TON.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 37,
-        "type": "text_link",
-        "url": "https://x.com/s0meone_u_know/status/1974047328169340980?s=46"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEt2jfmtdHBthBpaw0U5pKwcVuW_0zAAIl-jEbApf4Sja26Nhkt2apAQADAgADcwADNgQ",
-        "file_size": 2146,
-        "file_unique_id": "AQADJfoxGwKX-Ep4"
-      },
-      {
-        "height": 320,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEt2jfmtdHBthBpaw0U5pKwcVuW_0zAAIl-jEbApf4Sja26Nhkt2apAQADAgADbQADNgQ",
-        "file_size": 30990,
-        "file_unique_id": "AQADJfoxGwKX-Epy"
-      },
-      {
-        "height": 800,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEt2jfmtdHBthBpaw0U5pKwcVuW_0zAAIl-jEbApf4Sja26Nhkt2apAQADAgADeAADNgQ",
-        "file_size": 120133,
-        "file_unique_id": "AQADJfoxGwKX-Ep9"
-      },
-      {
-        "height": 1280,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEt2jfmtdHBthBpaw0U5pKwcVuW_0zAAIl-jEbApf4Sja26Nhkt2apAQADAgADeQADNgQ",
-        "file_size": 153988,
-        "file_unique_id": "AQADJfoxGwKX-Ep-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1759484631,
-    "message_id": 1207
-  },
-  {
     "caption": "✈️ Telegram занял пятое место в рейтинге социальных платформ по числу ежедневных активных пользователей, достигнув показателя в 500 млн.",
     "caption_entities": [
       {
@@ -3760,5 +3695,43 @@
     },
     "date": 1760080244,
     "message_id": 1248
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 104,
+        "type": "text_link",
+        "url": "https://t.me/pgrton/1284"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 На фоне снижения ончейн-активности пользователей совокупный приток Toncoin на централизованные биржи составил 0,6 млн TON, при этом пулы TON/USDT на DEX за неделю потеряли 0,59 млн USDT.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760080429,
+    "message_id": 1249
   }
 ]
