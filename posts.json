@@ -1,158 +1,5 @@
 [
   {
-    "caption": "🎉 Розыгрыш 5 билетов на форум CoinCraft 2.0.\n\n🗓 Когда: 15–16 октября\n🗺 Где: Москва, VK Stadium\n💸 Что: Масштабный форум по криптовалютам с топовым контентом!\n  \n🔥 Что вас ждёт:\n📈 4 секции: Инвестиции, Майнинг, Трейдинг, Тренды и Будущее\n🎤 Крутые спикеры и звёзды криптоиндустрии\n🎭 Шоу, перформансы и интерактив — скучно не будет!\n💡 Темы: стратегии инвестиций, алгоритмическая торговля, токенизация активов (RWA), ИИ в DeFi, мем-токены и многое другое \n\n💰 Билеты стоят от 9 900 ₽, но мы разыгрываем 5 стандартных билетов абсолютно бесплатно для вас! 🥳  \n\n🎁 Как участвовать в розыгрыше:\n1️⃣ Подпишитесь на канал CoinCraft 👉  Ссылка\n2️⃣ Заполните короткую анкету 👉  Ссылка \n\n🏆 Итоги подведём 5 октября, а победители получат билеты на email!  \n\nХотите узнать больше о форуме или купить билеты? Заходите на сайт: coin-craft.ru  \nНе упустите шанс!",
-    "caption_entities": [
-      {
-        "length": 6,
-        "offset": 50,
-        "type": "bold"
-      },
-      {
-        "length": 4,
-        "offset": 74,
-        "type": "bold"
-      },
-      {
-        "length": 4,
-        "offset": 101,
-        "type": "bold"
-      },
-      {
-        "length": 295,
-        "offset": 164,
-        "type": "blockquote"
-      },
-      {
-        "length": 295,
-        "offset": 164,
-        "type": "bold"
-      },
-      {
-        "length": 20,
-        "offset": 508,
-        "type": "bold"
-      },
-      {
-        "length": 29,
-        "offset": 567,
-        "type": "bold"
-      },
-      {
-        "length": 6,
-        "offset": 635,
-        "type": "text_link",
-        "url": "https://t.me/forum_coincraft"
-      },
-      {
-        "length": 6,
-        "offset": 635,
-        "type": "underline"
-      },
-      {
-        "length": 1,
-        "offset": 675,
-        "type": "text_link",
-        "url": "https://docs.google.com/forms/d/e/1FAIpQLSc7JJGspxcuxTQMOO2pCdk_s7_y3Ec90rcGj-am-X-EFLTgcg/viewform?usp=header"
-      },
-      {
-        "length": 1,
-        "offset": 675,
-        "type": "underline"
-      },
-      {
-        "length": 6,
-        "offset": 676,
-        "type": "text_link",
-        "url": "https://docs.google.com/forms/d/e/1FAIpQLSc7JJGspxcuxTQMOO2pCdk_s7_y3Ec90rcGj-am-X-EFLTgcg/viewform?usp=header"
-      },
-      {
-        "length": 6,
-        "offset": 676,
-        "type": "underline"
-      },
-      {
-        "length": 1,
-        "offset": 682,
-        "type": "text_link",
-        "url": "https://docs.google.com/forms/d/e/1FAIpQLSc7JJGspxcuxTQMOO2pCdk_s7_y3Ec90rcGj-am-X-EFLTgcg/viewform?usp=header"
-      },
-      {
-        "length": 1,
-        "offset": 682,
-        "type": "underline"
-      },
-      {
-        "length": 1,
-        "offset": 683,
-        "type": "underline"
-      },
-      {
-        "length": 26,
-        "offset": 687,
-        "type": "bold"
-      },
-      {
-        "length": 13,
-        "offset": 822,
-        "type": "text_link",
-        "url": "https://coin-craft.ru/"
-      },
-      {
-        "length": 13,
-        "offset": 822,
-        "type": "underline"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEvWjg1amMhN_JVb3SUMaK1QwTUmz3AAKT9zEbTiYJS8H7CXZqIhtYAQADAgADcwADNgQ",
-        "file_size": 2716,
-        "file_unique_id": "AQADk_cxG04mCUt4"
-      },
-      {
-        "height": 320,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEvWjg1amMhN_JVb3SUMaK1QwTUmz3AAKT9zEbTiYJS8H7CXZqIhtYAQADAgADbQADNgQ",
-        "file_size": 38640,
-        "file_unique_id": "AQADk_cxG04mCUty"
-      },
-      {
-        "height": 800,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEvWjg1amMhN_JVb3SUMaK1QwTUmz3AAKT9zEbTiYJS8H7CXZqIhtYAQADAgADeAADNgQ",
-        "file_size": 145414,
-        "file_unique_id": "AQADk_cxG04mCUt9"
-      },
-      {
-        "height": 1280,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEvWjg1amMhN_JVb3SUMaK1QwTUmz3AAKT9zEbTiYJS8H7CXZqIhtYAQADAgADeQADNgQ",
-        "file_size": 193180,
-        "file_unique_id": "AQADk_cxG04mCUt-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1759565225,
-    "message_id": 1213
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -3084,6 +2931,71 @@
     ],
     "channel_chat_created": false,
     "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 60,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIE62jpVbyJ6NYL5dnQzhrvypYZ2q6AAALJ_jEblwtISwvaZ1F-HlxsAQADAgADcwADNgQ",
+        "file_size": 1902,
+        "file_unique_id": "AQADyf4xG5cLSEt4"
+      },
+      {
+        "height": 214,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIE62jpVbyJ6NYL5dnQzhrvypYZ2q6AAALJ_jEblwtISwvaZ1F-HlxsAQADAgADbQADNgQ",
+        "file_size": 29607,
+        "file_unique_id": "AQADyf4xG5cLSEty"
+      },
+      {
+        "height": 514,
+        "width": 768,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIE62jpVbyJ6NYL5dnQzhrvypYZ2q6AAALJ_jEblwtISwvaZ1F-HlxsAQADAgADeAADNgQ",
+        "file_size": 90757,
+        "file_unique_id": "AQADyf4xG5cLSEt9"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760122300,
+    "message_id": 1259
+  },
+  {
+    "caption": "📈🅰️ AlphaTON Capital получила поздравление от Nasdaq за инициативу по токенизации финансирования исследований рака, которая была отображена на башне Nasdaq на Таймс-сквер.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5449424049551733716",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "custom_emoji_id": "5314597028901190799",
+        "length": 3,
+        "offset": 2,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 23,
+        "type": "text_link",
+        "url": "https://www.globenewswire.com/news-release/2025/10/10/3164835/0/en/AlphaTON-Capital-Receives-Nasdaq-Congratulations-for-Groundbreaking-Cancer-Research-Tokenization-Initiative.html"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1760122378,
     "group_chat_created": false,
     "photo": [
       {
