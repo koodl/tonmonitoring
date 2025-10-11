@@ -1,70 +1,5 @@
 [
   {
-    "caption": "📦 Официальный SCOR Sticker Store с набором из пяти анимированных стикеров с криккетистами запустится в Telegram на платформе Fuse 17 октября, предлагая редкие коллекционные стикеры за $4,99 (в TON) с игровой полезностью в мини-играх SCOR, ограниченным тиражом в 1 000 наборов и бонусами для лучших игроков в преддверии TGE токена SCOR, что реализует новую модель взаимодействия спорта, коллекционеров и геймеров.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5449670138292894907",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 10,
-        "offset": 91,
-        "type": "text_link",
-        "url": "https://www.msn.com/en-us/news/technology/scor-sticker-store-debuts-on-telegram-s-fuse-marketplace-with-cricket-stars/ar-AA1NNuzj"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 52,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIExWjj7bqvlq9sm4ZJpYgG_9h0lIj2AAI-GzIb2D8hS6yH1QgSqskWAQADAgADcwADNgQ",
-        "file_size": 1561,
-        "file_unique_id": "AQADPhsyG9g_IUt4"
-      },
-      {
-        "height": 185,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIExWjj7bqvlq9sm4ZJpYgG_9h0lIj2AAI-GzIb2D8hS6yH1QgSqskWAQADAgADbQADNgQ",
-        "file_size": 21213,
-        "file_unique_id": "AQADPhsyG9g_IUty"
-      },
-      {
-        "height": 463,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIExWjj7bqvlq9sm4ZJpYgG_9h0lIj2AAI-GzIb2D8hS6yH1QgSqskWAQADAgADeAADNgQ",
-        "file_size": 100369,
-        "file_unique_id": "AQADPhsyG9g_IUt9"
-      },
-      {
-        "height": 710,
-        "width": 1226,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIExWjj7bqvlq9sm4ZJpYgG_9h0lIj2AAI-GzIb2D8hS6yH1QgSqskWAQADAgADeQADNgQ",
-        "file_size": 133471,
-        "file_unique_id": "AQADPhsyG9g_IUt-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1759767994,
-    "message_id": 1221
-  },
-  {
     "caption": "🆔 Юзернейм @anon продали за 69,420 TON, что составляет около $200 000.",
     "caption_entities": [
       {
@@ -2763,6 +2698,45 @@
         "offset": 19,
         "type": "text_link",
         "url": "https://t.me/miutalk/92893"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 Проект Fintopio приостанавливает работу и закрывает свои DeFi- и CeFi-кошельки, предлагая пользователям вывести средства до 31 октября 2025 года.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760184424,
+    "message_id": 1265
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1760184490,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 16,
+        "offset": 19,
+        "type": "text_link",
+        "url": "https://t.me/fintopiochannel/268"
       }
     ],
     "group_chat_created": false,
