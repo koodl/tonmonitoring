@@ -1,70 +1,5 @@
 [
   {
-    "caption": "Ⓜ️ MarketApp добавил \nаренду подарков.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440413672021193348",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 3,
-        "type": "text_link",
-        "url": "https://marketapp.ws/?ref=4f3c0f3da205a650381bf028b1207d17"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 75,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEwGjhkPYYzxiib98g6lvbCH1xe3CkAALyAAEyG04mEUtj8tNEataCtQEAAwIAA3MAAzYE",
-        "file_size": 1243,
-        "file_unique_id": "AQAD8gABMhtOJhFLeA"
-      },
-      {
-        "height": 320,
-        "width": 265,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEwGjhkPYYzxiib98g6lvbCH1xe3CkAALyAAEyG04mEUtj8tNEataCtQEAAwIAA20AAzYE",
-        "file_size": 14087,
-        "file_unique_id": "AQAD8gABMhtOJhFLcg"
-      },
-      {
-        "height": 800,
-        "width": 663,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEwGjhkPYYzxiib98g6lvbCH1xe3CkAALyAAEyG04mEUtj8tNEataCtQEAAwIAA3gAAzYE",
-        "file_size": 48885,
-        "file_unique_id": "AQAD8gABMhtOJhFLfQ"
-      },
-      {
-        "height": 1280,
-        "width": 1061,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEwGjhkPYYzxiib98g6lvbCH1xe3CkAALyAAEyG04mEUtj8tNEataCtQEAAwIAA3kAAzYE",
-        "file_size": 64503,
-        "file_unique_id": "AQAD8gABMhtOJhFLfg"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1759613174,
-    "message_id": 1216
-  },
-  {
     "caption": "🎁 Концепт функции аренды подарков в Telegram.",
     "caption_entities": [
       {
@@ -2983,5 +2918,43 @@
     },
     "date": 1760177620,
     "message_id": 1262
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5238004177031953682",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 30,
+        "type": "text_link",
+        "url": "https://www.tipranks.com/news/company-announcements/ton-strategy-faces-nasdaq-compliance-challenge"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 Nasdaq 9 октября 2025 года уведомила TON Strategy Company о несоблюдении правил листинга, связанных с выпуском акций 7 августа, и дала компании 45 дней на предоставление плана по восстановлению соответствия.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760177990,
+    "message_id": 1263
   }
 ]
