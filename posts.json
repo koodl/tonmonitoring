@@ -1,180 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "reply_to_message": {
-      "caption": "🎉 Розыгрыш 5 билетов на форум CoinCraft 2.0.\n\n🗓 Когда: 15–16 октября\n🗺 Где: Москва, VK Stadium\n💸 Что: Масштабный форум по криптовалютам с топовым контентом!\n  \n🔥 Что вас ждёт:\n📈 4 секции: Инвестиции, Майнинг, Трейдинг, Тренды и Будущее\n🎤 Крутые спикеры и звёзды криптоиндустрии\n🎭 Шоу, перформансы и интерактив — скучно не будет!\n💡 Темы: стратегии инвестиций, алгоритмическая торговля, токенизация активов (RWA), ИИ в DeFi, мем-токены и многое другое \n\n💰 Билеты стоят от 9 900 ₽, но мы разыгрываем 5 стандартных билетов абсолютно бесплатно для вас! 🥳  \n\n🎁 Как участвовать в розыгрыше:\n1️⃣ Подпишитесь на канал CoinCraft 👉  Ссылка\n2️⃣ Заполните короткую анкету 👉  Ссылка \n\n🏆 Итоги подведём 5 октября, а победители получат билеты на email!  \n\nХотите узнать больше о форуме или купить билеты? Заходите на сайт: coin-craft.ru  \nНе упустите шанс!",
-      "caption_entities": [
-        {
-          "length": 6,
-          "offset": 50,
-          "type": "bold"
-        },
-        {
-          "length": 4,
-          "offset": 74,
-          "type": "bold"
-        },
-        {
-          "length": 4,
-          "offset": 101,
-          "type": "bold"
-        },
-        {
-          "length": 295,
-          "offset": 164,
-          "type": "blockquote"
-        },
-        {
-          "length": 295,
-          "offset": 164,
-          "type": "bold"
-        },
-        {
-          "length": 20,
-          "offset": 508,
-          "type": "bold"
-        },
-        {
-          "length": 29,
-          "offset": 567,
-          "type": "bold"
-        },
-        {
-          "length": 6,
-          "offset": 635,
-          "type": "text_link",
-          "url": "https://t.me/forum_coincraft"
-        },
-        {
-          "length": 6,
-          "offset": 635,
-          "type": "underline"
-        },
-        {
-          "length": 1,
-          "offset": 675,
-          "type": "text_link",
-          "url": "https://docs.google.com/forms/d/e/1FAIpQLSc7JJGspxcuxTQMOO2pCdk_s7_y3Ec90rcGj-am-X-EFLTgcg/viewform?usp=header"
-        },
-        {
-          "length": 1,
-          "offset": 675,
-          "type": "underline"
-        },
-        {
-          "length": 6,
-          "offset": 676,
-          "type": "text_link",
-          "url": "https://docs.google.com/forms/d/e/1FAIpQLSc7JJGspxcuxTQMOO2pCdk_s7_y3Ec90rcGj-am-X-EFLTgcg/viewform?usp=header"
-        },
-        {
-          "length": 6,
-          "offset": 676,
-          "type": "underline"
-        },
-        {
-          "length": 1,
-          "offset": 682,
-          "type": "text_link",
-          "url": "https://docs.google.com/forms/d/e/1FAIpQLSc7JJGspxcuxTQMOO2pCdk_s7_y3Ec90rcGj-am-X-EFLTgcg/viewform?usp=header"
-        },
-        {
-          "length": 1,
-          "offset": 682,
-          "type": "underline"
-        },
-        {
-          "length": 1,
-          "offset": 683,
-          "type": "underline"
-        },
-        {
-          "length": 26,
-          "offset": 687,
-          "type": "bold"
-        },
-        {
-          "length": 13,
-          "offset": 822,
-          "type": "text_link",
-          "url": "https://coin-craft.ru/"
-        },
-        {
-          "length": 13,
-          "offset": 822,
-          "type": "underline"
-        }
-      ],
-      "channel_chat_created": false,
-      "delete_chat_photo": false,
-      "edit_date": 1759565491,
-      "group_chat_created": false,
-      "photo": [
-        {
-          "height": 90,
-          "width": 90,
-          "file_id": "AgACAgIAAyEFAASerMeaAAIEvWjg1amMhN_JVb3SUMaK1QwTUmz3AAKT9zEbTiYJS8H7CXZqIhtYAQADAgADcwADNgQ",
-          "file_size": 2716,
-          "file_unique_id": "AQADk_cxG04mCUt4"
-        },
-        {
-          "height": 320,
-          "width": 320,
-          "file_id": "AgACAgIAAyEFAASerMeaAAIEvWjg1amMhN_JVb3SUMaK1QwTUmz3AAKT9zEbTiYJS8H7CXZqIhtYAQADAgADbQADNgQ",
-          "file_size": 38640,
-          "file_unique_id": "AQADk_cxG04mCUty"
-        },
-        {
-          "height": 800,
-          "width": 800,
-          "file_id": "AgACAgIAAyEFAASerMeaAAIEvWjg1amMhN_JVb3SUMaK1QwTUmz3AAKT9zEbTiYJS8H7CXZqIhtYAQADAgADeAADNgQ",
-          "file_size": 145414,
-          "file_unique_id": "AQADk_cxG04mCUt9"
-        },
-        {
-          "height": 1280,
-          "width": 1280,
-          "file_id": "AgACAgIAAyEFAASerMeaAAIEvWjg1amMhN_JVb3SUMaK1QwTUmz3AAKT9zEbTiYJS8H7CXZqIhtYAQADAgADeQADNgQ",
-          "file_size": 193180,
-          "file_unique_id": "AQADk_cxG04mCUt-"
-        }
-      ],
-      "sender_chat": {
-        "id": -1002662123418,
-        "title": "TON Monitoring",
-        "type": "channel",
-        "username": "tonmonitoring"
-      },
-      "supergroup_chat_created": false,
-      "chat": {
-        "id": -1002662123418,
-        "title": "TON Monitoring",
-        "type": "channel",
-        "username": "tonmonitoring"
-      },
-      "date": 1759565225,
-      "message_id": 1213
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🎉 Розыгрыш билетов на форум CoinCraft 2.0 успешно состоялся!\n🏆 Мы определили победителей и уже отправили им стандартные билеты на указанные email-адреса.\n📬 Проверьте свою почту (включая папку «Спам») — возможно, именно вы стали счастливым обладателем билета!",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1759759455,
-    "message_id": 1220
-  },
-  {
     "caption": "📦 Официальный SCOR Sticker Store с набором из пяти анимированных стикеров с криккетистами запустится в Telegram на платформе Fuse 17 октября, предлагая редкие коллекционные стикеры за $4,99 (в TON) с игровой полезностью в мини-играх SCOR, ограниченным тиражом в 1 000 наборов и бонусами для лучших игроков в преддверии TGE токена SCOR, что реализует новую модель взаимодействия спорта, коллекционеров и геймеров.",
     "caption_entities": [
       {
@@ -2922,5 +2747,43 @@
     },
     "date": 1760180811,
     "message_id": 1264
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 16,
+        "offset": 19,
+        "type": "text_link",
+        "url": "https://t.me/miutalk/92893"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 Проект Fintopio приостанавливает работу и закрывает свои DeFi- и CeFi-кошельки, предлагая пользователям вывести средства до 31 октября 2025 года.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760184424,
+    "message_id": 1265
   }
 ]
