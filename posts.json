@@ -1,75 +1,5 @@
 [
   {
-    "caption": "🆔 Юзернейм @anon продали за 69,420 TON, что составляет около $200 000.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5442635973999488769",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 5,
-        "offset": 12,
-        "type": "mention"
-      },
-      {
-        "length": 7,
-        "offset": 18,
-        "type": "text_link",
-        "url": "https://getgems.io/collection/EQCA14o1-VWhS2efqoh_9M1b_A9DtKTuoqfmkn83AbJzwnPi/EQCzZ8dAPBpdvj1g-PWrJMJ0rgA79Ae-Ye5QoaueeKDAF478"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 13,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIExmjkB0tAcMpDTAbEAU-RpwUIqRkRAAL-GzIb2D8hS2V7n0r-2huiAQADAgADcwADNgQ",
-        "file_size": 393,
-        "file_unique_id": "AQAD_hsyG9g_IUt4"
-      },
-      {
-        "height": 48,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIExmjkB0tAcMpDTAbEAU-RpwUIqRkRAAL-GzIb2D8hS2V7n0r-2huiAQADAgADbQADNgQ",
-        "file_size": 1941,
-        "file_unique_id": "AQAD_hsyG9g_IUty"
-      },
-      {
-        "height": 121,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIExmjkB0tAcMpDTAbEAU-RpwUIqRkRAAL-GzIb2D8hS2V7n0r-2huiAQADAgADeAADNgQ",
-        "file_size": 6507,
-        "file_unique_id": "AQAD_hsyG9g_IUt9"
-      },
-      {
-        "height": 193,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIExmjkB0tAcMpDTAbEAU-RpwUIqRkRAAL-GzIb2D8hS2V7n0r-2huiAQADAgADeQADNgQ",
-        "file_size": 8357,
-        "file_unique_id": "AQAD_hsyG9g_IUt-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1759774540,
-    "message_id": 1222
-  },
-  {
     "caption": "🔄 В Tonnel Marketplace появилась возможность отправлять ончейн-подарки на свой аккаунт в один клик.",
     "caption_entities": [
       {
@@ -2759,5 +2689,43 @@
     },
     "date": 1760184424,
     "message_id": 1265
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440615647153256792",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 13,
+        "type": "text_link",
+        "url": "https://t.me/gift_newstg/4349"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "url": "https://t.me/gift_newstg/4349"
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🎁 Мошенники продают каналы с арендованными NFT-подарками.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760188418,
+    "message_id": 1266
   }
 ]
