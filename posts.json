@@ -1,70 +1,5 @@
 [
   {
-    "caption": "💎 TON разместила статью о том, что успех внедрения блокчейна в институциональной среде зависит от инфраструктуры, отвечающей требованиям корпоративной безопасности, интеграции и пользовательского опыта, при этом TON выделяет свои технические показатели и интеграцию с Telegram как преимущества для институциональных клиентов.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 6,
-        "offset": 18,
-        "type": "text_link",
-        "url": "https://blog.ton.org/the-infrastructure-institutions-need-to-succeed"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 53,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEwmjjixF8Xve239kle3gkmGLsKd9EAALKAjIb9LYgS3MztOLL9ROXAQADAgADcwADNgQ",
-        "file_size": 1028,
-        "file_unique_id": "AQADygIyG_S2IEt4"
-      },
-      {
-        "height": 190,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEwmjjixF8Xve239kle3gkmGLsKd9EAALKAjIb9LYgS3MztOLL9ROXAQADAgADbQADNgQ",
-        "file_size": 13694,
-        "file_unique_id": "AQADygIyG_S2IEty"
-      },
-      {
-        "height": 474,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEwmjjixF8Xve239kle3gkmGLsKd9EAALKAjIb9LYgS3MztOLL9ROXAQADAgADeAADNgQ",
-        "file_size": 53703,
-        "file_unique_id": "AQADygIyG_S2IEt9"
-      },
-      {
-        "height": 759,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEwmjjixF8Xve239kle3gkmGLsKd9EAALKAjIb9LYgS3MztOLL9ROXAQADAgADeQADNgQ",
-        "file_size": 68104,
-        "file_unique_id": "AQADygIyG_S2IEt-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1759742737,
-    "message_id": 1218
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2925,6 +2860,51 @@
     "group_chat_created": false,
     "link_preview_options": {
       "url": "https://www.tipranks.com/news/company-announcements/ton-strategy-faces-nasdaq-compliance-challenge"
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "📈💎 Nasdaq 9 октября 2025 года уведомила TON Strategy Company о несоблюдении правил листинга, связанных с выпуском акций 7 августа, и дала компании 45 дней на предоставление плана по восстановлению соответствия.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760177990,
+    "message_id": 1263
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1760178031,
+    "entities": [
+      {
+        "custom_emoji_id": "5449424049551733716",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "custom_emoji_id": "5238004177031953682",
+        "length": 2,
+        "offset": 2,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 32,
+        "type": "text_link",
+        "url": "https://www.tipranks.com/news/company-announcements/ton-strategy-faces-nasdaq-compliance-challenge"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
     },
     "sender_chat": {
       "id": -1002662123418,
