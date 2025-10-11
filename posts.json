@@ -1,69 +1,5 @@
 [
   {
-    "caption": "🔄 В Tonnel Marketplace появилась возможность отправлять ончейн-подарки на свой аккаунт в один клик.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5447595991211471135",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 18,
-        "offset": 5,
-        "type": "text_link",
-        "url": "https://t.me/tonnel_network_bot/gifts?startapp=ref_659773038"
-      },
-      {
-        "length": 9,
-        "offset": 24,
-        "type": "text_link",
-        "url": "https://t.me/tonnel_en/1491"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEx2jkL8PvwpRh7rqZsCl33O9NyBMjAALQHDIb2D8hS8vw9jTWqhZmAQADAgADcwADNgQ",
-        "file_size": 1345,
-        "file_unique_id": "AQAD0BwyG9g_IUt4"
-      },
-      {
-        "height": 319,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEx2jkL8PvwpRh7rqZsCl33O9NyBMjAALQHDIb2D8hS8vw9jTWqhZmAQADAgADbQADNgQ",
-        "file_size": 14177,
-        "file_unique_id": "AQAD0BwyG9g_IUty"
-      },
-      {
-        "height": 783,
-        "width": 785,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEx2jkL8PvwpRh7rqZsCl33O9NyBMjAALQHDIb2D8hS8vw9jTWqhZmAQADAgADeAADNgQ",
-        "file_size": 30830,
-        "file_unique_id": "AQAD0BwyG9g_IUt9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1759784899,
-    "message_id": 1223
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2710,6 +2646,45 @@
     "group_chat_created": false,
     "link_preview_options": {
       "url": "https://t.me/gift_newstg/4349"
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🎁 Мошенники продают каналы с арендованными NFT-подарками.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760188418,
+    "message_id": 1266
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1760188424,
+    "entities": [
+      {
+        "custom_emoji_id": "5440615647153256792",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 13,
+        "type": "text_link",
+        "url": "https://t.me/gift_newstg/4349"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
     },
     "sender_chat": {
       "id": -1002662123418,
