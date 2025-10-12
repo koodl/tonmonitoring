@@ -10,44 +10,6 @@
         "type": "custom_emoji"
       },
       {
-        "length": 9,
-        "offset": 9,
-        "type": "text_link",
-        "url": "https://t.me/tontech/141"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 В TON предложен стандарт Scaled UI для унифицированного отображения балансов токенов в кошельках и dApps.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1759821395,
-    "message_id": 1225
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
         "length": 7,
         "offset": 41,
         "type": "text_link",
@@ -2702,5 +2664,55 @@
     },
     "date": 1760198457,
     "message_id": 1267
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5265112348451960063",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 17,
+        "offset": 81,
+        "type": "text_link",
+        "url": "https://t.me/tonmonitoring/1216"
+      },
+      {
+        "custom_emoji_id": "5440764055453200867",
+        "length": 2,
+        "offset": 155,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 6,
+        "offset": 180,
+        "type": "text_link",
+        "url": "https://t.me/boost/tonmonitoring"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🗞 Чтобы вы не пропустили ничего важного за прошедшую неделю, оставляю ссылку на первое сообщение. Так можно удобно просмотреть все публикации по порядку.\n⭐️ Ваша поддержка в виде бустов очень помогает развитию канала. Каждый голос важен и мотивирует становиться лучше. Спасибо, что вы с каналом TON Monitoring!",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760266392,
+    "message_id": 1268
   }
 ]
