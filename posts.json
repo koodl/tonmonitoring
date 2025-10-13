@@ -1,43 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440764055453200867",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 63,
-        "type": "text_link",
-        "url": "https://major.tg/?ref=EQCv_g6U-fhIbRTbbJbcUEzjK93ZtXyYAHW46TLb3ZEuYynl"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "⭐️ Команда Major запустила веб-версию ончейн-маркета по адресу major.tg, добавив бандлы, аренду подарков и другие обновления.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1759866704,
-    "message_id": 1230
-  },
-  {
     "caption": "Ⓜ️ Проект @mint приобрела группа во главе с бывшим сооснователем TON Society Джеком Бутом, который займет пост CEO.",
     "caption_entities": [
       {
@@ -2722,5 +2684,43 @@
     },
     "date": 1760359318,
     "message_id": 1271
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 13,
+        "offset": 54,
+        "type": "text_link",
+        "url": "https://t.me/investing/36369"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 Криптовалютные биржи Binance, OKX и ByBit временно приостановили операции по вводу и выводу TON в связи с плановым обновлением сети.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760360083,
+    "message_id": 1272
   }
 ]
