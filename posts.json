@@ -11,76 +11,6 @@
       {
         "length": 5,
         "offset": 10,
-        "type": "mention"
-      },
-      {
-        "length": 9,
-        "offset": 16,
-        "type": "text_link",
-        "url": "https://t.me/founder/731"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 42,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEz2jljNSwhlF6E3KfKU7s39DQiYJFAAKTEjIb2D8pS1jJ_n8GdHQTAQADAgADcwADNgQ",
-        "file_size": 831,
-        "file_unique_id": "AQADkxIyG9g_KUt4"
-      },
-      {
-        "height": 320,
-        "width": 148,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEz2jljNSwhlF6E3KfKU7s39DQiYJFAAKTEjIb2D8pS1jJ_n8GdHQTAQADAgADbQADNgQ",
-        "file_size": 13547,
-        "file_unique_id": "AQADkxIyG9g_KUty"
-      },
-      {
-        "height": 800,
-        "width": 369,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEz2jljNSwhlF6E3KfKU7s39DQiYJFAAKTEjIb2D8pS1jJ_n8GdHQTAQADAgADeAADNgQ",
-        "file_size": 66494,
-        "file_unique_id": "AQADkxIyG9g_KUt9"
-      },
-      {
-        "height": 1280,
-        "width": 590,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEz2jljNSwhlF6E3KfKU7s39DQiYJFAAKTEjIb2D8pS1jJ_n8GdHQTAQADAgADeQADNgQ",
-        "file_size": 86455,
-        "file_unique_id": "AQADkxIyG9g_KUt-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1759874260,
-    "message_id": 1231
-  },
-  {
-    "caption": "Ⓜ️ Проект @mint приобрела группа во главе с бывшим сооснователем TON Society Джеком Бутом, который займет пост CEO.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5276019924706292346",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 5,
-        "offset": 10,
         "type": "text_link",
         "url": "https://t.me/mint?startapp=invite_659773038"
       },
@@ -2722,5 +2652,49 @@
     },
     "date": 1760360083,
     "message_id": 1272
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5449670138292894907",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 40,
+        "type": "text_link",
+        "url": "https://t.me/getgoodies_bot/Goodies?startapp=7RmMwpCaHVZU5y"
+      },
+      {
+        "length": 8,
+        "offset": 120,
+        "type": "text_link",
+        "url": "https://t.me/rengev_crypto/1272"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "📦 Пользователи нового маркета стикеров Goodies столкнулись с массовыми проблемами при выводе TON, поскольку транзакции зависают в блокчейне.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760368683,
+    "message_id": 1273
   }
 ]
