@@ -2,57 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "edit_date": 1759851932,
-    "entities": [
-      {
-        "custom_emoji_id": "5440671447368365933",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "custom_emoji_id": "5269670627307975945",
-        "length": 2,
-        "offset": 2,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 12,
-        "offset": 21,
-        "type": "text_link",
-        "url": "https://t.me/pixelmarket?startapp=r_659773038"
-      },
-      {
-        "length": 8,
-        "offset": 40,
-        "type": "text_link",
-        "url": "https://t.me/pixelmarket_fam/22"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🟧🎮 На маркетплейсе Pixel Market стала доступна торговля предметами из Not Games.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1759851858,
-    "message_id": 1229
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "entities": [
       {
         "custom_emoji_id": "5440764055453200867",
@@ -2710,5 +2659,68 @@
     },
     "date": 1760329484,
     "message_id": 1270
+  },
+  {
+    "caption": "🅰️ AlphaTON Capital (Nasdaq: ATON) стала партнером Morpheus AI (Ethereum: $MOR) для создания децентрализованной инфраструктуры для разработки ИИ-агентов в экосистеме TON и Telegram.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5314597028901190799",
+        "length": 3,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 15,
+        "offset": 36,
+        "type": "text_link",
+        "url": "https://teletype.in/@selfowner/Tpv_u0jR_Lh"
+      },
+      {
+        "length": 4,
+        "offset": 75,
+        "type": "cashtag"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 24,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIE92js85ZuWQ8Na5UlSjuwiSvjr5yWAAKw_jEbgLNpSx2ENSrHTTIAAQEAAwIAA3MAAzYE",
+        "file_size": 1057,
+        "file_unique_id": "AQADsP4xG4CzaUt4"
+      },
+      {
+        "height": 86,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIE92js85ZuWQ8Na5UlSjuwiSvjr5yWAAKw_jEbgLNpSx2ENSrHTTIAAQEAAwIAA20AAzYE",
+        "file_size": 6689,
+        "file_unique_id": "AQADsP4xG4CzaUty"
+      },
+      {
+        "height": 162,
+        "width": 600,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIE92js85ZuWQ8Na5UlSjuwiSvjr5yWAAKw_jEbgLNpSx2ENSrHTTIAAQEAAwIAA3gAAzYE",
+        "file_size": 10762,
+        "file_unique_id": "AQADsP4xG4CzaUt9"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760359318,
+    "message_id": 1271
   }
 ]
