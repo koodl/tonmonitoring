@@ -2,50 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440671447368365933",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "custom_emoji_id": "5269670627307975945",
-        "length": 2,
-        "offset": 2,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 40,
-        "type": "text_link",
-        "url": "https://t.me/pixelmarket_fam/22"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🟧🎮 На маркетплейсе Pixel Market стала доступна торговля предметами из Not Games.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1759851858,
-    "message_id": 1229
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1759851932,
     "entities": [
       {
@@ -2681,6 +2637,45 @@
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "edit_date": 1760329772,
+    "entities": [
+      {
+        "custom_emoji_id": "5314597028901190799",
+        "length": 3,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 30,
+        "type": "text_link",
+        "url": "https://www.binance.com/en/square/post/10-13-2025-alphaton-capital-expands-ton-holdings-amid-stable-market-conditions-30940987054929"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🅰️ Компания AlphaTON Capital приобрела на открытом рынке еще 300 000 TON вдобавок к купленным на прошлой неделе 1,1 млн TON.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760329484,
+    "message_id": 1270
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1760341601,
     "entities": [
       {
         "custom_emoji_id": "5314597028901190799",
