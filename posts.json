@@ -1,70 +1,5 @@
 [
   {
-    "caption": "✈️ По данным FindMini.app, в сентябре 2025 года рынок Telegram Mini Apps стабилизировался: месячная аудитория составила 144 млн пользователей, а общее число приложений достигло 5520.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 12,
-        "offset": 13,
-        "type": "url"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "media_group_id": "14079388662678706",
-    "photo": [
-      {
-        "height": 71,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIE02jmTX55_Xn01Y8Ch4kpPbePoL3qAALm_zEbDGkxS8u5IEfklD6jAQADAgADcwADNgQ",
-        "file_size": 979,
-        "file_unique_id": "AQAD5v8xGwxpMUt4"
-      },
-      {
-        "height": 254,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIE02jmTX55_Xn01Y8Ch4kpPbePoL3qAALm_zEbDGkxS8u5IEfklD6jAQADAgADbQADNgQ",
-        "file_size": 15870,
-        "file_unique_id": "AQAD5v8xGwxpMUty"
-      },
-      {
-        "height": 636,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIE02jmTX55_Xn01Y8Ch4kpPbePoL3qAALm_zEbDGkxS8u5IEfklD6jAQADAgADeAADNgQ",
-        "file_size": 59099,
-        "file_unique_id": "AQAD5v8xGwxpMUt9"
-      },
-      {
-        "height": 1012,
-        "width": 1272,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIE02jmTX55_Xn01Y8Ch4kpPbePoL3qAALm_zEbDGkxS8u5IEfklD6jAQADAgADeQADNgQ",
-        "file_size": 83867,
-        "file_unique_id": "AQAD5v8xGwxpMUt-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1759923582,
-    "message_id": 1235
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2680,5 +2615,64 @@
     },
     "date": 1760453393,
     "message_id": 1276
+  },
+  {
+    "caption": "✈️ Представлен концепт полноэкранного текстового редактора, который открывается свайпом вверх или нажатием на специальную иконку.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 15,
+        "type": "text_link",
+        "url": "https://t.me/SOUICdsgn/317"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "video": {
+      "file_name": "IMG_5008.MP4",
+      "height": 1280,
+      "mime_type": "video/mp4",
+      "width": 720,
+      "thumbnail": {
+        "height": 320,
+        "width": 180,
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgT9aO5j1RfcvTa2btAC6BcRR2Lu5WUAAkCPAALYAnFLx-QcsiLh-GgBAAdtAAM2BA",
+        "file_size": 15009,
+        "file_unique_id": "AQADQI8AAtgCcUty"
+      },
+      "file_id": "BAACAgIAAyEFAASerMeaAAIE_WjuY9UX3L02tm7QAugXEUdi7uVlAAJAjwAC2AJxS8fkHLIi4fhoNgQ",
+      "file_size": 863467,
+      "file_unique_id": "AgADQI8AAtgCcUs",
+      "duration": 5,
+      "thumb": {
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgT9aO5j1RfcvTa2btAC6BcRR2Lu5WUAAkCPAALYAnFLx-QcsiLh-GgBAAdtAAM2BA",
+        "file_unique_id": "AQADQI8AAtgCcUty",
+        "file_size": 15009,
+        "width": 180,
+        "height": 320
+      }
+    },
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760453589,
+    "message_id": 1277
   }
 ]
