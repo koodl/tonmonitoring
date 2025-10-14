@@ -1,77 +1,5 @@
 [
   {
-    "caption": "Ⓜ️ Проект @mint приобрела группа во главе с бывшим сооснователем TON Society Джеком Бутом, который займет пост CEO.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5276019924706292346",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 5,
-        "offset": 10,
-        "type": "text_link",
-        "url": "https://t.me/mint?startapp=invite_659773038"
-      },
-      {
-        "length": 9,
-        "offset": 16,
-        "type": "text_link",
-        "url": "https://t.me/founder/731"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1759874626,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 42,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEz2jljNSwhlF6E3KfKU7s39DQiYJFAAKTEjIb2D8pS1jJ_n8GdHQTAQADAgADcwADNgQ",
-        "file_size": 831,
-        "file_unique_id": "AQADkxIyG9g_KUt4"
-      },
-      {
-        "height": 320,
-        "width": 148,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEz2jljNSwhlF6E3KfKU7s39DQiYJFAAKTEjIb2D8pS1jJ_n8GdHQTAQADAgADbQADNgQ",
-        "file_size": 13547,
-        "file_unique_id": "AQADkxIyG9g_KUty"
-      },
-      {
-        "height": 800,
-        "width": 369,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEz2jljNSwhlF6E3KfKU7s39DQiYJFAAKTEjIb2D8pS1jJ_n8GdHQTAQADAgADeAADNgQ",
-        "file_size": 66494,
-        "file_unique_id": "AQADkxIyG9g_KUt9"
-      },
-      {
-        "height": 1280,
-        "width": 590,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIEz2jljNSwhlF6E3KfKU7s39DQiYJFAAKTEjIb2D8pS1jJ_n8GdHQTAQADAgADeQADNgQ",
-        "file_size": 86455,
-        "file_unique_id": "AQADkxIyG9g_KUt-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1759874260,
-    "message_id": 1231
-  },
-  {
     "caption": "Купить билет",
     "caption_entities": [
       {
@@ -2696,5 +2624,43 @@
     },
     "date": 1760368683,
     "message_id": 1273
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 12,
+        "offset": 32,
+        "type": "text_link",
+        "url": "https://cointelegraph.com/news/telegram-ads-fake-monad-claim-portal-airdrop-scam"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "✈️ Сооснователь Monad Keone Hon предупредил, что в официальном Telegram‑канале проекта появились фейковые рекламные объявления, имитирующие claim‑портал аирдропа, и призвал не переходить по ним.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760447149,
+    "message_id": 1274
   }
 ]
