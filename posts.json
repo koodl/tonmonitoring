@@ -1,70 +1,5 @@
 [
   {
-    "caption": "💎 Вышла серия постов от Алёнки из TON Foundation на X, посвященная росту Web3-экосистемы в Индии и её интеграции с TON и Telegram: TF провёл офлайн-хакатон Dev House India и продвигает язык TOLK для мини-приложений, инвестируя в местных билдеров.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 22,
-        "offset": 9,
-        "type": "text_link",
-        "url": "https://x.com/alenkaUQ/status/1975920862240113005"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 40,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIE2WjmbQru4wEq4IkhFS9uDMkhECGOAAL5AAEyGwxpMUtcBiCsA8fVuAEAAwIAA3MAAzYE",
-        "file_size": 1002,
-        "file_unique_id": "AQAD-QABMhsMaTFLeA"
-      },
-      {
-        "height": 142,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIE2WjmbQru4wEq4IkhFS9uDMkhECGOAAL5AAEyGwxpMUtcBiCsA8fVuAEAAwIAA20AAzYE",
-        "file_size": 11069,
-        "file_unique_id": "AQAD-QABMhsMaTFLcg"
-      },
-      {
-        "height": 355,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIE2WjmbQru4wEq4IkhFS9uDMkhECGOAAL5AAEyGwxpMUtcBiCsA8fVuAEAAwIAA3gAAzYE",
-        "file_size": 39850,
-        "file_unique_id": "AQAD-QABMhsMaTFLfQ"
-      },
-      {
-        "height": 568,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIE2WjmbQru4wEq4IkhFS9uDMkhECGOAAL5AAEyGwxpMUtcBiCsA8fVuAEAAwIAA3kAAzYE",
-        "file_size": 53506,
-        "file_unique_id": "AQAD-QABMhsMaTFLfg"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1759931658,
-    "message_id": 1241
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2669,5 +2604,64 @@
     },
     "date": 1760461833,
     "message_id": 1279
+  },
+  {
+    "caption": "🗞 Друзья, за инфопартнерство получил VIP-билет на Coin Craft, но, к сожалению, не смогу присутствовать. Времени искать, кому передать, тоже нет.\nПоэтому разыграю его среди вас: билет достанется тому, кто поставит больше всех звёзд на этот пост до 24:00 сегодня.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5265112348451960063",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 39,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFAAFo7ojhfSMRSq00J2qv7fjWj5jGxwAC4P4xG9gCeUtVtUEqu8RrWwEAAwIAA3MAAzYE",
+        "file_size": 999,
+        "file_unique_id": "AQAD4P4xG9gCeUt4"
+      },
+      {
+        "height": 320,
+        "width": 139,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFAAFo7ojhfSMRSq00J2qv7fjWj5jGxwAC4P4xG9gCeUtVtUEqu8RrWwEAAwIAA20AAzYE",
+        "file_size": 13028,
+        "file_unique_id": "AQAD4P4xG9gCeUty"
+      },
+      {
+        "height": 800,
+        "width": 347,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFAAFo7ojhfSMRSq00J2qv7fjWj5jGxwAC4P4xG9gCeUtVtUEqu8RrWwEAAwIAA3gAAzYE",
+        "file_size": 49237,
+        "file_unique_id": "AQAD4P4xG9gCeUt9"
+      },
+      {
+        "height": 1246,
+        "width": 540,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFAAFo7ojhfSMRSq00J2qv7fjWj5jGxwAC4P4xG9gCeUtVtUEqu8RrWwEAAwIAA3kAAzYE",
+        "file_size": 57718,
+        "file_unique_id": "AQAD4P4xG9gCeUt-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760463073,
+    "message_id": 1280
   }
 ]
