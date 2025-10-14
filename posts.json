@@ -1,43 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440627174845473301",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 6,
-        "offset": 12,
-        "type": "text_link",
-        "url": "https://t.me/pgrton/1277"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🖼 Согласно данным за сентябрь 2025 года, приток TON на платформу Fragment сократился на 21% до 10,14 млн TON, а отток средств вырос на 45,5% и составил 6,01 млн TON.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1759924926,
-    "message_id": 1239
-  },
-  {
     "caption": "🆔 Владельцу юзернейма @anonymous предложили 30 000 TON.",
     "caption_entities": [
       {
@@ -2674,5 +2636,70 @@
     },
     "date": 1760453589,
     "message_id": 1277
+  },
+  {
+    "caption": "🔝 TOP и TON Foundation запустили акселератор TON Consumer Application с инвестиционным пулом в $2 млн для разработчиков из Азиатско-Тихоокеанского региона, прием заявок на участие открыт до конца октября.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5451930983307703379",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 24,
+        "type": "text_link",
+        "url": "https://t.me/topco/150"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 51,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIE_mjudFIAAdR-kbBVvNOGmbpa3nKrtgACqf0xG9gCeUuKWjgDkVxJ3AEAAwIAA3MAAzYE",
+        "file_size": 964,
+        "file_unique_id": "AQADqf0xG9gCeUt4"
+      },
+      {
+        "height": 180,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIE_mjudFIAAdR-kbBVvNOGmbpa3nKrtgACqf0xG9gCeUuKWjgDkVxJ3AEAAwIAA20AAzYE",
+        "file_size": 14344,
+        "file_unique_id": "AQADqf0xG9gCeUty"
+      },
+      {
+        "height": 450,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIE_mjudFIAAdR-kbBVvNOGmbpa3nKrtgACqf0xG9gCeUuKWjgDkVxJ3AEAAwIAA3gAAzYE",
+        "file_size": 56162,
+        "file_unique_id": "AQADqf0xG9gCeUt9"
+      },
+      {
+        "height": 720,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIE_mjudFIAAdR-kbBVvNOGmbpa3nKrtgACqf0xG9gCeUuKWjgDkVxJ3AEAAwIAA3kAAzYE",
+        "file_size": 69547,
+        "file_unique_id": "AQADqf0xG9gCeUt-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760457810,
+    "message_id": 1278
   }
 ]
