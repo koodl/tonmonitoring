@@ -1,58 +1,5 @@
 [
   {
-    "caption": "Купить билет",
-    "caption_entities": [
-      {
-        "length": 12,
-        "offset": 0,
-        "type": "text_link",
-        "url": "https://coin-craft.ru/"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "video": {
-      "file_name": "IMG_4957.MP4",
-      "height": 1280,
-      "mime_type": "video/mp4",
-      "width": 720,
-      "thumbnail": {
-        "height": 320,
-        "width": 180,
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgTQaOYTzJuaR9czjiU9j_SyU9rr53YAAiKAAAIMaTFLe1IPzwOUc6YBAAdtAAM2BA",
-        "file_size": 13585,
-        "file_unique_id": "AQADIoAAAgxpMUty"
-      },
-      "file_id": "BAACAgIAAyEFAASerMeaAAIE0GjmE8ybmkfXM44lPY_0slPa6-d2AAIigAACDGkxS3tSD88DlHOmNgQ",
-      "file_size": 18044190,
-      "file_unique_id": "AgADIoAAAgxpMUs",
-      "duration": 48,
-      "thumb": {
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgTQaOYTzJuaR9czjiU9j_SyU9rr53YAAiKAAAIMaTFLe1IPzwOUc6YBAAdtAAM2BA",
-        "file_unique_id": "AQADIoAAAgxpMUty",
-        "file_size": 13585,
-        "width": 180,
-        "height": 320
-      }
-    },
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1759908813,
-    "message_id": 1232
-  },
-  {
     "caption": "🅰️ Акции AlphaTON Capital Corp (ATON) выросли на 123,12% на постмаркете во вторник, поднявшись с $5,58 до $12,45.\nВероятно, скачок цены связан с корпоративными новостями о стратегии безопасности, блокчейн-интеграцией и недавней эмиссией акций с публикацией SEC.",
     "caption_entities": [
       {
@@ -2662,5 +2609,70 @@
     },
     "date": 1760447149,
     "message_id": 1274
+  },
+  {
+    "caption": "💎 TON CIS Hub объявил о партнёрстве с Yandex Cloud, в рамках программы Yandex Cloud Free Credits проекты экосистемы TON смогут получить бесплатные облачные кредиты — до $5,000 на 6 месяцев (MVP) и до $12,000 на 6 месяцев (Growth) — плюс доступ к инфраструктуре и AI‑сервисам Яндекса.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 15,
+        "type": "text_link",
+        "url": "https://t.me/toncishub/1872"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIE-2juS1e_Oop3QF9flRAFI6_f07xEAAJm-zEb2AJxS7-b-aB80MrmAQADAgADcwADNgQ",
+        "file_size": 968,
+        "file_unique_id": "AQADZvsxG9gCcUt4"
+      },
+      {
+        "height": 320,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIE-2juS1e_Oop3QF9flRAFI6_f07xEAAJm-zEb2AJxS7-b-aB80MrmAQADAgADbQADNgQ",
+        "file_size": 10073,
+        "file_unique_id": "AQADZvsxG9gCcUty"
+      },
+      {
+        "height": 800,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIE-2juS1e_Oop3QF9flRAFI6_f07xEAAJm-zEb2AJxS7-b-aB80MrmAQADAgADeAADNgQ",
+        "file_size": 64859,
+        "file_unique_id": "AQADZvsxG9gCcUt9"
+      },
+      {
+        "height": 1080,
+        "width": 1080,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIE-2juS1e_Oop3QF9flRAFI6_f07xEAAJm-zEb2AJxS7-b-aB80MrmAQADAgADeQADNgQ",
+        "file_size": 70276,
+        "file_unique_id": "AQADZvsxG9gCcUt-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760447319,
+    "message_id": 1275
   }
 ]
