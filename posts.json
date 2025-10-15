@@ -2,45 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "edit_date": 1760019019,
-    "entities": [
-      {
-        "custom_emoji_id": "5314597028901190799",
-        "length": 3,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 70,
-        "type": "text_link",
-        "url": "https://www.sec.gov/Archives/edgar/data/1095435/000117184325006363/f424b5_100825.htm"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🅰️ Согласно проспекту дополнительного выпуска, AlphaTON Capital Corp разместит обыкновенные акции на сумму до $18,473,482 в рамках «at-the-market» предложения, андеррайтером которого выступит Chardan Capital Markets.\nЦель размещения: \nПривлечение средств для покупки токенов TON (The Open Network), а также покрытия операционных расходов, обслуживания долга и возможных инвестиций в экосистему TON/Telegram (игры, DeFi, бизнес-приложения).",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760018825,
-    "message_id": 1245
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "entities": [
       {
         "custom_emoji_id": "5440479333481217835",
@@ -2673,5 +2634,95 @@
     },
     "date": 1760518789,
     "message_id": 1283
+  },
+  {
+    "caption": "🚀 xRocket объявил о делистинге токенов $ARBUZ, $CATSTG, $FTON, $MEOW и $PLANKTON из-за низкой торговой активности и ликвидности: торговые пары будут удалены 20 октября 2025 года, а вывод средств станет недоступен с 28 октября.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440626741053778608",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 11,
+        "type": "text_link",
+        "url": "https://t.me/xrocketlistings/137"
+      },
+      {
+        "length": 6,
+        "offset": 40,
+        "type": "cashtag"
+      },
+      {
+        "length": 7,
+        "offset": 48,
+        "type": "cashtag"
+      },
+      {
+        "length": 5,
+        "offset": 57,
+        "type": "cashtag"
+      },
+      {
+        "length": 5,
+        "offset": 64,
+        "type": "cashtag"
+      },
+      {
+        "length": 9,
+        "offset": 72,
+        "type": "cashtag"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 54,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFBGjvj2mvAznsfY8pTiW6c7hP0AWtAAKlAjIb2AKBS0Fz8anP-69tAQADAgADcwADNgQ",
+        "file_size": 1246,
+        "file_unique_id": "AQADpQIyG9gCgUt4"
+      },
+      {
+        "height": 192,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFBGjvj2mvAznsfY8pTiW6c7hP0AWtAAKlAjIb2AKBS0Fz8anP-69tAQADAgADbQADNgQ",
+        "file_size": 11599,
+        "file_unique_id": "AQADpQIyG9gCgUty"
+      },
+      {
+        "height": 480,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFBGjvj2mvAznsfY8pTiW6c7hP0AWtAAKlAjIb2AKBS0Fz8anP-69tAQADAgADeAADNgQ",
+        "file_size": 51612,
+        "file_unique_id": "AQADpQIyG9gCgUt9"
+      },
+      {
+        "height": 768,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFBGjvj2mvAznsfY8pTiW6c7hP0AWtAAKlAjIb2AKBS0Fz8anP-69tAQADAgADeQADNgQ",
+        "file_size": 63019,
+        "file_unique_id": "AQADpQIyG9gCgUt-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760530281,
+    "message_id": 1284
   }
 ]
