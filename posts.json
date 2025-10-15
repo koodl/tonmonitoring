@@ -2,44 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5314597028901190799",
-        "length": 3,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 70,
-        "type": "text_link",
-        "url": "https://www.sec.gov/Archives/edgar/data/1095435/000117184325006363/f424b5_100825.htm"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🅰️ Согласно проспекту дополнительного выпуска, AlphaTON Capital Corp разместит обыкновенные акции на сумму до $18,473,482 в рамках «at-the-market» предложения, андеррайтером которого выступит Chardan Capital Markets.\nЦель размещения: Привлечение средств для покупки токенов TON (The Open Network), а также покрытия операционных расходов, обслуживания долга и возможных инвестиций в экосистему TON/Telegram (игры, DeFi, бизнес-приложения).",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760018825,
-    "message_id": 1245
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1760019019,
     "entities": [
       {
@@ -2673,5 +2635,43 @@
     },
     "date": 1760511324,
     "message_id": 1282
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440615647153256792",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 16,
+        "offset": 36,
+        "type": "text_link",
+        "url": "https://giftstat.com/"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🎁 Рынок аренды подарков в Telegram стабилизировался на уровне 2000 сделок в сутки с объёмом 3000 TON, лидирует коллекция Plush Pepe по количеству сделок.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760518789,
+    "message_id": 1283
   }
 ]
