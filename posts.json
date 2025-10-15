@@ -1,49 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 27,
-        "type": "text_link",
-        "url": "https://x.com/opensea/status/1976007928508449070?s=46"
-      },
-      {
-        "length": 27,
-        "offset": 36,
-        "type": "text_link",
-        "url": "http://t.me/officialopensea"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "✈️ NFT-маркетплейс OpenSea запустил официальный Telegram-канал, где будут публиковаться обновления, новости и информация о дропах.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1759952628,
-    "message_id": 1244
-  },
-  {
     "caption": "✈️ NFT-маркетплейс OpenSea запустил официальный Telegram-канал, где будут публиковаться обновления, новости и информация о дропах.",
     "caption_entities": [
       {
@@ -2651,6 +2607,50 @@
     "group_chat_created": false,
     "link_preview_options": {
       "url": "https://blog.ton.org/evaa-how-ton-s-first-billion-dollar-de-fi-protocol-is-becoming-a-community-owned-dao"
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💲 Вышла статья о крупнейшем DeFi-протоколе в сети TON — EVAA, который обработал транзакции на сумму $1,4 млрд и переходит к модели управления сообществом через токен $EVAA и DAO-структуру.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760511324,
+    "message_id": 1282
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1760511337,
+    "entities": [
+      {
+        "custom_emoji_id": "5449715707895902060",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 6,
+        "offset": 9,
+        "type": "text_link",
+        "url": "https://blog.ton.org/evaa-how-ton-s-first-billion-dollar-de-fi-protocol-is-becoming-a-community-owned-dao"
+      },
+      {
+        "length": 5,
+        "offset": 167,
+        "type": "cashtag"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
     },
     "sender_chat": {
       "id": -1002662123418,
