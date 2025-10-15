@@ -1,71 +1,5 @@
 [
   {
-    "caption": "✈️ NFT-маркетплейс OpenSea запустил официальный Telegram-канал, где будут публиковаться обновления, новости и информация о дропах.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 27,
-        "type": "text_link",
-        "url": "https://x.com/opensea/status/1976007928508449070?s=46"
-      },
-      {
-        "length": 27,
-        "offset": 36,
-        "type": "text_link",
-        "url": "http://t.me/officialopensea"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1759952687,
-    "group_chat_created": false,
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "video": {
-      "file_name": "openSea.mp4",
-      "height": 720,
-      "mime_type": "video/mp4",
-      "width": 1290,
-      "thumbnail": {
-        "height": 179,
-        "width": 320,
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgTcaOa_Lljtevnk1UZx207c7Ta_AYoAAteGAAIMaTlLUU1u0GLPCB4BAAdtAAM2BA",
-        "file_size": 3335,
-        "file_unique_id": "AQAD14YAAgxpOUty"
-      },
-      "file_id": "BAACAgIAAyEFAASerMeaAAIE3Gjmvy5Y7Xr55NVGcdtO3O02vwGKAALXhgACDGk5S1FNbtBizwgeNgQ",
-      "file_size": 9079314,
-      "file_unique_id": "AgAD14YAAgxpOUs",
-      "duration": 39,
-      "thumb": {
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgTcaOa_Lljtevnk1UZx207c7Ta_AYoAAteGAAIMaTlLUU1u0GLPCB4BAAdtAAM2BA",
-        "file_unique_id": "AQAD14YAAgxpOUty",
-        "file_size": 3335,
-        "width": 320,
-        "height": 179
-      }
-    },
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1759952628,
-    "message_id": 1244
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2660,6 +2594,77 @@
     },
     "supergroup_chat_created": false,
     "text": "💲 Вышла статья о крупнейшем DeFi-протоколе в сети TON — EVAA, который обработал транзакции на сумму $1,4 млрд и переходит к модели управления сообществом через токен $EVAA и DAO-структуру.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760511324,
+    "message_id": 1282
+  },
+  {
+    "caption": "💲 Вышла статья о крупнейшем DeFi-протоколе в сети TON — EVAA, который обработал транзакции на сумму $1,4 млрд и переходит к модели управления сообществом через токен $EVAA и DAO-структуру.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5449715707895902060",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 6,
+        "offset": 9,
+        "type": "text_link",
+        "url": "https://blog.ton.org/evaa-how-ton-s-first-billion-dollar-de-fi-protocol-is-becoming-a-community-owned-dao"
+      },
+      {
+        "length": 5,
+        "offset": 167,
+        "type": "cashtag"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1760511432,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 53,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFAmjvRcgkDXfufHOqkq5MdjhTgfQqAAKgAjIb2AJ5S_8uHP9Dt8u1AQADAgADcwADNgQ",
+        "file_size": 848,
+        "file_unique_id": "AQADoAIyG9gCeUt4"
+      },
+      {
+        "height": 190,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFAmjvRcgkDXfufHOqkq5MdjhTgfQqAAKgAjIb2AJ5S_8uHP9Dt8u1AQADAgADbQADNgQ",
+        "file_size": 10325,
+        "file_unique_id": "AQADoAIyG9gCeUty"
+      },
+      {
+        "height": 474,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFAmjvRcgkDXfufHOqkq5MdjhTgfQqAAKgAjIb2AJ5S_8uHP9Dt8u1AQADAgADeAADNgQ",
+        "file_size": 59300,
+        "file_unique_id": "AQADoAIyG9gCeUt9"
+      },
+      {
+        "height": 758,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFAmjvRcgkDXfufHOqkq5MdjhTgfQqAAKgAjIb2AJ5S_8uHP9Dt8u1AQADAgADeQADNgQ",
+        "file_size": 87521,
+        "file_unique_id": "AQADoAIyG9gCeUt-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
     "chat": {
       "id": -1002662123418,
       "title": "TON Monitoring",
