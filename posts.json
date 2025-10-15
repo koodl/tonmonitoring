@@ -1,70 +1,5 @@
 [
   {
-    "caption": "💎 Автор Dr. Awesome Doge опубликовал статью, где выразил уверенность в готовности экосистемы TON к предстоящей разблокировке 1,3 млрд токенов из фонда TON Believers Fund, связывая это с силой сообщества и развитой инфраструктурой стейкинга.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 11,
-        "offset": 26,
-        "type": "text_link",
-        "url": "https://x.com/drawesomedoge/status/1976255201058357346?s=46"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 68,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIE32joW2o0Ae38Zi3U7Dv8THzChGDFAAKX-jEblwtAS9alwUgcQuScAQADAgADcwADNgQ",
-        "file_size": 1780,
-        "file_unique_id": "AQADl_oxG5cLQEt4"
-      },
-      {
-        "height": 243,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIE32joW2o0Ae38Zi3U7Dv8THzChGDFAAKX-jEblwtAS9alwUgcQuScAQADAgADbQADNgQ",
-        "file_size": 23357,
-        "file_unique_id": "AQADl_oxG5cLQEty"
-      },
-      {
-        "height": 763,
-        "width": 1004,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIE32joW2o0Ae38Zi3U7Dv8THzChGDFAAKX-jEblwtAS9alwUgcQuScAQADAgADeQADNgQ",
-        "file_size": 69635,
-        "file_unique_id": "AQADl_oxG5cLQEt-"
-      },
-      {
-        "height": 608,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIE32joW2o0Ae38Zi3U7Dv8THzChGDFAAKX-jEblwtAS9alwUgcQuScAQADAgADeAADNgQ",
-        "file_size": 77958,
-        "file_unique_id": "AQADl_oxG5cLQEt9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760058218,
-    "message_id": 1247
-  },
-  {
     "caption": "💎 Автор Dr. Awesome Doge опубликовал статью, где выразил уверенность в готовности экосистемы TON к предстоящей разблокировке 1,3 млрд токенов из фонда TON Believers Fund, связывая это с силой сообщества и развитой инфраструктурой стейкинга. Перевод статьи.",
     "caption_entities": [
       {
@@ -2710,6 +2645,83 @@
     ],
     "channel_chat_created": false,
     "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 54,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFBWjvkPRX1lSYtFQzmGDTUCxsVb_0AAKtAjIb2AKBS6g6uqtT3q99AQADAgADcwADNgQ",
+        "file_size": 1430,
+        "file_unique_id": "AQADrQIyG9gCgUt4"
+      },
+      {
+        "height": 192,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFBWjvkPRX1lSYtFQzmGDTUCxsVb_0AAKtAjIb2AKBS6g6uqtT3q99AQADAgADbQADNgQ",
+        "file_size": 16394,
+        "file_unique_id": "AQADrQIyG9gCgUty"
+      },
+      {
+        "height": 480,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFBWjvkPRX1lSYtFQzmGDTUCxsVb_0AAKtAjIb2AKBS6g6uqtT3q99AQADAgADeAADNgQ",
+        "file_size": 53335,
+        "file_unique_id": "AQADrQIyG9gCgUt9"
+      },
+      {
+        "height": 768,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFBWjvkPRX1lSYtFQzmGDTUCxsVb_0AAKtAjIb2AKBS6g6uqtT3q99AQADAgADeQADNgQ",
+        "file_size": 63638,
+        "file_unique_id": "AQADrQIyG9gCgUt-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760530676,
+    "message_id": 1285
+  },
+  {
+    "caption": "🎁 Сервис xGift добавил команду /fire для проведения случайных розыгрышей подарков среди активных участников чата.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440615647153256792",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 5,
+        "offset": 10,
+        "type": "text_link",
+        "url": "https://t.me/xgift/?startapp=ref-d85db7ddaf2aa572bf9635a6a5e12d9d"
+      },
+      {
+        "length": 5,
+        "offset": 32,
+        "type": "bot_command"
+      },
+      {
+        "length": 10,
+        "offset": 42,
+        "type": "text_link",
+        "url": "https://t.me/xgiftnewsru/12"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1760531337,
     "group_chat_created": false,
     "photo": [
       {
