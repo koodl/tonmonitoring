@@ -10,44 +10,6 @@
         "type": "custom_emoji"
       },
       {
-        "length": 10,
-        "offset": 25,
-        "type": "text_link",
-        "url": "https://t.me/tontech/142"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 Команда Torch Finance предложила стандарт токенизированных хранилищ на TON, который вводит единый интерфейс для работы с DeFi-хранилищами.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760080244,
-    "message_id": 1248
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
         "length": 8,
         "offset": 104,
         "type": "text_link",
@@ -2761,5 +2723,55 @@
     },
     "date": 1760532135,
     "message_id": 1286
+  },
+  {
+    "caption": "💎 Вышел отчет по экосистеме за сентябрь 2025 от TON Foundation.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "document": {
+      "file_name": "2025-09.pdf",
+      "mime_type": "application/pdf",
+      "thumbnail": {
+        "height": 320,
+        "width": 226,
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgUHaPCaZXMDNmk9XEwojkt3DCv2ubYAAthRAQAB_d2BS8DmEX2VJQRsAQAHbQADNgQ",
+        "file_size": 8360,
+        "file_unique_id": "AQAD2FEBAAH93YFLcg"
+      },
+      "file_id": "BQACAgIAAyEFAASerMeaAAIFB2jwmmVzAzZpPVxMKI5Ldwwr9rm2AALYUQEAAf3dgUvA5hF9lSUEbDYE",
+      "file_size": 13169247,
+      "file_unique_id": "AgAD2FEBAAH93YFL",
+      "thumb": {
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgUHaPCaZXMDNmk9XEwojkt3DCv2ubYAAthRAQAB_d2BS8DmEX2VJQRsAQAHbQADNgQ",
+        "file_unique_id": "AQAD2FEBAAH93YFLcg",
+        "file_size": 8360,
+        "width": 226,
+        "height": 320
+      }
+    },
+    "group_chat_created": false,
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760598629,
+    "message_id": 1287
   }
 ]
