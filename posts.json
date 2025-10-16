@@ -1,43 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5314597028901190799",
-        "length": 3,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 6,
-        "offset": 28,
-        "type": "text_link",
-        "url": "https://seekingalpha.com/filing/10515857?feed_item_type=news&fr=1&utm_medium=referral&utm_source="
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🅰️ AlphaTON Capital подала заявку на продажу 7,47 млн обыкновенных акций в интересах их держателей.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760174114,
-    "message_id": 1261
-  },
-  {
     "caption": "🇺🇸 DWF Labs предложила капитальные вливания, инвестиции, займы или выкуп токенов проектам и бизнесам, пострадавшим от недавнего флеш-крэша.",
     "caption_entities": [
       {
@@ -2655,5 +2617,76 @@
     },
     "date": 1760624614,
     "message_id": 1292
+  },
+  {
+    "caption": "📦 Automobili Lamborghini через инициативу Fast ForWorld запустила коллекционные стикеры в Telegram на блокчейне TON, которые владельцы смогут использовать в чатах, обменивать и подключать к Fast ForWorld для получения эксклюзивных наград, включая цифровой Urus SE, совместимый с Motorverse от Animoca Brands, а продажи начнутся 21 октября в 17:00 CEST в @goodies.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5449670138292894907",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 57,
+        "type": "text_link",
+        "url": "https://blog.ton.org/automobili-lamborghini-debuts-telegram-collectible-stickers"
+      },
+      {
+        "length": 8,
+        "offset": 355,
+        "type": "text_link",
+        "url": "https://t.me/getgoodies_bot/Goodies?startapp=7RmMwpCaHVZU5y"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 53,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFDWjxBDpmOXAutmTd6pzObS9kGsnfAAJ4-zEb_d2JS_nRMtL2BlVRAQADAgADcwADNgQ",
+        "file_size": 950,
+        "file_unique_id": "AQADePsxG_3diUt4"
+      },
+      {
+        "height": 190,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFDWjxBDpmOXAutmTd6pzObS9kGsnfAAJ4-zEb_d2JS_nRMtL2BlVRAQADAgADbQADNgQ",
+        "file_size": 10323,
+        "file_unique_id": "AQADePsxG_3diUty"
+      },
+      {
+        "height": 474,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFDWjxBDpmOXAutmTd6pzObS9kGsnfAAJ4-zEb_d2JS_nRMtL2BlVRAQADAgADeAADNgQ",
+        "file_size": 37632,
+        "file_unique_id": "AQADePsxG_3diUt9"
+      },
+      {
+        "height": 759,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFDWjxBDpmOXAutmTd6pzObS9kGsnfAAJ4-zEb_d2JS_nRMtL2BlVRAQADAgADeQADNgQ",
+        "file_size": 47279,
+        "file_unique_id": "AQADePsxG_3diUt-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760625722,
+    "message_id": 1293
   }
 ]
