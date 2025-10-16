@@ -1,69 +1,5 @@
 [
   {
-    "caption": "✈️ Telegram запустил официального бота @bugs для приема багрепортов и предложений новых функций.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 12,
-        "type": "text_link",
-        "url": "https://t.me/telelakel/669"
-      },
-      {
-        "length": 5,
-        "offset": 39,
-        "type": "mention"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "video": {
-      "file_name": "telegram-cloud-document-2-5424651412627818017.mp4",
-      "height": 1920,
-      "mime_type": "video/mp4",
-      "width": 1920,
-      "thumbnail": {
-        "height": 320,
-        "width": 320,
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgTqaOk5DtlPXjzEBjqg3zz9Hz5O1pcAAjqKAAKXC0hLtIiDRN2fxj4BAAdtAAM2BA",
-        "file_size": 13504,
-        "file_unique_id": "AQADOooAApcLSEty"
-      },
-      "file_id": "BAACAgIAAyEFAASerMeaAAIE6mjpOQ7ZT148xAY6oN88_R8-TtaXAAI6igAClwtIS7SIg0Tdn8Y-NgQ",
-      "file_size": 3351382,
-      "file_unique_id": "AgADOooAApcLSEs",
-      "duration": 11,
-      "thumb": {
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgTqaOk5DtlPXjzEBjqg3zz9Hz5O1pcAAjqKAAKXC0hLtIiDRN2fxj4BAAdtAAM2BA",
-        "file_unique_id": "AQADOooAApcLSEty",
-        "file_size": 13504,
-        "width": 320,
-        "height": 320
-      }
-    },
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760114959,
-    "message_id": 1258
-  },
-  {
     "caption": "🅰️ AlphaTON Capital получила поздравление от Nasdaq за инициативу по токенизации финансирования исследований рака, которая была отображена на башне Nasdaq на Таймс-сквер.",
     "caption_entities": [
       {
@@ -2586,5 +2522,70 @@
     },
     "date": 1760602085,
     "message_id": 1290
+  },
+  {
+    "caption": "📦 Лига запускает лимитированную коллекцию стикеров для Telegram с продажей 1499 NFT-паков 17 октября в 14:00 МСК через Elephant Store, владельцы которых получат эксклюзивные права и доступ к будущим дропам стикерпаков клубов РПЛ.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5449670138292894907",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 14,
+        "offset": 120,
+        "type": "text_link",
+        "url": "https://t.me/ElephantStoreBot?start=_tgr_dmnc7o02NDQ6"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 72,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFC2jw39hasWtW5DzbyqClaX0r4x_OAAIIATIb_d2BS6-510zkL0B0AQADAgADcwADNgQ",
+        "file_size": 2134,
+        "file_unique_id": "AQADCAEyG_3dgUt4"
+      },
+      {
+        "height": 320,
+        "width": 256,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFC2jw39hasWtW5DzbyqClaX0r4x_OAAIIATIb_d2BS6-510zkL0B0AQADAgADbQADNgQ",
+        "file_size": 29099,
+        "file_unique_id": "AQADCAEyG_3dgUty"
+      },
+      {
+        "height": 800,
+        "width": 640,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFC2jw39hasWtW5DzbyqClaX0r4x_OAAIIATIb_d2BS6-510zkL0B0AQADAgADeAADNgQ",
+        "file_size": 99470,
+        "file_unique_id": "AQADCAEyG_3dgUt9"
+      },
+      {
+        "height": 1280,
+        "width": 1024,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFC2jw39hasWtW5DzbyqClaX0r4x_OAAIIATIb_d2BS6-510zkL0B0AQADAgADeQADNgQ",
+        "file_size": 121883,
+        "file_unique_id": "AQADCAEyG_3dgUt-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760616408,
+    "message_id": 1291
   }
 ]
