@@ -1,287 +1,5 @@
 [
   {
-    "caption": "🎙️5 дней до COINCRAFT 2.0! \n\n❤️ Уже совсем скоро состоится один из самых масштабных блокчейн-форумов России — COINCRAFT 2.0! \n\n🗓 15–16 октября 2025 года\n📍 г.Москва, VK Stadium\n\nЧто вас ждёт на COINCRAFT 2.0: \n1️⃣Основные 4 секции выступлений: Инвестиции, Майнинг, Трейдинг, Тренды и Будущее \n\n2️⃣Шоу, перформансы и интерактив — скучно точно не будет! \n\n🎤 Топовые спикеры и звёзды криптоиндустрии:\n\n🔴Марсель Миннахмедов – Инвестор с опытом более 8 лет, основатель закрытого инвест-клуба Marsel Invest\n🔴Никита Ануфриев –основатель YouTube канала «Хедлайнеры»\n🔴Рафаэль Манвелян – Автор канала «Слезы Сатоши»\n🔴Владислав Мартынов – Серийный IT-предприниматель, экс-советник Ethereum Foundation \n🔴Олег Полунин – ТОП-1 трейдер в СНГ, блогер, амбассадор ICELAB и CryptoCopy\n🔴Томас Крылов  – Представитель правления Evedex - гибридной децентрализованной биржи. \n🔴Сергей Хитров  – Основатель Blockchain Life Forum, Listing.Help, Jets.Capital \n🔴Дмитрий Климченко – Founder экосистемы THE VSЁ и гарант всего общества. \n🔴Раст Пентагон – Трейдер, основатель криптоконсалтинга Take Profit. \n\n💡 Темы: стратегии инвестиций, алгоритмическая торговля, токенизация активов (RWA), ИИ в DeFi, мем-токены и многое другое\n\nПодписывайся на официальный телеграмм канал форума и следи за всеми новостями там❤️\n\nПриобрести билет можно со скидкой 10% можно по нашему индивидуальному промокоду TONMON на сайте https://coin-craft.ru/",
-    "caption_entities": [
-      {
-        "length": 28,
-        "offset": 0,
-        "type": "bold"
-      },
-      {
-        "custom_emoji_id": "5413449210206914015",
-        "length": 2,
-        "offset": 30,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 14,
-        "offset": 111,
-        "type": "text_link",
-        "url": "https://coin-craft.ru/"
-      },
-      {
-        "length": 14,
-        "offset": 111,
-        "type": "bold"
-      },
-      {
-        "length": 9,
-        "offset": 158,
-        "type": "text_link",
-        "url": "https://xn--c1a.xn--80adxhks/"
-      },
-      {
-        "length": 31,
-        "offset": 180,
-        "type": "bold"
-      },
-      {
-        "length": 142,
-        "offset": 212,
-        "type": "blockquote"
-      },
-      {
-        "custom_emoji_id": "5249200705801037824",
-        "length": 3,
-        "offset": 212,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 10,
-        "offset": 215,
-        "type": "bold"
-      },
-      {
-        "length": 19,
-        "offset": 226,
-        "type": "bold"
-      },
-      {
-        "custom_emoji_id": "5249048268821767577",
-        "length": 3,
-        "offset": 296,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 1,
-        "offset": 353,
-        "type": "underline"
-      },
-      {
-        "length": 42,
-        "offset": 359,
-        "type": "bold"
-      },
-      {
-        "length": 41,
-        "offset": 359,
-        "type": "underline"
-      },
-      {
-        "custom_emoji_id": "5318840353510408444",
-        "length": 2,
-        "offset": 402,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 19,
-        "offset": 404,
-        "type": "bold"
-      },
-      {
-        "custom_emoji_id": "5318840353510408444",
-        "length": 2,
-        "offset": 505,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 15,
-        "offset": 507,
-        "type": "bold"
-      },
-      {
-        "custom_emoji_id": "5318840353510408444",
-        "length": 2,
-        "offset": 563,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 16,
-        "offset": 565,
-        "type": "bold"
-      },
-      {
-        "custom_emoji_id": "5318840353510408444",
-        "length": 2,
-        "offset": 612,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 18,
-        "offset": 614,
-        "type": "bold"
-      },
-      {
-        "custom_emoji_id": "5318840353510408444",
-        "length": 2,
-        "offset": 698,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 12,
-        "offset": 700,
-        "type": "bold"
-      },
-      {
-        "custom_emoji_id": "5318840353510408444",
-        "length": 2,
-        "offset": 775,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 12,
-        "offset": 777,
-        "type": "bold"
-      },
-      {
-        "custom_emoji_id": "5318840353510408444",
-        "length": 2,
-        "offset": 863,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 13,
-        "offset": 865,
-        "type": "bold"
-      },
-      {
-        "length": 13,
-        "offset": 916,
-        "type": "text_link",
-        "url": "https://listing.help/"
-      },
-      {
-        "length": 12,
-        "offset": 930,
-        "type": "text_link",
-        "url": "https://jets.capital/"
-      },
-      {
-        "custom_emoji_id": "5318840353510408444",
-        "length": 2,
-        "offset": 944,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 17,
-        "offset": 946,
-        "type": "bold"
-      },
-      {
-        "custom_emoji_id": "5318840353510408444",
-        "length": 2,
-        "offset": 1019,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 14,
-        "offset": 1021,
-        "type": "bold"
-      },
-      {
-        "length": 5,
-        "offset": 1093,
-        "type": "bold"
-      },
-      {
-        "length": 38,
-        "offset": 1213,
-        "type": "bold"
-      },
-      {
-        "length": 5,
-        "offset": 1251,
-        "type": "text_link",
-        "url": "https://t.me/forum_coincraft"
-      },
-      {
-        "length": 5,
-        "offset": 1251,
-        "type": "bold"
-      },
-      {
-        "length": 7,
-        "offset": 1256,
-        "type": "bold"
-      },
-      {
-        "custom_emoji_id": "5413728889887293537",
-        "length": 2,
-        "offset": 1294,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 14,
-        "offset": 1321,
-        "type": "bold"
-      },
-      {
-        "length": 22,
-        "offset": 1394,
-        "type": "text_link",
-        "url": "https://coin-craft.ru/"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIE5GjpEkgwYo4r_Iveic4YlAT2xEv9AAI4_TEblwtIS1aE_cgn2HSOAQADAgADcwADNgQ",
-        "file_size": 2316,
-        "file_unique_id": "AQADOP0xG5cLSEt4"
-      },
-      {
-        "height": 320,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIE5GjpEkgwYo4r_Iveic4YlAT2xEv9AAI4_TEblwtIS1aE_cgn2HSOAQADAgADbQADNgQ",
-        "file_size": 34818,
-        "file_unique_id": "AQADOP0xG5cLSEty"
-      },
-      {
-        "height": 800,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIE5GjpEkgwYo4r_Iveic4YlAT2xEv9AAI4_TEblwtIS1aE_cgn2HSOAQADAgADeAADNgQ",
-        "file_size": 131135,
-        "file_unique_id": "AQADOP0xG5cLSEt9"
-      },
-      {
-        "height": 1280,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIE5GjpEkgwYo4r_Iveic4YlAT2xEv9AAI4_TEblwtIS1aE_cgn2HSOAQADAgADeQADNgQ",
-        "file_size": 171601,
-        "file_unique_id": "AQADOP0xG5cLSEt-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760105033,
-    "message_id": 1252
-  },
-  {
     "caption": "💎 Заявление сооснователя TON Society Джека Бута о распределении $27 млн за SBT-активности вызвало недоумение в криптосообществе, участники которого сообщили о неполучении выплат.",
     "caption_entities": [
       {
@@ -2789,5 +2507,75 @@
     },
     "date": 1760598756,
     "message_id": 1288
+  },
+  {
+    "caption": "💎 Старейшая в мире криптобиржа Bitstamp открыла торги токеном $TON.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 41,
+        "type": "text_link",
+        "url": "https://t.me/toncoin_rus/1860"
+      },
+      {
+        "length": 4,
+        "offset": 63,
+        "type": "cashtag"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFCWjwooVD6tlO0NKyeGtiptdWFnPQAAL-_jEb_d2BSwND52nadOn4AQADAgADcwADNgQ",
+        "file_size": 1401,
+        "file_unique_id": "AQAD_v4xG_3dgUt4"
+      },
+      {
+        "height": 320,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFCWjwooVD6tlO0NKyeGtiptdWFnPQAAL-_jEb_d2BSwND52nadOn4AQADAgADbQADNgQ",
+        "file_size": 16074,
+        "file_unique_id": "AQAD_v4xG_3dgUty"
+      },
+      {
+        "height": 800,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFCWjwooVD6tlO0NKyeGtiptdWFnPQAAL-_jEb_d2BSwND52nadOn4AQADAgADeAADNgQ",
+        "file_size": 96089,
+        "file_unique_id": "AQAD_v4xG_3dgUt9"
+      },
+      {
+        "height": 1280,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFCWjwooVD6tlO0NKyeGtiptdWFnPQAAL-_jEb_d2BSwND52nadOn4AQADAgADeQADNgQ",
+        "file_size": 147948,
+        "file_unique_id": "AQAD_v4xG_3dgUt-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760600709,
+    "message_id": 1289
   }
 ]
