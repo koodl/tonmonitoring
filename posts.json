@@ -2,44 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5238004177031953682",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 30,
-        "type": "text_link",
-        "url": "https://www.tipranks.com/news/company-announcements/ton-strategy-faces-nasdaq-compliance-challenge"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 Nasdaq 9 октября 2025 года уведомила TON Strategy Company о несоблюдении правил листинга, связанных с выпуском акций 7 августа, и дала компании 45 дней на предоставление плана по восстановлению соответствия.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760177990,
-    "message_id": 1263
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1760178025,
     "entities": [
       {
@@ -2637,6 +2599,55 @@
       {
         "length": 10,
         "offset": 20,
+        "type": "code"
+      },
+      {
+        "length": 10,
+        "offset": 38,
+        "type": "text_link",
+        "url": "https://t.me/tondev_news/246"
+      },
+      {
+        "length": 7,
+        "offset": 71,
+        "type": "url"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 В мажорном релизе @ton/ton v16.0.0 исправлена обнаруженная командой Ston.fi ошибка в Wallet V5, которая приводила к неверному порядку сообщений.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760640519,
+    "message_id": 1294
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1760640897,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 21,
         "type": "code"
       },
       {
