@@ -1,63 +1,5 @@
 [
   {
-    "caption": "🅰️ AlphaTON Capital получила поздравление от Nasdaq за инициативу по токенизации финансирования исследований рака, которая была отображена на башне Nasdaq на Таймс-сквер.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5314597028901190799",
-        "length": 3,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 21,
-        "type": "text_link",
-        "url": "https://www.globenewswire.com/news-release/2025/10/10/3164835/0/en/AlphaTON-Capital-Receives-Nasdaq-Congratulations-for-Groundbreaking-Cancer-Research-Tokenization-Initiative.html"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 60,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIE62jpVbyJ6NYL5dnQzhrvypYZ2q6AAALJ_jEblwtISwvaZ1F-HlxsAQADAgADcwADNgQ",
-        "file_size": 1902,
-        "file_unique_id": "AQADyf4xG5cLSEt4"
-      },
-      {
-        "height": 214,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIE62jpVbyJ6NYL5dnQzhrvypYZ2q6AAALJ_jEblwtISwvaZ1F-HlxsAQADAgADbQADNgQ",
-        "file_size": 29607,
-        "file_unique_id": "AQADyf4xG5cLSEty"
-      },
-      {
-        "height": 514,
-        "width": 768,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIE62jpVbyJ6NYL5dnQzhrvypYZ2q6AAALJ_jEblwtISwvaZ1F-HlxsAQADAgADeAADNgQ",
-        "file_size": 90757,
-        "file_unique_id": "AQADyf4xG5cLSEt9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760122300,
-    "message_id": 1259
-  },
-  {
     "caption": "📈🅰️ AlphaTON Capital получила поздравление от Nasdaq за инициативу по токенизации финансирования исследований рака, которая была отображена на башне Nasdaq на Таймс-сквер.",
     "caption_entities": [
       {
@@ -2587,5 +2529,76 @@
     },
     "date": 1760616408,
     "message_id": 1291
+  },
+  {
+    "caption": "💎 Маркетплейс Getgems предоставил возможность оплачивать подписку Telegram Premium в TON  без KYC через сайт и мини-апп.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5442796949373740481",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 4,
+        "offset": 105,
+        "type": "text_link",
+        "url": "https://getgems.io/"
+      },
+      {
+        "length": 9,
+        "offset": 112,
+        "type": "text_link",
+        "url": "https://t.me/GetgemsNftBot/gems?startapp=L3B1cmNoYXNlLXN0YXJzP3dpdGhfcHJlbWl1bT0xJnV0bV9zb3VyY2U9dGdjaGFubmVsJnV0bV9tZWRpdW09b3JnYW5pYyZ1dG1fY2FtcGFpZ249dGdfcHJlbWl1bSZ1dG1fY29udGVudD1wb3N0"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFDGjw_-Z_17qJqTCkXiCHmV0GK9IxAAJb-zEb_d2JS2bZO_nbF9jvAQADAgADcwADNgQ",
+        "file_size": 1358,
+        "file_unique_id": "AQADW_sxG_3diUt4"
+      },
+      {
+        "height": 320,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFDGjw_-Z_17qJqTCkXiCHmV0GK9IxAAJb-zEb_d2JS2bZO_nbF9jvAQADAgADbQADNgQ",
+        "file_size": 16608,
+        "file_unique_id": "AQADW_sxG_3diUty"
+      },
+      {
+        "height": 800,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFDGjw_-Z_17qJqTCkXiCHmV0GK9IxAAJb-zEb_d2JS2bZO_nbF9jvAQADAgADeAADNgQ",
+        "file_size": 55386,
+        "file_unique_id": "AQADW_sxG_3diUt9"
+      },
+      {
+        "height": 1280,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFDGjw_-Z_17qJqTCkXiCHmV0GK9IxAAJb-zEb_d2JS2bZO_nbF9jvAQADAgADeQADNgQ",
+        "file_size": 67377,
+        "file_unique_id": "AQADW_sxG_3diUt-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760624614,
+    "message_id": 1292
   }
 ]
