@@ -1,57 +1,5 @@
 [
   {
-    "caption": "🎁 Ончейн подарки теперь можно добавить в профиль Telegram.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440615647153256792",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 69,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIE6GjpMa_CaqeHTDta1itfj-6IRkQQAAL5_TEblwtIS-iIQEj2lZyWAQADAgADcwADNgQ",
-        "file_size": 1164,
-        "file_unique_id": "AQAD-f0xG5cLSEt4"
-      },
-      {
-        "height": 244,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIE6GjpMa_CaqeHTDta1itfj-6IRkQQAAL5_TEblwtIS-iIQEj2lZyWAQADAgADbQADNgQ",
-        "file_size": 13960,
-        "file_unique_id": "AQAD-f0xG5cLSEty"
-      },
-      {
-        "height": 582,
-        "width": 764,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIE6GjpMa_CaqeHTDta1itfj-6IRkQQAAL5_TEblwtIS-iIQEj2lZyWAQADAgADeAADNgQ",
-        "file_size": 34132,
-        "file_unique_id": "AQAD-f0xG5cLSEt9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760113071,
-    "message_id": 1256
-  },
-  {
     "caption": "✈️ Telegram выпустил обновление v12.1.0, добавив комментарии и реакции в групповых звонках.",
     "caption_entities": [
       {
@@ -2587,5 +2535,56 @@
     },
     "date": 1760602085,
     "message_id": 1290
+  },
+  {
+    "caption": "💎 Вышел отчет по экосистеме за сентябрь 2025 от TON Foundation.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "document": {
+      "file_name": "2025-09.pdf",
+      "mime_type": "application/pdf",
+      "thumbnail": {
+        "height": 320,
+        "width": 226,
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgUHaPCaZXMDNmk9XEwojkt3DCv2ubYAAthRAQAB_d2BS8DmEX2VJQRsAQAHbQADNgQ",
+        "file_size": 8360,
+        "file_unique_id": "AQAD2FEBAAH93YFLcg"
+      },
+      "file_id": "BQACAgIAAyEFAASerMeaAAIFB2jwmmVzAzZpPVxMKI5Ldwwr9rm2AALYUQEAAf3dgUvA5hF9lSUEbDYE",
+      "file_size": 13169247,
+      "file_unique_id": "AgAD2FEBAAH93YFL",
+      "thumb": {
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgUHaPCaZXMDNmk9XEwojkt3DCv2ubYAAthRAQAB_d2BS8DmEX2VJQRsAQAHbQADNgQ",
+        "file_unique_id": "AQAD2FEBAAH93YFLcg",
+        "file_size": 8360,
+        "width": 226,
+        "height": 320
+      }
+    },
+    "edit_date": 1760613787,
+    "group_chat_created": false,
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760598629,
+    "message_id": 1287
   }
 ]
