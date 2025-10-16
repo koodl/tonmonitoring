@@ -2,36 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "edit_date": 1760138887,
-    "entities": [
-      {
-        "custom_emoji_id": "5238004177031953682",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      }
-    ],
-    "group_chat_created": false,
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 CEO Вероника Капустина и CFO и COO Sarah Josephine Olsen 7 октября получили по 631 864 акции (RSU) компании TON Strategy Co в рамках программы мотивации сотрудников.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760096565,
-    "message_id": 1251
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "entities": [
       {
         "custom_emoji_id": "5314597028901190799",
@@ -2561,6 +2531,84 @@
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "edit_date": 1760624635,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFDGjw_-Z_17qJqTCkXiCHmV0GK9IxAAJb-zEb_d2JS2bZO_nbF9jvAQADAgADcwADNgQ",
+        "file_size": 1358,
+        "file_unique_id": "AQADW_sxG_3diUt4"
+      },
+      {
+        "height": 320,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFDGjw_-Z_17qJqTCkXiCHmV0GK9IxAAJb-zEb_d2JS2bZO_nbF9jvAQADAgADbQADNgQ",
+        "file_size": 16608,
+        "file_unique_id": "AQADW_sxG_3diUty"
+      },
+      {
+        "height": 800,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFDGjw_-Z_17qJqTCkXiCHmV0GK9IxAAJb-zEb_d2JS2bZO_nbF9jvAQADAgADeAADNgQ",
+        "file_size": 55386,
+        "file_unique_id": "AQADW_sxG_3diUt9"
+      },
+      {
+        "height": 1280,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFDGjw_-Z_17qJqTCkXiCHmV0GK9IxAAJb-zEb_d2JS2bZO_nbF9jvAQADAgADeQADNgQ",
+        "file_size": 67377,
+        "file_unique_id": "AQADW_sxG_3diUt-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760624614,
+    "message_id": 1292
+  },
+  {
+    "caption": "💎 Маркетплейс Getgems предоставил возможность оплачивать подписку Telegram Premium в TON без KYC через сайт и мини-апп.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5442796949373740481",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 11,
+        "offset": 23,
+        "type": "text_link",
+        "url": "https://t.me/getgemsrus/998"
+      },
+      {
+        "length": 4,
+        "offset": 104,
+        "type": "text_link",
+        "url": "https://getgems.io/"
+      },
+      {
+        "length": 9,
+        "offset": 111,
+        "type": "text_link",
+        "url": "https://t.me/GetgemsNftBot/gems?startapp=L3B1cmNoYXNlLXN0YXJzP3dpdGhfcHJlbWl1bT0xJnV0bV9zb3VyY2U9dGdjaGFubmVsJnV0bV9tZWRpdW09b3JnYW5pYyZ1dG1fY2FtcGFpZ249dGdfcHJlbWl1bSZ1dG1fY29udGVudD1wb3N0"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1760624804,
     "group_chat_created": false,
     "photo": [
       {
