@@ -1,58 +1,5 @@
 [
   {
-    "caption": "👛 В Crypto Wallet появилась функция автоматической продажи криптовалют (TON, USDT, BTC и других) с выводом средств на банковскую карту через партнера Mercuryo.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440704428422229664",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "video": {
-      "file_name": "IMG_4985.MP4",
-      "height": 848,
-      "mime_type": "video/mp4",
-      "width": 848,
-      "thumbnail": {
-        "height": 320,
-        "width": 320,
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgTiaOjjG3gLZnak5IAjfInqKIxHs4MAAuaQAAKXC0BL73u5iJCwF6UBAAdtAAM2BA",
-        "file_size": 17239,
-        "file_unique_id": "AQAD5pAAApcLQEty"
-      },
-      "file_id": "BAACAgIAAyEFAASerMeaAAIE4mjo4xt4C2Z2pOSAI3yJ6iiMR7ODAALmkAAClwtAS-97uYiQsBelNgQ",
-      "file_size": 2470701,
-      "file_unique_id": "AgAD5pAAApcLQEs",
-      "duration": 17,
-      "thumb": {
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgTiaOjjG3gLZnak5IAjfInqKIxHs4MAAuaQAAKXC0BL73u5iJCwF6UBAAdtAAM2BA",
-        "file_unique_id": "AQAD5pAAApcLQEty",
-        "file_size": 17239,
-        "width": 320,
-        "height": 320
-      }
-    },
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760092955,
-    "message_id": 1250
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2764,5 +2711,82 @@
     },
     "date": 1760598756,
     "message_id": 1288
+  },
+  {
+    "caption": "🎁 Сервис xGift добавил команду /fire для проведения случайных розыгрышей подарков среди активных участников чата.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440615647153256792",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 5,
+        "offset": 10,
+        "type": "text_link",
+        "url": "https://t.me/xgift/?startapp=ref-d85db7ddaf2aa572bf9635a6a5e12d9d"
+      },
+      {
+        "length": 5,
+        "offset": 32,
+        "type": "bot_command"
+      },
+      {
+        "length": 10,
+        "offset": 42,
+        "type": "text_link",
+        "url": "https://t.me/xgiftnewsru/12"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1760599274,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 54,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFBWjvkPRX1lSYtFQzmGDTUCxsVb_0AAKtAjIb2AKBS6g6uqtT3q99AQADAgADcwADNgQ",
+        "file_size": 1430,
+        "file_unique_id": "AQADrQIyG9gCgUt4"
+      },
+      {
+        "height": 192,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFBWjvkPRX1lSYtFQzmGDTUCxsVb_0AAKtAjIb2AKBS6g6uqtT3q99AQADAgADbQADNgQ",
+        "file_size": 16394,
+        "file_unique_id": "AQADrQIyG9gCgUty"
+      },
+      {
+        "height": 480,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFBWjvkPRX1lSYtFQzmGDTUCxsVb_0AAKtAjIb2AKBS6g6uqtT3q99AQADAgADeAADNgQ",
+        "file_size": 53335,
+        "file_unique_id": "AQADrQIyG9gCgUt9"
+      },
+      {
+        "height": 768,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFBWjvkPRX1lSYtFQzmGDTUCxsVb_0AAKtAjIb2AKBS6g6uqtT3q99AQADAgADeQADNgQ",
+        "file_size": 63638,
+        "file_unique_id": "AQADrQIyG9gCgUt-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760530676,
+    "message_id": 1285
   }
 ]
