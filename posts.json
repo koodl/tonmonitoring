@@ -1,76 +1,5 @@
 [
   {
-    "caption": "💎 Заявление сооснователя TON Society Джека Бута о распределении $27 млн за SBT-активности вызвало недоумение в криптосообществе, участники которого сообщили о неполучении выплат.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 3,
-        "type": "text_link",
-        "url": "https://t.me/kuznetsovton/1545?comment=88859"
-      },
-      {
-        "length": 7,
-        "offset": 91,
-        "type": "text_link",
-        "url": "https://t.me/c/2355186724/1967"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 69,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIE5WjpHCC_n-_LwdvTCXSW9EAGB2rLAAJy_TEblwtIS_7P_ZdPwzHIAQADAgADcwADNgQ",
-        "file_size": 1604,
-        "file_unique_id": "AQADcv0xG5cLSEt4"
-      },
-      {
-        "height": 320,
-        "width": 245,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIE5WjpHCC_n-_LwdvTCXSW9EAGB2rLAAJy_TEblwtIS_7P_ZdPwzHIAQADAgADbQADNgQ",
-        "file_size": 29643,
-        "file_unique_id": "AQADcv0xG5cLSEty"
-      },
-      {
-        "height": 800,
-        "width": 613,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIE5WjpHCC_n-_LwdvTCXSW9EAGB2rLAAJy_TEblwtIS_7P_ZdPwzHIAQADAgADeAADNgQ",
-        "file_size": 106689,
-        "file_unique_id": "AQADcv0xG5cLSEt9"
-      },
-      {
-        "height": 1280,
-        "width": 981,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIE5WjpHCC_n-_LwdvTCXSW9EAGB2rLAAJy_TEblwtIS_7P_ZdPwzHIAQADAgADeQADNgQ",
-        "file_size": 134540,
-        "file_unique_id": "AQADcv0xG5cLSEt-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760107552,
-    "message_id": 1253
-  },
-  {
     "caption": "🎁 Появились новые подарки.",
     "caption_entities": [
       {
@@ -2531,6 +2460,83 @@
     ],
     "channel_chat_created": false,
     "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFCWjwooVD6tlO0NKyeGtiptdWFnPQAAL-_jEb_d2BSwND52nadOn4AQADAgADcwADNgQ",
+        "file_size": 1401,
+        "file_unique_id": "AQAD_v4xG_3dgUt4"
+      },
+      {
+        "height": 320,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFCWjwooVD6tlO0NKyeGtiptdWFnPQAAL-_jEb_d2BSwND52nadOn4AQADAgADbQADNgQ",
+        "file_size": 16074,
+        "file_unique_id": "AQAD_v4xG_3dgUty"
+      },
+      {
+        "height": 800,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFCWjwooVD6tlO0NKyeGtiptdWFnPQAAL-_jEb_d2BSwND52nadOn4AQADAgADeAADNgQ",
+        "file_size": 96089,
+        "file_unique_id": "AQAD_v4xG_3dgUt9"
+      },
+      {
+        "height": 1280,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFCWjwooVD6tlO0NKyeGtiptdWFnPQAAL-_jEb_d2BSwND52nadOn4AQADAgADeQADNgQ",
+        "file_size": 147948,
+        "file_unique_id": "AQAD_v4xG_3dgUt-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760600709,
+    "message_id": 1289
+  },
+  {
+    "caption": "💎 Старейшая в мире криптобиржа Bitstamp открыла торги токеном $TON.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 32,
+        "type": "text_link",
+        "url": "https://www.bitstamp.net/markets/ton/usd/"
+      },
+      {
+        "length": 7,
+        "offset": 41,
+        "type": "text_link",
+        "url": "https://t.me/toncoin_rus/1860"
+      },
+      {
+        "length": 4,
+        "offset": 63,
+        "type": "cashtag"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1760600855,
     "group_chat_created": false,
     "photo": [
       {
