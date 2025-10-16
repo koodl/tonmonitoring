@@ -1,70 +1,5 @@
 [
   {
-    "caption": "🇺🇸 DWF Labs предложила капитальные вливания, инвестиции, займы или выкуп токенов проектам и бизнесам, пострадавшим от недавнего флеш-крэша.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5456259086276391536",
-        "length": 4,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 10,
-        "offset": 14,
-        "type": "text_link",
-        "url": "https://x.com/ag_dwf/status/1976929576984232341?s=46"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 60,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIE7mjqLdTG2UdfPC6ZCEVxIcqcC6NPAAIC-TEbFDVRS37-7zCUPsh7AQADAgADcwADNgQ",
-        "file_size": 1409,
-        "file_unique_id": "AQADAvkxGxQ1UUt4"
-      },
-      {
-        "height": 213,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIE7mjqLdTG2UdfPC6ZCEVxIcqcC6NPAAIC-TEbFDVRS37-7zCUPsh7AQADAgADbQADNgQ",
-        "file_size": 19997,
-        "file_unique_id": "AQADAvkxGxQ1UUty"
-      },
-      {
-        "height": 532,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIE7mjqLdTG2UdfPC6ZCEVxIcqcC6NPAAIC-TEbFDVRS37-7zCUPsh7AQADAgADeAADNgQ",
-        "file_size": 71413,
-        "file_unique_id": "AQADAvkxGxQ1UUt9"
-      },
-      {
-        "height": 748,
-        "width": 1125,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIE7mjqLdTG2UdfPC6ZCEVxIcqcC6NPAAIC-TEbFDVRS37-7zCUPsh7AQADAgADeQADNgQ",
-        "file_size": 74606,
-        "file_unique_id": "AQADAvkxGxQ1UUt-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760177620,
-    "message_id": 1262
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2688,5 +2623,53 @@
     },
     "date": 1760625722,
     "message_id": 1293
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 10,
+        "offset": 20,
+        "type": "code"
+      },
+      {
+        "length": 10,
+        "offset": 38,
+        "type": "text_link",
+        "url": "https://t.me/tondev_news/246"
+      },
+      {
+        "length": 7,
+        "offset": 71,
+        "type": "url"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 В мажорном релизе @ton/ton v16.0.0 исправлена обнаруженная командой Ston.fi ошибка в Wallet V5, которая приводила к неверному порядку сообщений.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760640519,
+    "message_id": 1294
   }
 ]
