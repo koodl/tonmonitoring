@@ -1,43 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 104,
-        "type": "text_link",
-        "url": "https://t.me/pgrton/1284"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 На фоне снижения ончейн-активности пользователей совокупный приток Toncoin на централизованные биржи составил 0,6 млн TON, при этом пулы TON/USDT на DEX за неделю потеряли 0,59 млн USDT.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760080429,
-    "message_id": 1249
-  },
-  {
     "caption": "👛 В Crypto Wallet появилась функция автоматической продажи криптовалют (TON, USDT, BTC и других) с выводом средств на банковскую карту через партнера Mercuryo.",
     "caption_entities": [
       {
@@ -2773,5 +2735,34 @@
     },
     "date": 1760598629,
     "message_id": 1287
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      }
+    ],
+    "group_chat_created": false,
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 Сентябрь в цифрах\nКлючевые метрики:\n⋅ 196 новых проектов зарегистрировано на TON Builders Portal\n⋅ 116 новых заявок на поддержку экосистемы\n⋅ 98 проектов получили маркетинговую поддержку от TF/TON Hubs\n⋅ 100K новых пользователей TApps (47 новых приложений)\n⋅ $16.1M общий объем торговли NFT\n⋅ $193.9M объем Ethena на TON (рост держателей на 26%)\n⋅ $430M+ общий объем TONCO (32% рынка DEX TON)",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760598756,
+    "message_id": 1288
   }
 ]
