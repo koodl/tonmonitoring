@@ -2,51 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "edit_date": 1760178031,
-    "entities": [
-      {
-        "custom_emoji_id": "5449424049551733716",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "custom_emoji_id": "5238004177031953682",
-        "length": 2,
-        "offset": 2,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 32,
-        "type": "text_link",
-        "url": "https://www.tipranks.com/news/company-announcements/ton-strategy-faces-nasdaq-compliance-challenge"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "📈💎 Nasdaq 9 октября 2025 года уведомила TON Strategy Company о несоблюдении правил листинга, связанных с выпуском акций 7 августа, и дала компании 45 дней на предоставление плана по восстановлению соответствия.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760177990,
-    "message_id": 1263
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "entities": [
       {
         "custom_emoji_id": "5440700872189306557",
@@ -2702,5 +2657,75 @@
     },
     "date": 1760700591,
     "message_id": 1295
+  },
+  {
+    "caption": "🧱 Сообщество @builders объявило конкурс идей для продуктов в Telegram с призовым фондом в $3 000, дедлайном 30 октября и вступительным взносом в 1 TON.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5442689837184345354",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 14,
+        "type": "mention"
+      },
+      {
+        "length": 8,
+        "offset": 24,
+        "type": "text_link",
+        "url": "https://t.me/builders/300"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 53,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFEGjyOpPQjRUKW91oHJaNOKPufGMJAAJx_jEb7EmZS7ySzSBLTboVAQADAgADcwADNgQ",
+        "file_size": 697,
+        "file_unique_id": "AQADcf4xG-xJmUt4"
+      },
+      {
+        "height": 190,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFEGjyOpPQjRUKW91oHJaNOKPufGMJAAJx_jEb7EmZS7ySzSBLTboVAQADAgADbQADNgQ",
+        "file_size": 6088,
+        "file_unique_id": "AQADcf4xG-xJmUty"
+      },
+      {
+        "height": 640,
+        "width": 1080,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFEGjyOpPQjRUKW91oHJaNOKPufGMJAAJx_jEb7EmZS7ySzSBLTboVAQADAgADeQADNgQ",
+        "file_size": 18800,
+        "file_unique_id": "AQADcf4xG-xJmUt-"
+      },
+      {
+        "height": 474,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFEGjyOpPQjRUKW91oHJaNOKPufGMJAAJx_jEb7EmZS7ySzSBLTboVAQADAgADeAADNgQ",
+        "file_size": 21298,
+        "file_unique_id": "AQADcf4xG-xJmUt9"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760705171,
+    "message_id": 1296
   }
 ]
