@@ -2,44 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 16,
-        "offset": 19,
-        "type": "text_link",
-        "url": "https://t.me/miutalk/92893"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 Проект Fintopio приостанавливает работу и закрывает свои DeFi- и CeFi-кошельки, предлагая пользователям вывести средства до 31 октября 2025 года.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760184424,
-    "message_id": 1265
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1760184490,
     "entities": [
       {
@@ -2754,5 +2716,49 @@
     },
     "date": 1760707996,
     "message_id": 1297
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5447595991211471135",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 18,
+        "offset": 3,
+        "type": "text_link",
+        "url": "https://t.me/tonnel_network_bot/gifts?startapp=ref_659773038"
+      },
+      {
+        "length": 11,
+        "offset": 30,
+        "type": "text_link",
+        "url": "https://t.me/tonnel_en/1541"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🔄 Tonnel Marketplace добавил возможность аренды юзернеймов и анонимных номеров Telegram.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760715073,
+    "message_id": 1298
   }
 ]
