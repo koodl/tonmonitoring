@@ -2,45 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "edit_date": 1760184490,
-    "entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 16,
-        "offset": 19,
-        "type": "text_link",
-        "url": "https://t.me/fintopiochannel/268"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 Проект Fintopio приостанавливает работу и закрывает свои DeFi- и CeFi-кошельки, предлагая пользователям вывести средства до 31 октября 2025 года.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760184424,
-    "message_id": 1265
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "entities": [
       {
         "custom_emoji_id": "5440615647153256792",
@@ -2760,5 +2721,43 @@
     },
     "date": 1760715073,
     "message_id": 1298
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 44,
+        "type": "text_link",
+        "url": "https://t.me/pgrton/1295"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 Совокупный отток с централизованных бирж составил 12,2 млн TON, пулы TON/USDT на основных DEX за неделю сократились на 1,07 млн USDT (-13,8%), при этом ончейн активность пользователей демонстрирует минимальный рост.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760719769,
+    "message_id": 1299
   }
 ]
