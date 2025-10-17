@@ -2,44 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440615647153256792",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 13,
-        "type": "text_link",
-        "url": "https://t.me/gift_newstg/4349"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "url": "https://t.me/gift_newstg/4349"
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🎁 Мошенники продают каналы с арендованными NFT-подарками.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760188418,
-    "message_id": 1266
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1760188424,
     "entities": [
       {
@@ -2759,5 +2721,70 @@
     },
     "date": 1760719769,
     "message_id": 1299
+  },
+  {
+    "caption": "🪙 TON Memelandia обновила гайд по экосистеме Memelandia 2.0, представив набор приложений для создания, торговли и анализа мемкоинов.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5197450760815668186",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 10,
+        "offset": 62,
+        "type": "text_link",
+        "url": "https://ton.org/en/memelandia"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 46,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFFGjyhaY2kEQXyrXnKHXDMx861kaJAAK_ATIb7EmZS7CIPjD7ORLKAQADAgADcwADNgQ",
+        "file_size": 1257,
+        "file_unique_id": "AQADvwEyG-xJmUt4"
+      },
+      {
+        "height": 165,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFFGjyhaY2kEQXyrXnKHXDMx861kaJAAK_ATIb7EmZS7CIPjD7ORLKAQADAgADbQADNgQ",
+        "file_size": 11655,
+        "file_unique_id": "AQADvwEyG-xJmUty"
+      },
+      {
+        "height": 412,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFFGjyhaY2kEQXyrXnKHXDMx861kaJAAK_ATIb7EmZS7CIPjD7ORLKAQADAgADeAADNgQ",
+        "file_size": 40036,
+        "file_unique_id": "AQADvwEyG-xJmUt9"
+      },
+      {
+        "height": 579,
+        "width": 1125,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFFGjyhaY2kEQXyrXnKHXDMx861kaJAAK_ATIb7EmZS7CIPjD7ORLKAQADAgADeQADNgQ",
+        "file_size": 41362,
+        "file_unique_id": "AQADvwEyG-xJmUt-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760724390,
+    "message_id": 1300
   }
 ]
