@@ -2,51 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "edit_date": 1760178025,
-    "entities": [
-      {
-        "custom_emoji_id": "5449424049551733716",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "custom_emoji_id": "5238004177031953682",
-        "length": 2,
-        "offset": 2,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 32,
-        "type": "text_link",
-        "url": "https://www.tipranks.com/news/company-announcements/ton-strategy-faces-nasdaq-compliance-challenge"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "url": "https://www.tipranks.com/news/company-announcements/ton-strategy-faces-nasdaq-compliance-challenge"
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "📈💎 Nasdaq 9 октября 2025 года уведомила TON Strategy Company о несоблюдении правил листинга, связанных с выпуском акций 7 августа, и дала компании 45 дней на предоставление плана по восстановлению соответствия.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760177990,
-    "message_id": 1263
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1760178031,
     "entities": [
       {
@@ -2682,5 +2637,70 @@
     },
     "date": 1760640519,
     "message_id": 1294
+  },
+  {
+    "caption": "✈️ Вышел неофициальный Telegram-клиент Telega, предположительно от «ВКонтакте», со встроенным прокси, лентой контента и функцией родительского контроля.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 16,
+        "offset": 47,
+        "type": "text_link",
+        "url": "https://t.me/pvxblog/2734"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 51,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFD2jyKK-YlgKPqhIHeY4zcLFqbMYlAAL7_TEb7EmZSy4IXZo-YBTaAQADAgADcwADNgQ",
+        "file_size": 1141,
+        "file_unique_id": "AQAD-_0xG-xJmUt4"
+      },
+      {
+        "height": 320,
+        "width": 180,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFD2jyKK-YlgKPqhIHeY4zcLFqbMYlAAL7_TEb7EmZSy4IXZo-YBTaAQADAgADbQADNgQ",
+        "file_size": 11826,
+        "file_unique_id": "AQAD-_0xG-xJmUty"
+      },
+      {
+        "height": 800,
+        "width": 449,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFD2jyKK-YlgKPqhIHeY4zcLFqbMYlAAL7_TEb7EmZSy4IXZo-YBTaAQADAgADeAADNgQ",
+        "file_size": 44619,
+        "file_unique_id": "AQAD-_0xG-xJmUt9"
+      },
+      {
+        "height": 1280,
+        "width": 719,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFD2jyKK-YlgKPqhIHeY4zcLFqbMYlAAL7_TEb7EmZSy4IXZo-YBTaAQADAgADeQADNgQ",
+        "file_size": 55079,
+        "file_unique_id": "AQAD-_0xG-xJmUt-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760700591,
+    "message_id": 1295
   }
 ]
