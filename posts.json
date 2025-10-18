@@ -1,44 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1760341601,
-    "entities": [
-      {
-        "custom_emoji_id": "5314597028901190799",
-        "length": 3,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 30,
-        "type": "text_link",
-        "url": "https://www.binance.com/en/square/post/10-13-2025-alphaton-capital-expands-ton-holdings-amid-stable-market-conditions-30940987054929"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🅰️ Компания AlphaTON Capital приобрела на открытом рынке еще 300 000 TON вдобавок к купленным на прошлой неделе 1,1 млн TON.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760329484,
-    "message_id": 1270
-  },
-  {
     "caption": "🅰️ AlphaTON Capital (Nasdaq: ATON) стала партнером Morpheus AI (Ethereum: $MOR) для создания децентрализованной инфраструктуры для разработки ИИ-агентов в экосистеме TON и Telegram.",
     "caption_entities": [
       {
@@ -2935,5 +2896,63 @@
     },
     "date": 1760789215,
     "message_id": 1301
+  },
+  {
+    "caption": "Gift Teleport — концепт передачи подарков одним касанием.",
+    "caption_entities": [
+      {
+        "length": 13,
+        "offset": 0,
+        "type": "bold"
+      },
+      {
+        "length": 7,
+        "offset": 16,
+        "type": "text_link",
+        "url": "https://t.me/tondesign/93"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "video": {
+      "file_name": "IMG_5036.MP4",
+      "height": 720,
+      "mime_type": "video/mp4",
+      "width": 1280,
+      "thumbnail": {
+        "height": 180,
+        "width": 320,
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgUWaPO_KN0MCyF5YHmHRehcJ7ddRogAAtWTAALsSaFLyhWNmlorjakBAAdtAAM2BA",
+        "file_size": 2745,
+        "file_unique_id": "AQAD1ZMAAuxJoUty"
+      },
+      "file_id": "BAACAgIAAyEFAASerMeaAAIFFmjzvyjdDAsheWB5h0XoXCe3XUaIAALVkwAC7EmhS8oVjZpaK42pNgQ",
+      "file_size": 7130921,
+      "file_unique_id": "AgAD1ZMAAuxJoUs",
+      "duration": 22,
+      "thumb": {
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgUWaPO_KN0MCyF5YHmHRehcJ7ddRogAAtWTAALsSaFLyhWNmlorjakBAAdtAAM2BA",
+        "file_unique_id": "AQAD1ZMAAuxJoUty",
+        "file_size": 2745,
+        "width": 320,
+        "height": 180
+      }
+    },
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760804649,
+    "message_id": 1302
   }
 ]
