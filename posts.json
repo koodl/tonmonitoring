@@ -2,45 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "edit_date": 1760329772,
-    "entities": [
-      {
-        "custom_emoji_id": "5314597028901190799",
-        "length": 3,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 30,
-        "type": "text_link",
-        "url": "https://www.binance.com/en/square/post/10-13-2025-alphaton-capital-expands-ton-holdings-amid-stable-market-conditions-30940987054929"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🅰️ Компания AlphaTON Capital приобрела на открытом рынке еще 300 000 TON вдобавок к купленным на прошлой неделе 1,1 млн TON.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760329484,
-    "message_id": 1270
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1760341601,
     "entities": [
       {
@@ -2918,6 +2879,45 @@
     "group_chat_created": false,
     "link_preview_options": {
       "url": "https://t.me/tonm_app/19"
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 TON Messenger объявил о планах внедрения системы защиты от мошенников, основанной на механизме приглашений и анонимной верификации Proof of Humanity через World ID, позволяющей блокировать спам‑ботов и ограничивать их участие в опросах и розыгрышах только для реальных пользователей.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760789215,
+    "message_id": 1301
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1760789425,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 17,
+        "type": "text_link",
+        "url": "https://t.me/tonm_app/19"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
     },
     "sender_chat": {
       "id": -1002662123418,
