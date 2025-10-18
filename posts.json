@@ -4,44 +4,6 @@
     "delete_chat_photo": false,
     "entities": [
       {
-        "custom_emoji_id": "5449670138292894907",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 12,
-        "offset": 49,
-        "type": "text_link",
-        "url": "https://t.me/bugs?startapp=c-54902"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "📦 На официальной платформе предложений Telegram опубликована инициатива по интеграции NFT-стикеров, сообщество собирает лайки.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760292462,
-    "message_id": 1269
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
         "custom_emoji_id": "5314597028901190799",
         "length": 3,
         "offset": 0,
@@ -2934,5 +2896,43 @@
     },
     "date": 1759252499,
     "message_id": 1175
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 17,
+        "type": "text_link",
+        "url": "https://t.me/tonm_app/19"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 TON Messenger объявил о планах внедрения системы защиты от мошенников, основанной на механизме приглашений и анонимной верификации Proof of Humanity через World ID, позволяющей блокировать спам‑ботов и ограничивать участие в опросах и розыгрышах только для реальных пользователей.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760789215,
+    "message_id": 1301
   }
 ]
