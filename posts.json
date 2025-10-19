@@ -1,64 +1,5 @@
 [
   {
-    "caption": "✈️ Представлен концепт полноэкранного текстового редактора, который открывается свайпом вверх или нажатием на специальную иконку.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 15,
-        "type": "text_link",
-        "url": "https://t.me/SOUICdsgn/317"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "video": {
-      "file_name": "IMG_5008.MP4",
-      "height": 1280,
-      "mime_type": "video/mp4",
-      "width": 720,
-      "thumbnail": {
-        "height": 320,
-        "width": 180,
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgT9aO5j1RfcvTa2btAC6BcRR2Lu5WUAAkCPAALYAnFLx-QcsiLh-GgBAAdtAAM2BA",
-        "file_size": 15009,
-        "file_unique_id": "AQADQI8AAtgCcUty"
-      },
-      "file_id": "BAACAgIAAyEFAASerMeaAAIE_WjuY9UX3L02tm7QAugXEUdi7uVlAAJAjwAC2AJxS8fkHLIi4fhoNgQ",
-      "file_size": 863467,
-      "file_unique_id": "AgADQI8AAtgCcUs",
-      "duration": 5,
-      "thumb": {
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgT9aO5j1RfcvTa2btAC6BcRR2Lu5WUAAkCPAALYAnFLx-QcsiLh-GgBAAdtAAM2BA",
-        "file_unique_id": "AQADQI8AAtgCcUty",
-        "file_size": 15009,
-        "width": 180,
-        "height": 320
-      }
-    },
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760453589,
-    "message_id": 1277
-  },
-  {
     "caption": "🔝 TOP и TON Foundation запустили акселератор TON Consumer Application с инвестиционным пулом в $2 млн для разработчиков из Азиатско-Тихоокеанского региона, прием заявок на участие открыт до конца октября.",
     "caption_entities": [
       {
@@ -2990,5 +2931,70 @@
     },
     "date": 1760862277,
     "message_id": 1306
+  },
+  {
+    "caption": "🅰️ На конференции Government Blockchain Association «Будущее денег, управления и права» 29–30 октября, платиновым партнером которой стала AlphaTON Capital, выступят представители Конгресса США, Coinbase, Grayscale и Brittany Kaiser (CEO AlphaTON Capital).",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5314597028901190799",
+        "length": 3,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 157,
+        "type": "text_link",
+        "url": "https://gbaglobal.org/ru/%D1%82%D1%83%D0%BC%D0%B0%D0%BD/%D0%B4%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8%D0%BA%D0%B8/"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 89,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFG2j1IC43tKN4stDCxDFfvjKK6YnXAALT-DEbWomoS9Mcg_F3gOUuAQADAgADcwADNgQ",
+        "file_size": 1512,
+        "file_unique_id": "AQAD0_gxG1qJqEt4"
+      },
+      {
+        "height": 318,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFG2j1IC43tKN4stDCxDFfvjKK6YnXAALT-DEbWomoS9Mcg_F3gOUuAQADAgADbQADNgQ",
+        "file_size": 18490,
+        "file_unique_id": "AQAD0_gxG1qJqEty"
+      },
+      {
+        "height": 794,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFG2j1IC43tKN4stDCxDFfvjKK6YnXAALT-DEbWomoS9Mcg_F3gOUuAQADAgADeAADNgQ",
+        "file_size": 69351,
+        "file_unique_id": "AQAD0_gxG1qJqEt9"
+      },
+      {
+        "height": 1116,
+        "width": 1125,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFG2j1IC43tKN4stDCxDFfvjKK6YnXAALT-DEbWomoS9Mcg_F3gOUuAQADAgADeQADNgQ",
+        "file_size": 70222,
+        "file_unique_id": "AQAD0_gxG1qJqEt-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760895022,
+    "message_id": 1307
   }
 ]
