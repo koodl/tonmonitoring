@@ -1,68 +1,5 @@
 [
   {
-    "caption": "🅰️ AlphaTON Capital (Nasdaq: ATON) стала партнером Morpheus AI (Ethereum: $MOR) для создания децентрализованной инфраструктуры для разработки ИИ-агентов в экосистеме TON и Telegram.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5314597028901190799",
-        "length": 3,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 15,
-        "offset": 36,
-        "type": "text_link",
-        "url": "https://teletype.in/@selfowner/Tpv_u0jR_Lh"
-      },
-      {
-        "length": 4,
-        "offset": 75,
-        "type": "cashtag"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 24,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIE92js85ZuWQ8Na5UlSjuwiSvjr5yWAAKw_jEbgLNpSx2ENSrHTTIAAQEAAwIAA3MAAzYE",
-        "file_size": 1057,
-        "file_unique_id": "AQADsP4xG4CzaUt4"
-      },
-      {
-        "height": 86,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIE92js85ZuWQ8Na5UlSjuwiSvjr5yWAAKw_jEbgLNpSx2ENSrHTTIAAQEAAwIAA20AAzYE",
-        "file_size": 6689,
-        "file_unique_id": "AQADsP4xG4CzaUty"
-      },
-      {
-        "height": 162,
-        "width": 600,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIE92js85ZuWQ8Na5UlSjuwiSvjr5yWAAKw_jEbgLNpSx2ENSrHTTIAAQEAAwIAA3gAAzYE",
-        "file_size": 10762,
-        "file_unique_id": "AQADsP4xG4CzaUt9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760359318,
-    "message_id": 1271
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2954,5 +2891,64 @@
     },
     "date": 1760804649,
     "message_id": 1302
+  },
+  {
+    "caption": "✈️ В бета-версии Telegram появилась возможность отправлять донаты звездами с сообщением в трансляциях и историях.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 26,
+        "type": "text_link",
+        "url": "https://t.me/groza/1595"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "video": {
+      "file_name": "IMG_5037.MP4",
+      "height": 896,
+      "mime_type": "video/mp4",
+      "width": 1280,
+      "thumbnail": {
+        "height": 224,
+        "width": 320,
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgUXaPSSdqZGdfs-CEngQV3bDzWQ0-UAAi6LAAJaiaBLpdqyLJhnJ-YBAAdtAAM2BA",
+        "file_size": 15735,
+        "file_unique_id": "AQADLosAAlqJoEty"
+      },
+      "file_id": "BAACAgIAAyEFAASerMeaAAIFF2j0knamRnX7PghJ4EFd2w81kNPlAAIuiwACWomgS6XasiyYZyfmNgQ",
+      "file_size": 4267422,
+      "file_unique_id": "AgADLosAAlqJoEs",
+      "duration": 19,
+      "thumb": {
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgUXaPSSdqZGdfs-CEngQV3bDzWQ0-UAAi6LAAJaiaBLpdqyLJhnJ-YBAAdtAAM2BA",
+        "file_unique_id": "AQADLosAAlqJoEty",
+        "file_size": 15735,
+        "width": 320,
+        "height": 224
+      }
+    },
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760858743,
+    "message_id": 1303
   }
 ]
