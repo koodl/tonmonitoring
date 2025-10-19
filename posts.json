@@ -1,43 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 12,
-        "offset": 32,
-        "type": "text_link",
-        "url": "https://cointelegraph.com/news/telegram-ads-fake-monad-claim-portal-airdrop-scam"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "✈️ Сооснователь Monad Keone Hon предупредил, что в официальном Telegram‑канале проекта появились фейковые рекламные объявления, имитирующие claim‑портал аирдропа, и призвал не переходить по ним.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760447149,
-    "message_id": 1274
-  },
-  {
     "caption": "💎 TON CIS Hub объявил о партнёрстве с Yandex Cloud, в рамках программы Yandex Cloud Free Credits проекты экосистемы TON смогут получить бесплатные облачные кредиты — до $5,000 на 6 месяцев (MVP) и до $12,000 на 6 месяцев (Growth) — плюс доступ к инфраструктуре и AI‑сервисам Яндекса.",
     "caption_entities": [
       {
@@ -2934,6 +2896,71 @@
     ],
     "channel_chat_created": false,
     "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 28,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFGWj0mNAo__OxpjUw4tvElOJ6N9FsAAL0AAEyG1qJoEsOxDNGvMVoZAEAAwIAA3MAAzYE",
+        "file_size": 761,
+        "file_unique_id": "AQAD9AABMhtaiaBLeA"
+      },
+      {
+        "height": 98,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFGWj0mNAo__OxpjUw4tvElOJ6N9FsAAL0AAEyG1qJoEsOxDNGvMVoZAEAAwIAA20AAzYE",
+        "file_size": 7727,
+        "file_unique_id": "AQAD9AABMhtaiaBLcg"
+      },
+      {
+        "height": 246,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFGWj0mNAo__OxpjUw4tvElOJ6N9FsAAL0AAEyG1qJoEsOxDNGvMVoZAEAAwIAA3gAAzYE",
+        "file_size": 30905,
+        "file_unique_id": "AQAD9AABMhtaiaBLfQ"
+      },
+      {
+        "height": 394,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFGWj0mNAo__OxpjUw4tvElOJ6N9FsAAL0AAEyG1qJoEsOxDNGvMVoZAEAAwIAA3kAAzYE",
+        "file_size": 39825,
+        "file_unique_id": "AQAD9AABMhtaiaBLfg"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760860368,
+    "message_id": 1305
+  },
+  {
+    "caption": "🅰️ Согласно ton.today резервы AlphaTON Capital достигают 12.68 M TON.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5314597028901190799",
+        "length": 3,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 13,
+        "type": "url"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1760860455,
     "group_chat_created": false,
     "photo": [
       {
