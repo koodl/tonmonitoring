@@ -1,70 +1,5 @@
 [
   {
-    "caption": "🗞 Друзья, обновил оформление канала! Это стало возможным только благодаря вашим донатам и подаркам.\n\nМне очень приятно, что вы цените мой труд и помогаете проекту развиваться. Спасибо вам за невероятную поддержку!",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5265112348451960063",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 19,
-        "offset": 81,
-        "type": "text_link",
-        "url": "https://t.me/tonmonitoring/8"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 58,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIE_GjuYxEpZW9MuikiQCYox0qOt_qvAAKK_DEb2AJxSwnAcSGj_7-TAQADAgADcwADNgQ",
-        "file_size": 1174,
-        "file_unique_id": "AQADivwxG9gCcUt4"
-      },
-      {
-        "height": 208,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIE_GjuYxEpZW9MuikiQCYox0qOt_qvAAKK_DEb2AJxSwnAcSGj_7-TAQADAgADbQADNgQ",
-        "file_size": 13092,
-        "file_unique_id": "AQADivwxG9gCcUty"
-      },
-      {
-        "height": 732,
-        "width": 1125,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIE_GjuYxEpZW9MuikiQCYox0qOt_qvAAKK_DEb2AJxSwnAcSGj_7-TAQADAgADeQADNgQ",
-        "file_size": 48094,
-        "file_unique_id": "AQADivwxG9gCcUt-"
-      },
-      {
-        "height": 521,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIE_GjuYxEpZW9MuikiQCYox0qOt_qvAAKK_DEb2AJxSwnAcSGj_7-TAQADAgADeAADNgQ",
-        "file_size": 49173,
-        "file_unique_id": "AQADivwxG9gCcUt9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760453393,
-    "message_id": 1276
-  },
-  {
     "caption": "✈️ Представлен концепт полноэкранного текстового редактора, который открывается свайпом вверх или нажатием на специальную иконку.",
     "caption_entities": [
       {
@@ -2946,6 +2881,63 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5265112348451960063",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 12,
+        "offset": 11,
+        "type": "text_link",
+        "url": "https://t.me/tonmonitoring/1268"
+      },
+      {
+        "custom_emoji_id": "5440764055453200867",
+        "length": 2,
+        "offset": 46,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 49,
+        "type": "text_link",
+        "url": "https://t.me/tonmonitoring/8"
+      },
+      {
+        "length": 9,
+        "offset": 120,
+        "type": "text_link",
+        "url": "https://t.me/tonmonitoring/1175"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🗞 Новости 42ой недели.\n\nСпонсор 42ой недели:\n⭐️ Донатеры\nСпасибо за вашу поддержку!\n\nНовости канала:\nБыл обновлен пост о канале, добавлена редакционная политика.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760862277,
+    "message_id": 1306
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1760874373,
     "entities": [
       {
         "custom_emoji_id": "5265112348451960063",
