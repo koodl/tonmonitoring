@@ -1,70 +1,5 @@
 [
   {
-    "caption": "💎 TON CIS Hub объявил о партнёрстве с Yandex Cloud, в рамках программы Yandex Cloud Free Credits проекты экосистемы TON смогут получить бесплатные облачные кредиты — до $5,000 на 6 месяцев (MVP) и до $12,000 на 6 месяцев (Growth) — плюс доступ к инфраструктуре и AI‑сервисам Яндекса.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 15,
-        "type": "text_link",
-        "url": "https://t.me/toncishub/1872"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIE-2juS1e_Oop3QF9flRAFI6_f07xEAAJm-zEb2AJxS7-b-aB80MrmAQADAgADcwADNgQ",
-        "file_size": 968,
-        "file_unique_id": "AQADZvsxG9gCcUt4"
-      },
-      {
-        "height": 320,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIE-2juS1e_Oop3QF9flRAFI6_f07xEAAJm-zEb2AJxS7-b-aB80MrmAQADAgADbQADNgQ",
-        "file_size": 10073,
-        "file_unique_id": "AQADZvsxG9gCcUty"
-      },
-      {
-        "height": 800,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIE-2juS1e_Oop3QF9flRAFI6_f07xEAAJm-zEb2AJxS7-b-aB80MrmAQADAgADeAADNgQ",
-        "file_size": 64859,
-        "file_unique_id": "AQADZvsxG9gCcUt9"
-      },
-      {
-        "height": 1080,
-        "width": 1080,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIE-2juS1e_Oop3QF9flRAFI6_f07xEAAJm-zEb2AJxS7-b-aB80MrmAQADAgADeQADNgQ",
-        "file_size": 70276,
-        "file_unique_id": "AQADZvsxG9gCcUt-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760447319,
-    "message_id": 1275
-  },
-  {
     "caption": "🗞 Друзья, обновил оформление канала! Это стало возможным только благодаря вашим донатам и подаркам.\n\nМне очень приятно, что вы цените мой труд и помогаете проекту развиваться. Спасибо вам за невероятную поддержку!",
     "caption_entities": [
       {
@@ -3007,5 +2942,61 @@
     },
     "date": 1760860368,
     "message_id": 1305
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5265112348451960063",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 12,
+        "offset": 11,
+        "type": "text_link",
+        "url": "https://t.me/tonmonitoring/1268"
+      },
+      {
+        "custom_emoji_id": "5440764055453200867",
+        "length": 2,
+        "offset": 46,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 49,
+        "type": "text_link",
+        "url": "https://t.me/tonmonitoring/8"
+      },
+      {
+        "length": 9,
+        "offset": 120,
+        "type": "text_link",
+        "url": "https://t.me/tonmonitoring/1175"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🗞 Новости 42ой недели.\n\nСпонсор 42ой недели:\n⭐️ Донатеры\nСпасибо за вашу поддержку!\n\nНовости канала:\nБыл обновлен пост о канале, добавлена редакционная политика.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760862277,
+    "message_id": 1306
   }
 ]
