@@ -4,44 +4,6 @@
     "delete_chat_photo": false,
     "entities": [
       {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 13,
-        "offset": 54,
-        "type": "text_link",
-        "url": "https://t.me/investing/36369"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 Криптовалютные биржи Binance, OKX и ByBit временно приостановили операции по вводу и выводу TON в связи с плановым обновлением сети.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760360083,
-    "message_id": 1272
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
         "custom_emoji_id": "5449670138292894907",
         "length": 2,
         "offset": 0,
@@ -2950,5 +2912,53 @@
     },
     "date": 1760858743,
     "message_id": 1303
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 6,
+        "offset": 9,
+        "type": "text_link",
+        "url": "https://t.me/China77/320"
+      },
+      {
+        "length": 5,
+        "offset": 87,
+        "type": "mention"
+      },
+      {
+        "length": 9,
+        "offset": 94,
+        "type": "mention"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 Fuhao заявил о потере 280 тыс. USDT, выданных в качестве займа под залог юзернеймов @hold, @fintopio и NFT pepe#7.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760859141,
+    "message_id": 1304
   }
 ]
