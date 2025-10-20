@@ -1,71 +1,5 @@
 [
   {
-    "caption": "✈️ Мессенджер Telegram стал в Сингапуре популярной площадкой для продажи и покупки подержанной одежды среди молодежи, пишет Channel NewsAsia.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 4,
-        "offset": 23,
-        "type": "text_link",
-        "url": "https://cnalifestyle.channelnewsasia.com/style-beauty/telegram-thrift-fashion-singapore-youth-471251"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1760502783,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 67,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFAWjvFxkuYuGZMEQ4PqKAKRn_Yh8yAAKaATIb2AJ5S_mqJdpttI4FAQADAgADcwADNgQ",
-        "file_size": 1935,
-        "file_unique_id": "AQADmgEyG9gCeUt4"
-      },
-      {
-        "height": 240,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFAWjvFxkuYuGZMEQ4PqKAKRn_Yh8yAAKaATIb2AJ5S_mqJdpttI4FAQADAgADbQADNgQ",
-        "file_size": 29427,
-        "file_unique_id": "AQADmgEyG9gCeUty"
-      },
-      {
-        "height": 622,
-        "width": 830,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFAWjvFxkuYuGZMEQ4PqKAKRn_Yh8yAAKaATIb2AJ5S_mqJdpttI4FAQADAgADeQADNgQ",
-        "file_size": 98045,
-        "file_unique_id": "AQADmgEyG9gCeUt-"
-      },
-      {
-        "height": 600,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFAWjvFxkuYuGZMEQ4PqKAKRn_Yh8yAAKaATIb2AJ5S_mqJdpttI4FAQADAgADeAADNgQ",
-        "file_size": 136004,
-        "file_unique_id": "AQADmgEyG9gCeUt9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760499481,
-    "message_id": 1281
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -3025,5 +2959,63 @@
     },
     "date": 1760949475,
     "message_id": 1310
+  },
+  {
+    "caption": "🅰️ Chief Investment Officer AlphaTON Capital Энцо Виллани приглашен выступить на 10-м юбилейном саммите World Changers Summit в Ватикане.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5314597028901190799",
+        "length": 3,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 59,
+        "type": "text_link",
+        "url": "https://www.globenewswire.com/news-release/2025/10/20/3169222/0/en/Enzo-Villani-Chief-Investment-Officer-of-AlphaTON-Capital-to-Speak-at-the-Vatican-s-10th-Anniversary-World-Changers-Summit.html"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFH2j2HPcHIv73pKQY4ZKivCZZryJWAAK_-TEbt2SwSzP-HtDFJk5mAQADAgADcwADNgQ",
+        "file_size": 1509,
+        "file_unique_id": "AQADv_kxG7dksEt4"
+      },
+      {
+        "height": 400,
+        "width": 400,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFH2j2HPcHIv73pKQY4ZKivCZZryJWAAK_-TEbt2SwSzP-HtDFJk5mAQADAgADeAADNgQ",
+        "file_size": 16864,
+        "file_unique_id": "AQADv_kxG7dksEt9"
+      },
+      {
+        "height": 320,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFH2j2HPcHIv73pKQY4ZKivCZZryJWAAK_-TEbt2SwSzP-HtDFJk5mAQADAgADbQADNgQ",
+        "file_size": 21552,
+        "file_unique_id": "AQADv_kxG7dksEty"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760959735,
+    "message_id": 1311
   }
 ]
