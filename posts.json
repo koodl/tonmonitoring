@@ -2,49 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5449715707895902060",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 6,
-        "offset": 9,
-        "type": "text_link",
-        "url": "https://blog.ton.org/evaa-how-ton-s-first-billion-dollar-de-fi-protocol-is-becoming-a-community-owned-dao"
-      },
-      {
-        "length": 5,
-        "offset": 167,
-        "type": "cashtag"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "url": "https://blog.ton.org/evaa-how-ton-s-first-billion-dollar-de-fi-protocol-is-becoming-a-community-owned-dao"
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💲 Вышла статья о крупнейшем DeFi-протоколе в сети TON — EVAA, который обработал транзакции на сумму $1,4 млрд и переходит к модели управления сообществом через токен $EVAA и DAO-структуру.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760511324,
-    "message_id": 1282
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1760511337,
     "entities": [
       {
@@ -3017,5 +2974,64 @@
     },
     "date": 1760959735,
     "message_id": 1311
+  },
+  {
+    "caption": "📦 Стартовал raffle-sale 888 наборов коллекционных стикеров Teddie Stickers в Goodies по цене 1 TON за штуку, который продлится до 16:00 по CET 21 октября.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5449670138292894907",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 78,
+        "type": "text_link",
+        "url": "https://t.me/getgoodies_bot/Goodies?startapp=7RmMwpCaHVZU5y"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "video": {
+      "file_name": "IMG_5046.MP4",
+      "height": 848,
+      "mime_type": "video/mp4",
+      "width": 848,
+      "thumbnail": {
+        "height": 320,
+        "width": 320,
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgUgaPaUyxLEwuilOpcKnaq-wJOb2BEAAkaPAAK3ZLhLqu5xXfg78vgBAAdtAAM2BA",
+        "file_size": 16846,
+        "file_unique_id": "AQADRo8AArdkuEty"
+      },
+      "file_id": "BAACAgIAAyEFAASerMeaAAIFIGj2lMsSxMLopTqXCp2qvsCTm9gRAAJGjwACt2S4S6rucV34O_L4NgQ",
+      "file_size": 6256441,
+      "file_unique_id": "AgADRo8AArdkuEs",
+      "duration": 33,
+      "thumb": {
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgUgaPaUyxLEwuilOpcKnaq-wJOb2BEAAkaPAAK3ZLhLqu5xXfg78vgBAAdtAAM2BA",
+        "file_unique_id": "AQADRo8AArdkuEty",
+        "file_size": 16846,
+        "width": 320,
+        "height": 320
+      }
+    },
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1760990411,
+    "message_id": 1312
   }
 ]
