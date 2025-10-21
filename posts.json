@@ -1,82 +1,5 @@
 [
   {
-    "caption": "🎁 Сервис xGift добавил команду /fire для проведения случайных розыгрышей подарков среди активных участников чата.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440615647153256792",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 5,
-        "offset": 10,
-        "type": "text_link",
-        "url": "https://t.me/xgift/?startapp=ref-d85db7ddaf2aa572bf9635a6a5e12d9d"
-      },
-      {
-        "length": 5,
-        "offset": 32,
-        "type": "bot_command"
-      },
-      {
-        "length": 10,
-        "offset": 42,
-        "type": "text_link",
-        "url": "https://t.me/xgiftnewsru/12"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1760531337,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 54,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFBWjvkPRX1lSYtFQzmGDTUCxsVb_0AAKtAjIb2AKBS6g6uqtT3q99AQADAgADcwADNgQ",
-        "file_size": 1430,
-        "file_unique_id": "AQADrQIyG9gCgUt4"
-      },
-      {
-        "height": 192,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFBWjvkPRX1lSYtFQzmGDTUCxsVb_0AAKtAjIb2AKBS6g6uqtT3q99AQADAgADbQADNgQ",
-        "file_size": 16394,
-        "file_unique_id": "AQADrQIyG9gCgUty"
-      },
-      {
-        "height": 480,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFBWjvkPRX1lSYtFQzmGDTUCxsVb_0AAKtAjIb2AKBS6g6uqtT3q99AQADAgADeAADNgQ",
-        "file_size": 53335,
-        "file_unique_id": "AQADrQIyG9gCgUt9"
-      },
-      {
-        "height": 768,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFBWjvkPRX1lSYtFQzmGDTUCxsVb_0AAKtAjIb2AKBS6g6uqtT3q99AQADAgADeQADNgQ",
-        "file_size": 63638,
-        "file_unique_id": "AQADrQIyG9gCgUt-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760530676,
-    "message_id": 1285
-  },
-  {
     "caption": "💎 Проект DOGS открыл прием заявок на финансирование общественных инициатив в сферах спорта, мероприятий, искусства и благотворительности.",
     "caption_entities": [
       {
@@ -2984,5 +2907,43 @@
     },
     "date": 1761045447,
     "message_id": 1315
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 5,
+        "offset": 51,
+        "type": "text_link",
+        "url": "https://t.me/ostorozhno_novosti/42345"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "✈️ Автор Telegram-канала «Укиё-э каждый день» Иоан подал иск в Арбитражный суд Москвы против администраторов «Двача» и издания DTF за кражу двух постов, удаление авторства и добавление чужих вотермарок; он требует взыскать 100 тысяч рублей ущерба.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761060997,
+    "message_id": 1316
   }
 ]
