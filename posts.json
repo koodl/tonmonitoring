@@ -1,34 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      }
-    ],
-    "group_chat_created": false,
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 Сентябрь в цифрах\nКлючевые метрики:\n⋅ 196 новых проектов зарегистрировано на TON Builders Portal\n⋅ 116 новых заявок на поддержку экосистемы\n⋅ 98 проектов получили маркетинговую поддержку от TF/TON Hubs\n⋅ 100K новых пользователей TApps (47 новых приложений)\n⋅ $16.1M общий объем торговли NFT\n⋅ $193.9M объем Ethena на TON (рост держателей на 26%)\n⋅ $430M+ общий объем TONCO (32% рынка DEX TON)",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760598756,
-    "message_id": 1288
-  },
-  {
     "caption": "🎁 Сервис xGift добавил команду /fire для проведения случайных розыгрышей подарков среди активных участников чата.",
     "caption_entities": [
       {
@@ -2906,5 +2877,70 @@
     },
     "date": 1761075112,
     "message_id": 1318
+  },
+  {
+    "caption": "✈️ В бета-версии Telegram для iOS v12.2.0 появилась возможность настроить приватность для музыки в профиле.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 42,
+        "type": "text_link",
+        "url": "https://t.me/telelakel/674"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 51,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFJ2j34GbtHZifMczyaU1X01nmD_MeAALTBjIbVrzBS9sWf-ywV1oaAQADAgADcwADNgQ",
+        "file_size": 862,
+        "file_unique_id": "AQAD0wYyG1a8wUt4"
+      },
+      {
+        "height": 180,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFJ2j34GbtHZifMczyaU1X01nmD_MeAALTBjIbVrzBS9sWf-ywV1oaAQADAgADbQADNgQ",
+        "file_size": 9213,
+        "file_unique_id": "AQAD0wYyG1a8wUty"
+      },
+      {
+        "height": 450,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFJ2j34GbtHZifMczyaU1X01nmD_MeAALTBjIbVrzBS9sWf-ywV1oaAQADAgADeAADNgQ",
+        "file_size": 37999,
+        "file_unique_id": "AQAD0wYyG1a8wUt9"
+      },
+      {
+        "height": 720,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFJ2j34GbtHZifMczyaU1X01nmD_MeAALTBjIbVrzBS9sWf-ywV1oaAQADAgADeQADNgQ",
+        "file_size": 51298,
+        "file_unique_id": "AQAD0wYyG1a8wUt-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761075302,
+    "message_id": 1319
   }
 ]
