@@ -1,43 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440615647153256792",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 16,
-        "offset": 36,
-        "type": "text_link",
-        "url": "https://giftstat.com/"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🎁 Рынок аренды подарков в Telegram стабилизировался на уровне 2000 сделок в сутки с объёмом 3000 TON, лидирует коллекция Plush Pepe по количеству сделок.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760518789,
-    "message_id": 1283
-  },
-  {
     "caption": "🚀 xRocket объявил о делистинге токенов $ARBUZ, $CATSTG, $FTON, $MEOW и $PLANKTON из-за низкой торговой активности и ликвидности: торговые пары будут удалены 20 октября 2025 года, а вывод средств станет недоступен с 28 октября.",
     "caption_entities": [
       {
@@ -2995,5 +2957,43 @@
     },
     "date": 1761031531,
     "message_id": 1313
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 12,
+        "offset": 67,
+        "type": "text_link",
+        "url": "https://www.kommersant.ru/doc/8139082"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "✈️ Согласно исследованию Getblogger, в сентябре 2025 года Telegram стал лидером по перетоку аудитории брендов из Instagram, привлекший 32% пользователей после запрета на рекламу в этой соцсети.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761031842,
+    "message_id": 1314
   }
 ]
