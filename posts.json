@@ -1,70 +1,5 @@
 [
   {
-    "caption": "💎 Проект DOGS открыл прием заявок на финансирование общественных инициатив в сферах спорта, мероприятий, искусства и благотворительности.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 6,
-        "offset": 15,
-        "type": "text_link",
-        "url": "https://x.com/realdogshouse/status/1978406952284647630?s=46"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFBmjvlqccoFTA6m1g3cWveW_un9ELAALkAjIb2AKBS8tdCd0JYuWhAQADAgADcwADNgQ",
-        "file_size": 2320,
-        "file_unique_id": "AQAD5AIyG9gCgUt4"
-      },
-      {
-        "height": 320,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFBmjvlqccoFTA6m1g3cWveW_un9ELAALkAjIb2AKBS8tdCd0JYuWhAQADAgADbQADNgQ",
-        "file_size": 25699,
-        "file_unique_id": "AQAD5AIyG9gCgUty"
-      },
-      {
-        "height": 800,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFBmjvlqccoFTA6m1g3cWveW_un9ELAALkAjIb2AKBS8tdCd0JYuWhAQADAgADeAADNgQ",
-        "file_size": 83927,
-        "file_unique_id": "AQAD5AIyG9gCgUt9"
-      },
-      {
-        "height": 1280,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFBmjvlqccoFTA6m1g3cWveW_un9ELAALkAjIb2AKBS8tdCd0JYuWhAQADAgADeQADNgQ",
-        "file_size": 99217,
-        "file_unique_id": "AQAD5AIyG9gCgUt-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760532135,
-    "message_id": 1286
-  },
-  {
     "caption": "💎 Вышел отчет по экосистеме за сентябрь 2025 от TON Foundation.",
     "caption_entities": [
       {
@@ -2945,5 +2880,43 @@
     },
     "date": 1761060997,
     "message_id": 1316
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440615647153256792",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 16,
+        "offset": 14,
+        "type": "text_link",
+        "url": "https://t.me/primateimpact/1082"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🎁 В Telegram активизировалась новая мошенническая схема, при которой злоумышленники предлагают владельцам ценных подарков «консультации» с обязательным созвоном через Discord для кражи аккаунтов и NFT-подарков.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761061105,
+    "message_id": 1317
   }
 ]
