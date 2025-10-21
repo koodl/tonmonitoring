@@ -1,95 +1,5 @@
 [
   {
-    "caption": "🚀 xRocket объявил о делистинге токенов $ARBUZ, $CATSTG, $FTON, $MEOW и $PLANKTON из-за низкой торговой активности и ликвидности: торговые пары будут удалены 20 октября 2025 года, а вывод средств станет недоступен с 28 октября.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440626741053778608",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 11,
-        "type": "text_link",
-        "url": "https://t.me/xrocketlistings/137"
-      },
-      {
-        "length": 6,
-        "offset": 40,
-        "type": "cashtag"
-      },
-      {
-        "length": 7,
-        "offset": 48,
-        "type": "cashtag"
-      },
-      {
-        "length": 5,
-        "offset": 57,
-        "type": "cashtag"
-      },
-      {
-        "length": 5,
-        "offset": 64,
-        "type": "cashtag"
-      },
-      {
-        "length": 9,
-        "offset": 72,
-        "type": "cashtag"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 54,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFBGjvj2mvAznsfY8pTiW6c7hP0AWtAAKlAjIb2AKBS0Fz8anP-69tAQADAgADcwADNgQ",
-        "file_size": 1246,
-        "file_unique_id": "AQADpQIyG9gCgUt4"
-      },
-      {
-        "height": 192,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFBGjvj2mvAznsfY8pTiW6c7hP0AWtAAKlAjIb2AKBS0Fz8anP-69tAQADAgADbQADNgQ",
-        "file_size": 11599,
-        "file_unique_id": "AQADpQIyG9gCgUty"
-      },
-      {
-        "height": 480,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFBGjvj2mvAznsfY8pTiW6c7hP0AWtAAKlAjIb2AKBS0Fz8anP-69tAQADAgADeAADNgQ",
-        "file_size": 51612,
-        "file_unique_id": "AQADpQIyG9gCgUt9"
-      },
-      {
-        "height": 768,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFBGjvj2mvAznsfY8pTiW6c7hP0AWtAAKlAjIb2AKBS0Fz8anP-69tAQADAgADeQADNgQ",
-        "file_size": 63019,
-        "file_unique_id": "AQADpQIyG9gCgUt-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760530281,
-    "message_id": 1284
-  },
-  {
     "caption": "🎁 Сервис xGift добавил команду /fire для проведения случайных розыгрышей подарков среди активных участников чата.",
     "caption_entities": [
       {
@@ -2995,5 +2905,76 @@
     },
     "date": 1761031842,
     "message_id": 1314
+  },
+  {
+    "caption": "💎 Продажи 3000 NFT-бустер-паков для игры KokoronoKi  от художницы Ellen Sheidlin  стартуют 21 октября на лаунчпаде Getgems.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5442796949373740481",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 83,
+        "type": "text_link",
+        "url": "https://t.me/getgemsrus/999"
+      },
+      {
+        "length": 8,
+        "offset": 116,
+        "type": "text_link",
+        "url": "https://getgems.io/launchpad/early-access-kokoronoki"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFI2j3a8ffy1nWg3XT4Cjq0FdS0kgeAAJWAjIbt2TAS3MJW2YbajoXAQADAgADcwADNgQ",
+        "file_size": 1897,
+        "file_unique_id": "AQADVgIyG7dkwEt4"
+      },
+      {
+        "height": 320,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFI2j3a8ffy1nWg3XT4Cjq0FdS0kgeAAJWAjIbt2TAS3MJW2YbajoXAQADAgADbQADNgQ",
+        "file_size": 24107,
+        "file_unique_id": "AQADVgIyG7dkwEty"
+      },
+      {
+        "height": 800,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFI2j3a8ffy1nWg3XT4Cjq0FdS0kgeAAJWAjIbt2TAS3MJW2YbajoXAQADAgADeAADNgQ",
+        "file_size": 92459,
+        "file_unique_id": "AQADVgIyG7dkwEt9"
+      },
+      {
+        "height": 1280,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFI2j3a8ffy1nWg3XT4Cjq0FdS0kgeAAJWAjIbt2TAS3MJW2YbajoXAQADAgADeQADNgQ",
+        "file_size": 116944,
+        "file_unique_id": "AQADVgIyG7dkwEt-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761045447,
+    "message_id": 1315
   }
 ]
