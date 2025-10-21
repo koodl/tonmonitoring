@@ -1,76 +1,5 @@
 [
   {
-    "caption": "💲 Вышла статья о крупнейшем DeFi-протоколе в сети TON — EVAA, который обработал транзакции на сумму $1,4 млрд и переходит к модели управления сообществом через токен $EVAA и DAO-структуру.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5449715707895902060",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 6,
-        "offset": 9,
-        "type": "text_link",
-        "url": "https://blog.ton.org/evaa-how-ton-s-first-billion-dollar-de-fi-protocol-is-becoming-a-community-owned-dao"
-      },
-      {
-        "length": 5,
-        "offset": 167,
-        "type": "cashtag"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1760511432,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 53,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFAmjvRcgkDXfufHOqkq5MdjhTgfQqAAKgAjIb2AJ5S_8uHP9Dt8u1AQADAgADcwADNgQ",
-        "file_size": 848,
-        "file_unique_id": "AQADoAIyG9gCeUt4"
-      },
-      {
-        "height": 190,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFAmjvRcgkDXfufHOqkq5MdjhTgfQqAAKgAjIb2AJ5S_8uHP9Dt8u1AQADAgADbQADNgQ",
-        "file_size": 10325,
-        "file_unique_id": "AQADoAIyG9gCeUty"
-      },
-      {
-        "height": 474,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFAmjvRcgkDXfufHOqkq5MdjhTgfQqAAKgAjIb2AJ5S_8uHP9Dt8u1AQADAgADeAADNgQ",
-        "file_size": 59300,
-        "file_unique_id": "AQADoAIyG9gCeUt9"
-      },
-      {
-        "height": 758,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFAmjvRcgkDXfufHOqkq5MdjhTgfQqAAKgAjIb2AJ5S_8uHP9Dt8u1AQADAgADeQADNgQ",
-        "file_size": 87521,
-        "file_unique_id": "AQADoAIyG9gCeUt-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760511324,
-    "message_id": 1282
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -3010,6 +2939,45 @@
     "group_chat_created": false,
     "link_preview_options": {
       "url": "https://x.com/durov/status/1980381526425759808?s=46"
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "✈️ Павел Дуров заявил о готовности выкупить украденные из Лувра драгоценности, чтобы пожертвовать их филиалу музея в Абу-Даби.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761031531,
+    "message_id": 1313
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1761031538,
+    "entities": [
+      {
+        "custom_emoji_id": "5440479333481217835",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 6,
+        "offset": 15,
+        "type": "text_link",
+        "url": "https://x.com/durov/status/1980381526425759808?s=46"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
     },
     "sender_chat": {
       "id": -1002662123418,
