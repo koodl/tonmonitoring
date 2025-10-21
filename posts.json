@@ -1,82 +1,5 @@
 [
   {
-    "caption": "🎁 Сервис xGift добавил команду /fire для проведения случайных розыгрышей подарков среди активных участников чата.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440615647153256792",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 5,
-        "offset": 10,
-        "type": "text_link",
-        "url": "https://t.me/xgift/?startapp=ref-d85db7ddaf2aa572bf9635a6a5e12d9d"
-      },
-      {
-        "length": 5,
-        "offset": 32,
-        "type": "bot_command"
-      },
-      {
-        "length": 10,
-        "offset": 42,
-        "type": "text_link",
-        "url": "https://t.me/xgiftnewsru/12"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1760599274,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 54,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFBWjvkPRX1lSYtFQzmGDTUCxsVb_0AAKtAjIb2AKBS6g6uqtT3q99AQADAgADcwADNgQ",
-        "file_size": 1430,
-        "file_unique_id": "AQADrQIyG9gCgUt4"
-      },
-      {
-        "height": 192,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFBWjvkPRX1lSYtFQzmGDTUCxsVb_0AAKtAjIb2AKBS6g6uqtT3q99AQADAgADbQADNgQ",
-        "file_size": 16394,
-        "file_unique_id": "AQADrQIyG9gCgUty"
-      },
-      {
-        "height": 480,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFBWjvkPRX1lSYtFQzmGDTUCxsVb_0AAKtAjIb2AKBS6g6uqtT3q99AQADAgADeAADNgQ",
-        "file_size": 53335,
-        "file_unique_id": "AQADrQIyG9gCgUt9"
-      },
-      {
-        "height": 768,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFBWjvkPRX1lSYtFQzmGDTUCxsVb_0AAKtAjIb2AKBS6g6uqtT3q99AQADAgADeQADNgQ",
-        "file_size": 63638,
-        "file_unique_id": "AQADrQIyG9gCgUt-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760530676,
-    "message_id": 1285
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "edit_date": 1760599514,
@@ -2942,5 +2865,70 @@
     },
     "date": 1761075302,
     "message_id": 1319
+  },
+  {
+    "caption": "🅰️ Бриттани Кайзер, CEO AlphaTON Capital, выступит на конференции SALT London 2025, которая пройдет 5-6 ноября в Лондоне.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5314597028901190799",
+        "length": 3,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 16,
+        "offset": 67,
+        "type": "text_link",
+        "url": "https://www.salt.org/event-speakers/salt-london-2025"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 72,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFKGj4Dx-Tpsf9D6pzr4E0szuGeAR_AAJmBzIbVrzBS0n4lqPK_SvJAQADAgADcwADNgQ",
+        "file_size": 1332,
+        "file_unique_id": "AQADZgcyG1a8wUt4"
+      },
+      {
+        "height": 320,
+        "width": 256,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFKGj4Dx-Tpsf9D6pzr4E0szuGeAR_AAJmBzIbVrzBS0n4lqPK_SvJAQADAgADbQADNgQ",
+        "file_size": 17747,
+        "file_unique_id": "AQADZgcyG1a8wUty"
+      },
+      {
+        "height": 800,
+        "width": 640,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFKGj4Dx-Tpsf9D6pzr4E0szuGeAR_AAJmBzIbVrzBS0n4lqPK_SvJAQADAgADeAADNgQ",
+        "file_size": 64890,
+        "file_unique_id": "AQADZgcyG1a8wUt9"
+      },
+      {
+        "height": 1280,
+        "width": 1024,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFKGj4Dx-Tpsf9D6pzr4E0szuGeAR_AAJmBzIbVrzBS0n4lqPK_SvJAQADAgADeQADNgQ",
+        "file_size": 84877,
+        "file_unique_id": "AQADZgcyG1a8wUt-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761087263,
+    "message_id": 1320
   }
 ]
