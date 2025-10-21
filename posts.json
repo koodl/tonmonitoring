@@ -18,76 +18,6 @@
         "length": 5,
         "offset": 32,
         "type": "bot_command"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 54,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFBWjvkPRX1lSYtFQzmGDTUCxsVb_0AAKtAjIb2AKBS6g6uqtT3q99AQADAgADcwADNgQ",
-        "file_size": 1430,
-        "file_unique_id": "AQADrQIyG9gCgUt4"
-      },
-      {
-        "height": 192,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFBWjvkPRX1lSYtFQzmGDTUCxsVb_0AAKtAjIb2AKBS6g6uqtT3q99AQADAgADbQADNgQ",
-        "file_size": 16394,
-        "file_unique_id": "AQADrQIyG9gCgUty"
-      },
-      {
-        "height": 480,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFBWjvkPRX1lSYtFQzmGDTUCxsVb_0AAKtAjIb2AKBS6g6uqtT3q99AQADAgADeAADNgQ",
-        "file_size": 53335,
-        "file_unique_id": "AQADrQIyG9gCgUt9"
-      },
-      {
-        "height": 768,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFBWjvkPRX1lSYtFQzmGDTUCxsVb_0AAKtAjIb2AKBS6g6uqtT3q99AQADAgADeQADNgQ",
-        "file_size": 63638,
-        "file_unique_id": "AQADrQIyG9gCgUt-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760530676,
-    "message_id": 1285
-  },
-  {
-    "caption": "🎁 Сервис xGift добавил команду /fire для проведения случайных розыгрышей подарков среди активных участников чата.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440615647153256792",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 5,
-        "offset": 10,
-        "type": "text_link",
-        "url": "https://t.me/xgift/?startapp=ref-d85db7ddaf2aa572bf9635a6a5e12d9d"
-      },
-      {
-        "length": 5,
-        "offset": 32,
-        "type": "bot_command"
       },
       {
         "length": 10,
@@ -2930,6 +2860,84 @@
     ],
     "channel_chat_created": false,
     "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFI2j3a8ffy1nWg3XT4Cjq0FdS0kgeAAJWAjIbt2TAS3MJW2YbajoXAQADAgADcwADNgQ",
+        "file_size": 1897,
+        "file_unique_id": "AQADVgIyG7dkwEt4"
+      },
+      {
+        "height": 320,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFI2j3a8ffy1nWg3XT4Cjq0FdS0kgeAAJWAjIbt2TAS3MJW2YbajoXAQADAgADbQADNgQ",
+        "file_size": 24107,
+        "file_unique_id": "AQADVgIyG7dkwEty"
+      },
+      {
+        "height": 800,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFI2j3a8ffy1nWg3XT4Cjq0FdS0kgeAAJWAjIbt2TAS3MJW2YbajoXAQADAgADeAADNgQ",
+        "file_size": 92459,
+        "file_unique_id": "AQADVgIyG7dkwEt9"
+      },
+      {
+        "height": 1280,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFI2j3a8ffy1nWg3XT4Cjq0FdS0kgeAAJWAjIbt2TAS3MJW2YbajoXAQADAgADeQADNgQ",
+        "file_size": 116944,
+        "file_unique_id": "AQADVgIyG7dkwEt-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761045447,
+    "message_id": 1315
+  },
+  {
+    "caption": "💎 Продажи 3000 NFT-бустер-паков для игры KokoronoKi  от художницы Ellen Sheidlin  стартуют 21 октября на лаунчпаде Getgems.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5442796949373740481",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 10,
+        "offset": 42,
+        "type": "text_link",
+        "url": "https://t.me/KokoronoKi_bot/play?startapp=cmVmZXJyYWw9NjU5NzczMDM4"
+      },
+      {
+        "length": 8,
+        "offset": 83,
+        "type": "text_link",
+        "url": "https://t.me/getgemsrus/999"
+      },
+      {
+        "length": 8,
+        "offset": 116,
+        "type": "text_link",
+        "url": "https://getgems.io/launchpad/early-access-kokoronoki"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1761045638,
     "group_chat_created": false,
     "photo": [
       {
