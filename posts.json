@@ -1,70 +1,5 @@
 [
   {
-    "caption": "📦 Лига запускает лимитированную коллекцию стикеров для Telegram с продажей 1499 NFT-паков 17 октября в 14:00 МСК через Elephant Store, владельцы которых получат эксклюзивные права и доступ к будущим дропам стикерпаков клубов РПЛ.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5449670138292894907",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 14,
-        "offset": 120,
-        "type": "text_link",
-        "url": "https://t.me/ElephantStoreBot?start=_tgr_dmnc7o02NDQ6"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 72,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFC2jw39hasWtW5DzbyqClaX0r4x_OAAIIATIb_d2BS6-510zkL0B0AQADAgADcwADNgQ",
-        "file_size": 2134,
-        "file_unique_id": "AQADCAEyG_3dgUt4"
-      },
-      {
-        "height": 320,
-        "width": 256,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFC2jw39hasWtW5DzbyqClaX0r4x_OAAIIATIb_d2BS6-510zkL0B0AQADAgADbQADNgQ",
-        "file_size": 29099,
-        "file_unique_id": "AQADCAEyG_3dgUty"
-      },
-      {
-        "height": 800,
-        "width": 640,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFC2jw39hasWtW5DzbyqClaX0r4x_OAAIIATIb_d2BS6-510zkL0B0AQADAgADeAADNgQ",
-        "file_size": 99470,
-        "file_unique_id": "AQADCAEyG_3dgUt9"
-      },
-      {
-        "height": 1280,
-        "width": 1024,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFC2jw39hasWtW5DzbyqClaX0r4x_OAAIIATIb_d2BS6-510zkL0B0AQADAgADeQADNgQ",
-        "file_size": 121883,
-        "file_unique_id": "AQADCAEyG_3dgUt-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760616408,
-    "message_id": 1291
-  },
-  {
     "caption": "💎 Маркетплейс Getgems предоставил возможность оплачивать подписку Telegram Premium в TON  без KYC через сайт и мини-апп.",
     "caption_entities": [
       {
@@ -2890,5 +2825,70 @@
     },
     "date": 1761165300,
     "message_id": 1325
+  },
+  {
+    "caption": "📦 Раффл коллекции Lamborghini в Goodies начнется в 01:00.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5449670138292894907",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 33,
+        "type": "text_link",
+        "url": "https://t.me/getgoodies_bot/Goodies?startapp=7RmMwpCaHVZU5y"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 67,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFL2j5RIHt1sxePFaUq1ebWxVfhM2zAAKF-zEbVrzRS__QsGSp4IGXAQADAgADcwADNgQ",
+        "file_size": 1395,
+        "file_unique_id": "AQADhfsxG1a80Ut4"
+      },
+      {
+        "height": 320,
+        "width": 237,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFL2j5RIHt1sxePFaUq1ebWxVfhM2zAAKF-zEbVrzRS__QsGSp4IGXAQADAgADbQADNgQ",
+        "file_size": 15312,
+        "file_unique_id": "AQADhfsxG1a80Uty"
+      },
+      {
+        "height": 800,
+        "width": 593,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFL2j5RIHt1sxePFaUq1ebWxVfhM2zAAKF-zEbVrzRS__QsGSp4IGXAQADAgADeAADNgQ",
+        "file_size": 52140,
+        "file_unique_id": "AQADhfsxG1a80Ut9"
+      },
+      {
+        "height": 1280,
+        "width": 949,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFL2j5RIHt1sxePFaUq1ebWxVfhM2zAAKF-zEbVrzRS__QsGSp4IGXAQADAgADeQADNgQ",
+        "file_size": 62069,
+        "file_unique_id": "AQADhfsxG1a80Ut-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761166465,
+    "message_id": 1327
   }
 ]
