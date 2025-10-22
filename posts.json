@@ -1,76 +1,5 @@
 [
   {
-    "caption": "💎 Маркетплейс Getgems предоставил возможность оплачивать подписку Telegram Premium в TON  без KYC через сайт и мини-апп.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5442796949373740481",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 4,
-        "offset": 105,
-        "type": "text_link",
-        "url": "https://getgems.io/"
-      },
-      {
-        "length": 9,
-        "offset": 112,
-        "type": "text_link",
-        "url": "https://t.me/GetgemsNftBot/gems?startapp=L3B1cmNoYXNlLXN0YXJzP3dpdGhfcHJlbWl1bT0xJnV0bV9zb3VyY2U9dGdjaGFubmVsJnV0bV9tZWRpdW09b3JnYW5pYyZ1dG1fY2FtcGFpZ249dGdfcHJlbWl1bSZ1dG1fY29udGVudD1wb3N0"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFDGjw_-Z_17qJqTCkXiCHmV0GK9IxAAJb-zEb_d2JS2bZO_nbF9jvAQADAgADcwADNgQ",
-        "file_size": 1358,
-        "file_unique_id": "AQADW_sxG_3diUt4"
-      },
-      {
-        "height": 320,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFDGjw_-Z_17qJqTCkXiCHmV0GK9IxAAJb-zEb_d2JS2bZO_nbF9jvAQADAgADbQADNgQ",
-        "file_size": 16608,
-        "file_unique_id": "AQADW_sxG_3diUty"
-      },
-      {
-        "height": 800,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFDGjw_-Z_17qJqTCkXiCHmV0GK9IxAAJb-zEb_d2JS2bZO_nbF9jvAQADAgADeAADNgQ",
-        "file_size": 55386,
-        "file_unique_id": "AQADW_sxG_3diUt9"
-      },
-      {
-        "height": 1280,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFDGjw_-Z_17qJqTCkXiCHmV0GK9IxAAJb-zEb_d2JS2bZO_nbF9jvAQADAgADeQADNgQ",
-        "file_size": 67377,
-        "file_unique_id": "AQADW_sxG_3diUt-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760624614,
-    "message_id": 1292
-  },
-  {
     "caption": "💎 Маркетплейс Getgems предоставил возможность оплачивать подписку Telegram Premium в TON без KYC через сайт и мини-апп.",
     "caption_entities": [
       {
@@ -2844,6 +2773,72 @@
     ],
     "channel_chat_created": false,
     "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 67,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFL2j5RIHt1sxePFaUq1ebWxVfhM2zAAKF-zEbVrzRS__QsGSp4IGXAQADAgADcwADNgQ",
+        "file_size": 1395,
+        "file_unique_id": "AQADhfsxG1a80Ut4"
+      },
+      {
+        "height": 320,
+        "width": 237,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFL2j5RIHt1sxePFaUq1ebWxVfhM2zAAKF-zEbVrzRS__QsGSp4IGXAQADAgADbQADNgQ",
+        "file_size": 15312,
+        "file_unique_id": "AQADhfsxG1a80Uty"
+      },
+      {
+        "height": 800,
+        "width": 593,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFL2j5RIHt1sxePFaUq1ebWxVfhM2zAAKF-zEbVrzRS__QsGSp4IGXAQADAgADeAADNgQ",
+        "file_size": 52140,
+        "file_unique_id": "AQADhfsxG1a80Ut9"
+      },
+      {
+        "height": 1280,
+        "width": 949,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFL2j5RIHt1sxePFaUq1ebWxVfhM2zAAKF-zEbVrzRS__QsGSp4IGXAQADAgADeQADNgQ",
+        "file_size": 62069,
+        "file_unique_id": "AQADhfsxG1a80Ut-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761166465,
+    "message_id": 1327
+  },
+  {
+    "caption": "📦 Раффл коллекции Lamborghini в Goodies начнется в 01:00.\nОбновление: в 21:00",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5449670138292894907",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 33,
+        "type": "text_link",
+        "url": "https://t.me/getgoodies_bot/Goodies?startapp=7RmMwpCaHVZU5y"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1761167404,
     "group_chat_created": false,
     "photo": [
       {
