@@ -1,82 +1,5 @@
 [
   {
-    "caption": "💎 Старейшая в мире криптобиржа Bitstamp открыла торги токеном $TON.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 32,
-        "type": "text_link",
-        "url": "https://www.bitstamp.net/markets/ton/usd/"
-      },
-      {
-        "length": 7,
-        "offset": 41,
-        "type": "text_link",
-        "url": "https://t.me/toncoin_rus/1860"
-      },
-      {
-        "length": 4,
-        "offset": 63,
-        "type": "cashtag"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1760600855,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFCWjwooVD6tlO0NKyeGtiptdWFnPQAAL-_jEb_d2BSwND52nadOn4AQADAgADcwADNgQ",
-        "file_size": 1401,
-        "file_unique_id": "AQAD_v4xG_3dgUt4"
-      },
-      {
-        "height": 320,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFCWjwooVD6tlO0NKyeGtiptdWFnPQAAL-_jEb_d2BSwND52nadOn4AQADAgADbQADNgQ",
-        "file_size": 16074,
-        "file_unique_id": "AQAD_v4xG_3dgUty"
-      },
-      {
-        "height": 800,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFCWjwooVD6tlO0NKyeGtiptdWFnPQAAL-_jEb_d2BSwND52nadOn4AQADAgADeAADNgQ",
-        "file_size": 96089,
-        "file_unique_id": "AQAD_v4xG_3dgUt9"
-      },
-      {
-        "height": 1280,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFCWjwooVD6tlO0NKyeGtiptdWFnPQAAL-_jEb_d2BSwND52nadOn4AQADAgADeQADNgQ",
-        "file_size": 147948,
-        "file_unique_id": "AQAD_v4xG_3dgUt-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760600709,
-    "message_id": 1289
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "edit_date": 1760601572,
@@ -2938,5 +2861,63 @@
     },
     "date": 1761140837,
     "message_id": 1322
+  },
+  {
+    "caption": "🅰️ AlphaTON Capital вступила в Blockchain Game Alliance (BGA) для усиления стратегии по игровым продуктам на базе Telegram и TON.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5314597028901190799",
+        "length": 3,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 21,
+        "type": "text_link",
+        "url": "https://www.globenewswire.com/news-release/2025/10/22/3171385/0/en/AlphaTON-Capital-Joins-Blockchain-Game-Alliance-BGA.html"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 47,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFK2j5HnIHbxQhQkrw2UCnjeSkG6AqAAKB-jEbVrzRSxoyOpNOEnPYAQADAgADcwADNgQ",
+        "file_size": 1153,
+        "file_unique_id": "AQADgfoxG1a80Ut4"
+      },
+      {
+        "height": 168,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFK2j5HnIHbxQhQkrw2UCnjeSkG6AqAAKB-jEbVrzRSxoyOpNOEnPYAQADAgADbQADNgQ",
+        "file_size": 12161,
+        "file_unique_id": "AQADgfoxG1a80Uty"
+      },
+      {
+        "height": 419,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFK2j5HnIHbxQhQkrw2UCnjeSkG6AqAAKB-jEbVrzRSxoyOpNOEnPYAQADAgADeAADNgQ",
+        "file_size": 42224,
+        "file_unique_id": "AQADgfoxG1a80Ut9"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761156722,
+    "message_id": 1323
   }
 ]
