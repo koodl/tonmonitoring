@@ -1,70 +1,5 @@
 [
   {
-    "caption": "💎 В новой версии технической документации TON на beta-docs.ton.org появился чат-бот на базе ИИ, который отвечает на вопросы по содержанию.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 17,
-        "offset": 50,
-        "type": "url"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1760613813,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 55,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFCmjwp-W7emonNITPo-6e-BRhKwe4AAIs_zEb_d2BS-XQawpk7VYtAQADAgADcwADNgQ",
-        "file_size": 1224,
-        "file_unique_id": "AQADLP8xG_3dgUt4"
-      },
-      {
-        "height": 320,
-        "width": 194,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFCmjwp-W7emonNITPo-6e-BRhKwe4AAIs_zEb_d2BS-XQawpk7VYtAQADAgADbQADNgQ",
-        "file_size": 15879,
-        "file_unique_id": "AQADLP8xG_3dgUty"
-      },
-      {
-        "height": 800,
-        "width": 486,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFCmjwp-W7emonNITPo-6e-BRhKwe4AAIs_zEb_d2BS-XQawpk7VYtAQADAgADeAADNgQ",
-        "file_size": 57817,
-        "file_unique_id": "AQADLP8xG_3dgUt9"
-      },
-      {
-        "height": 1280,
-        "width": 777,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFCmjwp-W7emonNITPo-6e-BRhKwe4AAIs_zEb_d2BS-XQawpk7VYtAQADAgADeQADNgQ",
-        "file_size": 70609,
-        "file_unique_id": "AQADLP8xG_3dgUt-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760602085,
-    "message_id": 1290
-  },
-  {
     "caption": "📦 Лига запускает лимитированную коллекцию стикеров для Telegram с продажей 1499 NFT-паков 17 октября в 14:00 МСК через Elephant Store, владельцы которых получат эксклюзивные права и доступ к будущим дропам стикерпаков клубов РПЛ.",
     "caption_entities": [
       {
@@ -2881,6 +2816,72 @@
     },
     "supergroup_chat_created": false,
     "text": "📦 Завершился раффл и добавлена коллекция Lamborghini в Goodies.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761165300,
+    "message_id": 1325
+  },
+  {
+    "caption": "📦 Завершился раффл и добавлена коллекция Lamborghini в Goodies.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5449670138292894907",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 56,
+        "type": "text_link",
+        "url": "https://t.me/getgoodies_bot/Goodies?startapp=7RmMwpCaHVZU5y"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1761165342,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 67,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFLWj5QB70BZrcpk42Ewkwf8vmLp5pAAJw-zEbVrzRSy7EGKcDoKRsAQADAgADcwADNgQ",
+        "file_size": 1849,
+        "file_unique_id": "AQADcPsxG1a80Ut4"
+      },
+      {
+        "height": 239,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFLWj5QB70BZrcpk42Ewkwf8vmLp5pAAJw-zEbVrzRSy7EGKcDoKRsAQADAgADbQADNgQ",
+        "file_size": 19775,
+        "file_unique_id": "AQADcPsxG1a80Uty"
+      },
+      {
+        "height": 598,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFLWj5QB70BZrcpk42Ewkwf8vmLp5pAAJw-zEbVrzRSy7EGKcDoKRsAQADAgADeAADNgQ",
+        "file_size": 66122,
+        "file_unique_id": "AQADcPsxG1a80Ut9"
+      },
+      {
+        "height": 841,
+        "width": 1125,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFLWj5QB70BZrcpk42Ewkwf8vmLp5pAAJw-zEbVrzRSy7EGKcDoKRsAQADAgADeQADNgQ",
+        "file_size": 71002,
+        "file_unique_id": "AQADcPsxG1a80Ut-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
     "chat": {
       "id": -1002662123418,
       "title": "TON Monitoring",
