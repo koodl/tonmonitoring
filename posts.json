@@ -1,35 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1760599514,
-    "entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      }
-    ],
-    "group_chat_created": false,
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 Сентябрь в цифрах\nКлючевые метрики:\n⋅ 196 новых проектов зарегистрировано на TON Builders Portal\n⋅ 116 новых заявок на поддержку\n⋅ 98 проектов получили маркетинговую поддержку от TF/TON Hubs\n⋅ 100K новых пользователей TApps (47 новых приложений)\n⋅ $16.1M общий объем торговли NFT\n⋅ $193.9M объем Ethena на TON (рост держателей на 26%)\n⋅ $430M+ общий объем TONCO (32% рынка DEX TON)",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760598756,
-    "message_id": 1288
-  },
-  {
     "caption": "💎 Старейшая в мире криптобиржа Bitstamp открыла торги токеном $TON.",
     "caption_entities": [
       {
@@ -2930,5 +2900,43 @@
     },
     "date": 1761087263,
     "message_id": 1320
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 12,
+        "offset": 25,
+        "type": "text_link",
+        "url": "https://t.me/tass_agency/345110"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "✈️ Роскомнадзор частично ограничивает работу WhatsApp и Telegram для противодействия преступникам, использующим мессенджеры для обмана и вымогательства.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761129200,
+    "message_id": 1321
   }
 ]
