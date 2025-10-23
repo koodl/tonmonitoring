@@ -2,54 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 10,
-        "offset": 20,
-        "type": "code"
-      },
-      {
-        "length": 10,
-        "offset": 38,
-        "type": "text_link",
-        "url": "https://t.me/tondev_news/246"
-      },
-      {
-        "length": 7,
-        "offset": 71,
-        "type": "url"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 В мажорном релизе @ton/ton v16.0.0 исправлена обнаруженная командой Ston.fi ошибка в Wallet V5, которая приводила к неверному порядку сообщений.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760640519,
-    "message_id": 1294
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1760640897,
     "entities": [
       {
@@ -2834,5 +2786,76 @@
     },
     "date": 1761165300,
     "message_id": 1325
+  },
+  {
+    "caption": "💎🅰️ TON Strategy и AlphaTON Capital заняли 35-е и 104-е места соответственно в рейтинге криптоказначейств, включая правительства, по данным CoinGecko.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5238004177031953682",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "custom_emoji_id": "5314597028901190799",
+        "length": 3,
+        "offset": 2,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 6,
+        "offset": 38,
+        "type": "text_link",
+        "url": "https://www.coingecko.com/en/treasuries"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 13,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFMWj5_HXOiuL4jJcX2OfgYpXDc4WEAAJW_TEb7OjQS9d9_mEhWdqTAQADAgADcwADNgQ",
+        "file_size": 530,
+        "file_unique_id": "AQADVv0xG-zo0Et4"
+      },
+      {
+        "height": 46,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFMWj5_HXOiuL4jJcX2OfgYpXDc4WEAAJW_TEb7OjQS9d9_mEhWdqTAQADAgADbQADNgQ",
+        "file_size": 3598,
+        "file_unique_id": "AQADVv0xG-zo0Ety"
+      },
+      {
+        "height": 114,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFMWj5_HXOiuL4jJcX2OfgYpXDc4WEAAJW_TEb7OjQS9d9_mEhWdqTAQADAgADeAADNgQ",
+        "file_size": 15357,
+        "file_unique_id": "AQADVv0xG-zo0Et9"
+      },
+      {
+        "height": 183,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFMWj5_HXOiuL4jJcX2OfgYpXDc4WEAAJW_TEb7OjQS9d9_mEhWdqTAQADAgADeQADNgQ",
+        "file_size": 21198,
+        "file_unique_id": "AQADVv0xG-zo0Et-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761213557,
+    "message_id": 1329
   }
 ]
