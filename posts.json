@@ -4,50 +4,6 @@
     "delete_chat_photo": false,
     "entities": [
       {
-        "custom_emoji_id": "5447595991211471135",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 18,
-        "offset": 3,
-        "type": "text_link",
-        "url": "https://t.me/tonnel_network_bot/gifts?startapp=ref_659773038"
-      },
-      {
-        "length": 11,
-        "offset": 30,
-        "type": "text_link",
-        "url": "https://t.me/tonnel_en/1541"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🔄 Tonnel Marketplace добавил возможность аренды юзернеймов и анонимных номеров Telegram.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760715073,
-    "message_id": 1298
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
         "custom_emoji_id": "5440671546152610057",
         "length": 2,
         "offset": 0,
@@ -2820,5 +2776,70 @@
     },
     "date": 1761235502,
     "message_id": 1332
+  },
+  {
+    "caption": "📦 Продажа новой коллекции стикеров CHIMPERS x JARRITOS с саплаем 999 штук по цене 8 TON начнется 24 октября в 19:00 МСК.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5449670138292894907",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 89,
+        "type": "text_link",
+        "url": "https://t.me/c/2852697116/439"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 58,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFNWj6X2a5LOrDRiavLQOX9RIo2RgKAAIGATIb7OjQS3C-b5TyRiXUAQADAgADcwADNgQ",
+        "file_size": 1065,
+        "file_unique_id": "AQADBgEyG-zo0Et4"
+      },
+      {
+        "height": 208,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFNWj6X2a5LOrDRiavLQOX9RIo2RgKAAIGATIb7OjQS3C-b5TyRiXUAQADAgADbQADNgQ",
+        "file_size": 12125,
+        "file_unique_id": "AQADBgEyG-zo0Ety"
+      },
+      {
+        "height": 664,
+        "width": 1020,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFNWj6X2a5LOrDRiavLQOX9RIo2RgKAAIGATIb7OjQS3C-b5TyRiXUAQADAgADeQADNgQ",
+        "file_size": 40033,
+        "file_unique_id": "AQADBgEyG-zo0Et-"
+      },
+      {
+        "height": 521,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFNWj6X2a5LOrDRiavLQOX9RIo2RgKAAIGATIb7OjQS3C-b5TyRiXUAQADAgADeAADNgQ",
+        "file_size": 46409,
+        "file_unique_id": "AQADBgEyG-zo0Et9"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761238886,
+    "message_id": 1333
   }
 ]
