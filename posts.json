@@ -1,76 +1,5 @@
 [
   {
-    "caption": "📦 Automobili Lamborghini через инициативу Fast ForWorld запустила коллекционные стикеры в Telegram на блокчейне TON, которые владельцы смогут использовать в чатах, обменивать и подключать к Fast ForWorld для получения эксклюзивных наград, включая цифровой Urus SE, совместимый с Motorverse от Animoca Brands, а продажи начнутся 21 октября в 17:00 CEST в @goodies.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5449670138292894907",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 57,
-        "type": "text_link",
-        "url": "https://blog.ton.org/automobili-lamborghini-debuts-telegram-collectible-stickers"
-      },
-      {
-        "length": 8,
-        "offset": 355,
-        "type": "text_link",
-        "url": "https://t.me/getgoodies_bot/Goodies?startapp=7RmMwpCaHVZU5y"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 53,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFDWjxBDpmOXAutmTd6pzObS9kGsnfAAJ4-zEb_d2JS_nRMtL2BlVRAQADAgADcwADNgQ",
-        "file_size": 950,
-        "file_unique_id": "AQADePsxG_3diUt4"
-      },
-      {
-        "height": 190,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFDWjxBDpmOXAutmTd6pzObS9kGsnfAAJ4-zEb_d2JS_nRMtL2BlVRAQADAgADbQADNgQ",
-        "file_size": 10323,
-        "file_unique_id": "AQADePsxG_3diUty"
-      },
-      {
-        "height": 474,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFDWjxBDpmOXAutmTd6pzObS9kGsnfAAJ4-zEb_d2JS_nRMtL2BlVRAQADAgADeAADNgQ",
-        "file_size": 37632,
-        "file_unique_id": "AQADePsxG_3diUt9"
-      },
-      {
-        "height": 759,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFDWjxBDpmOXAutmTd6pzObS9kGsnfAAJ4-zEb_d2JS_nRMtL2BlVRAQADAgADeQADNgQ",
-        "file_size": 47279,
-        "file_unique_id": "AQADePsxG_3diUt-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760625722,
-    "message_id": 1293
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2839,5 +2768,71 @@
     },
     "date": 1761166465,
     "message_id": 1327
+  },
+  {
+    "caption": "🍬 Завершился раффл и добавлена коллекция Lamborghini в Goodies.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5461068994381381031",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 56,
+        "type": "text_link",
+        "url": "https://t.me/getgoodies_bot/Goodies?startapp=7RmMwpCaHVZU5y"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1761177681,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 67,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFLWj5QB70BZrcpk42Ewkwf8vmLp5pAAJw-zEbVrzRSy7EGKcDoKRsAQADAgADcwADNgQ",
+        "file_size": 1849,
+        "file_unique_id": "AQADcPsxG1a80Ut4"
+      },
+      {
+        "height": 239,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFLWj5QB70BZrcpk42Ewkwf8vmLp5pAAJw-zEbVrzRSy7EGKcDoKRsAQADAgADbQADNgQ",
+        "file_size": 19775,
+        "file_unique_id": "AQADcPsxG1a80Uty"
+      },
+      {
+        "height": 598,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFLWj5QB70BZrcpk42Ewkwf8vmLp5pAAJw-zEbVrzRSy7EGKcDoKRsAQADAgADeAADNgQ",
+        "file_size": 66122,
+        "file_unique_id": "AQADcPsxG1a80Ut9"
+      },
+      {
+        "height": 841,
+        "width": 1125,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFLWj5QB70BZrcpk42Ewkwf8vmLp5pAAJw-zEbVrzRSy7EGKcDoKRsAQADAgADeQADNgQ",
+        "file_size": 71002,
+        "file_unique_id": "AQADcPsxG1a80Ut-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761165300,
+    "message_id": 1325
   }
 ]
