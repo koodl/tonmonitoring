@@ -1,75 +1,5 @@
 [
   {
-    "caption": "🧱 Сообщество @builders объявило конкурс идей для продуктов в Telegram с призовым фондом в $3 000, дедлайном 30 октября и вступительным взносом в 1 TON.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5442689837184345354",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 14,
-        "type": "mention"
-      },
-      {
-        "length": 8,
-        "offset": 24,
-        "type": "text_link",
-        "url": "https://t.me/builders/300"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 53,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFEGjyOpPQjRUKW91oHJaNOKPufGMJAAJx_jEb7EmZS7ySzSBLTboVAQADAgADcwADNgQ",
-        "file_size": 697,
-        "file_unique_id": "AQADcf4xG-xJmUt4"
-      },
-      {
-        "height": 190,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFEGjyOpPQjRUKW91oHJaNOKPufGMJAAJx_jEb7EmZS7ySzSBLTboVAQADAgADbQADNgQ",
-        "file_size": 6088,
-        "file_unique_id": "AQADcf4xG-xJmUty"
-      },
-      {
-        "height": 640,
-        "width": 1080,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFEGjyOpPQjRUKW91oHJaNOKPufGMJAAJx_jEb7EmZS7ySzSBLTboVAQADAgADeQADNgQ",
-        "file_size": 18800,
-        "file_unique_id": "AQADcf4xG-xJmUt-"
-      },
-      {
-        "height": 474,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFEGjyOpPQjRUKW91oHJaNOKPufGMJAAJx_jEb7EmZS7ySzSBLTboVAQADAgADeAADNgQ",
-        "file_size": 21298,
-        "file_unique_id": "AQADcf4xG-xJmUt9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760705171,
-    "message_id": 1296
-  },
-  {
     "caption": "💎 Топ продаж этой недели на Getgems.",
     "caption_entities": [
       {
@@ -2820,5 +2750,63 @@
     },
     "date": 1761225583,
     "message_id": 1330
+  },
+  {
+    "caption": "💎 Angela Brasington присоединилась к TON Foundation в качестве менеджера US Hub для расширения экосистемы TON в Северной и Южной Америке.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 14,
+        "offset": 21,
+        "type": "text_link",
+        "url": "https://x.com/moontripss/status/1981333633852940554"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFM2j6P4fl6sFSvSeWKzJwY0MN3S27AAJv_zEb7OjQS8o67Pd8Cx08AQADAgADcwADNgQ",
+        "file_size": 1572,
+        "file_unique_id": "AQADb_8xG-zo0Et4"
+      },
+      {
+        "height": 320,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFM2j6P4fl6sFSvSeWKzJwY0MN3S27AAJv_zEb7OjQS8o67Pd8Cx08AQADAgADbQADNgQ",
+        "file_size": 25465,
+        "file_unique_id": "AQADb_8xG-zo0Ety"
+      },
+      {
+        "height": 800,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFM2j6P4fl6sFSvSeWKzJwY0MN3S27AAJv_zEb7OjQS8o67Pd8Cx08AQADAgADeAADNgQ",
+        "file_size": 69455,
+        "file_unique_id": "AQADb_8xG-zo0Et9"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761230727,
+    "message_id": 1331
   }
 ]
