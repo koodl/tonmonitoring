@@ -1,53 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 6,
-        "offset": 9,
-        "type": "text_link",
-        "url": "https://t.me/China77/320"
-      },
-      {
-        "length": 5,
-        "offset": 87,
-        "type": "mention"
-      },
-      {
-        "length": 9,
-        "offset": 94,
-        "type": "mention"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 Fuhao заявил о потере 280 тыс. USDT, выданных в качестве займа под залог юзернеймов @hold, @fintopio и NFT pepe#7.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760859141,
-    "message_id": 1304
-  },
-  {
     "caption": "🅰️ Согласно ton.today резервы AlphaTON Capital достигают 12.68 TON.",
     "caption_entities": [
       {
@@ -2758,5 +2710,49 @@
     },
     "date": 1761337200,
     "message_id": 1341
+  },
+  {
+    "caption": "Официальный Telegram-канал NFT-маркетплейса OpenSea получил верификацию.",
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 22,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFPmj7-ocTsXClNjvo4ZB5ipY8318aAAIs-jEbharhSzVfZKyPg97BAQADAgADcwADNgQ",
+        "file_size": 640,
+        "file_unique_id": "AQADLPoxG4Wq4Ut4"
+      },
+      {
+        "height": 77,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFPmj7-ocTsXClNjvo4ZB5ipY8318aAAIs-jEbharhSzVfZKyPg97BAQADAgADbQADNgQ",
+        "file_size": 4510,
+        "file_unique_id": "AQADLPoxG4Wq4Uty"
+      },
+      {
+        "height": 180,
+        "width": 752,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFPmj7-ocTsXClNjvo4ZB5ipY8318aAAIs-jEbharhSzVfZKyPg97BAQADAgADeAADNgQ",
+        "file_size": 9967,
+        "file_unique_id": "AQADLPoxG4Wq4Ut9"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761344135,
+    "message_id": 1342
   }
 ]
