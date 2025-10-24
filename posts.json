@@ -1,63 +1,5 @@
 [
   {
-    "caption": "Gift Teleport — концепт передачи подарков одним касанием.",
-    "caption_entities": [
-      {
-        "length": 13,
-        "offset": 0,
-        "type": "bold"
-      },
-      {
-        "length": 7,
-        "offset": 16,
-        "type": "text_link",
-        "url": "https://t.me/tondesign/93"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "video": {
-      "file_name": "IMG_5036.MP4",
-      "height": 720,
-      "mime_type": "video/mp4",
-      "width": 1280,
-      "thumbnail": {
-        "height": 180,
-        "width": 320,
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgUWaPO_KN0MCyF5YHmHRehcJ7ddRogAAtWTAALsSaFLyhWNmlorjakBAAdtAAM2BA",
-        "file_size": 2745,
-        "file_unique_id": "AQAD1ZMAAuxJoUty"
-      },
-      "file_id": "BAACAgIAAyEFAASerMeaAAIFFmjzvyjdDAsheWB5h0XoXCe3XUaIAALVkwAC7EmhS8oVjZpaK42pNgQ",
-      "file_size": 7130921,
-      "file_unique_id": "AgAD1ZMAAuxJoUs",
-      "duration": 22,
-      "thumb": {
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgUWaPO_KN0MCyF5YHmHRehcJ7ddRogAAtWTAALsSaFLyhWNmlorjakBAAdtAAM2BA",
-        "file_unique_id": "AQAD1ZMAAuxJoUty",
-        "file_size": 2745,
-        "width": 320,
-        "height": 180
-      }
-    },
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760804649,
-    "message_id": 1302
-  },
-  {
     "caption": "✈️ В бета-версии Telegram появилась возможность отправлять донаты звездами с сообщением в трансляциях и историях.",
     "caption_entities": [
       {
@@ -2723,6 +2665,66 @@
     ],
     "channel_chat_created": false,
     "delete_chat_photo": false,
+    "group_chat_created": false,
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "video": {
+      "file_name": "IMG_5092.MP4",
+      "height": 1280,
+      "mime_type": "video/mp4",
+      "width": 1280,
+      "thumbnail": {
+        "height": 320,
+        "width": 320,
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgU8aPvaaxOdey412Sd8JbLDS2em_pMAAhCFAAKFquFL0ENtHSpOQrMBAAdtAAM2BA",
+        "file_size": 14625,
+        "file_unique_id": "AQADEIUAAoWq4Uty"
+      },
+      "file_id": "BAACAgIAAyEFAASerMeaAAIFPGj72msTnXsuNdknfCWyw0tnpv6TAAIQhQACharhS9BDbR0qTkKzNgQ",
+      "file_size": 881080,
+      "file_unique_id": "AgADEIUAAoWq4Us",
+      "duration": 4,
+      "thumb": {
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgU8aPvaaxOdey412Sd8JbLDS2em_pMAAhCFAAKFquFL0ENtHSpOQrMBAAdtAAM2BA",
+        "file_unique_id": "AQADEIUAAoWq4Uty",
+        "file_size": 14625,
+        "width": 320,
+        "height": 320
+      }
+    },
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761335916,
+    "message_id": 1340
+  },
+  {
+    "caption": "🍬 По итогам первого дропа от Lamborghini пользователи зарезервировали более 25 998 наборов, заблокировав свыше 980 309 TON на сумму более $2,1 млн.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5461068994381381031",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 15,
+        "offset": 55,
+        "type": "text_link",
+        "url": "https://t.me/goodies/111"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1761335970,
     "group_chat_created": false,
     "sender_chat": {
       "id": -1002662123418,
