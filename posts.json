@@ -2,44 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 17,
-        "type": "text_link",
-        "url": "https://t.me/tonm_app/19"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 TON Messenger объявил о планах внедрения системы защиты от мошенников, основанной на механизме приглашений и анонимной верификации Proof of Humanity через World ID, позволяющей блокировать спам‑ботов и ограничивать участие в опросах и розыгрышах только для реальных пользователей.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760789215,
-    "message_id": 1301
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1760789419,
     "entities": [
       {
@@ -2702,5 +2664,64 @@
     },
     "date": 1761326684,
     "message_id": 1337
+  },
+  {
+    "caption": "✈️ Основатель Telegram Павел Дуров выступит 29 октября в 16:00 на форуме Blockchain Life 2025 в Дубае.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440479333481217835",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFOmj7txGNPEeMI15lbmqHl8Fohyh9AAJs_jEb7OjYS4lGvqIbR_X7AQADAgADcwADNgQ",
+        "file_size": 1924,
+        "file_unique_id": "AQADbP4xG-zo2Et4"
+      },
+      {
+        "height": 320,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFOmj7txGNPEeMI15lbmqHl8Fohyh9AAJs_jEb7OjYS4lGvqIbR_X7AQADAgADbQADNgQ",
+        "file_size": 30465,
+        "file_unique_id": "AQADbP4xG-zo2Ety"
+      },
+      {
+        "height": 800,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFOmj7txGNPEeMI15lbmqHl8Fohyh9AAJs_jEb7OjYS4lGvqIbR_X7AQADAgADeAADNgQ",
+        "file_size": 136380,
+        "file_unique_id": "AQADbP4xG-zo2Et9"
+      },
+      {
+        "height": 1080,
+        "width": 1080,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFOmj7txGNPEeMI15lbmqHl8Fohyh9AAJs_jEb7OjYS4lGvqIbR_X7AQADAgADeQADNgQ",
+        "file_size": 144178,
+        "file_unique_id": "AQADbP4xG-zo2Et-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761326865,
+    "message_id": 1338
   }
 ]
