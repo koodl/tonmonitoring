@@ -1,81 +1,5 @@
 [
   {
-    "caption": "💎 Goodies представил официальный сайт goodies.tg и закрытый клуб Teddie & Friends .",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 3,
-        "type": "text_link",
-        "url": "https://t.me/getgoodies_bot/Goodies?startapp=7RmMwpCaHVZU5y"
-      },
-      {
-        "length": 10,
-        "offset": 11,
-        "type": "text_link",
-        "url": "https://t.me/villageton/3479"
-      },
-      {
-        "length": 10,
-        "offset": 39,
-        "type": "url"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 54,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFHWj1f2A_ZJ-3GMgWWFJirZMqIyAnAAKV-jEbWomoSwFROE54fUDCAQADAgADcwADNgQ",
-        "file_size": 1522,
-        "file_unique_id": "AQADlfoxG1qJqEt4"
-      },
-      {
-        "height": 320,
-        "width": 193,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFHWj1f2A_ZJ-3GMgWWFJirZMqIyAnAAKV-jEbWomoSwFROE54fUDCAQADAgADbQADNgQ",
-        "file_size": 16926,
-        "file_unique_id": "AQADlfoxG1qJqEty"
-      },
-      {
-        "height": 800,
-        "width": 483,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFHWj1f2A_ZJ-3GMgWWFJirZMqIyAnAAKV-jEbWomoSwFROE54fUDCAQADAgADeAADNgQ",
-        "file_size": 63383,
-        "file_unique_id": "AQADlfoxG1qJqEt9"
-      },
-      {
-        "height": 1280,
-        "width": 773,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFHWj1f2A_ZJ-3GMgWWFJirZMqIyAnAAKV-jEbWomoSwFROE54fUDCAQADAgADeQADNgQ",
-        "file_size": 76547,
-        "file_unique_id": "AQADlfoxG1qJqEt-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760919392,
-    "message_id": 1309
-  },
-  {
     "caption": "💎 Goodies представил официальный сайт goodies.tg и закрытый клуб Teddie & Friends.",
     "caption_entities": [
       {
@@ -2727,5 +2651,48 @@
     },
     "date": 1761395515,
     "message_id": 1345
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5442695223073344113",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 5,
+        "offset": 3,
+        "type": "cashtag"
+      },
+      {
+        "length": 8,
+        "offset": 9,
+        "type": "text_link",
+        "url": "https://t.me/dogs/583"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🦴 $DOGS выступит главным спонсором забега DOGS & RUN Ravenna 2025, который пройдет 8 ноября в Равенне, Италия.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761396493,
+    "message_id": 1346
   }
 ]
