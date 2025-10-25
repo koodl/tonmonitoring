@@ -1,43 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 13,
-        "offset": 11,
-        "type": "text_link",
-        "url": "https://t.me/farmixton/146"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 KirkaFi приостановила разработку протоколов X-Fi и Farmix из-за нехватки финансирования, но продолжит поддерживать работу серверов до середины января с возможностью вывода средств пользователями в любое время.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760900060,
-    "message_id": 1308
-  },
-  {
     "caption": "💎 Goodies представил официальный сайт goodies.tg и закрытый клуб Teddie & Friends .",
     "caption_entities": [
       {
@@ -2647,6 +2609,78 @@
     ],
     "channel_chat_created": false,
     "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 58,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFQWj8wzuuEQewsA_M9fEEEe1ep0wRAAIH_jEbharhSx5LFwPpXjjMAQADAgADcwADNgQ",
+        "file_size": 1370,
+        "file_unique_id": "AQADB_4xG4Wq4Ut4"
+      },
+      {
+        "height": 208,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFQWj8wzuuEQewsA_M9fEEEe1ep0wRAAIH_jEbharhSx5LFwPpXjjMAQADAgADbQADNgQ",
+        "file_size": 13924,
+        "file_unique_id": "AQADB_4xG4Wq4Uty"
+      },
+      {
+        "height": 664,
+        "width": 1020,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFQWj8wzuuEQewsA_M9fEEEe1ep0wRAAIH_jEbharhSx5LFwPpXjjMAQADAgADeQADNgQ",
+        "file_size": 53771,
+        "file_unique_id": "AQADB_4xG4Wq4Ut-"
+      },
+      {
+        "height": 521,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFQWj8wzuuEQewsA_M9fEEEe1ep0wRAAIH_jEbharhSx5LFwPpXjjMAQADAgADeAADNgQ",
+        "file_size": 56258,
+        "file_unique_id": "AQADB_4xG4Wq4Ut9"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761395515,
+    "message_id": 1345
+  },
+  {
+    "caption": "Ⓜ️ Mint 28 октября выпустит коллекцию NFT-аватарок в формате blind box, в которой будут работы от Snoop Dogg и BAYC по цене 38 TON.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5276019924706292346",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 4,
+        "offset": 3,
+        "type": "text_link",
+        "url": "https://t.me/mint?startapp=invite_659773038"
+      },
+      {
+        "length": 8,
+        "offset": 19,
+        "type": "text_link",
+        "url": "https://t.me/stickernews/450"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1761395540,
     "group_chat_created": false,
     "photo": [
       {
