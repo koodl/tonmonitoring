@@ -1,70 +1,5 @@
 [
   {
-    "caption": "🅰️ Согласно ton.today резервы AlphaTON Capital достигают 12.68 M TON.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5314597028901190799",
-        "length": 3,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 13,
-        "type": "url"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1760860455,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 28,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFGWj0mNAo__OxpjUw4tvElOJ6N9FsAAL0AAEyG1qJoEsOxDNGvMVoZAEAAwIAA3MAAzYE",
-        "file_size": 761,
-        "file_unique_id": "AQAD9AABMhtaiaBLeA"
-      },
-      {
-        "height": 98,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFGWj0mNAo__OxpjUw4tvElOJ6N9FsAAL0AAEyG1qJoEsOxDNGvMVoZAEAAwIAA20AAzYE",
-        "file_size": 7727,
-        "file_unique_id": "AQAD9AABMhtaiaBLcg"
-      },
-      {
-        "height": 246,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFGWj0mNAo__OxpjUw4tvElOJ6N9FsAAL0AAEyG1qJoEsOxDNGvMVoZAEAAwIAA3gAAzYE",
-        "file_size": 30905,
-        "file_unique_id": "AQAD9AABMhtaiaBLfQ"
-      },
-      {
-        "height": 394,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFGWj0mNAo__OxpjUw4tvElOJ6N9FsAAL0AAEyG1qJoEsOxDNGvMVoZAEAAwIAA3kAAzYE",
-        "file_size": 39825,
-        "file_unique_id": "AQAD9AABMhtaiaBLfg"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760860368,
-    "message_id": 1305
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2755,5 +2690,43 @@
     },
     "date": 1761383575,
     "message_id": 1343
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440700872189306557",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 24,
+        "type": "text_link",
+        "url": "https://t.me/storm_trade_news_ru/1021"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "⚡️ Команда Storm Trade  сообщила о попытке манипуляции ценой TON , в результате которой злоумышленник получил $240 000 прибыли, и заверила, что уже восстановила просевшие на 1,35% USDT и 1,77% TON буферы ликвидности.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761385126,
+    "message_id": 1344
   }
 ]
