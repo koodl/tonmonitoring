@@ -1,70 +1,5 @@
 [
   {
-    "caption": "🅰️ На конференции Government Blockchain Association «Будущее денег, управления и права» 29–30 октября, платиновым партнером которой стала AlphaTON Capital, выступят представители Конгресса США, Coinbase, Grayscale и Brittany Kaiser (CEO AlphaTON Capital).",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5314597028901190799",
-        "length": 3,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 157,
-        "type": "text_link",
-        "url": "https://gbaglobal.org/ru/%D1%82%D1%83%D0%BC%D0%B0%D0%BD/%D0%B4%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8%D0%BA%D0%B8/"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 89,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFG2j1IC43tKN4stDCxDFfvjKK6YnXAALT-DEbWomoS9Mcg_F3gOUuAQADAgADcwADNgQ",
-        "file_size": 1512,
-        "file_unique_id": "AQAD0_gxG1qJqEt4"
-      },
-      {
-        "height": 318,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFG2j1IC43tKN4stDCxDFfvjKK6YnXAALT-DEbWomoS9Mcg_F3gOUuAQADAgADbQADNgQ",
-        "file_size": 18490,
-        "file_unique_id": "AQAD0_gxG1qJqEty"
-      },
-      {
-        "height": 794,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFG2j1IC43tKN4stDCxDFfvjKK6YnXAALT-DEbWomoS9Mcg_F3gOUuAQADAgADeAADNgQ",
-        "file_size": 69351,
-        "file_unique_id": "AQAD0_gxG1qJqEt9"
-      },
-      {
-        "height": 1116,
-        "width": 1125,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFG2j1IC43tKN4stDCxDFfvjKK6YnXAALT-DEbWomoS9Mcg_F3gOUuAQADAgADeQADNgQ",
-        "file_size": 70222,
-        "file_unique_id": "AQAD0_gxG1qJqEt-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760895022,
-    "message_id": 1307
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2693,5 +2628,70 @@
     },
     "date": 1761385126,
     "message_id": 1344
+  },
+  {
+    "caption": "Ⓜ️ Mint 28 октября выпустит коллекцию NFT-аватарок в формате blind box, в которой будут работы от Snoop Dogg и BAYC по цене 38 TON.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5276019924706292346",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 4,
+        "offset": 3,
+        "type": "text_link",
+        "url": "https://t.me/mint?startapp=invite_659773038"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 58,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFQWj8wzuuEQewsA_M9fEEEe1ep0wRAAIH_jEbharhSx5LFwPpXjjMAQADAgADcwADNgQ",
+        "file_size": 1370,
+        "file_unique_id": "AQADB_4xG4Wq4Ut4"
+      },
+      {
+        "height": 208,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFQWj8wzuuEQewsA_M9fEEEe1ep0wRAAIH_jEbharhSx5LFwPpXjjMAQADAgADbQADNgQ",
+        "file_size": 13924,
+        "file_unique_id": "AQADB_4xG4Wq4Uty"
+      },
+      {
+        "height": 664,
+        "width": 1020,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFQWj8wzuuEQewsA_M9fEEEe1ep0wRAAIH_jEbharhSx5LFwPpXjjMAQADAgADeQADNgQ",
+        "file_size": 53771,
+        "file_unique_id": "AQADB_4xG4Wq4Ut-"
+      },
+      {
+        "height": 521,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFQWj8wzuuEQewsA_M9fEEEe1ep0wRAAIH_jEbharhSx5LFwPpXjjMAQADAgADeAADNgQ",
+        "file_size": 56258,
+        "file_unique_id": "AQADB_4xG4Wq4Ut9"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761395515,
+    "message_id": 1345
   }
 ]
