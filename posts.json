@@ -2,62 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5265112348451960063",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 12,
-        "offset": 11,
-        "type": "text_link",
-        "url": "https://t.me/tonmonitoring/1268"
-      },
-      {
-        "custom_emoji_id": "5440764055453200867",
-        "length": 2,
-        "offset": 46,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 49,
-        "type": "text_link",
-        "url": "https://t.me/tonmonitoring/8"
-      },
-      {
-        "length": 9,
-        "offset": 120,
-        "type": "text_link",
-        "url": "https://t.me/tonmonitoring/1175"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🗞 Новости 42ой недели.\n\nСпонсор 42ой недели:\n⭐️ Донатеры\nСпасибо за вашу поддержку!\n\nНовости канала:\nБыл обновлен пост о канале, добавлена редакционная политика.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760862277,
-    "message_id": 1306
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1760874373,
     "entities": [
       {
@@ -2720,6 +2664,45 @@
     },
     "supergroup_chat_created": false,
     "text": "⚡️ Команда Storm Trade  сообщила о попытке манипуляции ценой TON , в результате которой злоумышленник получил $240 000 прибыли, и заверила, что уже восстановила просевшие на 1,35% USDT и 1,77% TON буферы ликвидности.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761385126,
+    "message_id": 1344
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1761385184,
+    "entities": [
+      {
+        "custom_emoji_id": "5440700872189306557",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 24,
+        "type": "text_link",
+        "url": "https://t.me/storm_trade_news_ru/1021"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "url": "https://t.me/storm_trade_news_ru/1021"
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "⚡️ Команда Storm Trade  сообщила о попытке манипуляции ценой TON, в результате которой злоумышленник получил $240 000 прибыли, и заверила, что уже восстановила просевшие на 1,35% USDT и 1,77% TON буферы ликвидности.",
     "chat": {
       "id": -1002662123418,
       "title": "TON Monitoring",
