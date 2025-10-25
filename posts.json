@@ -1,69 +1,5 @@
 [
   {
-    "caption": "🅰️ Согласно ton.today резервы AlphaTON Capital достигают 12.68 TON.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5314597028901190799",
-        "length": 3,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 13,
-        "type": "url"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 28,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFGWj0mNAo__OxpjUw4tvElOJ6N9FsAAL0AAEyG1qJoEsOxDNGvMVoZAEAAwIAA3MAAzYE",
-        "file_size": 761,
-        "file_unique_id": "AQAD9AABMhtaiaBLeA"
-      },
-      {
-        "height": 98,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFGWj0mNAo__OxpjUw4tvElOJ6N9FsAAL0AAEyG1qJoEsOxDNGvMVoZAEAAwIAA20AAzYE",
-        "file_size": 7727,
-        "file_unique_id": "AQAD9AABMhtaiaBLcg"
-      },
-      {
-        "height": 246,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFGWj0mNAo__OxpjUw4tvElOJ6N9FsAAL0AAEyG1qJoEsOxDNGvMVoZAEAAwIAA3gAAzYE",
-        "file_size": 30905,
-        "file_unique_id": "AQAD9AABMhtaiaBLfQ"
-      },
-      {
-        "height": 394,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFGWj0mNAo__OxpjUw4tvElOJ6N9FsAAL0AAEyG1qJoEsOxDNGvMVoZAEAAwIAA3kAAzYE",
-        "file_size": 39825,
-        "file_unique_id": "AQAD9AABMhtaiaBLfg"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760860368,
-    "message_id": 1305
-  },
-  {
     "caption": "🅰️ Согласно ton.today резервы AlphaTON Capital достигают 12.68 M TON.",
     "caption_entities": [
       {
@@ -2754,5 +2690,70 @@
     },
     "date": 1761344135,
     "message_id": 1342
+  },
+  {
+    "caption": "💎 TON Foundation выступила титульным спонсором 11-го Global Blockchain Summit, организованного Wanxiang Blockchain Labs, который прошел 23 октября 2025 года в Шанхае под лозунгом «Web3 без границ».",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 18,
+        "type": "text_link",
+        "url": "https://news.futunn.com/en/post/63732606/the-11th-global-blockchain-summit-successfully-concluded-advancing-towards-a?level=1&data_ticket=1761383350924803"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 49,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFP2j8lJde-BCMfhgEvsqKo80t-AH8AAJm_DEbharhSwG_vIHsboPtAQADAgADcwADNgQ",
+        "file_size": 1395,
+        "file_unique_id": "AQADZvwxG4Wq4Ut4"
+      },
+      {
+        "height": 174,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFP2j8lJde-BCMfhgEvsqKo80t-AH8AAJm_DEbharhSwG_vIHsboPtAQADAgADbQADNgQ",
+        "file_size": 18859,
+        "file_unique_id": "AQADZvwxG4Wq4Uty"
+      },
+      {
+        "height": 436,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFP2j8lJde-BCMfhgEvsqKo80t-AH8AAJm_DEbharhSwG_vIHsboPtAQADAgADeAADNgQ",
+        "file_size": 75912,
+        "file_unique_id": "AQADZvwxG4Wq4Ut9"
+      },
+      {
+        "height": 697,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFP2j8lJde-BCMfhgEvsqKo80t-AH8AAJm_DEbharhSwG_vIHsboPtAQADAgADeQADNgQ",
+        "file_size": 100932,
+        "file_unique_id": "AQADZvwxG4Wq4Ut-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761383575,
+    "message_id": 1343
   }
 ]
