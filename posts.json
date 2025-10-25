@@ -1,70 +1,5 @@
 [
   {
-    "caption": "💲 TON включен в список \"Активов, находящихся на рассмотрении\" компании Grayscale на IV квартал 2025 года в категории \"Платформы смарт-контрактов\" как потенциальный кандидат для будущих инвестиционных продуктов.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5460665155786400306",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 7,
-        "type": "text_link",
-        "url": "https://x.com/Grayscale/status/1976667036798583185"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 51,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFHmj19OPD7EBC95eVi1K7-eGh3wlOAAKd-DEbt2SwSylDQZSScA3WAQADAgADcwADNgQ",
-        "file_size": 888,
-        "file_unique_id": "AQADnfgxG7dksEt4"
-      },
-      {
-        "height": 180,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFHmj19OPD7EBC95eVi1K7-eGh3wlOAAKd-DEbt2SwSylDQZSScA3WAQADAgADbQADNgQ",
-        "file_size": 12484,
-        "file_unique_id": "AQADnfgxG7dksEty"
-      },
-      {
-        "height": 450,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFHmj19OPD7EBC95eVi1K7-eGh3wlOAAKd-DEbt2SwSylDQZSScA3WAQADAgADeAADNgQ",
-        "file_size": 54410,
-        "file_unique_id": "AQADnfgxG7dksEt9"
-      },
-      {
-        "height": 720,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFHmj19OPD7EBC95eVi1K7-eGh3wlOAAKd-DEbt2SwSylDQZSScA3WAQADAgADeQADNgQ",
-        "file_size": 72916,
-        "file_unique_id": "AQADnfgxG7dksEt-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760949475,
-    "message_id": 1310
-  },
-  {
     "caption": "🅰️ Chief Investment Officer AlphaTON Capital Энцо Виллани приглашен выступить на 10-м юбилейном саммите World Changers Summit в Ватикане.",
     "caption_entities": [
       {
@@ -2656,5 +2591,48 @@
     },
     "date": 1759348307,
     "message_id": 1189
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 16,
+        "type": "mention"
+      },
+      {
+        "length": 7,
+        "offset": 25,
+        "type": "text_link",
+        "url": "https://t.me/elementalint/725"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "✈️ Пользователь @pepetme призвал сообщество добиться от Telegram компенсации за баг, из-за которого подарки, выставленные на продажу за TON, продавались за звёзды с убытком в 99%.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761410071,
+    "message_id": 1347
   }
 ]
