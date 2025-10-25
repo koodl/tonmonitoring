@@ -1,63 +1,5 @@
 [
   {
-    "caption": "🅰️ Chief Investment Officer AlphaTON Capital Энцо Виллани приглашен выступить на 10-м юбилейном саммите World Changers Summit в Ватикане.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5314597028901190799",
-        "length": 3,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 59,
-        "type": "text_link",
-        "url": "https://www.globenewswire.com/news-release/2025/10/20/3169222/0/en/Enzo-Villani-Chief-Investment-Officer-of-AlphaTON-Capital-to-Speak-at-the-Vatican-s-10th-Anniversary-World-Changers-Summit.html"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFH2j2HPcHIv73pKQY4ZKivCZZryJWAAK_-TEbt2SwSzP-HtDFJk5mAQADAgADcwADNgQ",
-        "file_size": 1509,
-        "file_unique_id": "AQADv_kxG7dksEt4"
-      },
-      {
-        "height": 400,
-        "width": 400,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFH2j2HPcHIv73pKQY4ZKivCZZryJWAAK_-TEbt2SwSzP-HtDFJk5mAQADAgADeAADNgQ",
-        "file_size": 16864,
-        "file_unique_id": "AQADv_kxG7dksEt9"
-      },
-      {
-        "height": 320,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFH2j2HPcHIv73pKQY4ZKivCZZryJWAAK_-TEbt2SwSzP-HtDFJk5mAQADAgADbQADNgQ",
-        "file_size": 21552,
-        "file_unique_id": "AQADv_kxG7dksEty"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760959735,
-    "message_id": 1311
-  },
-  {
     "caption": "📦 Стартовал raffle-sale 888 наборов коллекционных стикеров Teddie Stickers в Goodies по цене 1 TON за штуку, который продлится до 16:00 по CET 21 октября.",
     "caption_entities": [
       {
@@ -2634,5 +2576,64 @@
     },
     "date": 1761410071,
     "message_id": 1347
+  },
+  {
+    "caption": "🐧 Проект Pudgy Penguins анонсировал коллаборацию с анимационной франшизой Kung Fu Panda от DreamWorks.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5353060183318753720",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 11,
+        "offset": 25,
+        "type": "text_link",
+        "url": "https://x.com/pudgypenguins/status/1982120596294029625"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "video": {
+      "file_name": "telegram-cloud-document-5-6334546358908755694.mp4",
+      "height": 720,
+      "mime_type": "video/mp4",
+      "width": 1280,
+      "thumbnail": {
+        "height": 180,
+        "width": 320,
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgVEaP0BoHKVm9i6gZoY-cHqS6MUq9MAAnOHAAKFqulLuC-xFFWgIY0BAAdtAAM2BA",
+        "file_size": 7643,
+        "file_unique_id": "AQADc4cAAoWq6Uty"
+      },
+      "file_id": "BAACAgIAAyEFAASerMeaAAIFRGj9AaBylZvYuoGaGPnB6kujFKvTAAJzhwACharpS7gvsRRVoCGNNgQ",
+      "file_size": 7291866,
+      "file_unique_id": "AgADc4cAAoWq6Us",
+      "duration": 22,
+      "thumb": {
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgVEaP0BoHKVm9i6gZoY-cHqS6MUq9MAAnOHAAKFqulLuC-xFFWgIY0BAAdtAAM2BA",
+        "file_unique_id": "AQADc4cAAoWq6Uty",
+        "file_size": 7643,
+        "width": 320,
+        "height": 180
+      }
+    },
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761411489,
+    "message_id": 1348
   }
 ]
