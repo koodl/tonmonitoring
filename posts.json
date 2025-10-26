@@ -1,43 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 12,
-        "offset": 67,
-        "type": "text_link",
-        "url": "https://www.kommersant.ru/doc/8139082"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "✈️ Согласно исследованию Getblogger, в сентябре 2025 года Telegram стал лидером по перетоку аудитории брендов из Instagram, привлекший 32% пользователей после запрета на рекламу в этой соцсети.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761031842,
-    "message_id": 1314
-  },
-  {
     "caption": "💎 Продажи 3000 NFT-бустер-паков для игры KokoronoKi  от художницы Ellen Sheidlin  стартуют 21 октября на лаунчпаде Getgems.",
     "caption_entities": [
       {
@@ -2625,5 +2587,70 @@
     },
     "date": 1761493173,
     "message_id": 1351
+  },
+  {
+    "caption": "✈️ В бета-версии Telegram для Android v12.2.0 появился дизайн в стиле Liquid Glass.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 46,
+        "type": "text_link",
+        "url": "https://t.me/telelakel/677"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 51,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFSGj-l_uo6liiR18YlB5R04QV5oERAAKO_TEboiP5S285y2YfUDoLAQADAgADcwADNgQ",
+        "file_size": 1196,
+        "file_unique_id": "AQADjv0xG6Ij-Ut4"
+      },
+      {
+        "height": 180,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFSGj-l_uo6liiR18YlB5R04QV5oERAAKO_TEboiP5S285y2YfUDoLAQADAgADbQADNgQ",
+        "file_size": 14327,
+        "file_unique_id": "AQADjv0xG6Ij-Uty"
+      },
+      {
+        "height": 450,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFSGj-l_uo6liiR18YlB5R04QV5oERAAKO_TEboiP5S285y2YfUDoLAQADAgADeAADNgQ",
+        "file_size": 59482,
+        "file_unique_id": "AQADjv0xG6Ij-Ut9"
+      },
+      {
+        "height": 720,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFSGj-l_uo6liiR18YlB5R04QV5oERAAKO_TEboiP5S285y2YfUDoLAQADAgADeQADNgQ",
+        "file_size": 82999,
+        "file_unique_id": "AQADjv0xG6Ij-Ut-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761515515,
+    "message_id": 1352
   }
 ]
