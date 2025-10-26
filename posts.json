@@ -1,64 +1,5 @@
 [
   {
-    "caption": "📦 Стартовал raffle-sale 888 наборов коллекционных стикеров Teddie Stickers в Goodies по цене 1 TON за штуку, который продлится до 16:00 по CET 21 октября.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5449670138292894907",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 78,
-        "type": "text_link",
-        "url": "https://t.me/getgoodies_bot/Goodies?startapp=7RmMwpCaHVZU5y"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "video": {
-      "file_name": "IMG_5046.MP4",
-      "height": 848,
-      "mime_type": "video/mp4",
-      "width": 848,
-      "thumbnail": {
-        "height": 320,
-        "width": 320,
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgUgaPaUyxLEwuilOpcKnaq-wJOb2BEAAkaPAAK3ZLhLqu5xXfg78vgBAAdtAAM2BA",
-        "file_size": 16846,
-        "file_unique_id": "AQADRo8AArdkuEty"
-      },
-      "file_id": "BAACAgIAAyEFAASerMeaAAIFIGj2lMsSxMLopTqXCp2qvsCTm9gRAAJGjwACt2S4S6rucV34O_L4NgQ",
-      "file_size": 6256441,
-      "file_unique_id": "AgADRo8AArdkuEs",
-      "duration": 33,
-      "thumb": {
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgUgaPaUyxLEwuilOpcKnaq-wJOb2BEAAkaPAAK3ZLhLqu5xXfg78vgBAAdtAAM2BA",
-        "file_unique_id": "AQADRo8AArdkuEty",
-        "file_size": 16846,
-        "width": 320,
-        "height": 320
-      }
-    },
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1760990411,
-    "message_id": 1312
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2635,5 +2576,43 @@
     },
     "date": 1761411489,
     "message_id": 1348
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 11,
+        "type": "text_link",
+        "url": "https://t.me/peskarbrain/432"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 Пескарь обнаружил уязвимость в смарт-контракте подписок в TON, которая позволила ему списать средства примерно с 400 кошельков спустя полтора года после деактивации.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761470809,
+    "message_id": 1349
   }
 ]
