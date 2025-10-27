@@ -1,70 +1,5 @@
 [
   {
-    "caption": "🅰️ Бриттани Кайзер, CEO AlphaTON Capital, выступит на конференции SALT London 2025, которая пройдет 5-6 ноября в Лондоне.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5314597028901190799",
-        "length": 3,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 16,
-        "offset": 67,
-        "type": "text_link",
-        "url": "https://www.salt.org/event-speakers/salt-london-2025"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 72,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFKGj4Dx-Tpsf9D6pzr4E0szuGeAR_AAJmBzIbVrzBS0n4lqPK_SvJAQADAgADcwADNgQ",
-        "file_size": 1332,
-        "file_unique_id": "AQADZgcyG1a8wUt4"
-      },
-      {
-        "height": 320,
-        "width": 256,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFKGj4Dx-Tpsf9D6pzr4E0szuGeAR_AAJmBzIbVrzBS0n4lqPK_SvJAQADAgADbQADNgQ",
-        "file_size": 17747,
-        "file_unique_id": "AQADZgcyG1a8wUty"
-      },
-      {
-        "height": 800,
-        "width": 640,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFKGj4Dx-Tpsf9D6pzr4E0szuGeAR_AAJmBzIbVrzBS0n4lqPK_SvJAQADAgADeAADNgQ",
-        "file_size": 64890,
-        "file_unique_id": "AQADZgcyG1a8wUt9"
-      },
-      {
-        "height": 1280,
-        "width": 1024,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFKGj4Dx-Tpsf9D6pzr4E0szuGeAR_AAJmBzIbVrzBS0n4lqPK_SvJAQADAgADeQADNgQ",
-        "file_size": 84877,
-        "file_unique_id": "AQADZgcyG1a8wUt-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761087263,
-    "message_id": 1320
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2689,5 +2624,49 @@
     },
     "date": 1761559285,
     "message_id": 1356
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5276019924706292346",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 14,
+        "type": "text_link",
+        "url": "https://x.com/jbfxdotme/status/1982710402547929410?s=46"
+      },
+      {
+        "length": 5,
+        "offset": 34,
+        "type": "text_link",
+        "url": "https://t.me/mint?startapp=invite_659773038"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "Ⓜ️ Jack Booth сообщил, что проект @mint направит значительные средства для привлечения стримеров из США в Telegram, как только на платформе будет запущена функция стриминга.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761559467,
+    "message_id": 1357
   }
 ]
