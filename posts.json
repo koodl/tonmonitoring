@@ -1,63 +1,5 @@
 [
   {
-    "caption": "🅰️ AlphaTON Capital вступила в Blockchain Game Alliance (BGA) для усиления стратегии по игровым продуктам на базе Telegram и TON.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5314597028901190799",
-        "length": 3,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 21,
-        "type": "text_link",
-        "url": "https://www.globenewswire.com/news-release/2025/10/22/3171385/0/en/AlphaTON-Capital-Joins-Blockchain-Game-Alliance-BGA.html"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 47,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFK2j5HnIHbxQhQkrw2UCnjeSkG6AqAAKB-jEbVrzRSxoyOpNOEnPYAQADAgADcwADNgQ",
-        "file_size": 1153,
-        "file_unique_id": "AQADgfoxG1a80Ut4"
-      },
-      {
-        "height": 168,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFK2j5HnIHbxQhQkrw2UCnjeSkG6AqAAKB-jEbVrzRSxoyOpNOEnPYAQADAgADbQADNgQ",
-        "file_size": 12161,
-        "file_unique_id": "AQADgfoxG1a80Uty"
-      },
-      {
-        "height": 419,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFK2j5HnIHbxQhQkrw2UCnjeSkG6AqAAKB-jEbVrzRSxoyOpNOEnPYAQADAgADeAADNgQ",
-        "file_size": 42224,
-        "file_unique_id": "AQADgfoxG1a80Ut9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761156722,
-    "message_id": 1323
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2617,6 +2559,78 @@
     ],
     "channel_chat_created": false,
     "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 78,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFT2j_h4wVdqOmaSYOJn_PrOFc9nb_AAIf9jEboiMBSIzOMUk498BsAQADAgADcwADNgQ",
+        "file_size": 1531,
+        "file_unique_id": "AQADH_YxG6IjAUh4"
+      },
+      {
+        "height": 278,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFT2j_h4wVdqOmaSYOJn_PrOFc9nb_AAIf9jEboiMBSIzOMUk498BsAQADAgADbQADNgQ",
+        "file_size": 25554,
+        "file_unique_id": "AQADH_YxG6IjAUhy"
+      },
+      {
+        "height": 695,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFT2j_h4wVdqOmaSYOJn_PrOFc9nb_AAIf9jEboiMBSIzOMUk498BsAQADAgADeAADNgQ",
+        "file_size": 138219,
+        "file_unique_id": "AQADH_YxG6IjAUh9"
+      },
+      {
+        "height": 995,
+        "width": 1146,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFT2j_h4wVdqOmaSYOJn_PrOFc9nb_AAIf9jEboiMBSIzOMUk498BsAQADAgADeQADNgQ",
+        "file_size": 166023,
+        "file_unique_id": "AQADH_YxG6IjAUh-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761576844,
+    "message_id": 1359
+  },
+  {
+    "caption": "🦴 В TON Battleground появится специальная экипировка от проекта DOGS.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5442695223073344113",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 16,
+        "offset": 5,
+        "type": "text_link",
+        "url": "http://t.me/TON_BATTLEGROUND_bot"
+      },
+      {
+        "length": 8,
+        "offset": 22,
+        "type": "text_link",
+        "url": "https://x.com/alexcrypto_buzz/status/1982820931983536428?s=46"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1761577192,
     "group_chat_created": false,
     "photo": [
       {
