@@ -1,70 +1,5 @@
 [
   {
-    "caption": "✈️ В бета-версии Telegram для iOS v12.2.0 появилась возможность настроить приватность для музыки в профиле.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 42,
-        "type": "text_link",
-        "url": "https://t.me/telelakel/674"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 51,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFJ2j34GbtHZifMczyaU1X01nmD_MeAALTBjIbVrzBS9sWf-ywV1oaAQADAgADcwADNgQ",
-        "file_size": 862,
-        "file_unique_id": "AQAD0wYyG1a8wUt4"
-      },
-      {
-        "height": 180,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFJ2j34GbtHZifMczyaU1X01nmD_MeAALTBjIbVrzBS9sWf-ywV1oaAQADAgADbQADNgQ",
-        "file_size": 9213,
-        "file_unique_id": "AQAD0wYyG1a8wUty"
-      },
-      {
-        "height": 450,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFJ2j34GbtHZifMczyaU1X01nmD_MeAALTBjIbVrzBS9sWf-ywV1oaAQADAgADeAADNgQ",
-        "file_size": 37999,
-        "file_unique_id": "AQAD0wYyG1a8wUt9"
-      },
-      {
-        "height": 720,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFJ2j34GbtHZifMczyaU1X01nmD_MeAALTBjIbVrzBS9sWf-ywV1oaAQADAgADeQADNgQ",
-        "file_size": 51298,
-        "file_unique_id": "AQAD0wYyG1a8wUt-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761075302,
-    "message_id": 1319
-  },
-  {
     "caption": "🅰️ Бриттани Кайзер, CEO AlphaTON Capital, выступит на конференции SALT London 2025, которая пройдет 5-6 ноября в Лондоне.",
     "caption_entities": [
       {
@@ -2716,5 +2651,43 @@
     },
     "date": 1761558564,
     "message_id": 1355
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 28,
+        "type": "text_link",
+        "url": "https://x.com/alenkauq/status/1982747852481966591?s=46"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 Alenka из TON Foundation заявила, что следующий этап роста TON будет принадлежать разработчикам, объединяющим полезные продукты и нарративы с дистрибуцией через миллиардную аудиторию Telegram.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761559285,
+    "message_id": 1356
   }
 ]
