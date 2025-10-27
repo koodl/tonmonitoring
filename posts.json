@@ -4,44 +4,6 @@
     "delete_chat_photo": false,
     "entities": [
       {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 5,
-        "offset": 51,
-        "type": "text_link",
-        "url": "https://t.me/ostorozhno_novosti/42345"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "✈️ Автор Telegram-канала «Укиё-э каждый день» Иоан подал иск в Арбитражный суд Москвы против администраторов «Двача» и издания DTF за кражу двух постов, удаление авторства и добавление чужих вотермарок; он требует взыскать 100 тысяч рублей ущерба.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761060997,
-    "message_id": 1316
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
         "custom_emoji_id": "5440615647153256792",
         "length": 2,
         "offset": 0,
@@ -2634,5 +2596,71 @@
     },
     "date": 1761516367,
     "message_id": 1353
+  },
+  {
+    "caption": "✈️ В бета-версии Telegram для Android v12.2.0 появился дизайн в стиле Liquid Glass.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 46,
+        "type": "text_link",
+        "url": "https://t.me/telelakel/677"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1761538581,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 51,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFSGj-l_uo6liiR18YlB5R04QV5oERAAKO_TEboiP5S285y2YfUDoLAQADAgADcwADNgQ",
+        "file_size": 1196,
+        "file_unique_id": "AQADjv0xG6Ij-Ut4"
+      },
+      {
+        "height": 180,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFSGj-l_uo6liiR18YlB5R04QV5oERAAKO_TEboiP5S285y2YfUDoLAQADAgADbQADNgQ",
+        "file_size": 14327,
+        "file_unique_id": "AQADjv0xG6Ij-Uty"
+      },
+      {
+        "height": 450,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFSGj-l_uo6liiR18YlB5R04QV5oERAAKO_TEboiP5S285y2YfUDoLAQADAgADeAADNgQ",
+        "file_size": 59482,
+        "file_unique_id": "AQADjv0xG6Ij-Ut9"
+      },
+      {
+        "height": 720,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFSGj-l_uo6liiR18YlB5R04QV5oERAAKO_TEboiP5S285y2YfUDoLAQADAgADeQADNgQ",
+        "file_size": 82999,
+        "file_unique_id": "AQADjv0xG6Ij-Ut-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761515515,
+    "message_id": 1352
   }
 ]
