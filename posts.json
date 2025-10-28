@@ -1,71 +1,5 @@
 [
   {
-    "caption": "🍬 Раффл коллекции Lamborghini в Goodies начнется в 01:00.\nОбновление: в 21:00",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5461068994381381031",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 33,
-        "type": "text_link",
-        "url": "https://t.me/getgoodies_bot/Goodies?startapp=7RmMwpCaHVZU5y"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1761177666,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 67,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFL2j5RIHt1sxePFaUq1ebWxVfhM2zAAKF-zEbVrzRS__QsGSp4IGXAQADAgADcwADNgQ",
-        "file_size": 1395,
-        "file_unique_id": "AQADhfsxG1a80Ut4"
-      },
-      {
-        "height": 320,
-        "width": 237,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFL2j5RIHt1sxePFaUq1ebWxVfhM2zAAKF-zEbVrzRS__QsGSp4IGXAQADAgADbQADNgQ",
-        "file_size": 15312,
-        "file_unique_id": "AQADhfsxG1a80Uty"
-      },
-      {
-        "height": 800,
-        "width": 593,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFL2j5RIHt1sxePFaUq1ebWxVfhM2zAAKF-zEbVrzRS__QsGSp4IGXAQADAgADeAADNgQ",
-        "file_size": 52140,
-        "file_unique_id": "AQADhfsxG1a80Ut9"
-      },
-      {
-        "height": 1280,
-        "width": 949,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFL2j5RIHt1sxePFaUq1ebWxVfhM2zAAKF-zEbVrzRS__QsGSp4IGXAQADAgADeQADNgQ",
-        "file_size": 62069,
-        "file_unique_id": "AQADhfsxG1a80Ut-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761166465,
-    "message_id": 1327
-  },
-  {
     "caption": "🍬 Завершился раффл и добавлена коллекция Lamborghini в Goodies.",
     "caption_entities": [
       {
@@ -2685,6 +2619,51 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5210777808111954271",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 10,
+        "offset": 19,
+        "type": "text_link",
+        "url": "https://x.com/bidaskprotocol/status/1983126713002320231?s=46"
+      },
+      {
+        "length": 8,
+        "offset": 30,
+        "type": "text_link",
+        "url": "https://bidask.finance/en/app/pools/?poolType=meme"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💲 Bidask Protocol представил лаунчпад для мемкоинов, предлагающий создателям токенов защиту от снайпинга, доходную ликвидность и медиаподдержку.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761652938,
+    "message_id": 1365
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1761654907,
     "entities": [
       {
         "custom_emoji_id": "5210777808111954271",
