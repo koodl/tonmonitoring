@@ -1,50 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1761245194,
-    "entities": [
-      {
-        "custom_emoji_id": "5461068994381381031",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "custom_emoji_id": "5350765824674136498",
-        "length": 2,
-        "offset": 2,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 4,
-        "offset": 43,
-        "type": "text_link",
-        "url": "https://t.me/goodies/91"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🍬⚔️ Основатель NFT-проекта Azuki Zagabond стал официальным советником Goodies.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761245119,
-    "message_id": 1334
-  },
-  {
     "caption": "🍬 Две NFT-коллекции Teddie вошли в топ-10 по суточному объему торгов на GetGems: «Teddie: Goodies Intern» заняла пятое место с 13,5 тыс. TON, а «Teddie Nakamoto» — шестое с 12,4 тыс. TON.",
     "caption_entities": [
       {
@@ -2887,5 +2842,43 @@
     },
     "date": 1761688417,
     "message_id": 1369
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440479333481217835",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 15,
+        "type": "text_link",
+        "url": "https://tonscan.org/address/EQBeab7D38RIwypegbN7YZgQzwDbb8QfMMwY8ouJc3qPl91M"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "✈️ Павел Дуров отправил 50 000 TON на платформу Fragment для пополнения счета в Telegram.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761694346,
+    "message_id": 1370
   }
 ]
