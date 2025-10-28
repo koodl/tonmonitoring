@@ -1,71 +1,5 @@
 [
   {
-    "caption": "🍬 Завершился раффл и добавлена коллекция Lamborghini в Goodies.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5461068994381381031",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 56,
-        "type": "text_link",
-        "url": "https://t.me/getgoodies_bot/Goodies?startapp=7RmMwpCaHVZU5y"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1761177681,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 67,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFLWj5QB70BZrcpk42Ewkwf8vmLp5pAAJw-zEbVrzRSy7EGKcDoKRsAQADAgADcwADNgQ",
-        "file_size": 1849,
-        "file_unique_id": "AQADcPsxG1a80Ut4"
-      },
-      {
-        "height": 239,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFLWj5QB70BZrcpk42Ewkwf8vmLp5pAAJw-zEbVrzRSy7EGKcDoKRsAQADAgADbQADNgQ",
-        "file_size": 19775,
-        "file_unique_id": "AQADcPsxG1a80Uty"
-      },
-      {
-        "height": 598,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFLWj5QB70BZrcpk42Ewkwf8vmLp5pAAJw-zEbVrzRSy7EGKcDoKRsAQADAgADeAADNgQ",
-        "file_size": 66122,
-        "file_unique_id": "AQADcPsxG1a80Ut9"
-      },
-      {
-        "height": 841,
-        "width": 1125,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFLWj5QB70BZrcpk42Ewkwf8vmLp5pAAJw-zEbVrzRSy7EGKcDoKRsAQADAgADeQADNgQ",
-        "file_size": 71002,
-        "file_unique_id": "AQADcPsxG1a80Ut-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761165300,
-    "message_id": 1325
-  },
-  {
     "caption": "💎🅰️ TON Strategy и AlphaTON Capital заняли 35-е и 104-е места соответственно в рейтинге криптоказначейств, включая правительства, по данным CoinGecko.",
     "caption_entities": [
       {
@@ -2704,5 +2638,49 @@
     },
     "date": 1761652938,
     "message_id": 1365
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5472237906510770280",
+        "length": 5,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "custom_emoji_id": "5440704428422229664",
+        "length": 2,
+        "offset": 5,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 11,
+        "offset": 39,
+        "type": "text_link",
+        "url": "https://t.me/d_code/24106"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🧑‍💻👛 Пользователи Wallet в Telegram столкнулись с невозможностью продать токенизированные акции и высоким спредом, превышающим $5.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761669151,
+    "message_id": 1366
   }
 ]
