@@ -1,44 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1761225605,
-    "entities": [
-      {
-        "custom_emoji_id": "5314597028901190799",
-        "length": 3,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 6,
-        "offset": 35,
-        "type": "text_link",
-        "url": "https://www.sec.gov/Archives/edgar/data/1095435/000117184325006621/f6k_102325.htm"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🅰️ Уэс Левитт, который 24 октября сменит Андреа Пак на посту финансового директора AlphaTON Capital, будет получать годовое вознаграждение в размере $250 000 наличными и эквивалентную сумму в токенах TON.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761225583,
-    "message_id": 1330
-  },
-  {
     "caption": "💎 Angela Brasington присоединилась к TON Foundation в качестве менеджера US Hub для расширения экосистемы TON в Северной и Южной Америке.",
     "caption_entities": [
       {
@@ -2728,5 +2689,116 @@
     },
     "date": 1761669151,
     "message_id": 1366
+  },
+  {
+    "caption": "👛📈 Кошелек решил проблему с ликвидностью акций xStock.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440704428422229664",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "custom_emoji_id": "5190741704071743060",
+        "length": 2,
+        "offset": 2,
+        "type": "custom_emoji"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1761675956,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 84,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFV2kBCfWUXjtmDBHNUq_x0jO9_A51AAKpHTIbHBgISHSIIont-C3rAQADAgADcwADNgQ",
+        "file_size": 1736,
+        "file_unique_id": "AQADqR0yGxwYCEh4"
+      },
+      {
+        "height": 320,
+        "width": 299,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFV2kBCfWUXjtmDBHNUq_x0jO9_A51AAKpHTIbHBgISHSIIont-C3rAQADAgADbQADNgQ",
+        "file_size": 16647,
+        "file_unique_id": "AQADqR0yGxwYCEhy"
+      },
+      {
+        "height": 800,
+        "width": 748,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFV2kBCfWUXjtmDBHNUq_x0jO9_A51AAKpHTIbHBgISHSIIont-C3rAQADAgADeAADNgQ",
+        "file_size": 55785,
+        "file_unique_id": "AQADqR0yGxwYCEh9"
+      },
+      {
+        "height": 1204,
+        "width": 1125,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFV2kBCfWUXjtmDBHNUq_x0jO9_A51AAKpHTIbHBgISHSIIont-C3rAQADAgADeQADNgQ",
+        "file_size": 63578,
+        "file_unique_id": "AQADqR0yGxwYCEh-"
+      }
+    ],
+    "reply_to_message": {
+      "channel_chat_created": false,
+      "delete_chat_photo": false,
+      "edit_date": 1761675859,
+      "entities": [
+        {
+          "custom_emoji_id": "5472237906510770280",
+          "length": 5,
+          "offset": 0,
+          "type": "custom_emoji"
+        },
+        {
+          "custom_emoji_id": "5440704428422229664",
+          "length": 2,
+          "offset": 5,
+          "type": "custom_emoji"
+        },
+        {
+          "length": 11,
+          "offset": 39,
+          "type": "text_link",
+          "url": "https://t.me/d_code/24106"
+        }
+      ],
+      "group_chat_created": false,
+      "link_preview_options": {
+        "is_disabled": true
+      },
+      "sender_chat": {
+        "id": -1002662123418,
+        "title": "TON Monitoring",
+        "type": "channel",
+        "username": "tonmonitoring"
+      },
+      "supergroup_chat_created": false,
+      "text": "🧑‍💻👛 Пользователи Wallet в Telegram столкнулись с невозможностью продать токенизированные акции и высоким спредом, превышающим $5.",
+      "chat": {
+        "id": -1002662123418,
+        "title": "TON Monitoring",
+        "type": "channel",
+        "username": "tonmonitoring"
+      },
+      "date": 1761669151,
+      "message_id": 1366
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761675766,
+    "message_id": 1367
   }
 ]
