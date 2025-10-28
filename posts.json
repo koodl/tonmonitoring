@@ -1,82 +1,5 @@
 [
   {
-    "caption": "🍬 NFT-инфлюенсер (178K подписчиков) @waleswoosh стал советником нового Telegram-маркетплейса стикеров Goodies.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5461068994381381031",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 11,
-        "offset": 37,
-        "type": "text_link",
-        "url": "https://x.com/waleswoosh/status/1981379948188488180"
-      },
-      {
-        "length": 10,
-        "offset": 54,
-        "type": "text_link",
-        "url": "https://t.me/Crypto_HoBocTu/2766"
-      },
-      {
-        "length": 7,
-        "offset": 103,
-        "type": "text_link",
-        "url": "https://t.me/getgoodies_bot/Goodies?startapp=7RmMwpCaHVZU5y"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 42,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFNGj6Ui4CjyciKYu61e1zQW2vSnhiAAJYAAEyG-zo0Etzu4wFwoxZJQEAAwIAA3MAAzYE",
-        "file_size": 1052,
-        "file_unique_id": "AQADWAABMhvs6NBLeA"
-      },
-      {
-        "height": 151,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFNGj6Ui4CjyciKYu61e1zQW2vSnhiAAJYAAEyG-zo0Etzu4wFwoxZJQEAAwIAA20AAzYE",
-        "file_size": 17039,
-        "file_unique_id": "AQADWAABMhvs6NBLcg"
-      },
-      {
-        "height": 378,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFNGj6Ui4CjyciKYu61e1zQW2vSnhiAAJYAAEyG-zo0Etzu4wFwoxZJQEAAwIAA3gAAzYE",
-        "file_size": 68809,
-        "file_unique_id": "AQADWAABMhvs6NBLfQ"
-      },
-      {
-        "height": 558,
-        "width": 1180,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFNGj6Ui4CjyciKYu61e1zQW2vSnhiAAJYAAEyG-zo0Etzu4wFwoxZJQEAAwIAA3kAAzYE",
-        "file_size": 86198,
-        "file_unique_id": "AQADWAABMhvs6NBLfg"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761235502,
-    "message_id": 1332
-  },
-  {
     "caption": "📦 Продажа новой коллекции стикеров CHIMPERS x JARRITOS с саплаем 999 штук по цене 8 TON начнется 24 октября в 19:00 МСК.",
     "caption_entities": [
       {
@@ -2762,6 +2685,117 @@
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "edit_date": 1761675994,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 84,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFV2kBCfWUXjtmDBHNUq_x0jO9_A51AAKpHTIbHBgISHSIIont-C3rAQADAgADcwADNgQ",
+        "file_size": 1736,
+        "file_unique_id": "AQADqR0yGxwYCEh4"
+      },
+      {
+        "height": 320,
+        "width": 299,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFV2kBCfWUXjtmDBHNUq_x0jO9_A51AAKpHTIbHBgISHSIIont-C3rAQADAgADbQADNgQ",
+        "file_size": 16647,
+        "file_unique_id": "AQADqR0yGxwYCEhy"
+      },
+      {
+        "height": 800,
+        "width": 748,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFV2kBCfWUXjtmDBHNUq_x0jO9_A51AAKpHTIbHBgISHSIIont-C3rAQADAgADeAADNgQ",
+        "file_size": 55785,
+        "file_unique_id": "AQADqR0yGxwYCEh9"
+      },
+      {
+        "height": 1204,
+        "width": 1125,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFV2kBCfWUXjtmDBHNUq_x0jO9_A51AAKpHTIbHBgISHSIIont-C3rAQADAgADeQADNgQ",
+        "file_size": 63578,
+        "file_unique_id": "AQADqR0yGxwYCEh-"
+      }
+    ],
+    "reply_to_message": {
+      "channel_chat_created": false,
+      "delete_chat_photo": false,
+      "edit_date": 1761675859,
+      "entities": [
+        {
+          "custom_emoji_id": "5472237906510770280",
+          "length": 5,
+          "offset": 0,
+          "type": "custom_emoji"
+        },
+        {
+          "custom_emoji_id": "5440704428422229664",
+          "length": 2,
+          "offset": 5,
+          "type": "custom_emoji"
+        },
+        {
+          "length": 11,
+          "offset": 39,
+          "type": "text_link",
+          "url": "https://t.me/d_code/24106"
+        }
+      ],
+      "group_chat_created": false,
+      "link_preview_options": {
+        "is_disabled": true
+      },
+      "sender_chat": {
+        "id": -1002662123418,
+        "title": "TON Monitoring",
+        "type": "channel",
+        "username": "tonmonitoring"
+      },
+      "supergroup_chat_created": false,
+      "text": "🧑‍💻👛 Пользователи Wallet в Telegram столкнулись с невозможностью продать токенизированные акции и высоким спредом, превышающим $5.",
+      "chat": {
+        "id": -1002662123418,
+        "title": "TON Monitoring",
+        "type": "channel",
+        "username": "tonmonitoring"
+      },
+      "date": 1761669151,
+      "message_id": 1366
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761675766,
+    "message_id": 1367
+  },
+  {
+    "caption": "👛📈 Кошелек решил проблему с ликвидностью токенизированных акций xStocks.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440704428422229664",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "custom_emoji_id": "5190741704071743060",
+        "length": 2,
+        "offset": 2,
+        "type": "custom_emoji"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1761676009,
     "group_chat_created": false,
     "photo": [
       {
