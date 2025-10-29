@@ -1,57 +1,5 @@
 [
   {
-    "caption": "🍬 На маркетплейсе GetGems у Goodies Blindbox Teddie и Lamborghini одна коллекция, будьте осторожны.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5461068994381381031",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFPWj733C4JH1ne6WaOPR9Deet5o8HAALn-TEbharhS1cxMd72LPdVAQADAgADcwADNgQ",
-        "file_size": 1981,
-        "file_unique_id": "AQAD5_kxG4Wq4Ut4"
-      },
-      {
-        "height": 320,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFPWj733C4JH1ne6WaOPR9Deet5o8HAALn-TEbharhS1cxMd72LPdVAQADAgADbQADNgQ",
-        "file_size": 16757,
-        "file_unique_id": "AQAD5_kxG4Wq4Uty"
-      },
-      {
-        "height": 500,
-        "width": 500,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFPWj733C4JH1ne6WaOPR9Deet5o8HAALn-TEbharhS1cxMd72LPdVAQADAgADeAADNgQ",
-        "file_size": 22494,
-        "file_unique_id": "AQAD5_kxG4Wq4Ut9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761337200,
-    "message_id": 1341
-  },
-  {
     "caption": "Официальный Telegram-канал NFT-маркетплейса OpenSea получил верификацию.",
     "channel_chat_created": false,
     "delete_chat_photo": false,
@@ -2784,6 +2732,51 @@
         "length": 2,
         "offset": 0,
         "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 22,
+        "type": "text_link",
+        "url": "https://t.me/tonnel_en/1555"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🔄 Маркетплейс Tonnel запустил сервис Tonnel Lease, позволяющий покупать Telegram Gifts, Usernames и Anonymous Numbers в рассрочку с правом пользования на время выплат.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761728056,
+    "message_id": 1373
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1761728101,
+    "entities": [
+      {
+        "custom_emoji_id": "5447595991211471135",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 6,
+        "offset": 15,
+        "type": "text_link",
+        "url": "https://t.me/tonnel_network_bot/gifts?startapp=ref_659773038"
       },
       {
         "length": 8,
