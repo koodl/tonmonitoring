@@ -1,43 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5456348271272295894",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 11,
-        "offset": 48,
-        "type": "text_link",
-        "url": "https://t.me/web3tonru/367"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🕸 На рынке TON-доменов за последние две недели наблюдалась разнонаправленная динамика: в зоне .ton цены и активность стабилизировались, а на вторичном рынке .t.me объем торгов снизился на 16,37% при падении среднего чека на 34,96%.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761319312,
-    "message_id": 1336
-  },
-  {
     "caption": "✈️ В бета-версии Telegram для iOS 12.2.0 изменился дизайн кнопок в интерфейсе канала: «Сообщения канала» и «Подарки» переместились влево, центральная кнопка стала длиннее, а справа появилась кнопка поиска.",
     "caption_entities": [
       {
@@ -2851,6 +2813,45 @@
     },
     "supergroup_chat_created": false,
     "text": "💎 Акционеры TON Strategy Company на годовом собрании 24 октября 2025 года: \n⋅ избрали в совет директоров Manuel Stotz, Nicolas Cary, Rory J. Cutaia, Tucker Highfield и Evan Sohn, \n⋅ одобрили консультативное голосование по компенсациям руководства с решением проводить его ежегодно\n⋅ утвердили компанию Grassi & Co., CPAs, P.C. в качестве независимого аудитора на 2025 финансовый год.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761699649,
+    "message_id": 1371
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1761699678,
+    "entities": [
+      {
+        "custom_emoji_id": "5238004177031953682",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 16,
+        "offset": 37,
+        "type": "text_link",
+        "url": "https://www.sec.gov/Archives/edgar/data/1566610/000149315225019849/form8-k.htm"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 Акционеры TON Strategy Company на годовом собрании 24 октября 2025 года: \n⋅ избрали в совет директоров Manuel Stotz, Nicolas Cary, Rory J. Cutaia, Tucker Highfield и Evan Sohn;\n⋅ одобрили консультативное голосование по компенсациям руководства с решением проводить его ежегодно;\n⋅ утвердили компанию Grassi & Co., CPAs, P.C. в качестве независимого аудитора на 2025 финансовый год.",
     "chat": {
       "id": -1002662123418,
       "title": "TON Monitoring",
