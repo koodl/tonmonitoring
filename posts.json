@@ -1,44 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1761385196,
-    "entities": [
-      {
-        "custom_emoji_id": "5440700872189306557",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 24,
-        "type": "text_link",
-        "url": "https://t.me/storm_trade_news_ru/1021"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "⚡️ Команда Storm Trade  сообщила о попытке манипуляции ценой TON, в результате которой злоумышленник получил $240 000 прибыли, и заверила, что уже восстановила просевшие на 1,35% USDT и 1,77% TON буферы ликвидности.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761385126,
-    "message_id": 1344
-  },
-  {
     "caption": "Ⓜ️ Mint 28 октября выпустит коллекцию NFT-аватарок в формате blind box, в которой будут работы от Snoop Dogg и BAYC по цене 38 TON.",
     "caption_entities": [
       {
@@ -2790,6 +2751,45 @@
     },
     "supergroup_chat_created": false,
     "text": "⚙️ Команда TON Core  увеличилась на четыре новых C++  разработчика для ускорения операций в блокчейне TON  до менее чем одной секунды.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761761200,
+    "message_id": 1377
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1761761410,
+    "entities": [
+      {
+        "custom_emoji_id": "5443047436161413892",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 11,
+        "offset": 21,
+        "type": "text_link",
+        "url": "https://t.me/anatolii_makosov/93"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "url": "https://t.me/anatolii_makosov/93"
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "⚙️ Команда TON Core  увеличилась на четыре новых C++  разработчика и работает над ускорением операций в блокчейне TON до менее чем одной секунды.",
     "chat": {
       "id": -1002662123418,
       "title": "TON Monitoring",
