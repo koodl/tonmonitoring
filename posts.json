@@ -1,64 +1,5 @@
 [
   {
-    "caption": "✈️ В бета-версии Telegram для iOS 12.2.0 изменился дизайн кнопок в интерфейсе канала: «Сообщения канала» и «Подарки» переместились влево, центральная кнопка стала длиннее, а справа появилась кнопка поиска.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 41,
-        "type": "text_link",
-        "url": "https://t.me/telelakel/675"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "video": {
-      "file_name": "telegram-cloud-document-2-5467423106438040197.mp4",
-      "height": 1080,
-      "mime_type": "video/mp4",
-      "width": 1920,
-      "thumbnail": {
-        "height": 180,
-        "width": 320,
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgU5aPu2XP6ZyCUOf9itXKxYFIXqjNkAArWOAALs6NhLBApC8uH_YJsBAAdtAAM2BA",
-        "file_size": 6152,
-        "file_unique_id": "AQADtY4AAuzo2Ety"
-      },
-      "file_id": "BAACAgIAAyEFAASerMeaAAIFOWj7tlz-mcglDn_YrVysWBSF6ozZAAK1jgAC7OjYSwQKQvLh_2CbNgQ",
-      "file_size": 6250007,
-      "file_unique_id": "AgADtY4AAuzo2Es",
-      "duration": 11,
-      "thumb": {
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgU5aPu2XP6ZyCUOf9itXKxYFIXqjNkAArWOAALs6NhLBApC8uH_YJsBAAdtAAM2BA",
-        "file_unique_id": "AQADtY4AAuzo2Ety",
-        "file_size": 6152,
-        "width": 320,
-        "height": 180
-      }
-    },
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761326684,
-    "message_id": 1337
-  },
-  {
     "caption": "✈️ Основатель Telegram Павел Дуров выступит 29 октября в 16:00 на форуме Blockchain Life 2025 в Дубае.",
     "caption_entities": [
       {
@@ -2860,5 +2801,56 @@
     },
     "date": 1761699649,
     "message_id": 1371
+  },
+  {
+    "caption": "Основатель и глава Telegram Павел Дуров выступит сегодня в 14:55 по Мск на главной сцене Blockchain Life 2025 в Дубае.",
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFXGkBdOxTvUm2gBlqo0HztMzHcz4ZAAK-9DEbHBgQSMx4yZT2Z7NfAQADAgADcwADNgQ",
+        "file_size": 1933,
+        "file_unique_id": "AQADvvQxGxwYEEh4"
+      },
+      {
+        "height": 320,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFXGkBdOxTvUm2gBlqo0HztMzHcz4ZAAK-9DEbHBgQSMx4yZT2Z7NfAQADAgADbQADNgQ",
+        "file_size": 30811,
+        "file_unique_id": "AQADvvQxGxwYEEhy"
+      },
+      {
+        "height": 800,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFXGkBdOxTvUm2gBlqo0HztMzHcz4ZAAK-9DEbHBgQSMx4yZT2Z7NfAQADAgADeAADNgQ",
+        "file_size": 141482,
+        "file_unique_id": "AQADvvQxGxwYEEh9"
+      },
+      {
+        "height": 1080,
+        "width": 1080,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFXGkBdOxTvUm2gBlqo0HztMzHcz4ZAAK-9DEbHBgQSMx4yZT2Z7NfAQADAgADeQADNgQ",
+        "file_size": 142081,
+        "file_unique_id": "AQADvvQxGxwYEEh-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761703148,
+    "message_id": 1372
   }
 ]
