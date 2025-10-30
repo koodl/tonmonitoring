@@ -1,77 +1,5 @@
 [
   {
-    "caption": "Ⓜ️ Mint 28 октября выпустит коллекцию NFT-аватарок в формате blind box, в которой будут работы от Snoop Dogg и BAYC по цене 38 TON.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5276019924706292346",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 4,
-        "offset": 3,
-        "type": "text_link",
-        "url": "https://t.me/mint?startapp=invite_659773038"
-      },
-      {
-        "length": 8,
-        "offset": 19,
-        "type": "text_link",
-        "url": "https://t.me/stickernews/450"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1761395540,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 58,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFQWj8wzuuEQewsA_M9fEEEe1ep0wRAAIH_jEbharhSx5LFwPpXjjMAQADAgADcwADNgQ",
-        "file_size": 1370,
-        "file_unique_id": "AQADB_4xG4Wq4Ut4"
-      },
-      {
-        "height": 208,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFQWj8wzuuEQewsA_M9fEEEe1ep0wRAAIH_jEbharhSx5LFwPpXjjMAQADAgADbQADNgQ",
-        "file_size": 13924,
-        "file_unique_id": "AQADB_4xG4Wq4Uty"
-      },
-      {
-        "height": 664,
-        "width": 1020,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFQWj8wzuuEQewsA_M9fEEEe1ep0wRAAIH_jEbharhSx5LFwPpXjjMAQADAgADeQADNgQ",
-        "file_size": 53771,
-        "file_unique_id": "AQADB_4xG4Wq4Ut-"
-      },
-      {
-        "height": 521,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFQWj8wzuuEQewsA_M9fEEEe1ep0wRAAIH_jEbharhSx5LFwPpXjjMAQADAgADeAADNgQ",
-        "file_size": 56258,
-        "file_unique_id": "AQADB_4xG4Wq4Ut9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761395515,
-    "message_id": 1345
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2772,5 +2700,70 @@
     },
     "date": 1761761200,
     "message_id": 1377
+  },
+  {
+    "caption": "✈️ Telegram начал тестировать в России функцию Peer-to-Peer Login Program, в рамках которой пользователи могут отправлять до 100 SMS-кодов в месяц в обмен на подписку Premium.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 5,
+        "offset": 12,
+        "type": "text_link",
+        "url": "https://kod.ru/telegram-p2pl-rus"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 62,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFYmkDL5uzI7Z4iit7MBSF2dDwUlp9AAKH-TEb-MwZSCBf8cWnKaXYAQADAgADcwADNgQ",
+        "file_size": 1054,
+        "file_unique_id": "AQADh_kxG_jMGUh4"
+      },
+      {
+        "height": 219,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFYmkDL5uzI7Z4iit7MBSF2dDwUlp9AAKH-TEb-MwZSCBf8cWnKaXYAQADAgADbQADNgQ",
+        "file_size": 9187,
+        "file_unique_id": "AQADh_kxG_jMGUhy"
+      },
+      {
+        "height": 548,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFYmkDL5uzI7Z4iit7MBSF2dDwUlp9AAKH-TEb-MwZSCBf8cWnKaXYAQADAgADeAADNgQ",
+        "file_size": 35741,
+        "file_unique_id": "AQADh_kxG_jMGUh9"
+      },
+      {
+        "height": 877,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFYmkDL5uzI7Z4iit7MBSF2dDwUlp9AAKH-TEb-MwZSCBf8cWnKaXYAQADAgADeQADNgQ",
+        "file_size": 50458,
+        "file_unique_id": "AQADh_kxG_jMGUh-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761816475,
+    "message_id": 1378
   }
 ]
