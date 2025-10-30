@@ -1,48 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 16,
-        "type": "mention"
-      },
-      {
-        "length": 7,
-        "offset": 25,
-        "type": "text_link",
-        "url": "https://t.me/elementalint/725"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "✈️ Пользователь @pepetme призвал сообщество добиться от Telegram компенсации за баг, из-за которого подарки, выставленные на продажу за TON, продавались за звёзды с убытком в 99%.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761410071,
-    "message_id": 1347
-  },
-  {
     "caption": "🐧 Проект Pudgy Penguins анонсировал коллаборацию с анимационной франшизой Kung Fu Panda от DreamWorks.",
     "caption_entities": [
       {
@@ -2786,5 +2743,65 @@
     },
     "date": 1761834699,
     "message_id": 1380
+  },
+  {
+    "caption": "✈️ Павел Дуров на форуме Blockchain Life 2025 анонсировал запуск в ноябре проекта Cocoon — Confidential Compute Open Network.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440479333481217835",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1761841448,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 50,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFXmkCB-vgujLXh5o6JouMCydzG9pyAAIhAAEyG_jMEUhGpItcmnNXjQEAAwIAA3MAAzYE",
+        "file_size": 1305,
+        "file_unique_id": "AQADIQABMhv4zBFIeA"
+      },
+      {
+        "height": 179,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFXmkCB-vgujLXh5o6JouMCydzG9pyAAIhAAEyG_jMEUhGpItcmnNXjQEAAwIAA20AAzYE",
+        "file_size": 18184,
+        "file_unique_id": "AQADIQABMhv4zBFIcg"
+      },
+      {
+        "height": 447,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFXmkCB-vgujLXh5o6JouMCydzG9pyAAIhAAEyG_jMEUhGpItcmnNXjQEAAwIAA3gAAzYE",
+        "file_size": 74889,
+        "file_unique_id": "AQADIQABMhv4zBFIfQ"
+      },
+      {
+        "height": 716,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFXmkCB-vgujLXh5o6JouMCydzG9pyAAIhAAEyG_jMEUhGpItcmnNXjQEAAwIAA3kAAzYE",
+        "file_size": 105834,
+        "file_unique_id": "AQADIQABMhv4zBFIfg"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761740779,
+    "message_id": 1374
   }
 ]
