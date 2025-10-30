@@ -2,49 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5442695223073344113",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 5,
-        "offset": 3,
-        "type": "cashtag"
-      },
-      {
-        "length": 8,
-        "offset": 9,
-        "type": "text_link",
-        "url": "https://t.me/dogs/583"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🦴 $DOGS выступит главным спонсором забега DOGS & RUN Ravenna 2025, который пройдет 8 ноября в Равенне, Италия.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761396493,
-    "message_id": 1346
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1761397904,
     "entities": [
       {
@@ -2765,5 +2722,43 @@
     },
     "date": 1761816475,
     "message_id": 1378
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 10,
+        "offset": 60,
+        "type": "text_link",
+        "url": "https://ria.ru/20251030/krym-2051845484.html"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "✈️ Работа мессенджеров Telegram и WhatsApp в Крыму частично ограничена по инициативе Роскомнадзора, сообщил региональный телеком-оператор «Волна».",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761827141,
+    "message_id": 1379
   }
 ]
