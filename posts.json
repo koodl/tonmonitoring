@@ -2,45 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "edit_date": 1761397904,
-    "entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 10,
-        "offset": 43,
-        "type": "text_link",
-        "url": "https://t.me/telelakel/663"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "✈️ Блокчейн-подарки в Telegram можно будет установить в качестве фона для профиля или канала, но их нельзя будет передать или продать внутри мессенджера.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1759348307,
-    "message_id": 1189
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "entities": [
       {
         "custom_emoji_id": "5440613134597387384",
@@ -2760,5 +2721,70 @@
     },
     "date": 1761827141,
     "message_id": 1379
+  },
+  {
+    "caption": "💎 TON Foundation объявила, что 7 ноября откажется от старого проекта Memelandia и представит новый.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 18,
+        "type": "text_link",
+        "url": "https://x.com/tonmemelandia/status/1983902662287323432?s=46"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 50,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFZGkDdstTz40ZiyZtvI0nLWf8ahzTAAIe_TEb-MwZSF6iIe1-zmB9AQADAgADcwADNgQ",
+        "file_size": 1045,
+        "file_unique_id": "AQADHv0xG_jMGUh4"
+      },
+      {
+        "height": 178,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFZGkDdstTz40ZiyZtvI0nLWf8ahzTAAIe_TEb-MwZSF6iIe1-zmB9AQADAgADbQADNgQ",
+        "file_size": 13557,
+        "file_unique_id": "AQADHv0xG_jMGUhy"
+      },
+      {
+        "height": 445,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFZGkDdstTz40ZiyZtvI0nLWf8ahzTAAIe_TEb-MwZSF6iIe1-zmB9AQADAgADeAADNgQ",
+        "file_size": 45819,
+        "file_unique_id": "AQADHv0xG_jMGUh9"
+      },
+      {
+        "height": 626,
+        "width": 1125,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFZGkDdstTz40ZiyZtvI0nLWf8ahzTAAIe_TEb-MwZSF6iIe1-zmB9AQADAgADeQADNgQ",
+        "file_size": 49181,
+        "file_unique_id": "AQADHv0xG_jMGUh-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761834699,
+    "message_id": 1380
   }
 ]
