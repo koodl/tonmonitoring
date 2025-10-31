@@ -1,70 +1,5 @@
 [
   {
-    "caption": "👛 В mini app «Кошелёк» в Telegram добавили раздел для покупки американских акций и фондов.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440704428422229664",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 14,
-        "type": "text_link",
-        "url": "https://t.me/wallet"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 52,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFS2j_QCTfQZrOK8pselT16s_pfmwuAAJuAAEyG6Ij-Uu1zn1th9MSwAEAAwIAA3MAAzYE",
-        "file_size": 1356,
-        "file_unique_id": "AQADbgABMhuiI_lLeA"
-      },
-      {
-        "height": 320,
-        "width": 184,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFS2j_QCTfQZrOK8pselT16s_pfmwuAAJuAAEyG6Ij-Uu1zn1th9MSwAEAAwIAA20AAzYE",
-        "file_size": 16425,
-        "file_unique_id": "AQADbgABMhuiI_lLcg"
-      },
-      {
-        "height": 800,
-        "width": 459,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFS2j_QCTfQZrOK8pselT16s_pfmwuAAJuAAEyG6Ij-Uu1zn1th9MSwAEAAwIAA3gAAzYE",
-        "file_size": 57024,
-        "file_unique_id": "AQADbgABMhuiI_lLfQ"
-      },
-      {
-        "height": 1280,
-        "width": 735,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFS2j_QCTfQZrOK8pselT16s_pfmwuAAJuAAEyG6Ij-Uu1zn1th9MSwAEAAwIAA3kAAzYE",
-        "file_size": 71160,
-        "file_unique_id": "AQADbgABMhuiI_lLfg"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761558564,
-    "message_id": 1355
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2716,5 +2651,56 @@
     },
     "date": 1761928226,
     "message_id": 1387
+  },
+  {
+    "caption": "💎 Chainlink интегрировала протоколы CCIP и Data Streams в TON, обеспечив кросс-чейн переводы Toncoin между более чем 60 блокчейнами и поставку данных для DeFi-приложений.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 13,
+        "offset": 13,
+        "type": "text_link",
+        "url": "https://www.prnewswire.com/news-releases/chainlink-expands-ccip-and-data-streams-to-ton-connecting-ton-to-the-global-multi-chain-economy-and-establishing-canonical-cross-chain-infrastructure-for-toncoin-302600611.html"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 51,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFbGkE7leiiCKvF86QIk_9AfvCqXnnAAKOBDIb9-wpSA4CvAbXQ-cUAQADAgADcwADNgQ",
+        "file_size": 694,
+        "file_unique_id": "AQADjgQyG_fsKUh4"
+      },
+      {
+        "height": 169,
+        "width": 300,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFbGkE7leiiCKvF86QIk_9AfvCqXnnAAKOBDIb9-wpSA4CvAbXQ-cUAQADAgADbQADNgQ",
+        "file_size": 2860,
+        "file_unique_id": "AQADjgQyG_fsKUhy"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761930839,
+    "message_id": 1388
   }
 ]
