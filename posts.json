@@ -4,44 +4,6 @@
     "delete_chat_photo": false,
     "entities": [
       {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 28,
-        "type": "text_link",
-        "url": "https://x.com/alenkauq/status/1982747852481966591?s=46"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 Alenka из TON Foundation заявила, что следующий этап роста TON будет принадлежать разработчикам, объединяющим полезные продукты и нарративы с дистрибуцией через миллиардную аудиторию Telegram.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761559285,
-    "message_id": 1356
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
         "custom_emoji_id": "5276019924706292346",
         "length": 2,
         "offset": 0,
@@ -2702,5 +2664,63 @@
     },
     "date": 1761930839,
     "message_id": 1388
+  },
+  {
+    "caption": "🅰️ AlphaTON Capital (Nasdaq: ATON) объявила о запуске 3 ноября 2025 года мирового турне, которое начнется с завтрака для инвесторов на Nasdaq MarketSite.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5314597028901190799",
+        "length": 3,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 36,
+        "type": "text_link",
+        "url": "https://www.stocktitan.net/news/ATON/alpha-ton-capital-kicks-off-global-world-tour-with-investor-6ygtwpvpqchw.html"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 52,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFbWkE8ys7Qfr9gh--bRZIgZaVIlKmAAKXBDIb9-wpSBGI9qCBSbkHAQADAgADcwADNgQ",
+        "file_size": 1997,
+        "file_unique_id": "AQADlwQyG_fsKUh4"
+      },
+      {
+        "height": 184,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFbWkE8ys7Qfr9gh--bRZIgZaVIlKmAAKXBDIb9-wpSBGI9qCBSbkHAQADAgADbQADNgQ",
+        "file_size": 25418,
+        "file_unique_id": "AQADlwQyG_fsKUhy"
+      },
+      {
+        "height": 364,
+        "width": 634,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFbWkE8ys7Qfr9gh--bRZIgZaVIlKmAAKXBDIb9-wpSBGI9qCBSbkHAQADAgADeAADNgQ",
+        "file_size": 48706,
+        "file_unique_id": "AQADlwQyG_fsKUh9"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761932075,
+    "message_id": 1389
   }
 ]
