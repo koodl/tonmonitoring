@@ -1,77 +1,5 @@
 [
   {
-    "caption": "🦴 В TON Battleground появится специальная экипировка от проекта DOGS.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5442695223073344113",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 16,
-        "offset": 5,
-        "type": "text_link",
-        "url": "http://t.me/TON_BATTLEGROUND_bot"
-      },
-      {
-        "length": 8,
-        "offset": 22,
-        "type": "text_link",
-        "url": "https://x.com/alexcrypto_buzz/status/1982820931983536428?s=46"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1761577192,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 78,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFT2j_h4wVdqOmaSYOJn_PrOFc9nb_AAIf9jEboiMBSIzOMUk498BsAQADAgADcwADNgQ",
-        "file_size": 1531,
-        "file_unique_id": "AQADH_YxG6IjAUh4"
-      },
-      {
-        "height": 278,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFT2j_h4wVdqOmaSYOJn_PrOFc9nb_AAIf9jEboiMBSIzOMUk498BsAQADAgADbQADNgQ",
-        "file_size": 25554,
-        "file_unique_id": "AQADH_YxG6IjAUhy"
-      },
-      {
-        "height": 695,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFT2j_h4wVdqOmaSYOJn_PrOFc9nb_AAIf9jEboiMBSIzOMUk498BsAQADAgADeAADNgQ",
-        "file_size": 138219,
-        "file_unique_id": "AQADH_YxG6IjAUh9"
-      },
-      {
-        "height": 995,
-        "width": 1146,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFT2j_h4wVdqOmaSYOJn_PrOFc9nb_AAIf9jEboiMBSIzOMUk498BsAQADAgADeQADNgQ",
-        "file_size": 166023,
-        "file_unique_id": "AQADH_YxG6IjAUh-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761576844,
-    "message_id": 1359
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2757,5 +2685,70 @@
     },
     "date": 1761952268,
     "message_id": 1392
+  },
+  {
+    "caption": "🪙 TON Foundation запустила новый сайт с обратным отсчетом для MemeRepublic.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5197450760815668186",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 18,
+        "type": "text_link",
+        "url": "https://www.tonmemerepublic.com/"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 55,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFcWkFQwYVyHMxglZg1P4P83RikOk-AAK2BjIb9-wpSLIiJE7xR1I-AQADAgADcwADNgQ",
+        "file_size": 1252,
+        "file_unique_id": "AQADtgYyG_fsKUh4"
+      },
+      {
+        "height": 196,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFcWkFQwYVyHMxglZg1P4P83RikOk-AAK2BjIb9-wpSLIiJE7xR1I-AQADAgADbQADNgQ",
+        "file_size": 12560,
+        "file_unique_id": "AQADtgYyG_fsKUhy"
+      },
+      {
+        "height": 489,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFcWkFQwYVyHMxglZg1P4P83RikOk-AAK2BjIb9-wpSLIiJE7xR1I-AQADAgADeAADNgQ",
+        "file_size": 41180,
+        "file_unique_id": "AQADtgYyG_fsKUh9"
+      },
+      {
+        "height": 715,
+        "width": 1170,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFcWkFQwYVyHMxglZg1P4P83RikOk-AAK2BjIb9-wpSLIiJE7xR1I-AQADAgADeQADNgQ",
+        "file_size": 44619,
+        "file_unique_id": "AQADtgYyG_fsKUh-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761952518,
+    "message_id": 1393
   }
 ]
