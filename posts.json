@@ -1,70 +1,5 @@
 [
   {
-    "caption": "🍬 На платформе Goodies в 18:00 по МСК стартует раффл стикеров Pudgy Penguins x Kung Fu Panda общим тиражом 9888 штук по предполагаемой цене 22 TON.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5461068994381381031",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 16,
-        "type": "text_link",
-        "url": "https://t.me/getgoodies_bot/Goodies?startapp=7RmMwpCaHVZU5y"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 58,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFSmj_PYCn3Yg-uBDxyEFWdxZTC02vAAJdAAEyG6Ij-Us-klXxTE7pCgEAAwIAA3MAAzYE",
-        "file_size": 1283,
-        "file_unique_id": "AQADXQABMhuiI_lLeA"
-      },
-      {
-        "height": 320,
-        "width": 207,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFSmj_PYCn3Yg-uBDxyEFWdxZTC02vAAJdAAEyG6Ij-Us-klXxTE7pCgEAAwIAA20AAzYE",
-        "file_size": 15901,
-        "file_unique_id": "AQADXQABMhuiI_lLcg"
-      },
-      {
-        "height": 800,
-        "width": 517,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFSmj_PYCn3Yg-uBDxyEFWdxZTC02vAAJdAAEyG6Ij-Us-klXxTE7pCgEAAwIAA3gAAzYE",
-        "file_size": 60428,
-        "file_unique_id": "AQADXQABMhuiI_lLfQ"
-      },
-      {
-        "height": 1280,
-        "width": 827,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFSmj_PYCn3Yg-uBDxyEFWdxZTC02vAAJdAAEyG6Ij-Us-klXxTE7pCgEAAwIAA3kAAzYE",
-        "file_size": 75481,
-        "file_unique_id": "AQADXQABMhuiI_lLfg"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761557888,
-    "message_id": 1354
-  },
-  {
     "caption": "👛 В mini app «Кошелёк» в Telegram добавили раздел для покупки американских акций и фондов.",
     "caption_entities": [
       {
@@ -2737,5 +2672,49 @@
     },
     "date": 1761925401,
     "message_id": 1386
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440704428422229664",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "custom_emoji_id": "5190741704071743060",
+        "length": 2,
+        "offset": 2,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 10,
+        "offset": 13,
+        "type": "text_link",
+        "url": "https://t.me/cryptowallet_news_cis/577"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "👛📈 Кошелек разъяснил, что дивиденды по токенизированным акциям автоматически начисляются держателям в виде дополнительных токенов, реинвестируя таким образом прибыль.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761928226,
+    "message_id": 1387
   }
 ]
