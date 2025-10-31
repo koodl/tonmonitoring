@@ -4,50 +4,6 @@
     "delete_chat_photo": false,
     "entities": [
       {
-        "custom_emoji_id": "5276019924706292346",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 14,
-        "type": "text_link",
-        "url": "https://x.com/jbfxdotme/status/1982710402547929410?s=46"
-      },
-      {
-        "length": 5,
-        "offset": 34,
-        "type": "text_link",
-        "url": "https://t.me/mint?startapp=invite_659773038"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "Ⓜ️ Jack Booth сообщил, что проект @mint направит значительные средства для привлечения стримеров из США в Telegram, как только на платформе будет запущена функция стриминга.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761559467,
-    "message_id": 1357
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
         "custom_emoji_id": "5442772532484665802",
         "length": 2,
         "offset": 0,
@@ -2722,5 +2678,57 @@
     },
     "date": 1761932075,
     "message_id": 1389
+  },
+  {
+    "caption": "🎁 Вышли новые подарки.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440615647153256792",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 60,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFbmkFIA4V4Wq6c3UPBMtGMSLF8_PaAAL8BTIb9-wpSIJaI6MIXHCyAQADAgADcwADNgQ",
+        "file_size": 1723,
+        "file_unique_id": "AQAD_AUyG_fsKUh4"
+      },
+      {
+        "height": 212,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFbmkFIA4V4Wq6c3UPBMtGMSLF8_PaAAL8BTIb9-wpSIJaI6MIXHCyAQADAgADbQADNgQ",
+        "file_size": 19035,
+        "file_unique_id": "AQAD_AUyG_fsKUhy"
+      },
+      {
+        "height": 497,
+        "width": 750,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFbmkFIA4V4Wq6c3UPBMtGMSLF8_PaAAL8BTIb9-wpSIJaI6MIXHCyAQADAgADeAADNgQ",
+        "file_size": 41661,
+        "file_unique_id": "AQAD_AUyG_fsKUh9"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761943566,
+    "message_id": 1390
   }
 ]
