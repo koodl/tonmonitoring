@@ -1,43 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5442772532484665802",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 11,
-        "offset": 19,
-        "type": "text_link",
-        "url": "https://t.me/tondev_news/247"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🔁 Команда ston-fi представила ton-rs — новый набор инструментов с открытым исходным кодом для разработки на языке Rust в экосистеме TON.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761564904,
-    "message_id": 1358
-  },
-  {
     "caption": "🦴 В TON Battleground появится специальная экипировка от проекта DOGS.",
     "caption_entities": [
       {
@@ -2730,5 +2692,70 @@
     },
     "date": 1761943566,
     "message_id": 1390
+  },
+  {
+    "caption": "🪙 TON Foundation представила MemeRepublic — 10-недельный конкурс для мемкоинов на TON с фондом в $1 млн.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5197450760815668186",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 11,
+        "offset": 18,
+        "type": "text_link",
+        "url": "https://blog.ton.org/introducing-meme-republic"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 42,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFb2kFQeucJu-t5WHFFiDjYfQlcV5PAAK0BjIb9-wpSJarWgwDC7BwAQADAgADcwADNgQ",
+        "file_size": 890,
+        "file_unique_id": "AQADtAYyG_fsKUh4"
+      },
+      {
+        "height": 320,
+        "width": 148,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFb2kFQeucJu-t5WHFFiDjYfQlcV5PAAK0BjIb9-wpSJarWgwDC7BwAQADAgADbQADNgQ",
+        "file_size": 7736,
+        "file_unique_id": "AQADtAYyG_fsKUhy"
+      },
+      {
+        "height": 800,
+        "width": 369,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFb2kFQeucJu-t5WHFFiDjYfQlcV5PAAK0BjIb9-wpSJarWgwDC7BwAQADAgADeAADNgQ",
+        "file_size": 26912,
+        "file_unique_id": "AQADtAYyG_fsKUh9"
+      },
+      {
+        "height": 1280,
+        "width": 591,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFb2kFQeucJu-t5WHFFiDjYfQlcV5PAAK0BjIb9-wpSJarWgwDC7BwAQADAgADeQADNgQ",
+        "file_size": 34100,
+        "file_unique_id": "AQADtAYyG_fsKUh-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761952235,
+    "message_id": 1391
   }
 ]
