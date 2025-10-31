@@ -1,43 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5447638103365806920",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 10,
-        "offset": 10,
-        "type": "text_link",
-        "url": "https://www.cryptopolitan.com/hackers-telegram-messenger-with-malware/"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🛡 Хакеры используют мессенджер Telegram X для распространения вредоносного ПО через обманную рекламу в приложениях и сторонние магазины, что привело к заражению более 58 000 устройств с целью кражи конфиденциальных данных.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761493173,
-    "message_id": 1351
-  },
-  {
     "caption": "✈️ В бета-версии Telegram для Android v12.2.0 появился дизайн в стиле Liquid Glass.",
     "caption_entities": [
       {
@@ -2763,6 +2725,45 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 5,
+        "offset": 24,
+        "type": "text_link",
+        "url": "https://t.me/pgrton/1303"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 На фоне минимального роста ончейн-активности пользователей за неделю совокупный отток TON с централизованных бирж составил 3,53 млн, тогда как пулы TON/USDT на DEX прибавили 0,1 млн USDT.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761909086,
+    "message_id": 1383
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1761914718,
     "entities": [
       {
         "custom_emoji_id": "5440671546152610057",
