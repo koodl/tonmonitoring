@@ -4,44 +4,6 @@
     "delete_chat_photo": false,
     "entities": [
       {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 11,
-        "type": "text_link",
-        "url": "https://t.me/peskarbrain/432"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 Пескарь обнаружил уязвимость в смарт-контракте подписок в TON, которая позволила ему списать средства примерно с 400 кошельков спустя полтора года после деактивации.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761470809,
-    "message_id": 1349
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
         "custom_emoji_id": "5265112348451960063",
         "length": 2,
         "offset": 0,
@@ -2782,5 +2744,70 @@
     },
     "date": 1761850614,
     "message_id": 1381
+  },
+  {
+    "caption": "✈️ Пользователи Telegram с российским номером телефона теперь могут приобрести подписку Premium на два года, позже эта опция станет доступна и в других странах.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 10,
+        "offset": 68,
+        "type": "text_link",
+        "url": "https://t.me/telelakel/693"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFZmkEjRiy9u11gRNwSKJkMZ9HdgSEAAKS9zEb9-whSA3CCIPurE12AQADAgADcwADNgQ",
+        "file_size": 1475,
+        "file_unique_id": "AQADkvcxG_fsIUh4"
+      },
+      {
+        "height": 320,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFZmkEjRiy9u11gRNwSKJkMZ9HdgSEAAKS9zEb9-whSA3CCIPurE12AQADAgADbQADNgQ",
+        "file_size": 20540,
+        "file_unique_id": "AQADkvcxG_fsIUhy"
+      },
+      {
+        "height": 799,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFZmkEjRiy9u11gRNwSKJkMZ9HdgSEAAKS9zEb9-whSA3CCIPurE12AQADAgADeAADNgQ",
+        "file_size": 79809,
+        "file_unique_id": "AQADkvcxG_fsIUh9"
+      },
+      {
+        "height": 1279,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFZmkEjRiy9u11gRNwSKJkMZ9HdgSEAAKS9zEb9-whSA3CCIPurE12AQADAgADeQADNgQ",
+        "file_size": 97760,
+        "file_unique_id": "AQADkvcxG_fsIUh-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761905945,
+    "message_id": 1382
   }
 ]
