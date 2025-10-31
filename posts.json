@@ -17,71 +17,6 @@
     ],
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 51,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFSWj-m097CZFMddyV0xU3T-q8YcFjAAKe_TEboiP5Sweo0UuiT16vAQADAgADcwADNgQ",
-        "file_size": 1144,
-        "file_unique_id": "AQADnv0xG6Ij-Ut4"
-      },
-      {
-        "height": 180,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFSWj-m097CZFMddyV0xU3T-q8YcFjAAKe_TEboiP5Sweo0UuiT16vAQADAgADbQADNgQ",
-        "file_size": 12375,
-        "file_unique_id": "AQADnv0xG6Ij-Uty"
-      },
-      {
-        "height": 450,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFSWj-m097CZFMddyV0xU3T-q8YcFjAAKe_TEboiP5Sweo0UuiT16vAQADAgADeAADNgQ",
-        "file_size": 45423,
-        "file_unique_id": "AQADnv0xG6Ij-Ut9"
-      },
-      {
-        "height": 720,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFSWj-m097CZFMddyV0xU3T-q8YcFjAAKe_TEboiP5Sweo0UuiT16vAQADAgADeQADNgQ",
-        "file_size": 63001,
-        "file_unique_id": "AQADnv0xG6Ij-Ut-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761516367,
-    "message_id": 1353
-  },
-  {
-    "caption": "✈️ В бета-версии Telegram для Android v12.2.0 появилась возможность запускать прямые трансляции в Stories с функцией платных комментариев и закрепления сообщений в чате.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 46,
-        "type": "text_link",
-        "url": "https://t.me/telelakel/679"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1761538562,
     "group_chat_created": false,
     "photo": [
@@ -2737,6 +2672,45 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5472237906510770280",
+        "length": 5,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 19,
+        "type": "text_link",
+        "url": "https://kod.ru/kak-ne-poteryat-dostup-k-telegram-iz-za-sms"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🧑‍💻 «Код Дурова» сообщил, что для сохранения доступа к Telegram в условиях блокировки SMS с кодами в России рекомендуется поддерживать активные сессии на нескольких устройствах и привязать электронную почту для получения кодов авторизации.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761914732,
+    "message_id": 1384
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1761920442,
     "entities": [
       {
         "custom_emoji_id": "5472237906510770280",
