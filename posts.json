@@ -1,71 +1,5 @@
 [
   {
-    "caption": "✈️ В бета-версии Telegram для Android v12.2.0 появился дизайн в стиле Liquid Glass.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 46,
-        "type": "text_link",
-        "url": "https://t.me/telelakel/677"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1761538581,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 51,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFSGj-l_uo6liiR18YlB5R04QV5oERAAKO_TEboiP5S285y2YfUDoLAQADAgADcwADNgQ",
-        "file_size": 1196,
-        "file_unique_id": "AQADjv0xG6Ij-Ut4"
-      },
-      {
-        "height": 180,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFSGj-l_uo6liiR18YlB5R04QV5oERAAKO_TEboiP5S285y2YfUDoLAQADAgADbQADNgQ",
-        "file_size": 14327,
-        "file_unique_id": "AQADjv0xG6Ij-Uty"
-      },
-      {
-        "height": 450,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFSGj-l_uo6liiR18YlB5R04QV5oERAAKO_TEboiP5S285y2YfUDoLAQADAgADeAADNgQ",
-        "file_size": 59482,
-        "file_unique_id": "AQADjv0xG6Ij-Ut9"
-      },
-      {
-        "height": 720,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFSGj-l_uo6liiR18YlB5R04QV5oERAAKO_TEboiP5S285y2YfUDoLAQADAgADeQADNgQ",
-        "file_size": 82999,
-        "file_unique_id": "AQADjv0xG6Ij-Ut-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761515515,
-    "message_id": 1352
-  },
-  {
     "caption": "🍬 На платформе Goodies в 18:00 по МСК стартует раффл стикеров Pudgy Penguins x Kung Fu Panda общим тиражом 9888 штук по предполагаемой цене 22 TON.",
     "caption_entities": [
       {
@@ -2738,5 +2672,70 @@
     },
     "date": 1761924960,
     "message_id": 1385
+  },
+  {
+    "caption": "🧑‍💻 «Код Дурова» сообщил, что Telegram начал массово добавлять российским пользователям кнопку в настройках для указания почты для входа, что упростит авторизацию в условиях блокировки SMS и звонков.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5472237906510770280",
+        "length": 5,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 19,
+        "type": "text_link",
+        "url": "https://kod.ru/kak-ne-poteryat-dostup-k-telegram-iz-za-sms"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 62,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFamkE2RnAZ1qwG8dtE4acViQQblqrAALJAzIb9-wpSNIetLHFMKYjAQADAgADcwADNgQ",
+        "file_size": 1302,
+        "file_unique_id": "AQADyQMyG_fsKUh4"
+      },
+      {
+        "height": 219,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFamkE2RnAZ1qwG8dtE4acViQQblqrAALJAzIb9-wpSNIetLHFMKYjAQADAgADbQADNgQ",
+        "file_size": 14251,
+        "file_unique_id": "AQADyQMyG_fsKUhy"
+      },
+      {
+        "height": 548,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFamkE2RnAZ1qwG8dtE4acViQQblqrAALJAzIb9-wpSNIetLHFMKYjAQADAgADeAADNgQ",
+        "file_size": 55727,
+        "file_unique_id": "AQADyQMyG_fsKUh9"
+      },
+      {
+        "height": 877,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFamkE2RnAZ1qwG8dtE4acViQQblqrAALJAzIb9-wpSNIetLHFMKYjAQADAgADeQADNgQ",
+        "file_size": 74959,
+        "file_unique_id": "AQADyQMyG_fsKUh-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761925401,
+    "message_id": 1386
   }
 ]
