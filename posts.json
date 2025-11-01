@@ -1,43 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440704428422229664",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 5,
-        "offset": 47,
-        "type": "text_link",
-        "url": "https://kod.ru/wallet-stock-tokens"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "👛 Торговля токенизированными акциями в Wallet несет риски для пользователей из России и Беларуси из-за санкционной политики партнеров сервиса, что может привести к потере средств без возможности их возврата.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761578074,
-    "message_id": 1360
-  },
-  {
     "caption": "🪙 Официальный аккаунт OpenSea поделился иллюстрацией с Plush Pepe от художника @Groowut.",
     "caption_entities": [
       {
@@ -2750,5 +2712,39 @@
     },
     "date": 1761952518,
     "message_id": 1393
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5442785086674069503",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 13,
+        "offset": 12,
+        "type": "url"
+      }
+    ],
+    "group_chat_created": false,
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🌐 На сайте coin-craft.ru анонсирован форум CoinCraft 3.0, открыта продажа билетов и возможность стать партнером.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761993954,
+    "message_id": 1394
   }
 ]
