@@ -1,77 +1,5 @@
 [
   {
-    "caption": "🪙 Официальный аккаунт OpenSea поделился иллюстрацией с Plush Pepe от художника @Groowut.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5197450760815668186",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 31,
-        "type": "text_link",
-        "url": "https://x.com/opensea/status/1982858604278624688"
-      },
-      {
-        "length": 8,
-        "offset": 80,
-        "type": "text_link",
-        "url": "https://x.com/Groowut"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1761632140,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFUWj_ruwbVVgSFtwg7rjK3ev_8fvSAAIy9zEboiMBSDOnrcLkcTI_AQADAgADcwADNgQ",
-        "file_size": 2541,
-        "file_unique_id": "AQADMvcxG6IjAUh4"
-      },
-      {
-        "height": 320,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFUWj_ruwbVVgSFtwg7rjK3ev_8fvSAAIy9zEboiMBSDOnrcLkcTI_AQADAgADbQADNgQ",
-        "file_size": 42326,
-        "file_unique_id": "AQADMvcxG6IjAUhy"
-      },
-      {
-        "height": 800,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFUWj_ruwbVVgSFtwg7rjK3ev_8fvSAAIy9zEboiMBSDOnrcLkcTI_AQADAgADeAADNgQ",
-        "file_size": 192789,
-        "file_unique_id": "AQADMvcxG6IjAUh9"
-      },
-      {
-        "height": 1280,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFUWj_ruwbVVgSFtwg7rjK3ev_8fvSAAIy9zEboiMBSDOnrcLkcTI_AQADAgADeQADNgQ",
-        "file_size": 289111,
-        "file_unique_id": "AQADMvcxG6IjAUh-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761586924,
-    "message_id": 1361
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2713,5 +2641,43 @@
     },
     "date": 1761998501,
     "message_id": 1395
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5447638103365806920",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 12,
+        "offset": 40,
+        "type": "text_link",
+        "url": "https://www.newsofbahrain.com/bahrain/121203.html"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🛡 Министерство внутренних дел Бахрейна предупредило о мошенниках в Telegram, которые от имени руководителей банков создают фейковые группы, предлагая ложные инвестиции для кражи денег и личных данных пользователей.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1761999056,
+    "message_id": 1396
   }
 ]
