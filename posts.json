@@ -1,43 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5213102712563986569",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 46,
-        "type": "text_link",
-        "url": "https://t.me/toncoin/2103"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "👑 President and CEO TON Foundation Max Crown не примет участие в панельной дискуссии на Blockchain Life 2025 из-за внезапной болезни.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761640700,
-    "message_id": 1362
-  },
-  {
     "caption": "🆔 Юзернейм @devil продали на торгах за 555 555 TON, что составило $1,2 млн.",
     "caption_entities": [
       {
@@ -2679,5 +2641,43 @@
     },
     "date": 1761999056,
     "message_id": 1396
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5472237906510770280",
+        "length": 5,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 15,
+        "type": "text_link",
+        "url": "https://kod.ru/zakon-o-controle-perepisok-ne-prinyali"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🧑‍💻 Евросоюз отказался от введения обязательной проверки личных сообщений в мессенджерах, сохранив до апреля 2026 года действующий механизм добровольной передачи подозрительного контента.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1762006163,
+    "message_id": 1397
   }
 ]
