@@ -1,75 +1,5 @@
 [
   {
-    "caption": "🆔 Юзернейм @devil продали на торгах за 555 555 TON, что составило $1,2 млн.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5442635973999488769",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 6,
-        "offset": 12,
-        "type": "mention"
-      },
-      {
-        "length": 7,
-        "offset": 19,
-        "type": "text_link",
-        "url": "https://getgems.io/collection/EQCA14o1-VWhS2efqoh_9M1b_A9DtKTuoqfmkn83AbJzwnPi/EQBtBKbkrUWpNBnTvMVUf3E_FixOyvqlTTAMnlcbJiihq9wU"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFU2kAAZJbx37MendLDXxM5gR3YThNowAC7hgyGxwYCEiWXEIaJ-QfUAEAAwIAA3MAAzYE",
-        "file_size": 1378,
-        "file_unique_id": "AQAD7hgyGxwYCEh4"
-      },
-      {
-        "height": 319,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFU2kAAZJbx37MendLDXxM5gR3YThNowAC7hgyGxwYCEiWXEIaJ-QfUAEAAwIAA20AAzYE",
-        "file_size": 11850,
-        "file_unique_id": "AQAD7hgyGxwYCEhy"
-      },
-      {
-        "height": 798,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFU2kAAZJbx37MendLDXxM5gR3YThNowAC7hgyGxwYCEiWXEIaJ-QfUAEAAwIAA3gAAzYE",
-        "file_size": 36049,
-        "file_unique_id": "AQAD7hgyGxwYCEh9"
-      },
-      {
-        "height": 1122,
-        "width": 1125,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFU2kAAZJbx37MendLDXxM5gR3YThNowAC7hgyGxwYCEiWXEIaJ-QfUAEAAwIAA3kAAzYE",
-        "file_size": 36606,
-        "file_unique_id": "AQAD7hgyGxwYCEh-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761645147,
-    "message_id": 1363
-  },
-  {
     "caption": "🍬 Студия DreamWorks Animation официально поддержала коллаборацию NFT-проекта Pudgy Penguins с франшизой «Кунг-фу Панда», сделав репост.",
     "caption_entities": [
       {
@@ -2679,5 +2609,55 @@
     },
     "date": 1762006163,
     "message_id": 1397
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5265112348451960063",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 12,
+        "offset": 11,
+        "type": "text_link",
+        "url": "https://t.me/tonmonitoring/1349"
+      },
+      {
+        "custom_emoji_id": "5440764055453200867",
+        "length": 2,
+        "offset": 42,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 45,
+        "type": "text_link",
+        "url": "https://t.me/tonmonitoring/8"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🗞 Новости 44ей недели.\n\nСпонсоры недели:\n⭐️ Донатеры\nСпасибо за вашу поддержку!",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1762070557,
+    "message_id": 1398
   }
 ]
