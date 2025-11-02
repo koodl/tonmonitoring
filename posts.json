@@ -1,70 +1,5 @@
 [
   {
-    "caption": "🍬 Студия DreamWorks Animation официально поддержала коллаборацию NFT-проекта Pudgy Penguins с франшизой «Кунг-фу Панда», сделав репост.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5461068994381381031",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 6,
-        "offset": 122,
-        "type": "text_link",
-        "url": "https://x.com/dreamworks?s=21"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 57,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFVGkAAZO7HJO_aSsCOlTF3G6gi4oD3QADGTIbHBgISD8fD9E_BU7JAQADAgADcwADNgQ",
-        "file_size": 1481,
-        "file_unique_id": "AQAEGTIbHBgISHg"
-      },
-      {
-        "height": 320,
-        "width": 204,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFVGkAAZO7HJO_aSsCOlTF3G6gi4oD3QADGTIbHBgISD8fD9E_BU7JAQADAgADbQADNgQ",
-        "file_size": 19833,
-        "file_unique_id": "AQAEGTIbHBgISHI"
-      },
-      {
-        "height": 800,
-        "width": 509,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFVGkAAZO7HJO_aSsCOlTF3G6gi4oD3QADGTIbHBgISD8fD9E_BU7JAQADAgADeAADNgQ",
-        "file_size": 74800,
-        "file_unique_id": "AQAEGTIbHBgISH0"
-      },
-      {
-        "height": 1280,
-        "width": 814,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFVGkAAZO7HJO_aSsCOlTF3G6gi4oD3QADGTIbHBgISD8fD9E_BU7JAQADAgADeQADNgQ",
-        "file_size": 95388,
-        "file_unique_id": "AQAEGTIbHBgISH4"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761645499,
-    "message_id": 1364
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2659,5 +2594,70 @@
     },
     "date": 1762070557,
     "message_id": 1398
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5265112348451960063",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "custom_emoji_id": "5442612300139752138",
+        "length": 2,
+        "offset": 64,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 19,
+        "offset": 67,
+        "type": "url"
+      },
+      {
+        "custom_emoji_id": "5442812681838948710",
+        "length": 2,
+        "offset": 93,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 26,
+        "offset": 96,
+        "type": "url"
+      },
+      {
+        "custom_emoji_id": "5442785086674069503",
+        "length": 2,
+        "offset": 129,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 17,
+        "offset": 132,
+        "type": "url"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🗞 TON Monitoring теперь и в Threads!\n\nЧитайте нас, где удобно:\n🐣 x.com/tonmonitoring (ENG)\n💬 threads.com/@tonmonitoring (ENG)\n🌐 tonmonitoring.com (RU)",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1762074238,
+    "message_id": 1399
   }
 ]
