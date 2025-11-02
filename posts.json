@@ -1,50 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1761675859,
-    "entities": [
-      {
-        "custom_emoji_id": "5472237906510770280",
-        "length": 5,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "custom_emoji_id": "5440704428422229664",
-        "length": 2,
-        "offset": 5,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 11,
-        "offset": 39,
-        "type": "text_link",
-        "url": "https://t.me/d_code/24106"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🧑‍💻👛 Пользователи Wallet в Telegram столкнулись с невозможностью продать токенизированные акции и высоким спредом, превышающим $5.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761669151,
-    "message_id": 1366
-  },
-  {
     "caption": "👛📈 Кошелек решил проблему с ликвидностью акций xStock.",
     "caption_entities": [
       {
@@ -2571,5 +2526,70 @@
     },
     "date": 1762080667,
     "message_id": 1400
+  },
+  {
+    "caption": "🦴 ChangeNOW опубликовал интервью с CEO Эндрю Д. и CMO Алексом Т. из команды DOGS, в котором они рассказали о создании мемкоина на блокчейне TON, благотворительных инициативах проекта на сумму более $550 тысяч и планах по интеграции с Telegram Mini Apps для массового внедрения криптовалют.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5442695223073344113",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 11,
+        "offset": 13,
+        "type": "text_link",
+        "url": "https://changenow.io/blog/inside-dogs-interview"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 51,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFeWkHjMGTwv2KkkM4xYVZ0SPGDbqrAAJ1_TEb4zo4SJU_6K3mKwIqAQADAgADcwADNgQ",
+        "file_size": 1210,
+        "file_unique_id": "AQADdf0xG-M6OEh4"
+      },
+      {
+        "height": 180,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFeWkHjMGTwv2KkkM4xYVZ0SPGDbqrAAJ1_TEb4zo4SJU_6K3mKwIqAQADAgADbQADNgQ",
+        "file_size": 15135,
+        "file_unique_id": "AQADdf0xG-M6OEhy"
+      },
+      {
+        "height": 450,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFeWkHjMGTwv2KkkM4xYVZ0SPGDbqrAAJ1_TEb4zo4SJU_6K3mKwIqAQADAgADeAADNgQ",
+        "file_size": 53094,
+        "file_unique_id": "AQADdf0xG-M6OEh9"
+      },
+      {
+        "height": 720,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFeWkHjMGTwv2KkkM4xYVZ0SPGDbqrAAJ1_TEb4zo4SJU_6K3mKwIqAQADAgADeQADNgQ",
+        "file_size": 71081,
+        "file_unique_id": "AQADdf0xG-M6OEh-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1762102465,
+    "message_id": 1401
   }
 ]
