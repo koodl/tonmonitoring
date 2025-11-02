@@ -2,50 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5210777808111954271",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 10,
-        "offset": 19,
-        "type": "text_link",
-        "url": "https://x.com/bidaskprotocol/status/1983126713002320231?s=46"
-      },
-      {
-        "length": 8,
-        "offset": 30,
-        "type": "text_link",
-        "url": "https://bidask.finance/en/app/pools/?poolType=meme"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💲 Bidask Protocol представил лаунчпад для мемкоинов, предлагающий создателям токенов защиту от снайпинга, доходную ликвидность и медиаподдержку.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761652938,
-    "message_id": 1365
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1761654907,
     "entities": [
       {
@@ -2659,5 +2615,43 @@
     },
     "date": 1762074238,
     "message_id": 1399
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 18,
+        "offset": 49,
+        "type": "text_link",
+        "url": "https://t.me/TonGentlemens/8133"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 В октябре 2025 года экосистема TON и Telegram продемонстрировала активное институциональное развитие через массовые листинги, профессионализацию управления и расширение финансовых инструментов.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1762080667,
+    "message_id": 1400
   }
 ]
