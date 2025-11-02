@@ -2,51 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "edit_date": 1761654907,
-    "entities": [
-      {
-        "custom_emoji_id": "5210777808111954271",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 10,
-        "offset": 19,
-        "type": "text_link",
-        "url": "https://x.com/bidaskprotocol/status/1983126713002320231?s=46"
-      },
-      {
-        "length": 8,
-        "offset": 30,
-        "type": "text_link",
-        "url": "https://bidask.finance/en/app/pools/?poolType=meme"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💲 Bidask Protocol представил лаунчпад для мемкоинов, предлагающий создателям токенов защиту от снайпинга, доходную ликвидность и медиаподдержку.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761652938,
-    "message_id": 1365
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "entities": [
       {
         "custom_emoji_id": "5472237906510770280",
@@ -2653,5 +2608,44 @@
     },
     "date": 1762080667,
     "message_id": 1400
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1762081161,
+    "entities": [
+      {
+        "custom_emoji_id": "5472237906510770280",
+        "length": 5,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 15,
+        "type": "text_link",
+        "url": "https://kod.ru/zakon-o-controle-perepisok-ne-prinyali"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🧑‍💻 Евросоюз отказался от введения обязательной проверки личных сообщений в мессенджерах, сохранив до апреля 2026 года действующий механизм добровольной передачи подозрительного контента.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1762006163,
+    "message_id": 1397
   }
 ]
