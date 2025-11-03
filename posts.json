@@ -2,44 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5447595991211471135",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 22,
-        "type": "text_link",
-        "url": "https://t.me/tonnel_en/1555"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🔄 Маркетплейс Tonnel запустил сервис Tonnel Lease, позволяющий покупать Telegram Gifts, Usernames и Anonymous Numbers в рассрочку с правом пользования на время выплат.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761728056,
-    "message_id": 1373
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1761728101,
     "entities": [
       {
@@ -2825,5 +2787,63 @@
     },
     "date": 1762176618,
     "message_id": 1403
+  },
+  {
+    "caption": "🅰️ AlphaTON Capital объявила о совместном предприятии с PagoPay для запуска криптовалютной карты Mastercard, которая позволит пользователям напрямую тратить TON, USD1 и другие криптовалюты через интеграцию с ALT5 Sigma и World Liberty Financial.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5314597028901190799",
+        "length": 3,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 21,
+        "type": "text_link",
+        "url": "https://www.globenewswire.com/news-release/2025/11/03/3179179/0/en/AlphaTON-Capital-Corp-Announces-Strategic-Joint-Venture-with-Pago-Pay-and-with-ALT5-Sigma-to-Launch-Crypto-Enabled-TON-Mastercard.html"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 51,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFfWkIue6S-SjntkZeQWar51jK81uvAAKNDWsbZMRISPjibvYdHluSAQADAgADcwADNgQ",
+        "file_size": 1718,
+        "file_unique_id": "AQADjQ1rG2TESEh4"
+      },
+      {
+        "height": 183,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFfWkIue6S-SjntkZeQWar51jK81uvAAKNDWsbZMRISPjibvYdHluSAQADAgADbQADNgQ",
+        "file_size": 15250,
+        "file_unique_id": "AQADjQ1rG2TESEhy"
+      },
+      {
+        "height": 392,
+        "width": 685,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFfWkIue6S-SjntkZeQWar51jK81uvAAKNDWsbZMRISPjibvYdHluSAQADAgADeAADNgQ",
+        "file_size": 30618,
+        "file_unique_id": "AQADjQ1rG2TESEh9"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1762179566,
+    "message_id": 1405
   }
 ]
