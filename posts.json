@@ -1,50 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1761728101,
-    "entities": [
-      {
-        "custom_emoji_id": "5447595991211471135",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 6,
-        "offset": 15,
-        "type": "text_link",
-        "url": "https://t.me/tonnel_network_bot/gifts?startapp=ref_659773038"
-      },
-      {
-        "length": 8,
-        "offset": 22,
-        "type": "text_link",
-        "url": "https://t.me/tonnel_en/1555"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🔄 Маркетплейс Tonnel запустил сервис Tonnel Lease, позволяющий покупать Telegram Gifts, Usernames и Anonymous Numbers в рассрочку с правом пользования на время выплат.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761728056,
-    "message_id": 1373
-  },
-  {
     "caption": "✈️ Павел Дуров на форуме Blockchain Life 2025 анонсировал запуск в ноябре проекта Cocoon — Confidential Compute Open Network.",
     "caption_entities": [
       {
@@ -2845,5 +2800,70 @@
     },
     "date": 1762179566,
     "message_id": 1405
+  },
+  {
+    "caption": "🅰️ CEO AlphaTON Capital Brittany Kaiser выступила на TRUST Summit 2025 в Нью-Йорке 3 ноября, организованном Hacken, где обсуждались вопросы безопасности и соответствия нормам при интеграции цифровых активов, включая экосистему TON, в глобальные финансовые системы.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5314597028901190799",
+        "length": 3,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 41,
+        "type": "text_link",
+        "url": "https://www.marketwatch.com/press-release/alphaton-capital-takes-center-stage-at-trust-summit-2025-to-shape-the-future-of-digital-finance-59c30030?mod=search_headline"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 49,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFfmkIw2sFOFlHXp0tKr2NjbFZWqYNAAKFD2sbZMRISOlqGqWBA2X7AQADAgADcwADNgQ",
+        "file_size": 1300,
+        "file_unique_id": "AQADhQ9rG2TESEh4"
+      },
+      {
+        "height": 176,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFfmkIw2sFOFlHXp0tKr2NjbFZWqYNAAKFD2sbZMRISOlqGqWBA2X7AQADAgADbQADNgQ",
+        "file_size": 16595,
+        "file_unique_id": "AQADhQ9rG2TESEhy"
+      },
+      {
+        "height": 440,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFfmkIw2sFOFlHXp0tKr2NjbFZWqYNAAKFD2sbZMRISOlqGqWBA2X7AQADAgADeAADNgQ",
+        "file_size": 60011,
+        "file_unique_id": "AQADhQ9rG2TESEh9"
+      },
+      {
+        "height": 643,
+        "width": 1170,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFfmkIw2sFOFlHXp0tKr2NjbFZWqYNAAKFD2sbZMRISOlqGqWBA2X7AQADAgADeQADNgQ",
+        "file_size": 69430,
+        "file_unique_id": "AQADhQ9rG2TESEh-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1762181995,
+    "message_id": 1406
   }
 ]
