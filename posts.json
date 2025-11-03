@@ -11,66 +11,6 @@
     ],
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "edit_date": 1761705899,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFXGkBdOxTvUm2gBlqo0HztMzHcz4ZAAK-9DEbHBgQSMx4yZT2Z7NfAQADAgADcwADNgQ",
-        "file_size": 1933,
-        "file_unique_id": "AQADvvQxGxwYEEh4"
-      },
-      {
-        "height": 320,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFXGkBdOxTvUm2gBlqo0HztMzHcz4ZAAK-9DEbHBgQSMx4yZT2Z7NfAQADAgADbQADNgQ",
-        "file_size": 30811,
-        "file_unique_id": "AQADvvQxGxwYEEhy"
-      },
-      {
-        "height": 800,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFXGkBdOxTvUm2gBlqo0HztMzHcz4ZAAK-9DEbHBgQSMx4yZT2Z7NfAQADAgADeAADNgQ",
-        "file_size": 141482,
-        "file_unique_id": "AQADvvQxGxwYEEh9"
-      },
-      {
-        "height": 1080,
-        "width": 1080,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFXGkBdOxTvUm2gBlqo0HztMzHcz4ZAAK-9DEbHBgQSMx4yZT2Z7NfAQADAgADeQADNgQ",
-        "file_size": 142081,
-        "file_unique_id": "AQADvvQxGxwYEEh-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761703148,
-    "message_id": 1372
-  },
-  {
-    "caption": "✈️ Основатель и глава Telegram Павел Дуров выступит сегодня в 14:55 по Мск на главной сцене Blockchain Life 2025 в Дубае.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440479333481217835",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1761710486,
     "group_chat_created": false,
     "photo": [
@@ -2732,5 +2672,43 @@
     },
     "date": 1762176618,
     "message_id": 1403
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 6,
+        "offset": 80,
+        "type": "text_link",
+        "url": "https://x.com/mcrown/status/1985267906456821903?s=46"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 API платформы Mint Platform для упрощенного выпуска NFT стандарта 2.0 на TON станет общедоступным в начале 2026 года.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1762177982,
+    "message_id": 1404
   }
 ]
