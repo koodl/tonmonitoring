@@ -2,45 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "edit_date": 1761710495,
-    "entities": [
-      {
-        "custom_emoji_id": "5440479333481217835",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 15,
-        "type": "text_link",
-        "url": "https://tonscan.org/address/EQBeab7D38RIwypegbN7YZgQzwDbb8QfMMwY8ouJc3qPl91M"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "✈️ Павел Дуров отправил 50 000 TON на платформу Fragment для пополнения счета в Telegram.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761694346,
-    "message_id": 1370
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "entities": [
       {
         "custom_emoji_id": "5447595991211471135",
@@ -2728,6 +2689,113 @@
     "group_chat_created": false,
     "link_preview_options": {
       "url": "https://t.me/tonmonitoring/1376"
+    },
+    "quote": {
+      "entities": [
+        {
+          "length": 17,
+          "offset": 59,
+          "type": "underline"
+        }
+      ],
+      "is_manual": true,
+      "position": 0,
+      "text": "➤ Если TON Strategy не исправит нарушение – компании может грозить делистинг."
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎📈 В некоторых каналах появилась новость о возможном делистинге с Nasdaq компании TON Strategy (TONX), в связи с этим хочу уточнить, что новость старая и эта проблема благополучно решена:\nNasdaq 28 октября 2025 года выдала выговор TON Strategy Co. за нарушение правил 5635(a) и 5635(b), связанных с покупкой Toncoin на $272,7 млн, PIPE-финансированием и нарушением требований об одобрении акционерами, отказавшись от делистинга акций компании, поскольку нарушения не носили преднамеренного характера.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1762176618,
+    "message_id": 1403
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1762178041,
+    "entities": [
+      {
+        "custom_emoji_id": "5238004177031953682",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "custom_emoji_id": "5449424049551733716",
+        "length": 2,
+        "offset": 2,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 225,
+        "type": "text_link",
+        "url": "https://t.me/tonmonitoring/1376"
+      }
+    ],
+    "external_reply": {
+      "chat": {
+        "id": -1001462219382,
+        "title": "Crypto Headlines",
+        "type": "channel",
+        "username": "crypto_hd"
+      },
+      "message_id": 24423,
+      "origin": {
+        "chat": {
+          "id": -1001462219382,
+          "title": "Crypto Headlines",
+          "type": "channel",
+          "username": "crypto_hd"
+        },
+        "message_id": 24423,
+        "date": 1762173300,
+        "type": "channel"
+      },
+      "photo": [
+        {
+          "height": 52,
+          "width": 90,
+          "file_id": "AgACAgIAAyEFAASerMeaAAIFe2kIrmq-YsdnK6uR1IazG6Hr2UdjAAKbDWsb049ISCJrXI8Ld-vTAQADAgADcwADNgQ",
+          "file_size": 954,
+          "file_unique_id": "AQADmw1rG9OPSEh4"
+        },
+        {
+          "height": 185,
+          "width": 320,
+          "file_id": "AgACAgIAAyEFAASerMeaAAIFe2kIrmq-YsdnK6uR1IazG6Hr2UdjAAKbDWsb049ISCJrXI8Ld-vTAQADAgADbQADNgQ",
+          "file_size": 14473,
+          "file_unique_id": "AQADmw1rG9OPSEhy"
+        },
+        {
+          "height": 462,
+          "width": 800,
+          "file_id": "AgACAgIAAyEFAASerMeaAAIFe2kIrmq-YsdnK6uR1IazG6Hr2UdjAAKbDWsb049ISCJrXI8Ld-vTAQADAgADeAADNgQ",
+          "file_size": 69054,
+          "file_unique_id": "AQADmw1rG9OPSEh9"
+        },
+        {
+          "height": 740,
+          "width": 1280,
+          "file_id": "AgACAgIAAyEFAASerMeaAAIFe2kIrmq-YsdnK6uR1IazG6Hr2UdjAAKbDWsb049ISCJrXI8Ld-vTAQADAgADeQADNgQ",
+          "file_size": 96197,
+          "file_unique_id": "AQADmw1rG9OPSEh-"
+        }
+      ]
+    },
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
     },
     "quote": {
       "entities": [
