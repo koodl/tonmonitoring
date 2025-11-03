@@ -1,65 +1,5 @@
 [
   {
-    "caption": "✈️ Основатель и глава Telegram Павел Дуров выступит сегодня в 14:55 по Мск на главной сцене Blockchain Life 2025 в Дубае.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440479333481217835",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1761710486,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFXGkBdOxTvUm2gBlqo0HztMzHcz4ZAAK-9DEbHBgQSMx4yZT2Z7NfAQADAgADcwADNgQ",
-        "file_size": 1933,
-        "file_unique_id": "AQADvvQxGxwYEEh4"
-      },
-      {
-        "height": 320,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFXGkBdOxTvUm2gBlqo0HztMzHcz4ZAAK-9DEbHBgQSMx4yZT2Z7NfAQADAgADbQADNgQ",
-        "file_size": 30811,
-        "file_unique_id": "AQADvvQxGxwYEEhy"
-      },
-      {
-        "height": 800,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFXGkBdOxTvUm2gBlqo0HztMzHcz4ZAAK-9DEbHBgQSMx4yZT2Z7NfAQADAgADeAADNgQ",
-        "file_size": 141482,
-        "file_unique_id": "AQADvvQxGxwYEEh9"
-      },
-      {
-        "height": 1080,
-        "width": 1080,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFXGkBdOxTvUm2gBlqo0HztMzHcz4ZAAK-9DEbHBgQSMx4yZT2Z7NfAQADAgADeQADNgQ",
-        "file_size": 142081,
-        "file_unique_id": "AQADvvQxGxwYEEh-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761703148,
-    "message_id": 1372
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "edit_date": 1761710495,
@@ -2710,5 +2650,112 @@
     },
     "date": 1762177982,
     "message_id": 1404
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1762178032,
+    "entities": [
+      {
+        "custom_emoji_id": "5238004177031953682",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "custom_emoji_id": "5449424049551733716",
+        "length": 2,
+        "offset": 2,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 225,
+        "type": "text_link",
+        "url": "https://t.me/tonmonitoring/1376"
+      }
+    ],
+    "external_reply": {
+      "chat": {
+        "id": -1001462219382,
+        "title": "Crypto Headlines",
+        "type": "channel",
+        "username": "crypto_hd"
+      },
+      "message_id": 24423,
+      "origin": {
+        "chat": {
+          "id": -1001462219382,
+          "title": "Crypto Headlines",
+          "type": "channel",
+          "username": "crypto_hd"
+        },
+        "message_id": 24423,
+        "date": 1762173300,
+        "type": "channel"
+      },
+      "photo": [
+        {
+          "height": 52,
+          "width": 90,
+          "file_id": "AgACAgIAAyEFAASerMeaAAIFe2kIrmq-YsdnK6uR1IazG6Hr2UdjAAKbDWsb049ISCJrXI8Ld-vTAQADAgADcwADNgQ",
+          "file_size": 954,
+          "file_unique_id": "AQADmw1rG9OPSEh4"
+        },
+        {
+          "height": 185,
+          "width": 320,
+          "file_id": "AgACAgIAAyEFAASerMeaAAIFe2kIrmq-YsdnK6uR1IazG6Hr2UdjAAKbDWsb049ISCJrXI8Ld-vTAQADAgADbQADNgQ",
+          "file_size": 14473,
+          "file_unique_id": "AQADmw1rG9OPSEhy"
+        },
+        {
+          "height": 462,
+          "width": 800,
+          "file_id": "AgACAgIAAyEFAASerMeaAAIFe2kIrmq-YsdnK6uR1IazG6Hr2UdjAAKbDWsb049ISCJrXI8Ld-vTAQADAgADeAADNgQ",
+          "file_size": 69054,
+          "file_unique_id": "AQADmw1rG9OPSEh9"
+        },
+        {
+          "height": 740,
+          "width": 1280,
+          "file_id": "AgACAgIAAyEFAASerMeaAAIFe2kIrmq-YsdnK6uR1IazG6Hr2UdjAAKbDWsb049ISCJrXI8Ld-vTAQADAgADeQADNgQ",
+          "file_size": 96197,
+          "file_unique_id": "AQADmw1rG9OPSEh-"
+        }
+      ]
+    },
+    "group_chat_created": false,
+    "link_preview_options": {
+      "url": "https://t.me/tonmonitoring/1376"
+    },
+    "quote": {
+      "entities": [
+        {
+          "length": 17,
+          "offset": 59,
+          "type": "underline"
+        }
+      ],
+      "is_manual": true,
+      "position": 0,
+      "text": "➤ Если TON Strategy не исправит нарушение – компании может грозить делистинг."
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎📈 В некоторых каналах появилась новость о возможном делистинге с Nasdaq компании TON Strategy (TONX), в связи с этим хочу уточнить, что новость старая и эта проблема благополучно решена:\nNasdaq 28 октября 2025 года выдала выговор TON Strategy Co. за нарушение правил 5635(a) и 5635(b), связанных с покупкой Toncoin на $272,7 млн, PIPE-финансированием и нарушением требований об одобрении акционерами, отказавшись от делистинга акций компании, поскольку нарушения не носили преднамеренного характера.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1762176618,
+    "message_id": 1403
   }
 ]
