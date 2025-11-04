@@ -1,44 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1761761420,
-    "entities": [
-      {
-        "custom_emoji_id": "5443047436161413892",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 11,
-        "offset": 21,
-        "type": "text_link",
-        "url": "https://t.me/anatolii_makosov/93"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "⚙️ Команда TON Core  увеличилась на четыре новых C++  разработчика и работает над ускорением операций в блокчейне TON до менее чем одной секунды.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761761200,
-    "message_id": 1377
-  },
-  {
     "caption": "✈️ Telegram начал тестировать в России функцию Peer-to-Peer Login Program, в рамках которой пользователи могут отправлять до 100 SMS-кодов в месяц в обмен на подписку Premium.",
     "caption_entities": [
       {
@@ -2926,5 +2887,43 @@
     },
     "date": 1762249003,
     "message_id": 1411
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 14,
+        "type": "text_link",
+        "url": "https://www.rbc.ru/rbcfreenews/6906fe619a7947866a60fba6"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "✈️ МВД России сообщило о прекращении деятельности Telegram-бота Userbox, который занимался незаконным распространением персональных данных, и задержании в Санкт-Петербурге его предполагаемого создателя.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1762260261,
+    "message_id": 1412
   }
 ]
