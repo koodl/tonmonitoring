@@ -2,44 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5443047436161413892",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 11,
-        "offset": 21,
-        "type": "text_link",
-        "url": "https://t.me/anatolii_makosov/93"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "⚙️ Команда TON Core  увеличилась на четыре новых C++  разработчика для ускорения операций в блокчейне TON  до менее чем одной секунды.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761761200,
-    "message_id": 1377
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1761761410,
     "entities": [
       {
@@ -2877,5 +2839,55 @@
     },
     "date": 1762247016,
     "message_id": 1409
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440479333481217835",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "custom_emoji_id": "5461108778663437273",
+        "length": 2,
+        "offset": 2,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 6,
+        "offset": 17,
+        "type": "text_link",
+        "url": "https://t.me/durov/456"
+      },
+      {
+        "length": 11,
+        "offset": 97,
+        "type": "text_link",
+        "url": "https://t.me/askplex"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "✈️🤖 Павел Дуров назвал Telegram лучшей платформой для AI-ботов, приведя в качестве примера бота Perplexity.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1762248610,
+    "message_id": 1410
   }
 ]
