@@ -2,45 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "edit_date": 1761761410,
-    "entities": [
-      {
-        "custom_emoji_id": "5443047436161413892",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 11,
-        "offset": 21,
-        "type": "text_link",
-        "url": "https://t.me/anatolii_makosov/93"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "url": "https://t.me/anatolii_makosov/93"
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "⚙️ Команда TON Core  увеличилась на четыре новых C++  разработчика и работает над ускорением операций в блокчейне TON до менее чем одной секунды.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761761200,
-    "message_id": 1377
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1761761420,
     "entities": [
       {
@@ -2889,5 +2850,81 @@
     },
     "date": 1762248610,
     "message_id": 1410
+  },
+  {
+    "caption": "✈️🎁 В бета-версии Telegram для iOS v12.2.0 появились аукционы для покупки подарков за Telegram Stars, сообщает @telelakel.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "custom_emoji_id": "5440615647153256792",
+        "length": 2,
+        "offset": 2,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 44,
+        "type": "text_link",
+        "url": "https://t.me/telelakel/694"
+      },
+      {
+        "length": 10,
+        "offset": 112,
+        "type": "mention"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 51,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFg2kJySvP_QS8hvfWNgU4mU4v2IvAAAITDGsbZMRQSOQO6oNOMMTIAQADAgADcwADNgQ",
+        "file_size": 1381,
+        "file_unique_id": "AQADEwxrG2TEUEh4"
+      },
+      {
+        "height": 180,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFg2kJySvP_QS8hvfWNgU4mU4v2IvAAAITDGsbZMRQSOQO6oNOMMTIAQADAgADbQADNgQ",
+        "file_size": 14166,
+        "file_unique_id": "AQADEwxrG2TEUEhy"
+      },
+      {
+        "height": 450,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFg2kJySvP_QS8hvfWNgU4mU4v2IvAAAITDGsbZMRQSOQO6oNOMMTIAQADAgADeAADNgQ",
+        "file_size": 58618,
+        "file_unique_id": "AQADEwxrG2TEUEh9"
+      },
+      {
+        "height": 720,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFg2kJySvP_QS8hvfWNgU4mU4v2IvAAAITDGsbZMRQSOQO6oNOMMTIAQADAgADeQADNgQ",
+        "file_size": 79904,
+        "file_unique_id": "AQADEwxrG2TEUEh-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1762249003,
+    "message_id": 1411
   }
 ]
