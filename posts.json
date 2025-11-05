@@ -1,43 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 10,
-        "offset": 60,
-        "type": "text_link",
-        "url": "https://ria.ru/20251030/krym-2051845484.html"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "✈️ Работа мессенджеров Telegram и WhatsApp в Крыму частично ограничена по инициативе Роскомнадзора, сообщил региональный телеком-оператор «Волна».",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761827141,
-    "message_id": 1379
-  },
-  {
     "caption": "💎 TON Foundation объявила, что 7 ноября откажется от старого проекта Memelandia и представит новый.",
     "caption_entities": [
       {
@@ -2925,5 +2887,82 @@
     },
     "date": 1762334494,
     "message_id": 1413
+  },
+  {
+    "caption": "🍬🏰 Стикеры Goodies теперь доступны для продажи и покупки на платформе Palace.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5461068994381381031",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "custom_emoji_id": "5255854911517654002",
+        "length": 2,
+        "offset": 2,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 13,
+        "type": "text_link",
+        "url": "https://t.me/getgoodies_bot/Goodies?startapp=7RmMwpCaHVZU5y"
+      },
+      {
+        "length": 6,
+        "offset": 72,
+        "type": "text_link",
+        "url": "https://t.me/palacenftbot/app?startapp=nryXMO5bNI"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFhmkLXo2WxTbbdat2hayEqfX1N3N1AAKYDWsbgbtgSOxMJmr52UKsAQADAgADcwADNgQ",
+        "file_size": 2154,
+        "file_unique_id": "AQADmA1rG4G7YEh4"
+      },
+      {
+        "height": 320,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFhmkLXo2WxTbbdat2hayEqfX1N3N1AAKYDWsbgbtgSOxMJmr52UKsAQADAgADbQADNgQ",
+        "file_size": 23974,
+        "file_unique_id": "AQADmA1rG4G7YEhy"
+      },
+      {
+        "height": 800,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFhmkLXo2WxTbbdat2hayEqfX1N3N1AAKYDWsbgbtgSOxMJmr52UKsAQADAgADeAADNgQ",
+        "file_size": 74715,
+        "file_unique_id": "AQADmA1rG4G7YEh9"
+      },
+      {
+        "height": 1280,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFhmkLXo2WxTbbdat2hayEqfX1N3N1AAKYDWsbgbtgSOxMJmr52UKsAQADAgADeQADNgQ",
+        "file_size": 93430,
+        "file_unique_id": "AQADmA1rG4G7YEh-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1762352781,
+    "message_id": 1414
   }
 ]
