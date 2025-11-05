@@ -1,70 +1,5 @@
 [
   {
-    "caption": "✈️ Telegram начал тестировать в России функцию Peer-to-Peer Login Program, в рамках которой пользователи могут отправлять до 100 SMS-кодов в месяц в обмен на подписку Premium.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 5,
-        "offset": 12,
-        "type": "text_link",
-        "url": "https://kod.ru/telegram-p2pl-rus"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 62,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFYmkDL5uzI7Z4iit7MBSF2dDwUlp9AAKH-TEb-MwZSCBf8cWnKaXYAQADAgADcwADNgQ",
-        "file_size": 1054,
-        "file_unique_id": "AQADh_kxG_jMGUh4"
-      },
-      {
-        "height": 219,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFYmkDL5uzI7Z4iit7MBSF2dDwUlp9AAKH-TEb-MwZSCBf8cWnKaXYAQADAgADbQADNgQ",
-        "file_size": 9187,
-        "file_unique_id": "AQADh_kxG_jMGUhy"
-      },
-      {
-        "height": 548,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFYmkDL5uzI7Z4iit7MBSF2dDwUlp9AAKH-TEb-MwZSCBf8cWnKaXYAQADAgADeAADNgQ",
-        "file_size": 35741,
-        "file_unique_id": "AQADh_kxG_jMGUh9"
-      },
-      {
-        "height": 877,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFYmkDL5uzI7Z4iit7MBSF2dDwUlp9AAKH-TEb-MwZSCBf8cWnKaXYAQADAgADeQADNgQ",
-        "file_size": 50458,
-        "file_unique_id": "AQADh_kxG_jMGUh-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761816475,
-    "message_id": 1378
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2925,5 +2860,70 @@
     },
     "date": 1762260261,
     "message_id": 1412
+  },
+  {
+    "caption": "🅰️ Инвестиционная компания AlphaTON Capital приобрела дополнительно 300 000 TON для своего казначейства цифровых активов.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5314597028901190799",
+        "length": 3,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 45,
+        "type": "text_link",
+        "url": "https://www.globenewswire.com/news-release/2025/11/05/3181038/0/en/DAT-ALERT-AlphaTON-Capital-Acquires-300-000-additional-TON.html"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 63,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFhWkLFx5Ou38BCAwi6wKgnU-buZM2AAJOC2sbgbtgSCCF2u8lFE83AQADAgADcwADNgQ",
+        "file_size": 811,
+        "file_unique_id": "AQADTgtrG4G7YEh4"
+      },
+      {
+        "height": 225,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFhWkLFx5Ou38BCAwi6wKgnU-buZM2AAJOC2sbgbtgSCCF2u8lFE83AQADAgADbQADNgQ",
+        "file_size": 6185,
+        "file_unique_id": "AQADTgtrG4G7YEhy"
+      },
+      {
+        "height": 563,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFhWkLFx5Ou38BCAwi6wKgnU-buZM2AAJOC2sbgbtgSCCF2u8lFE83AQADAgADeAADNgQ",
+        "file_size": 19919,
+        "file_unique_id": "AQADTgtrG4G7YEh9"
+      },
+      {
+        "height": 823,
+        "width": 1170,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFhWkLFx5Ou38BCAwi6wKgnU-buZM2AAJOC2sbgbtgSCCF2u8lFE83AQADAgADeQADNgQ",
+        "file_size": 21768,
+        "file_unique_id": "AQADTgtrG4G7YEh-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1762334494,
+    "message_id": 1413
   }
 ]
