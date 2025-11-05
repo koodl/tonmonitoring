@@ -1,43 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 16,
-        "type": "text_link",
-        "url": "https://kod.ru/telegram-i-whatsapp-bez-sms"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "✈️ «Код Дурова» сообщил, что российским операторам связи предписали ограничить передачу SMS и звонков от подрядчиков Telegram и WhatsApp, которые используются для регистрации новых пользователей.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761850614,
-    "message_id": 1381
-  },
-  {
     "caption": "✈️ Пользователи Telegram с российским номером телефона теперь могут приобрести подписку Premium на два года, позже эта опция станет доступна и в других странах.",
     "caption_entities": [
       {
@@ -2915,5 +2877,43 @@
     },
     "date": 1762355081,
     "message_id": 1416
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5314597028901190799",
+        "length": 3,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 4,
+        "offset": 49,
+        "type": "text_link",
+        "url": "https://www.linkedin.com/posts/mohd-haider-40a86832a_crypto-ethereum-biotech-ugcPost-7390318198602113025-1FoV?utm_medium=ios_app&rcm=ACoAABSVE-AB7pwqKBQQrJt6i6QXzld76PNMseg&utm_source=social_share_send&utm_campaign=copy_link"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🅰️ Бывший директор по коммуникациям Белого дома стал советником по стратегии AlphaTON Capital.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1762359670,
+    "message_id": 1417
   }
 ]
