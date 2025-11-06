@@ -2,45 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "edit_date": 1761914718,
-    "entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 5,
-        "offset": 24,
-        "type": "text_link",
-        "url": "https://t.me/pgrton/1303"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 На фоне минимального роста ончейн-активности пользователей за неделю совокупный отток TON с централизованных бирж составил 3,53 млн, тогда как пулы TON/USDT на DEX прибавили 0,1 млн USDT.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761909086,
-    "message_id": 1383
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "entities": [
       {
         "custom_emoji_id": "5472237906510770280",
@@ -2942,5 +2903,70 @@
     },
     "date": 1762430398,
     "message_id": 1419
+  },
+  {
+    "caption": "👛 В обновленном Tonkeeper Pro появилась ежемесячная подписка на всех платформах, один бесплатный перевод TRC20 в месяц, визуальные улучшения и поддержка 20 языков.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440610450242827721",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 31,
+        "type": "text_link",
+        "url": "https://t.me/tonkeeper_ru/339"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFjGkMkCY67n1QO6mEVZ-kkdsGsqFdAAJ5DmsbvXthSKxp9p3y45CSAQADAgADcwADNgQ",
+        "file_size": 1375,
+        "file_unique_id": "AQADeQ5rG717YUh4"
+      },
+      {
+        "height": 320,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFjGkMkCY67n1QO6mEVZ-kkdsGsqFdAAJ5DmsbvXthSKxp9p3y45CSAQADAgADbQADNgQ",
+        "file_size": 14796,
+        "file_unique_id": "AQADeQ5rG717YUhy"
+      },
+      {
+        "height": 800,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFjGkMkCY67n1QO6mEVZ-kkdsGsqFdAAJ5DmsbvXthSKxp9p3y45CSAQADAgADeAADNgQ",
+        "file_size": 52207,
+        "file_unique_id": "AQADeQ5rG717YUh9"
+      },
+      {
+        "height": 1280,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFjGkMkCY67n1QO6mEVZ-kkdsGsqFdAAJ5DmsbvXthSKxp9p3y45CSAQADAgADeQADNgQ",
+        "file_size": 58083,
+        "file_unique_id": "AQADeQ5rG717YUh-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1762431014,
+    "message_id": 1420
   }
 ]
