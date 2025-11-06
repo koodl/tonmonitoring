@@ -1,56 +1,5 @@
 [
   {
-    "caption": "💎 Chainlink интегрировала протоколы CCIP и Data Streams в TON, обеспечив кросс-чейн переводы Toncoin между более чем 60 блокчейнами и поставку данных для DeFi-приложений.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 13,
-        "offset": 13,
-        "type": "text_link",
-        "url": "https://www.prnewswire.com/news-releases/chainlink-expands-ccip-and-data-streams-to-ton-connecting-ton-to-the-global-multi-chain-economy-and-establishing-canonical-cross-chain-infrastructure-for-toncoin-302600611.html"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 51,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFbGkE7leiiCKvF86QIk_9AfvCqXnnAAKOBDIb9-wpSA4CvAbXQ-cUAQADAgADcwADNgQ",
-        "file_size": 694,
-        "file_unique_id": "AQADjgQyG_fsKUh4"
-      },
-      {
-        "height": 169,
-        "width": 300,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFbGkE7leiiCKvF86QIk_9AfvCqXnnAAKOBDIb9-wpSA4CvAbXQ-cUAQADAgADbQADNgQ",
-        "file_size": 2860,
-        "file_unique_id": "AQADjgQyG_fsKUhy"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761930839,
-    "message_id": 1388
-  },
-  {
     "caption": "🅰️ AlphaTON Capital (Nasdaq: ATON) объявила о запуске 3 ноября 2025 года мирового турне, которое начнется с завтрака для инвесторов на Nasdaq MarketSite.",
     "caption_entities": [
       {
@@ -3051,5 +3000,63 @@
     },
     "date": 1762444932,
     "message_id": 1422
+  },
+  {
+    "caption": "🔄 В сервисе Tonnel добавили тестовую версию нового интерфейса Lite UI, который можно активировать в разделе «Мои подарки».",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5447595991211471135",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 20,
+        "type": "text_link",
+        "url": "https://t.me/TonAirDrop_ru/3362"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 38,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFj2kM1lEINqJyA8N8gM_mHgrKzvd7AALyEGsbvXthSIoTgzAnuvBoAQADAgADcwADNgQ",
+        "file_size": 793,
+        "file_unique_id": "AQAD8hBrG717YUh4"
+      },
+      {
+        "height": 163,
+        "width": 384,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFj2kM1lEINqJyA8N8gM_mHgrKzvd7AALyEGsbvXthSIoTgzAnuvBoAQADAgADeAADNgQ",
+        "file_size": 6162,
+        "file_unique_id": "AQAD8hBrG717YUh9"
+      },
+      {
+        "height": 136,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFj2kM1lEINqJyA8N8gM_mHgrKzvd7AALyEGsbvXthSIoTgzAnuvBoAQADAgADbQADNgQ",
+        "file_size": 8455,
+        "file_unique_id": "AQAD8hBrG717YUhy"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1762448977,
+    "message_id": 1423
   }
 ]
