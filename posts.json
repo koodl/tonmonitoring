@@ -1,63 +1,5 @@
 [
   {
-    "caption": "🅰️ AlphaTON Capital (Nasdaq: ATON) объявила о запуске 3 ноября 2025 года мирового турне, которое начнется с завтрака для инвесторов на Nasdaq MarketSite.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5314597028901190799",
-        "length": 3,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 36,
-        "type": "text_link",
-        "url": "https://www.stocktitan.net/news/ATON/alpha-ton-capital-kicks-off-global-world-tour-with-investor-6ygtwpvpqchw.html"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 52,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFbWkE8ys7Qfr9gh--bRZIgZaVIlKmAAKXBDIb9-wpSBGI9qCBSbkHAQADAgADcwADNgQ",
-        "file_size": 1997,
-        "file_unique_id": "AQADlwQyG_fsKUh4"
-      },
-      {
-        "height": 184,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFbWkE8ys7Qfr9gh--bRZIgZaVIlKmAAKXBDIb9-wpSBGI9qCBSbkHAQADAgADbQADNgQ",
-        "file_size": 25418,
-        "file_unique_id": "AQADlwQyG_fsKUhy"
-      },
-      {
-        "height": 364,
-        "width": 634,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFbWkE8ys7Qfr9gh--bRZIgZaVIlKmAAKXBDIb9-wpSBGI9qCBSbkHAQADAgADeAADNgQ",
-        "file_size": 48706,
-        "file_unique_id": "AQADlwQyG_fsKUh9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761932075,
-    "message_id": 1389
-  },
-  {
     "caption": "🎁 Вышли новые подарки.",
     "caption_entities": [
       {
@@ -3019,6 +2961,71 @@
     ],
     "channel_chat_created": false,
     "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 38,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFj2kM1lEINqJyA8N8gM_mHgrKzvd7AALyEGsbvXthSIoTgzAnuvBoAQADAgADcwADNgQ",
+        "file_size": 793,
+        "file_unique_id": "AQAD8hBrG717YUh4"
+      },
+      {
+        "height": 163,
+        "width": 384,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFj2kM1lEINqJyA8N8gM_mHgrKzvd7AALyEGsbvXthSIoTgzAnuvBoAQADAgADeAADNgQ",
+        "file_size": 6162,
+        "file_unique_id": "AQAD8hBrG717YUh9"
+      },
+      {
+        "height": 136,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFj2kM1lEINqJyA8N8gM_mHgrKzvd7AALyEGsbvXthSIoTgzAnuvBoAQADAgADbQADNgQ",
+        "file_size": 8455,
+        "file_unique_id": "AQAD8hBrG717YUhy"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1762448977,
+    "message_id": 1423
+  },
+  {
+    "caption": "🔄 В сервисе Tonnel добавили тестовую версию нового интерфейса Lite UI, который можно активировать в разделе «Мои подарки».",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5447595991211471135",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 6,
+        "offset": 13,
+        "type": "text_link",
+        "url": "https://t.me/tonnel_network_bot/gifts?startapp=ref_659773038"
+      },
+      {
+        "length": 8,
+        "offset": 20,
+        "type": "text_link",
+        "url": "https://t.me/TonAirDrop_ru/3362"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1762448999,
     "group_chat_created": false,
     "photo": [
       {
