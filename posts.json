@@ -1,70 +1,5 @@
 [
   {
-    "caption": "🪙 TON Foundation представила MemeRepublic — 10-недельный конкурс для мемкоинов на TON с фондом в $1 млн.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5197450760815668186",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 11,
-        "offset": 18,
-        "type": "text_link",
-        "url": "https://blog.ton.org/introducing-meme-republic"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 41,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFcGkFQgwWM-b1VIPdkKIUglJOcl5dAAK1BjIb9-wpSJePsifKMoHaAQADAgADcwADNgQ",
-        "file_size": 1225,
-        "file_unique_id": "AQADtQYyG_fsKUh4"
-      },
-      {
-        "height": 146,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFcGkFQgwWM-b1VIPdkKIUglJOcl5dAAK1BjIb9-wpSJePsifKMoHaAQADAgADbQADNgQ",
-        "file_size": 9038,
-        "file_unique_id": "AQADtQYyG_fsKUhy"
-      },
-      {
-        "height": 365,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFcGkFQgwWM-b1VIPdkKIUglJOcl5dAAK1BjIb9-wpSJePsifKMoHaAQADAgADeAADNgQ",
-        "file_size": 25245,
-        "file_unique_id": "AQADtQYyG_fsKUh9"
-      },
-      {
-        "height": 532,
-        "width": 1166,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFcGkFQgwWM-b1VIPdkKIUglJOcl5dAAK1BjIb9-wpSJePsifKMoHaAQADAgADeQADNgQ",
-        "file_size": 27784,
-        "file_unique_id": "AQADtQYyG_fsKUh-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761952268,
-    "message_id": 1392
-  },
-  {
     "caption": "🪙 TON Foundation запустила новый сайт с обратным отсчетом для MemeRepublic.",
     "caption_entities": [
       {
@@ -3084,5 +3019,43 @@
     },
     "date": 1762452945,
     "message_id": 1425
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5447638103365806920",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 39,
+        "type": "text_link",
+        "url": "https://t.me/mrwenru/874"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🛡 Мошенники от имени TON-инфлюенсеров создают и распространяют фейковые истории с приглашениями в приватные чаты с целью скама.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1762453753,
+    "message_id": 1426
   }
 ]
