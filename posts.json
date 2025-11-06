@@ -1,70 +1,5 @@
 [
   {
-    "caption": "🪙 TON Foundation запустила новый сайт с обратным отсчетом для MemeRepublic.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5197450760815668186",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 18,
-        "type": "text_link",
-        "url": "https://www.tonmemerepublic.com/"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 55,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFcWkFQwYVyHMxglZg1P4P83RikOk-AAK2BjIb9-wpSLIiJE7xR1I-AQADAgADcwADNgQ",
-        "file_size": 1252,
-        "file_unique_id": "AQADtgYyG_fsKUh4"
-      },
-      {
-        "height": 196,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFcWkFQwYVyHMxglZg1P4P83RikOk-AAK2BjIb9-wpSLIiJE7xR1I-AQADAgADbQADNgQ",
-        "file_size": 12560,
-        "file_unique_id": "AQADtgYyG_fsKUhy"
-      },
-      {
-        "height": 489,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFcWkFQwYVyHMxglZg1P4P83RikOk-AAK2BjIb9-wpSLIiJE7xR1I-AQADAgADeAADNgQ",
-        "file_size": 41180,
-        "file_unique_id": "AQADtgYyG_fsKUh9"
-      },
-      {
-        "height": 715,
-        "width": 1170,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFcWkFQwYVyHMxglZg1P4P83RikOk-AAK2BjIb9-wpSLIiJE7xR1I-AQADAgADeQADNgQ",
-        "file_size": 44619,
-        "file_unique_id": "AQADtgYyG_fsKUh-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761952518,
-    "message_id": 1393
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -3057,5 +2992,71 @@
     },
     "date": 1762453753,
     "message_id": 1426
+  },
+  {
+    "caption": "⚡️ Торговый объем на платформе Storm Trade за октябрь достиг $432 млн.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440700872189306557",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 6,
+        "offset": 54,
+        "type": "text_link",
+        "url": "https://t.me/storm_trade_news_ru/1028"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1762455733,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 51,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFjmkMxoQEVPxRRaEKRibnzGjuIvR_AAKXEGsbvXthSJr7V-pab-7PAQADAgADcwADNgQ",
+        "file_size": 1179,
+        "file_unique_id": "AQADlxBrG717YUh4"
+      },
+      {
+        "height": 180,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFjmkMxoQEVPxRRaEKRibnzGjuIvR_AAKXEGsbvXthSJr7V-pab-7PAQADAgADbQADNgQ",
+        "file_size": 14473,
+        "file_unique_id": "AQADlxBrG717YUhy"
+      },
+      {
+        "height": 450,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFjmkMxoQEVPxRRaEKRibnzGjuIvR_AAKXEGsbvXthSJr7V-pab-7PAQADAgADeAADNgQ",
+        "file_size": 53461,
+        "file_unique_id": "AQADlxBrG717YUh9"
+      },
+      {
+        "height": 720,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFjmkMxoQEVPxRRaEKRibnzGjuIvR_AAKXEGsbvXthSJr7V-pab-7PAQADAgADeQADNgQ",
+        "file_size": 71359,
+        "file_unique_id": "AQADlxBrG717YUh-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1762444932,
+    "message_id": 1422
   }
 ]
