@@ -2,44 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 5,
-        "offset": 24,
-        "type": "text_link",
-        "url": "https://t.me/pgrton/1303"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 На фоне минимального роста ончейн-активности пользователей за неделю совокупный отток TON с централизованных бирж составил 3,53 млн, тогда как пулы TON/USDT на DEX прибавили 0,1 млн USDT.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761909086,
-    "message_id": 1383
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1761914718,
     "entities": [
       {
@@ -2915,5 +2877,70 @@
     },
     "date": 1762373793,
     "message_id": 1418
+  },
+  {
+    "caption": "✈️ Продолжающееся в Австралии противостояние по поводу высказываний в Интернете обострилось после того, как Федеральный суд обязал Telegram определить пределы своего иска против комиссара по электронной безопасности Джули Инман Грант до 7 ноября.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 11,
+        "offset": 80,
+        "type": "text_link",
+        "url": "https://reclaimthenet.org/telegram-pushes-back-as-australias-online-censorship-battle-heats-up"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 51,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFi2kMjb7fAtOvMIVusQw92xYSt-ewAAJtDmsbvXthSGMb0A_cZjx3AQADAgADcwADNgQ",
+        "file_size": 1455,
+        "file_unique_id": "AQADbQ5rG717YUh4"
+      },
+      {
+        "height": 180,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFi2kMjb7fAtOvMIVusQw92xYSt-ewAAJtDmsbvXthSGMb0A_cZjx3AQADAgADbQADNgQ",
+        "file_size": 24760,
+        "file_unique_id": "AQADbQ5rG717YUhy"
+      },
+      {
+        "height": 450,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFi2kMjb7fAtOvMIVusQw92xYSt-ewAAJtDmsbvXthSGMb0A_cZjx3AQADAgADeAADNgQ",
+        "file_size": 111614,
+        "file_unique_id": "AQADbQ5rG717YUh9"
+      },
+      {
+        "height": 720,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFi2kMjb7fAtOvMIVusQw92xYSt-ewAAJtDmsbvXthSGMb0A_cZjx3AQADAgADeQADNgQ",
+        "file_size": 148346,
+        "file_unique_id": "AQADbQ5rG717YUh-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1762430398,
+    "message_id": 1419
   }
 ]
