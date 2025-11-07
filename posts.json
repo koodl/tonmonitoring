@@ -2,109 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5265112348451960063",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "custom_emoji_id": "5442612300139752138",
-        "length": 2,
-        "offset": 64,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 19,
-        "offset": 67,
-        "type": "url"
-      },
-      {
-        "custom_emoji_id": "5442812681838948710",
-        "length": 2,
-        "offset": 93,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 26,
-        "offset": 96,
-        "type": "url"
-      },
-      {
-        "custom_emoji_id": "5442785086674069503",
-        "length": 2,
-        "offset": 129,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 17,
-        "offset": 132,
-        "type": "url"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🗞 TON Monitoring теперь и в Threads!\n\nЧитайте нас, где удобно:\n🐣 x.com/tonmonitoring (ENG)\n💬 threads.com/@tonmonitoring (ENG)\n🌐 tonmonitoring.com (RU)",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762074238,
-    "message_id": 1399
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 18,
-        "offset": 49,
-        "type": "text_link",
-        "url": "https://t.me/TonGentlemens/8133"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 В октябре 2025 года экосистема TON и Telegram продемонстрировала активное институциональное развитие через массовые листинги, профессионализацию управления и расширение финансовых инструментов.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762080667,
-    "message_id": 1400
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1762081161,
     "entities": [
       {
@@ -3334,5 +3231,107 @@
     },
     "date": 1762520243,
     "message_id": 1430
+  },
+  {
+    "caption": "🪙 Закончился обратный отсчет на сайте tonmemerepublic.com.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5197450760815668186",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 19,
+        "offset": 39,
+        "type": "url"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 51,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFl2kN-2BBoHcI-zNP-LmXm3j0P0p6AAK9DWsb1iBxSOP48kvLPl8AAQEAAwIAA3MAAzYE",
+        "file_size": 1486,
+        "file_unique_id": "AQADvQ1rG9YgcUh4"
+      },
+      {
+        "height": 182,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFl2kN-2BBoHcI-zNP-LmXm3j0P0p6AAK9DWsb1iBxSOP48kvLPl8AAQEAAwIAA20AAzYE",
+        "file_size": 23317,
+        "file_unique_id": "AQADvQ1rG9YgcUhy"
+      },
+      {
+        "height": 454,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFl2kN-2BBoHcI-zNP-LmXm3j0P0p6AAK9DWsb1iBxSOP48kvLPl8AAQEAAwIAA3gAAzYE",
+        "file_size": 104924,
+        "file_unique_id": "AQADvQ1rG9YgcUh9"
+      },
+      {
+        "height": 726,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFl2kN-2BBoHcI-zNP-LmXm3j0P0p6AAK9DWsb1iBxSOP48kvLPl8AAQEAAwIAA3kAAzYE",
+        "file_size": 150079,
+        "file_unique_id": "AQADvQ1rG9YgcUh-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1762524000,
+    "message_id": 1431
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 6,
+        "offset": 37,
+        "type": "text_link",
+        "url": "https://t.me/pgrton/1308"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 За неделю с централизованных бирж вывели 2,18 млн TON, ликвидность в пулах TON/USDT на DEX сократилась на $0,11 млн, а ончейн-активность пользователей показывает минимальный рост вторую неделю подряд.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1762547056,
+    "message_id": 1432
   }
 ]
