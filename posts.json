@@ -4,44 +4,6 @@
     "delete_chat_photo": false,
     "entities": [
       {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 8,
-        "type": "text_link",
-        "url": "https://wanaen.com/iran-sets-conditions-for-telegrams-reopening-after-2018-ban/"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "✈️ WANA сообщает, что власти Ирана выдвинули Telegram ряд условий для снятия блокировки, введенной в 2018 году, и начали соответствующие переговоры.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761998501,
-    "message_id": 1395
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
         "custom_emoji_id": "5447638103365806920",
         "length": 2,
         "offset": 0,
@@ -3062,5 +3024,64 @@
     },
     "date": 1762510211,
     "message_id": 1427
+  },
+  {
+    "caption": "За неполный месяц с момента запуска аренды общий оборот на платформах Marketapp и Major достиг 47 750 TON, а количество сделок составило 33 718, при среднесуточном показателе в 1 000 операций.",
+    "caption_entities": [
+      {
+        "length": 6,
+        "offset": 88,
+        "type": "text_link",
+        "url": "https://giftstat.com/"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 36,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFlGkN3kFXLrsnnhSQzoUAAS6EA2NFEQACjwxrG9YgcUiyXE00AAEc6_UBAAMCAANzAAM2BA",
+        "file_size": 758,
+        "file_unique_id": "AQADjwxrG9YgcUh4"
+      },
+      {
+        "height": 127,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFlGkN3kFXLrsnnhSQzoUAAS6EA2NFEQACjwxrG9YgcUiyXE00AAEc6_UBAAMCAANtAAM2BA",
+        "file_size": 8849,
+        "file_unique_id": "AQADjwxrG9YgcUhy"
+      },
+      {
+        "height": 317,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFlGkN3kFXLrsnnhSQzoUAAS6EA2NFEQACjwxrG9YgcUiyXE00AAEc6_UBAAMCAAN4AAM2BA",
+        "file_size": 34503,
+        "file_unique_id": "AQADjwxrG9YgcUh9"
+      },
+      {
+        "height": 507,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFlGkN3kFXLrsnnhSQzoUAAS6EA2NFEQACjwxrG9YgcUiyXE00AAEc6_UBAAMCAAN5AAM2BA",
+        "file_size": 47135,
+        "file_unique_id": "AQADjwxrG9YgcUh-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1762516545,
+    "message_id": 1428
   }
 ]
