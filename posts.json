@@ -4,44 +4,6 @@
     "delete_chat_photo": false,
     "entities": [
       {
-        "custom_emoji_id": "5447638103365806920",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 12,
-        "offset": 40,
-        "type": "text_link",
-        "url": "https://www.newsofbahrain.com/bahrain/121203.html"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🛡 Министерство внутренних дел Бахрейна предупредило о мошенниках в Telegram, которые от имени руководителей банков создают фейковые группы, предлагая ложные инвестиции для кражи денег и личных данных пользователей.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1761999056,
-    "message_id": 1396
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
         "custom_emoji_id": "5472237906510770280",
         "length": 5,
         "offset": 0,
@@ -3083,5 +3045,163 @@
     },
     "date": 1762516545,
     "message_id": 1428
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5462883227221913609",
+        "length": 1,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 32,
+        "type": "url"
+      },
+      {
+        "length": 8,
+        "offset": 77,
+        "type": "text_link",
+        "url": "https://t.me/peskarbrain/433"
+      },
+      {
+        "length": 402,
+        "offset": 96,
+        "type": "expandable_blockquote"
+      },
+      {
+        "custom_emoji_id": "5292038911474804405",
+        "length": 2,
+        "offset": 96,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 4,
+        "offset": 99,
+        "type": "bold"
+      },
+      {
+        "custom_emoji_id": "5280475510894241673",
+        "length": 2,
+        "offset": 137,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 3,
+        "offset": 140,
+        "type": "bold"
+      },
+      {
+        "custom_emoji_id": "5292205057989688291",
+        "length": 2,
+        "offset": 176,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 179,
+        "type": "bold"
+      },
+      {
+        "custom_emoji_id": "5289516520131535412",
+        "length": 2,
+        "offset": 218,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 6,
+        "offset": 221,
+        "type": "bold"
+      },
+      {
+        "custom_emoji_id": "5328014309165382503",
+        "length": 2,
+        "offset": 258,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 260,
+        "type": "bold"
+      },
+      {
+        "custom_emoji_id": "5370766044262570957",
+        "length": 2,
+        "offset": 299,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 302,
+        "type": "bold"
+      },
+      {
+        "custom_emoji_id": "5280862672131204613",
+        "length": 2,
+        "offset": 341,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 344,
+        "type": "bold"
+      },
+      {
+        "custom_emoji_id": "5336977991811474596",
+        "length": 2,
+        "offset": 381,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 6,
+        "offset": 384,
+        "type": "bold"
+      },
+      {
+        "custom_emoji_id": "5291760653428597830",
+        "length": 2,
+        "offset": 419,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 422,
+        "type": "bold"
+      },
+      {
+        "custom_emoji_id": "5460891380303798305",
+        "length": 2,
+        "offset": 458,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 461,
+        "type": "bold"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "➿ Объем транзакций через сервис Split.tg в сетях, кроме TON, с мая 2025 года превысил $360 000.\n🔴 TRON - 120 239 USD (1 542 транзакции)\n🔸 BSC — 89 799 USD (1 554 транзакции)\n🔹 Ethereum — 56 331 USD (527 транзакций)\n🪙 Solana — 52 462 USD (693 транзакции)\n📶Arbitrum — 11 576 USD (193 транзакции)\n🪙 Litecoin — 10 229 USD (248 транзакций)\n💰 Bitcoin — 7 488 USD (108 транзакций)\n🪙 Monero — 6 467 USD (61 транзакция)\n🟣 Polygon — 3 117 USD (91 транзакция)\n🐶 Dogecoin — 2 327 USD (281 транзакция)",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1762518868,
+    "message_id": 1429
   }
 ]
