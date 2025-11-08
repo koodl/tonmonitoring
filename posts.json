@@ -1,44 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1762089371,
-    "entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 18,
-        "offset": 49,
-        "type": "text_link",
-        "url": "https://t.me/TonGentlemens/8133"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 В октябре 2025 года экосистема TON и Telegram продемонстрировала активное институциональное развитие, профессионализацию управления и расширение финансовых инструментов.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762080667,
-    "message_id": 1400
-  },
-  {
     "caption": "🦴 ChangeNOW опубликовал интервью с CEO Эндрю Д. и CMO Алексом Т. из команды DOGS, в котором они рассказали о создании мемкоина на блокчейне TON, благотворительных инициативах проекта на сумму более $550 тысяч и планах по интеграции с Telegram Mini Apps для массового внедрения криптовалют.",
     "caption_entities": [
       {
@@ -3312,6 +3273,72 @@
     ],
     "channel_chat_created": false,
     "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 82,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFmmkPEIAX_AgvgY-PIwvzRBUWM9y_AALnDGsb1iB5SLVUrpd82ZRsAQADAgADcwADNgQ",
+        "file_size": 1449,
+        "file_unique_id": "AQAD5wxrG9YgeUh4"
+      },
+      {
+        "height": 291,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFmmkPEIAX_AgvgY-PIwvzRBUWM9y_AALnDGsb1iB5SLVUrpd82ZRsAQADAgADbQADNgQ",
+        "file_size": 12789,
+        "file_unique_id": "AQAD5wxrG9YgeUhy"
+      },
+      {
+        "height": 728,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFmmkPEIAX_AgvgY-PIwvzRBUWM9y_AALnDGsb1iB5SLVUrpd82ZRsAQADAgADeAADNgQ",
+        "file_size": 40158,
+        "file_unique_id": "AQAD5wxrG9YgeUh9"
+      },
+      {
+        "height": 1104,
+        "width": 1214,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFmmkPEIAX_AgvgY-PIwvzRBUWM9y_AALnDGsb1iB5SLVUrpd82ZRsAQADAgADeQADNgQ",
+        "file_size": 50013,
+        "file_unique_id": "AQAD5wxrG9YgeUh-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1762594944,
+    "message_id": 1434
+  },
+  {
+    "caption": "✈️ The New York Times сообщает, что Telegram впервые станет прибыльным в этом году, а его выручка превысит $1 млрд благодаря монетизации, включая рекламу и подписки.\nПримечание: дата публикации статьи 2024/12/23.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 22,
+        "type": "text_link",
+        "url": "https://www.nytimes.com/2024/12/23/technology/telegram-business-profit.html"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1762595654,
     "group_chat_created": false,
     "photo": [
       {
