@@ -2,57 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "edit_date": 1762157677,
-    "entities": [
-      {
-        "custom_emoji_id": "5265112348451960063",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 12,
-        "offset": 11,
-        "type": "text_link",
-        "url": "https://t.me/tonmonitoring/1349"
-      },
-      {
-        "custom_emoji_id": "5440764055453200867",
-        "length": 2,
-        "offset": 42,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 45,
-        "type": "text_link",
-        "url": "https://t.me/tonmonitoring/8"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "url": "https://t.me/tonmonitoring/1349"
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🗞 Новости 44ой недели.\n\nСпонсоры недели:\n⭐️ Донатеры\nСпасибо за вашу поддержку!",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762070557,
-    "message_id": 1398
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1762157685,
     "entities": [
       {
@@ -3385,5 +3334,43 @@
     },
     "date": 1762606813,
     "message_id": 1435
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 22,
+        "offset": 29,
+        "type": "text_link",
+        "url": "https://t.me/niketasfm/2515"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "✈️ По данным Telegram-канала «Радиорубка Лихачёва», сервис Perplexity предлагал Telegram до $350 млн за годовую интеграцию своего ИИ-поиска в мессенджер.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1762611922,
+    "message_id": 1436
   }
 ]
