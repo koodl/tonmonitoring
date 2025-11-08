@@ -1,70 +1,5 @@
 [
   {
-    "caption": "🦴 ChangeNOW опубликовал интервью с CEO Эндрю Д. и CMO Алексом Т. из команды DOGS, в котором они рассказали о создании мемкоина на блокчейне TON, благотворительных инициативах проекта на сумму более $550 тысяч и планах по интеграции с Telegram Mini Apps для массового внедрения криптовалют.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5442695223073344113",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 11,
-        "offset": 13,
-        "type": "text_link",
-        "url": "https://changenow.io/blog/inside-dogs-interview"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 51,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFeWkHjMGTwv2KkkM4xYVZ0SPGDbqrAAJ1_TEb4zo4SJU_6K3mKwIqAQADAgADcwADNgQ",
-        "file_size": 1210,
-        "file_unique_id": "AQADdf0xG-M6OEh4"
-      },
-      {
-        "height": 180,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFeWkHjMGTwv2KkkM4xYVZ0SPGDbqrAAJ1_TEb4zo4SJU_6K3mKwIqAQADAgADbQADNgQ",
-        "file_size": 15135,
-        "file_unique_id": "AQADdf0xG-M6OEhy"
-      },
-      {
-        "height": 450,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFeWkHjMGTwv2KkkM4xYVZ0SPGDbqrAAJ1_TEb4zo4SJU_6K3mKwIqAQADAgADeAADNgQ",
-        "file_size": 53094,
-        "file_unique_id": "AQADdf0xG-M6OEh9"
-      },
-      {
-        "height": 720,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFeWkHjMGTwv2KkkM4xYVZ0SPGDbqrAAJ1_TEb4zo4SJU_6K3mKwIqAQADAgADeQADNgQ",
-        "file_size": 71081,
-        "file_unique_id": "AQADdf0xG-M6OEh-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762102465,
-    "message_id": 1401
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "edit_date": 1762157677,
@@ -3385,5 +3320,70 @@
     },
     "date": 1762594944,
     "message_id": 1434
+  },
+  {
+    "caption": "🅰️ Энтони Скарамуччи, стратегический советник AlphaTON Capital Corp., владеющей Toncoin (TON), спрогнозировал, что тренд на мемкоины будет стремиться к нулю.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5314597028901190799",
+        "length": 3,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 14,
+        "offset": 96,
+        "type": "text_link",
+        "url": "https://www.benzinga.com/crypto/cryptocurrency/25/11/48711587/exclusive-anthony-scaramucci-predicts-trend-line-of-memecoins-will-be-toward-zero-not-my-business-to-trade-in-rapid-speculation"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 69,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFm2kPPt1dapjWQYz-6-Q8himW24-TAAJzDmsb1iB5SO2fJYHWuZowAQADAgADcwADNgQ",
+        "file_size": 1763,
+        "file_unique_id": "AQADcw5rG9YgeUh4"
+      },
+      {
+        "height": 246,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFm2kPPt1dapjWQYz-6-Q8himW24-TAAJzDmsb1iB5SO2fJYHWuZowAQADAgADbQADNgQ",
+        "file_size": 23211,
+        "file_unique_id": "AQADcw5rG9YgeUhy"
+      },
+      {
+        "height": 652,
+        "width": 850,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFm2kPPt1dapjWQYz-6-Q8himW24-TAAJzDmsb1iB5SO2fJYHWuZowAQADAgADeQADNgQ",
+        "file_size": 65234,
+        "file_unique_id": "AQADcw5rG9YgeUh-"
+      },
+      {
+        "height": 614,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFm2kPPt1dapjWQYz-6-Q8himW24-TAAJzDmsb1iB5SO2fJYHWuZowAQADAgADeAADNgQ",
+        "file_size": 86503,
+        "file_unique_id": "AQADcw5rG9YgeUh9"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1762606813,
+    "message_id": 1435
   }
 ]
