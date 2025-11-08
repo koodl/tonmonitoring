@@ -2,45 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "edit_date": 1762081161,
-    "entities": [
-      {
-        "custom_emoji_id": "5472237906510770280",
-        "length": 5,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 15,
-        "type": "text_link",
-        "url": "https://kod.ru/zakon-o-controle-perepisok-ne-prinyali"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🧑‍💻 Евросоюз отказался от введения обязательной проверки личных сообщений в мессенджерах, сохранив до апреля 2026 года действующий механизм добровольной передачи подозрительного контента.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762006163,
-    "message_id": 1397
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1762089365,
     "entities": [
       {
@@ -3333,5 +3294,43 @@
     },
     "date": 1762547056,
     "message_id": 1432
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5461068994381381031",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 6,
+        "offset": 12,
+        "type": "text_link",
+        "url": "https://www.forbes.com/sites/digital-assets/2025/11/07/the-next-paypal-how-ai-and-blockchain-are-rewriting-digital-payments/"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🍬 Forbes в статье о будущем цифровых платежей привел в пример экосистему TON, отметив мини-приложение Goodies, которое объединяет в себе коллекционирование, бренды и платежи для создания «первой в мире экономики, встроенной в чат».",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1762571247,
+    "message_id": 1433
   }
 ]
