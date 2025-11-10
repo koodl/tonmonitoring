@@ -1,43 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 14,
-        "type": "text_link",
-        "url": "https://www.rbc.ru/rbcfreenews/6906fe619a7947866a60fba6"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "✈️ МВД России сообщило о прекращении деятельности Telegram-бота Userbox, который занимался незаконным распространением персональных данных, и задержании в Санкт-Петербурге его предполагаемого создателя.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762260261,
-    "message_id": 1412
-  },
-  {
     "caption": "🅰️ Инвестиционная компания AlphaTON Capital приобрела дополнительно 300 000 TON для своего казначейства цифровых активов.",
     "caption_entities": [
       {
@@ -3219,5 +3181,43 @@
     },
     "date": 1762816106,
     "message_id": 1445
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 10,
+        "offset": 12,
+        "type": "text_link",
+        "url": "https://skyeng.ru/it-industry/analytics/skolko-polzovateley-v-telegram-v-2025-godu/"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "✈️ Telegram становится ключевым бизнес-инструментом:\n• Более 5 млн бизнес-аккаунтов в 2025 г.,\n• Средняя стоимость привлечения подписчика $0,4–0,8,\n• Каналы с аудиторией >1 млн — уже более 5000 штук,\n• Инструменты монетизации, чат-боты, статистика по вовлеченности, платежи через мини-приложения.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1762816258,
+    "message_id": 1446
   }
 ]
