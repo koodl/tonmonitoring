@@ -1,76 +1,5 @@
 [
   {
-    "caption": "🎁 На платформе @Thermos появились лимитные ордера, позволяющие автоматически покупать и продавать подарки или стикеры, по заранее установленной цене.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5402276844923811424",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 16,
-        "type": "text_link",
-        "url": "https://t.me/thermos/thermos?startapp=ref_1325a707-f392-4bc5-b73d-eb1797f8e9db"
-      },
-      {
-        "length": 9,
-        "offset": 25,
-        "type": "text_link",
-        "url": "https://t.me/thermos_news/26"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFf2kJBEsc2AvskPfB7v6oq8RZjBi9AAIvE2sbZMRISOW-5aANNo-wAQADAgADcwADNgQ",
-        "file_size": 1482,
-        "file_unique_id": "AQADLxNrG2TESEh4"
-      },
-      {
-        "height": 320,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFf2kJBEsc2AvskPfB7v6oq8RZjBi9AAIvE2sbZMRISOW-5aANNo-wAQADAgADbQADNgQ",
-        "file_size": 14978,
-        "file_unique_id": "AQADLxNrG2TESEhy"
-      },
-      {
-        "height": 1000,
-        "width": 1000,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFf2kJBEsc2AvskPfB7v6oq8RZjBi9AAIvE2sbZMRISOW-5aANNo-wAQADAgADeQADNgQ",
-        "file_size": 43651,
-        "file_unique_id": "AQADLxNrG2TESEh-"
-      },
-      {
-        "height": 800,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFf2kJBEsc2AvskPfB7v6oq8RZjBi9AAIvE2sbZMRISOW-5aANNo-wAQADAgADeAADNgQ",
-        "file_size": 52286,
-        "file_unique_id": "AQADLxNrG2TESEh9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762198603,
-    "message_id": 1407
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -3225,6 +3154,45 @@
     "group_chat_created": false,
     "link_preview_options": {
       "url": "https://menafn.com/1110318924/EU-Intends-to-Launch-Central-Disinformation-Hub"
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🇪🇺 Европейский союз намерен создать централизованный хаб для мониторинга и борьбы с предполагаемой иностранной «дезинформацией», что, по мнению критиков, может привести к созданию общеконтинентального механизма цензуры под контролем Брюсселя.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1762789889,
+    "message_id": 1442
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1762795270,
+    "entities": [
+      {
+        "custom_emoji_id": "5206336451150637102",
+        "length": 4,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 22,
+        "type": "text_link",
+        "url": "https://menafn.com/1110318924/EU-Intends-to-Launch-Central-Disinformation-Hub"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
     },
     "sender_chat": {
       "id": -1002662123418,
