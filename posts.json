@@ -1,70 +1,5 @@
 [
   {
-    "caption": "🅰️ Инвестиционная компания AlphaTON Capital приобрела дополнительно 300 000 TON для своего казначейства цифровых активов.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5314597028901190799",
-        "length": 3,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 45,
-        "type": "text_link",
-        "url": "https://www.globenewswire.com/news-release/2025/11/05/3181038/0/en/DAT-ALERT-AlphaTON-Capital-Acquires-300-000-additional-TON.html"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 63,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFhWkLFx5Ou38BCAwi6wKgnU-buZM2AAJOC2sbgbtgSCCF2u8lFE83AQADAgADcwADNgQ",
-        "file_size": 811,
-        "file_unique_id": "AQADTgtrG4G7YEh4"
-      },
-      {
-        "height": 225,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFhWkLFx5Ou38BCAwi6wKgnU-buZM2AAJOC2sbgbtgSCCF2u8lFE83AQADAgADbQADNgQ",
-        "file_size": 6185,
-        "file_unique_id": "AQADTgtrG4G7YEhy"
-      },
-      {
-        "height": 563,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFhWkLFx5Ou38BCAwi6wKgnU-buZM2AAJOC2sbgbtgSCCF2u8lFE83AQADAgADeAADNgQ",
-        "file_size": 19919,
-        "file_unique_id": "AQADTgtrG4G7YEh9"
-      },
-      {
-        "height": 823,
-        "width": 1170,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFhWkLFx5Ou38BCAwi6wKgnU-buZM2AAJOC2sbgbtgSCCF2u8lFE83AQADAgADeQADNgQ",
-        "file_size": 21768,
-        "file_unique_id": "AQADTgtrG4G7YEh-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762334494,
-    "message_id": 1413
-  },
-  {
     "caption": "🍬🏰 Стикеры Goodies теперь доступны для продажи и покупки на платформе Palace.",
     "caption_entities": [
       {
@@ -3219,5 +3154,43 @@
     },
     "date": 1762816258,
     "message_id": 1446
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 46,
+        "type": "text_link",
+        "url": "https://skyeng.ru/it-industry/analytics/skolko-polzovateley-v-telegram-v-2025-godu/"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "✈️ Рост аудитории Telegram в западных странах ускорился: к 2025 году в Европе насчитывается 360 миллионов пользователей, а в Северной Америке — 70 миллионов, из которых 65 миллионов приходится на США.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1762816406,
+    "message_id": 1447
   }
 ]
