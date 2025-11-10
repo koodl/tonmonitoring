@@ -1,63 +1,5 @@
 [
   {
-    "caption": "🅰️ AlphaTON Capital объявила о совместном предприятии с PagoPay для запуска криптовалютной карты Mastercard, которая позволит пользователям напрямую тратить TON, USD1 и другие криптовалюты через интеграцию с ALT5 Sigma и World Liberty Financial.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5314597028901190799",
-        "length": 3,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 21,
-        "type": "text_link",
-        "url": "https://www.globenewswire.com/news-release/2025/11/03/3179179/0/en/AlphaTON-Capital-Corp-Announces-Strategic-Joint-Venture-with-Pago-Pay-and-with-ALT5-Sigma-to-Launch-Crypto-Enabled-TON-Mastercard.html"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 51,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFfWkIue6S-SjntkZeQWar51jK81uvAAKNDWsbZMRISPjibvYdHluSAQADAgADcwADNgQ",
-        "file_size": 1718,
-        "file_unique_id": "AQADjQ1rG2TESEh4"
-      },
-      {
-        "height": 183,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFfWkIue6S-SjntkZeQWar51jK81uvAAKNDWsbZMRISPjibvYdHluSAQADAgADbQADNgQ",
-        "file_size": 15250,
-        "file_unique_id": "AQADjQ1rG2TESEhy"
-      },
-      {
-        "height": 392,
-        "width": 685,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFfWkIue6S-SjntkZeQWar51jK81uvAAKNDWsbZMRISPjibvYdHluSAQADAgADeAADNgQ",
-        "file_size": 30618,
-        "file_unique_id": "AQADjQ1rG2TESEh9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762179566,
-    "message_id": 1405
-  },
-  {
     "caption": "🅰️ CEO AlphaTON Capital Brittany Kaiser выступила на TRUST Summit 2025 в Нью-Йорке 3 ноября, организованном Hacken, где обсуждались вопросы безопасности и соответствия нормам при интеграции цифровых активов, включая экосистему TON, в глобальные финансовые системы.",
     "caption_entities": [
       {
@@ -3295,5 +3237,36 @@
     },
     "date": 1762789889,
     "message_id": 1442
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "length": 31,
+        "offset": 0,
+        "type": "url"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "url": "https://t.me/tonmonitoring/1442"
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "https://t.me/tonmonitoring/1442\n\nЖдем реакцию Дурова )",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1762790095,
+    "message_id": 1443
   }
 ]
