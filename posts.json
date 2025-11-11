@@ -4,44 +4,6 @@
     "delete_chat_photo": false,
     "entities": [
       {
-        "custom_emoji_id": "5314597028901190799",
-        "length": 3,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 21,
-        "type": "text_link",
-        "url": "https://www.globenewswire.com/news-release/2025/11/05/3181220/0/en/AlphaTON-Capital-to-Acquire-Premier-Crypto-Newswire-Blockchain-Wire-Cementing-Dominance-in-Digital-Asset-Communications-via-the-Telegram-Ecosystem.html"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🅰️ AlphaTON Capital объявила о приобретении сервиса для дистрибуции пресс-релизов Blockchain Wire с целью запуска первого в мире верифицируемого новостного сервиса на блокчейне TON.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762353422,
-    "message_id": 1415
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
         "custom_emoji_id": "5442796949373740481",
         "length": 2,
         "offset": 0,
@@ -3154,5 +3116,44 @@
     },
     "date": 1762816258,
     "message_id": 1446
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1762824013,
+    "entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 46,
+        "type": "text_link",
+        "url": "https://skyeng.ru/it-industry/analytics/skolko-polzovateley-v-telegram-v-2025-godu/"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "✈️ Рост аудитории Telegram в западных странах ускорился: к 2025 году в Европе насчитывается 360 миллионов пользователей, а в Северной Америке — 70 миллионов, из которых 65 миллионов приходится на США.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1762816406,
+    "message_id": 1447
   }
 ]
