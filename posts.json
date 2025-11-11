@@ -1,43 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5314597028901190799",
-        "length": 3,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 4,
-        "offset": 49,
-        "type": "text_link",
-        "url": "https://www.linkedin.com/posts/mohd-haider-40a86832a_crypto-ethereum-biotech-ugcPost-7390318198602113025-1FoV?utm_medium=ios_app&rcm=ACoAABSVE-AB7pwqKBQQrJt6i6QXzld76PNMseg&utm_source=social_share_send&utm_campaign=copy_link"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🅰️ Бывший директор по коммуникациям Белого дома стал советником по стратегии AlphaTON Capital.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762359670,
-    "message_id": 1417
-  },
-  {
     "caption": "✈️ SQ Magazine опубликовал подробную статистику Telegram за 2025 год, в которой раскрываются данные о демографии пользователей, их профессиональном составе, популярности каналов и ботов, а также использовании платформы в бизнес-целях.",
     "caption_entities": [
       {
@@ -3175,5 +3137,63 @@
     },
     "date": 1762867505,
     "message_id": 1448
+  },
+  {
+    "caption": "🎁 CoinTelegraph выпустил статью «Оффчейн-торговля мешает TON выйти в лидеры мирового рынка NFT — создатель GetGems».",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440615647153256792",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 6,
+        "offset": 26,
+        "type": "text_link",
+        "url": "https://ru.cointelegraph.com/news/offcejn-torgovla-mesaet-ton-vyjti-v-lidery-mirovogo-rynka-nft-sozdatel-getgems"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 60,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFqWkTeMqAwRl4nby7tSwJ0cIc5DjMAAJTD2sbYSuZSMEQMgG9F_zHAQADAgADcwADNgQ",
+        "file_size": 984,
+        "file_unique_id": "AQADUw9rG2ErmUh4"
+      },
+      {
+        "height": 213,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFqWkTeMqAwRl4nby7tSwJ0cIc5DjMAAJTD2sbYSuZSMEQMgG9F_zHAQADAgADbQADNgQ",
+        "file_size": 12658,
+        "file_unique_id": "AQADUw9rG2ErmUhy"
+      },
+      {
+        "height": 319,
+        "width": 480,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFqWkTeMqAwRl4nby7tSwJ0cIc5DjMAAJTD2sbYSuZSMEQMgG9F_zHAQADAgADeAADNgQ",
+        "file_size": 14885,
+        "file_unique_id": "AQADUw9rG2ErmUh9"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1762883786,
+    "message_id": 1449
   }
 ]
