@@ -4,44 +4,6 @@
     "delete_chat_photo": false,
     "entities": [
       {
-        "custom_emoji_id": "5442796949373740481",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 11,
-        "type": "text_link",
-        "url": "https://t.me/getgemsrus/1008"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 Getgems продлила нулевую комиссию на торговлю Telegram Gifts, установив сбор в 1% для Usernames и Anonymous Numbers.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762355081,
-    "message_id": 1416
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
         "custom_emoji_id": "5314597028901190799",
         "length": 3,
         "offset": 0,
@@ -3155,5 +3117,63 @@
     },
     "date": 1762816406,
     "message_id": 1447
+  },
+  {
+    "caption": "🅰️ AlphaTON Capital назначила Уильяма Де’Ата (William De’Ath) на должность Chief Partnership Officer для руководства глобальными партнерствами и развитием программы TON Mastercard.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5314597028901190799",
+        "length": 3,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 21,
+        "type": "text_link",
+        "url": "https://www.globenewswire.com/news-release/2025/11/11/3185384/0/en/AlphaTON-Capital-Accelerates-Global-Growth-with-Strategic-Appointment-of-William-De-Ath-as-Chief-Partnership-Officer.html"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 88,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFqGkTOTHfatjXc8sZAksXmDc2zr5HAAJrDWsbYSuZSJHRFmgUIOC8AQADAgADcwADNgQ",
+        "file_size": 2126,
+        "file_unique_id": "AQADaw1rG2ErmUh4"
+      },
+      {
+        "height": 314,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFqGkTOTHfatjXc8sZAksXmDc2zr5HAAJrDWsbYSuZSJHRFmgUIOC8AQADAgADbQADNgQ",
+        "file_size": 22977,
+        "file_unique_id": "AQADaw1rG2ErmUhy"
+      },
+      {
+        "height": 531,
+        "width": 542,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFqGkTOTHfatjXc8sZAksXmDc2zr5HAAJrDWsbYSuZSJHRFmgUIOC8AQADAgADeAADNgQ",
+        "file_size": 34383,
+        "file_unique_id": "AQADaw1rG2ErmUh9"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1762867505,
+    "message_id": 1448
   }
 ]
