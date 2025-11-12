@@ -9,64 +9,6 @@
         "type": "custom_emoji"
       },
       {
-        "length": 8,
-        "offset": 20,
-        "type": "text_link",
-        "url": "https://t.me/TonAirDrop_ru/3362"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 38,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFj2kM1lEINqJyA8N8gM_mHgrKzvd7AALyEGsbvXthSIoTgzAnuvBoAQADAgADcwADNgQ",
-        "file_size": 793,
-        "file_unique_id": "AQAD8hBrG717YUh4"
-      },
-      {
-        "height": 163,
-        "width": 384,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFj2kM1lEINqJyA8N8gM_mHgrKzvd7AALyEGsbvXthSIoTgzAnuvBoAQADAgADeAADNgQ",
-        "file_size": 6162,
-        "file_unique_id": "AQAD8hBrG717YUh9"
-      },
-      {
-        "height": 136,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFj2kM1lEINqJyA8N8gM_mHgrKzvd7AALyEGsbvXthSIoTgzAnuvBoAQADAgADbQADNgQ",
-        "file_size": 8455,
-        "file_unique_id": "AQAD8hBrG717YUhy"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762448977,
-    "message_id": 1423
-  },
-  {
-    "caption": "🔄 В сервисе Tonnel добавили тестовую версию нового интерфейса Lite UI, который можно активировать в разделе «Мои подарки».",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5447595991211471135",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
         "length": 6,
         "offset": 13,
         "type": "text_link",
@@ -3091,6 +3033,77 @@
     ],
     "channel_chat_created": false,
     "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 47,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFsGkUxihm9zwDcZda-vuR7SINETw5AAJLEWsb-ZaoSHB7QggfTsYoAQADAgADcwADNgQ",
+        "file_size": 1096,
+        "file_unique_id": "AQADSxFrG_mWqEh4"
+      },
+      {
+        "height": 168,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFsGkUxihm9zwDcZda-vuR7SINETw5AAJLEWsb-ZaoSHB7QggfTsYoAQADAgADbQADNgQ",
+        "file_size": 13159,
+        "file_unique_id": "AQADSxFrG_mWqEhy"
+      },
+      {
+        "height": 421,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFsGkUxihm9zwDcZda-vuR7SINETw5AAJLEWsb-ZaoSHB7QggfTsYoAQADAgADeAADNgQ",
+        "file_size": 45999,
+        "file_unique_id": "AQADSxFrG_mWqEh9"
+      },
+      {
+        "height": 674,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFsGkUxihm9zwDcZda-vuR7SINETw5AAJLEWsb-ZaoSHB7QggfTsYoAQADAgADeQADNgQ",
+        "file_size": 55957,
+        "file_unique_id": "AQADSxFrG_mWqEh-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1762969128,
+    "message_id": 1456
+  },
+  {
+    "caption": "🪙 Появился сайт для отслеживания позиций мемкоинов в лидерборде Meme Republic.\nИзображение: https://x.com/martinfromton/status/1988660211796889991?s=46",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5197450760815668186",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 4,
+        "offset": 12,
+        "type": "text_link",
+        "url": "https://memerepublic.ffmemes.com/leaderboard"
+      },
+      {
+        "length": 59,
+        "offset": 93,
+        "type": "url"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1762969228,
     "group_chat_created": false,
     "photo": [
       {
