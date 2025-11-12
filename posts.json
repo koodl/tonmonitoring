@@ -1,71 +1,5 @@
 [
   {
-    "caption": "✈️ Продолжающееся в Австралии противостояние по поводу высказываний в Интернете обострилось после того, как Федеральный суд обязал Telegram определить пределы своего иска против комиссара по электронной безопасности Джули Инман Грант до 7 ноября.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 11,
-        "offset": 80,
-        "type": "text_link",
-        "url": "https://reclaimthenet.org/telegram-pushes-back-as-australias-online-censorship-battle-heats-up"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1762433178,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 51,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFi2kMjb7fAtOvMIVusQw92xYSt-ewAAJtDmsbvXthSGMb0A_cZjx3AQADAgADcwADNgQ",
-        "file_size": 1455,
-        "file_unique_id": "AQADbQ5rG717YUh4"
-      },
-      {
-        "height": 180,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFi2kMjb7fAtOvMIVusQw92xYSt-ewAAJtDmsbvXthSGMb0A_cZjx3AQADAgADbQADNgQ",
-        "file_size": 24760,
-        "file_unique_id": "AQADbQ5rG717YUhy"
-      },
-      {
-        "height": 450,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFi2kMjb7fAtOvMIVusQw92xYSt-ewAAJtDmsbvXthSGMb0A_cZjx3AQADAgADeAADNgQ",
-        "file_size": 111614,
-        "file_unique_id": "AQADbQ5rG717YUh9"
-      },
-      {
-        "height": 720,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFi2kMjb7fAtOvMIVusQw92xYSt-ewAAJtDmsbvXthSGMb0A_cZjx3AQADAgADeQADNgQ",
-        "file_size": 148346,
-        "file_unique_id": "AQADbQ5rG717YUh-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762430398,
-    "message_id": 1419
-  },
-  {
     "caption": "💎 TON Foundation стал сооснователем Blockchain Payments Consortium (BPC) вместе с Solana Foundation, Stellar Development Foundation, Monad Foundation, Fireblocks, Polygon Labs и Mysten Labs, с целью создания общих стандартов для быстрых, надежных и масштабируемых кроссчейн-платежей.",
     "caption_entities": [
       {
@@ -3114,6 +3048,72 @@
     ],
     "channel_chat_created": false,
     "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 72,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFrWkUh4-_3j12FRT701-FQCqYjb0lAALRDmsb-ZaoSNEud7w_adXwAQADAgADcwADNgQ",
+        "file_size": 1593,
+        "file_unique_id": "AQAD0Q5rG_mWqEh4"
+      },
+      {
+        "height": 320,
+        "width": 256,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFrWkUh4-_3j12FRT701-FQCqYjb0lAALRDmsb-ZaoSNEud7w_adXwAQADAgADbQADNgQ",
+        "file_size": 18460,
+        "file_unique_id": "AQAD0Q5rG_mWqEhy"
+      },
+      {
+        "height": 800,
+        "width": 640,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFrWkUh4-_3j12FRT701-FQCqYjb0lAALRDmsb-ZaoSNEud7w_adXwAQADAgADeAADNgQ",
+        "file_size": 69283,
+        "file_unique_id": "AQAD0Q5rG_mWqEh9"
+      },
+      {
+        "height": 1280,
+        "width": 1024,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFrWkUh4-_3j12FRT701-FQCqYjb0lAALRDmsb-ZaoSNEud7w_adXwAQADAgADeQADNgQ",
+        "file_size": 86879,
+        "file_unique_id": "AQAD0Q5rG_mWqEh-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1762953103,
+    "message_id": 1453
+  },
+  {
+    "caption": "📈 Совокупный объем торгов xStocks на CEX и DEX превысил $10 млрд менее чем за 6 месяцев с момента запуска.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5190741704071743060",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 48,
+        "type": "text_link",
+        "url": "https://x.com/xstocksfi/status/1988594280454295841?s=46"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1762953156,
     "group_chat_created": false,
     "photo": [
       {
