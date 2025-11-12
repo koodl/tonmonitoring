@@ -1,71 +1,5 @@
 [
   {
-    "caption": "👛 В обновленном Tonkeeper Pro появилась ежемесячная подписка на всех платформах с одним бесплатным переводом TRC20 в месяц, визуальные улучшения и поддержка 20 языков.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440610450242827721",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 31,
-        "type": "text_link",
-        "url": "https://t.me/tonkeeper_ru/339"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1762431057,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFjGkMkCY67n1QO6mEVZ-kkdsGsqFdAAJ5DmsbvXthSKxp9p3y45CSAQADAgADcwADNgQ",
-        "file_size": 1375,
-        "file_unique_id": "AQADeQ5rG717YUh4"
-      },
-      {
-        "height": 320,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFjGkMkCY67n1QO6mEVZ-kkdsGsqFdAAJ5DmsbvXthSKxp9p3y45CSAQADAgADbQADNgQ",
-        "file_size": 14796,
-        "file_unique_id": "AQADeQ5rG717YUhy"
-      },
-      {
-        "height": 800,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFjGkMkCY67n1QO6mEVZ-kkdsGsqFdAAJ5DmsbvXthSKxp9p3y45CSAQADAgADeAADNgQ",
-        "file_size": 52207,
-        "file_unique_id": "AQADeQ5rG717YUh9"
-      },
-      {
-        "height": 1280,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFjGkMkCY67n1QO6mEVZ-kkdsGsqFdAAJ5DmsbvXthSKxp9p3y45CSAQADAgADeQADNgQ",
-        "file_size": 58083,
-        "file_unique_id": "AQADeQ5rG717YUh-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762431014,
-    "message_id": 1420
-  },
-  {
     "caption": "✈️ Продолжающееся в Австралии противостояние по поводу высказываний в Интернете обострилось после того, как Федеральный суд обязал Telegram определить пределы своего иска против комиссара по электронной безопасности Джули Инман Грант до 7 ноября.",
     "caption_entities": [
       {
@@ -3167,5 +3101,64 @@
     },
     "date": 1762951536,
     "message_id": 1452
+  },
+  {
+    "caption": "📈 Совокупный объем торгов xStocks на CEX и DEX превысил $10 млрд менее чем за 6 месяцев с момента запуска.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5190741704071743060",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 72,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFrWkUh4-_3j12FRT701-FQCqYjb0lAALRDmsb-ZaoSNEud7w_adXwAQADAgADcwADNgQ",
+        "file_size": 1593,
+        "file_unique_id": "AQAD0Q5rG_mWqEh4"
+      },
+      {
+        "height": 320,
+        "width": 256,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFrWkUh4-_3j12FRT701-FQCqYjb0lAALRDmsb-ZaoSNEud7w_adXwAQADAgADbQADNgQ",
+        "file_size": 18460,
+        "file_unique_id": "AQAD0Q5rG_mWqEhy"
+      },
+      {
+        "height": 800,
+        "width": 640,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFrWkUh4-_3j12FRT701-FQCqYjb0lAALRDmsb-ZaoSNEud7w_adXwAQADAgADeAADNgQ",
+        "file_size": 69283,
+        "file_unique_id": "AQAD0Q5rG_mWqEh9"
+      },
+      {
+        "height": 1280,
+        "width": 1024,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFrWkUh4-_3j12FRT701-FQCqYjb0lAALRDmsb-ZaoSNEud7w_adXwAQADAgADeQADNgQ",
+        "file_size": 86879,
+        "file_unique_id": "AQAD0Q5rG_mWqEh-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1762953103,
+    "message_id": 1453
   }
 ]
