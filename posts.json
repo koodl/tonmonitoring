@@ -1,70 +1,5 @@
 [
   {
-    "caption": "✈️ Иранский депутат Мостафа Пурдеган обвинил «VPN-мафию» в задержке отмены блокировки Telegram с целью сохранения доходов от продажи VPN, оцениваемых в $450 млн.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 37,
-        "type": "text_link",
-        "url": "https://www.techradar.com/vpn/vpn-privacy-security/irans-vpn-mafia-blamed-for-delays-on-the-lifting-of-telegram-ban-heres-what-we-know"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 51,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFkGkM4sTOA5Ua1L0UON4GgQ4-lsnUAAJiEWsbvXthSA1vgT2oY0bxAQADAgADcwADNgQ",
-        "file_size": 1562,
-        "file_unique_id": "AQADYhFrG717YUh4"
-      },
-      {
-        "height": 180,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFkGkM4sTOA5Ua1L0UON4GgQ4-lsnUAAJiEWsbvXthSA1vgT2oY0bxAQADAgADbQADNgQ",
-        "file_size": 18424,
-        "file_unique_id": "AQADYhFrG717YUhy"
-      },
-      {
-        "height": 450,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFkGkM4sTOA5Ua1L0UON4GgQ4-lsnUAAJiEWsbvXthSA1vgT2oY0bxAQADAgADeAADNgQ",
-        "file_size": 71467,
-        "file_unique_id": "AQADYhFrG717YUh9"
-      },
-      {
-        "height": 675,
-        "width": 1200,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFkGkM4sTOA5Ua1L0UON4GgQ4-lsnUAAJiEWsbvXthSA1vgT2oY0bxAQADAgADeQADNgQ",
-        "file_size": 75894,
-        "file_unique_id": "AQADYhFrG717YUh-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762452164,
-    "message_id": 1424
-  },
-  {
     "caption": "📦🦙 DAOLama начала принимать в залог ончейн-стикеры из восьми коллекций для получения займов в TON.",
     "caption_entities": [
       {
@@ -3103,6 +3038,77 @@
     ],
     "channel_chat_created": false,
     "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFsWkUztYBGPn4ZIN3QyzJbav3uhpoAAK4EWsb-ZaoSG9K3jaCORuGAQADAgADcwADNgQ",
+        "file_size": 1949,
+        "file_unique_id": "AQADuBFrG_mWqEh4"
+      },
+      {
+        "height": 320,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFsWkUztYBGPn4ZIN3QyzJbav3uhpoAAK4EWsb-ZaoSG9K3jaCORuGAQADAgADbQADNgQ",
+        "file_size": 21970,
+        "file_unique_id": "AQADuBFrG_mWqEhy"
+      },
+      {
+        "height": 800,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFsWkUztYBGPn4ZIN3QyzJbav3uhpoAAK4EWsb-ZaoSG9K3jaCORuGAQADAgADeAADNgQ",
+        "file_size": 73069,
+        "file_unique_id": "AQADuBFrG_mWqEh9"
+      },
+      {
+        "height": 1280,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFsWkUztYBGPn4ZIN3QyzJbav3uhpoAAK4EWsb-ZaoSG9K3jaCORuGAQADAgADeQADNgQ",
+        "file_size": 88639,
+        "file_unique_id": "AQADuBFrG_mWqEh-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1762971350,
+    "message_id": 1457
+  },
+  {
+    "caption": "🦴 Команда DOGS сегодня запускает тестовую версию чата для держателей токенов $DOGS с ранним альфа-доступом, прямым общением с командой и привилегиями.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5442695223073344113",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 4,
+        "offset": 50,
+        "type": "text_link",
+        "url": "https://t.me/access_app_bot/open?startapp=ch_dogs-whales-chat"
+      },
+      {
+        "length": 5,
+        "offset": 78,
+        "type": "cashtag"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1762973155,
     "group_chat_created": false,
     "photo": [
       {
