@@ -1,70 +1,5 @@
 [
   {
-    "caption": "✈️ SQ Magazine опубликовал подробную статистику Telegram за 2025 год, в которой раскрываются данные о демографии пользователей, их профессиональном составе, популярности каналов и ботов, а также использовании платформы в бизнес-целях.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 11,
-        "offset": 15,
-        "type": "text_link",
-        "url": "https://sqmagazine.co.uk/telegram-statistics/"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 64,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFimkLsKFXaf5I08PbnH4DcE6Gd8-XAAI5EGsbgbtgSDpGID-KL2APAQADAgADcwADNgQ",
-        "file_size": 1340,
-        "file_unique_id": "AQADORBrG4G7YEh4"
-      },
-      {
-        "height": 228,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFimkLsKFXaf5I08PbnH4DcE6Gd8-XAAI5EGsbgbtgSDpGID-KL2APAQADAgADbQADNgQ",
-        "file_size": 15741,
-        "file_unique_id": "AQADORBrG4G7YEhy"
-      },
-      {
-        "height": 571,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFimkLsKFXaf5I08PbnH4DcE6Gd8-XAAI5EGsbgbtgSDpGID-KL2APAQADAgADeAADNgQ",
-        "file_size": 56948,
-        "file_unique_id": "AQADORBrG4G7YEh9"
-      },
-      {
-        "height": 914,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFimkLsKFXaf5I08PbnH4DcE6Gd8-XAAI5EGsbgbtgSDpGID-KL2APAQADAgADeQADNgQ",
-        "file_size": 75119,
-        "file_unique_id": "AQADORBrG4G7YEh-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762373793,
-    "message_id": 1418
-  },
-  {
     "caption": "✈️ Продолжающееся в Австралии противостояние по поводу высказываний в Интернете обострилось после того, как Федеральный суд обязал Telegram определить пределы своего иска против комиссара по электронной безопасности Джули Инман Грант до 7 ноября.",
     "caption_entities": [
       {
@@ -3195,5 +3130,48 @@
     },
     "date": 1762883786,
     "message_id": 1449
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 3,
+        "type": "url"
+      },
+      {
+        "length": 8,
+        "offset": 11,
+        "type": "text_link",
+        "url": "https://t.me/tonlow/1398"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 Max.ton запустил публичный трейдинг-челлендж «100 иксов на TON», в рамках которого он намерен превратить 1000 TON в 100 000 TON.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1762943362,
+    "message_id": 1450
   }
 ]
