@@ -1,64 +1,5 @@
 [
   {
-    "caption": "👛 В TON Кошельке появилась функция торговли NFT напрямую в приложении благодаря интеграции с маркетплейсом Getgems.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440704428422229664",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 18,
-        "type": "text_link",
-        "url": "https://t.me/tonwallet_news_cis/64"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "video": {
-      "file_name": "IMG_5216.MP4",
-      "height": 848,
-      "mime_type": "video/mp4",
-      "width": 848,
-      "thumbnail": {
-        "height": 320,
-        "width": 320,
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgWWaQ3sskXn-CHdlXrbUlHxdKlvh0QAAvuCAALWIHFIbaN3H_RZcroBAAdtAAM2BA",
-        "file_size": 16941,
-        "file_unique_id": "AQAD-4IAAtYgcUhy"
-      },
-      "file_id": "BAACAgIAAyEFAASerMeaAAIFlmkN7LJF5_gh3ZV621JR8XSpb4dEAAL7ggAC1iBxSG2jdx_0WXK6NgQ",
-      "file_size": 2030232,
-      "file_unique_id": "AgAD-4IAAtYgcUg",
-      "duration": 12,
-      "thumb": {
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgWWaQ3sskXn-CHdlXrbUlHxdKlvh0QAAvuCAALWIHFIbaN3H_RZcroBAAdtAAM2BA",
-        "file_unique_id": "AQAD-4IAAtYgcUhy",
-        "file_size": 16941,
-        "width": 320,
-        "height": 320
-      }
-    },
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762520243,
-    "message_id": 1430
-  },
-  {
     "caption": "🪙 Закончился обратный отсчет на сайте tonmemerepublic.com.",
     "caption_entities": [
       {
@@ -2929,5 +2870,44 @@
     },
     "date": 1763031866,
     "message_id": 1461
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1763035624,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 11,
+        "offset": 41,
+        "type": "text_link",
+        "url": "https://t.me/kudrya_write/798"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 Автор Telegram-канала «ᴋᴜᴅʀʏᴀ ᴨишᴇᴛ…» опубликовал разбор проблем экосистемы TON, указав на падение TVL до $102 млн, отток разработчиков и невыполненные обещания со стороны TON Foundation.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763026631,
+    "message_id": 1459
   }
 ]
