@@ -4,44 +4,6 @@
     "delete_chat_photo": false,
     "entities": [
       {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 22,
-        "offset": 29,
-        "type": "text_link",
-        "url": "https://t.me/niketasfm/2515"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "✈️ По данным Telegram-канала «Радиорубка Лихачёва», сервис Perplexity предлагал Telegram до $350 млн за годовую интеграцию своего ИИ-поиска в мессенджер.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762611922,
-    "message_id": 1436
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
         "custom_emoji_id": "5440671546152610057",
         "length": 2,
         "offset": 0,
@@ -2884,5 +2846,71 @@
     },
     "date": 1763041414,
     "message_id": 1464
+  },
+  {
+    "caption": "✈️ Telegram оспаривает в Федеральном суде Австралии закон о онлайн-безопасности 2021 года, который требует верификации возраста пользователей.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 10,
+        "offset": 12,
+        "type": "text_link",
+        "url": "https://www.techradar.com/vpn/vpn-privacy-security/telegram-sues-australia-over-age-verification-law-heres-what-we-know"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1763045822,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 51,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFtmkV1iFvveHFaQep83dco_sw3OabAALQDGsbfdOxSCh47dKC9ePcAQADAgADcwADNgQ",
+        "file_size": 1093,
+        "file_unique_id": "AQAD0AxrG33TsUh4"
+      },
+      {
+        "height": 180,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFtmkV1iFvveHFaQep83dco_sw3OabAALQDGsbfdOxSCh47dKC9ePcAQADAgADbQADNgQ",
+        "file_size": 10786,
+        "file_unique_id": "AQAD0AxrG33TsUhy"
+      },
+      {
+        "height": 675,
+        "width": 1200,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFtmkV1iFvveHFaQep83dco_sw3OabAALQDGsbfdOxSCh47dKC9ePcAQADAgADeQADNgQ",
+        "file_size": 36722,
+        "file_unique_id": "AQAD0AxrG33TsUh-"
+      },
+      {
+        "height": 450,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFtmkV1iFvveHFaQep83dco_sw3OabAALQDGsbfdOxSCh47dKC9ePcAQADAgADeAADNgQ",
+        "file_size": 37160,
+        "file_unique_id": "AQAD0AxrG33TsUh9"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763038753,
+    "message_id": 1462
   }
 ]
