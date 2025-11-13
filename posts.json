@@ -1,70 +1,5 @@
 [
   {
-    "caption": "🅰️ Энтони Скарамуччи, стратегический советник AlphaTON Capital Corp., владеющей Toncoin (TON), спрогнозировал, что тренд на мемкоины будет стремиться к нулю.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5314597028901190799",
-        "length": 3,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 14,
-        "offset": 96,
-        "type": "text_link",
-        "url": "https://www.benzinga.com/crypto/cryptocurrency/25/11/48711587/exclusive-anthony-scaramucci-predicts-trend-line-of-memecoins-will-be-toward-zero-not-my-business-to-trade-in-rapid-speculation"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 69,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFm2kPPt1dapjWQYz-6-Q8himW24-TAAJzDmsb1iB5SO2fJYHWuZowAQADAgADcwADNgQ",
-        "file_size": 1763,
-        "file_unique_id": "AQADcw5rG9YgeUh4"
-      },
-      {
-        "height": 246,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFm2kPPt1dapjWQYz-6-Q8himW24-TAAJzDmsb1iB5SO2fJYHWuZowAQADAgADbQADNgQ",
-        "file_size": 23211,
-        "file_unique_id": "AQADcw5rG9YgeUhy"
-      },
-      {
-        "height": 652,
-        "width": 850,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFm2kPPt1dapjWQYz-6-Q8himW24-TAAJzDmsb1iB5SO2fJYHWuZowAQADAgADeQADNgQ",
-        "file_size": 65234,
-        "file_unique_id": "AQADcw5rG9YgeUh-"
-      },
-      {
-        "height": 614,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFm2kPPt1dapjWQYz-6-Q8himW24-TAAJzDmsb1iB5SO2fJYHWuZowAQADAgADeAADNgQ",
-        "file_size": 86503,
-        "file_unique_id": "AQADcw5rG9YgeUh9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762606813,
-    "message_id": 1435
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2910,5 +2845,44 @@
     },
     "date": 1763045731,
     "message_id": 1465
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1763045814,
+    "entities": [
+      {
+        "custom_emoji_id": "5314597028901190799",
+        "length": 3,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 38,
+        "type": "text_link",
+        "url": "https://www.marketwatch.com/press-release/alphaton-capital-and-singularitynet-join-forces-to-accelerate-telegram-s-cocoon-ai-growing-the-ethical-decentralized-ai-ecosystem-627d1f57?mod=search_headline"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🅰️ AlphaTON Capital и SingularityNET заключили партнерство для ускорения развития ИИ Cocoon для Telegram.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763041414,
+    "message_id": 1464
   }
 ]
