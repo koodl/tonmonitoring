@@ -4,44 +4,6 @@
     "delete_chat_photo": false,
     "entities": [
       {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 6,
-        "offset": 37,
-        "type": "text_link",
-        "url": "https://t.me/pgrton/1308"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 За неделю с централизованных бирж вывели 2,18 млн TON, ликвидность в пулах TON/USDT на DEX сократилась на $0,11 млн, а ончейн-активность пользователей показывает минимальный рост вторую неделю подряд.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762547056,
-    "message_id": 1432
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
         "custom_emoji_id": "5461068994381381031",
         "length": 2,
         "offset": 0,
@@ -2910,5 +2872,70 @@
     },
     "date": 1763038753,
     "message_id": 1462
+  },
+  {
+    "caption": "✈️ Следственные органы Франции полностью сняли запрет на выезд из страны для CEO Telegram Павла Дурова, а также отменили требование регулярно отмечаться в местной полиции, согласно решению от 10 ноября.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 5,
+        "offset": 41,
+        "type": "text_link",
+        "url": "https://www.bloomberg.com/news/articles/2025-11-13/telegram-ceo-s-french-travel-ban-fully-lifted-by-investigators"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 60,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFt2kV3NQrPmlqIKMAAfYT7NKMoJ4ekwACCg1rG33TsUjP3-5Kt35VagEAAwIAA3MAAzYE",
+        "file_size": 1142,
+        "file_unique_id": "AQADCg1rG33TsUh4"
+      },
+      {
+        "height": 213,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFt2kV3NQrPmlqIKMAAfYT7NKMoJ4ekwACCg1rG33TsUjP3-5Kt35VagEAAwIAA20AAzYE",
+        "file_size": 10133,
+        "file_unique_id": "AQADCg1rG33TsUhy"
+      },
+      {
+        "height": 533,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFt2kV3NQrPmlqIKMAAfYT7NKMoJ4ekwACCg1rG33TsUjP3-5Kt35VagEAAwIAA3gAAzYE",
+        "file_size": 41367,
+        "file_unique_id": "AQADCg1rG33TsUh9"
+      },
+      {
+        "height": 800,
+        "width": 1200,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFt2kV3NQrPmlqIKMAAfYT7NKMoJ4ekwACCg1rG33TsUjP3-5Kt35VagEAAwIAA3kAAzYE",
+        "file_size": 46028,
+        "file_unique_id": "AQADCg1rG33TsUh-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763040468,
+    "message_id": 1463
   }
 ]
