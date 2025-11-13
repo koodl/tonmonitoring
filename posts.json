@@ -1,70 +1,5 @@
 [
   {
-    "caption": "✈️ The New York Times сообщает, что Telegram впервые станет прибыльным в этом году, а его выручка превысит $1 млрд благодаря монетизации, включая рекламу и подписки.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 22,
-        "type": "text_link",
-        "url": "https://www.nytimes.com/2024/12/23/technology/telegram-business-profit.html"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 82,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFmmkPEIAX_AgvgY-PIwvzRBUWM9y_AALnDGsb1iB5SLVUrpd82ZRsAQADAgADcwADNgQ",
-        "file_size": 1449,
-        "file_unique_id": "AQAD5wxrG9YgeUh4"
-      },
-      {
-        "height": 291,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFmmkPEIAX_AgvgY-PIwvzRBUWM9y_AALnDGsb1iB5SLVUrpd82ZRsAQADAgADbQADNgQ",
-        "file_size": 12789,
-        "file_unique_id": "AQAD5wxrG9YgeUhy"
-      },
-      {
-        "height": 728,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFmmkPEIAX_AgvgY-PIwvzRBUWM9y_AALnDGsb1iB5SLVUrpd82ZRsAQADAgADeAADNgQ",
-        "file_size": 40158,
-        "file_unique_id": "AQAD5wxrG9YgeUh9"
-      },
-      {
-        "height": 1104,
-        "width": 1214,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFmmkPEIAX_AgvgY-PIwvzRBUWM9y_AALnDGsb1iB5SLVUrpd82ZRsAQADAgADeQADNgQ",
-        "file_size": 50013,
-        "file_unique_id": "AQAD5wxrG9YgeUh-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762594944,
-    "message_id": 1434
-  },
-  {
     "caption": "✈️ The New York Times сообщает, что Telegram впервые станет прибыльным в этом году, а его выручка превысит $1 млрд благодаря монетизации, включая рекламу и подписки.\nПримечание: дата публикации статьи 2024/12/23.",
     "caption_entities": [
       {
@@ -2937,5 +2872,71 @@
     },
     "date": 1763041414,
     "message_id": 1464
+  },
+  {
+    "caption": "✈️ Следственные органы Франции полностью сняли запрет на выезд из страны для CEO Telegram Павла Дурова, а также отменили требование регулярно отмечаться в местной полиции, согласно решению от 10 ноября.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 5,
+        "offset": 41,
+        "type": "text_link",
+        "url": "https://www.bloomberg.com/news/articles/2025-11-13/telegram-ceo-s-french-travel-ban-fully-lifted-by-investigators"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1763042523,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 60,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFt2kV3NQrPmlqIKMAAfYT7NKMoJ4ekwACCg1rG33TsUjP3-5Kt35VagEAAwIAA3MAAzYE",
+        "file_size": 1142,
+        "file_unique_id": "AQADCg1rG33TsUh4"
+      },
+      {
+        "height": 213,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFt2kV3NQrPmlqIKMAAfYT7NKMoJ4ekwACCg1rG33TsUjP3-5Kt35VagEAAwIAA20AAzYE",
+        "file_size": 10133,
+        "file_unique_id": "AQADCg1rG33TsUhy"
+      },
+      {
+        "height": 533,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFt2kV3NQrPmlqIKMAAfYT7NKMoJ4ekwACCg1rG33TsUjP3-5Kt35VagEAAwIAA3gAAzYE",
+        "file_size": 41367,
+        "file_unique_id": "AQADCg1rG33TsUh9"
+      },
+      {
+        "height": 800,
+        "width": 1200,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFt2kV3NQrPmlqIKMAAfYT7NKMoJ4ekwACCg1rG33TsUjP3-5Kt35VagEAAwIAA3kAAzYE",
+        "file_size": 46028,
+        "file_unique_id": "AQADCg1rG33TsUh-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763040468,
+    "message_id": 1463
   }
 ]
