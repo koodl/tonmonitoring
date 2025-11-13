@@ -1,76 +1,5 @@
 [
   {
-    "caption": "📦🦙 DAOLama начала принимать в залог ончейн-стикеры из восьми коллекций для получения займов в TON.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5449670138292894907",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "custom_emoji_id": "5454408552372268227",
-        "length": 2,
-        "offset": 2,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 6,
-        "offset": 13,
-        "type": "text_link",
-        "url": "https://t.me/daolama/271"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 51,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFkWkM5dGrQTZregjHXiEqxat16_k2AAKgEWsbvXthSJHC0PCivscjAQADAgADcwADNgQ",
-        "file_size": 1187,
-        "file_unique_id": "AQADoBFrG717YUh4"
-      },
-      {
-        "height": 180,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFkWkM5dGrQTZregjHXiEqxat16_k2AAKgEWsbvXthSJHC0PCivscjAQADAgADbQADNgQ",
-        "file_size": 14418,
-        "file_unique_id": "AQADoBFrG717YUhy"
-      },
-      {
-        "height": 450,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFkWkM5dGrQTZregjHXiEqxat16_k2AAKgEWsbvXthSJHC0PCivscjAQADAgADeAADNgQ",
-        "file_size": 55825,
-        "file_unique_id": "AQADoBFrG717YUh9"
-      },
-      {
-        "height": 720,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFkWkM5dGrQTZregjHXiEqxat16_k2AAKgEWsbvXthSJHC0PCivscjAQADAgADeQADNgQ",
-        "file_size": 68373,
-        "file_unique_id": "AQADoBFrG717YUh-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762452945,
-    "message_id": 1425
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -3155,5 +3084,70 @@
     },
     "date": 1762971350,
     "message_id": 1457
+  },
+  {
+    "caption": "💎 Coinbase добавила TON в дорожную карту листинга новых активов.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 12,
+        "type": "text_link",
+        "url": "https://www.coinbase.com/ru/blog/increasing-transparency-for-new-asset-listings-on-coinbase"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 82,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFsmkVSuPHX_hQ3KIt94Y6Ukgb57cxAAImC2sb-ZawSJdCZRETmRJSAQADAgADcwADNgQ",
+        "file_size": 1748,
+        "file_unique_id": "AQADJgtrG_mWsEh4"
+      },
+      {
+        "height": 292,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFsmkVSuPHX_hQ3KIt94Y6Ukgb57cxAAImC2sb-ZawSJdCZRETmRJSAQADAgADbQADNgQ",
+        "file_size": 21455,
+        "file_unique_id": "AQADJgtrG_mWsEhy"
+      },
+      {
+        "height": 731,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFsmkVSuPHX_hQ3KIt94Y6Ukgb57cxAAImC2sb-ZawSJdCZRETmRJSAQADAgADeAADNgQ",
+        "file_size": 81284,
+        "file_unique_id": "AQADJgtrG_mWsEh9"
+      },
+      {
+        "height": 1084,
+        "width": 1186,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFsmkVSuPHX_hQ3KIt94Y6Ukgb57cxAAImC2sb-ZawSJdCZRETmRJSAQADAgADeQADNgQ",
+        "file_size": 101185,
+        "file_unique_id": "AQADJgtrG_mWsEh-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763003107,
+    "message_id": 1458
   }
 ]
