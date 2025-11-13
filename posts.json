@@ -1,71 +1,5 @@
 [
   {
-    "caption": "⚡️ Торговый объем на платформе Storm Trade за октябрь достиг $432 млн.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440700872189306557",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 6,
-        "offset": 54,
-        "type": "text_link",
-        "url": "https://t.me/storm_trade_news_ru/1028"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1762455733,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 51,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFjmkMxoQEVPxRRaEKRibnzGjuIvR_AAKXEGsbvXthSJr7V-pab-7PAQADAgADcwADNgQ",
-        "file_size": 1179,
-        "file_unique_id": "AQADlxBrG717YUh4"
-      },
-      {
-        "height": 180,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFjmkMxoQEVPxRRaEKRibnzGjuIvR_AAKXEGsbvXthSJr7V-pab-7PAQADAgADbQADNgQ",
-        "file_size": 14473,
-        "file_unique_id": "AQADlxBrG717YUhy"
-      },
-      {
-        "height": 450,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFjmkMxoQEVPxRRaEKRibnzGjuIvR_AAKXEGsbvXthSJr7V-pab-7PAQADAgADeAADNgQ",
-        "file_size": 53461,
-        "file_unique_id": "AQADlxBrG717YUh9"
-      },
-      {
-        "height": 720,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFjmkMxoQEVPxRRaEKRibnzGjuIvR_AAKXEGsbvXthSJr7V-pab-7PAQADAgADeQADNgQ",
-        "file_size": 71359,
-        "file_unique_id": "AQADlxBrG717YUh-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762444932,
-    "message_id": 1422
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -3132,6 +3066,45 @@
     "group_chat_created": false,
     "link_preview_options": {
       "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 Автор Telegram-канала «ᴋᴜᴅʀʏᴀ ᴨишᴇᴛ…» опубликовал разбор проблем экосистемы TON, указав на падение TVL до $102 млн, отток разработчиков и невыполненные обещания со стороны TON Foundation.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763026631,
+    "message_id": 1459
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1763026875,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 11,
+        "offset": 41,
+        "type": "text_link",
+        "url": "https://t.me/kudrya_write/798"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "url": "https://t.me/kudrya_write/798"
     },
     "sender_chat": {
       "id": -1002662123418,
