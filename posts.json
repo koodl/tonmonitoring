@@ -1,43 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 11,
-        "offset": 54,
-        "type": "text_link",
-        "url": "https://t.me/tonstatus/184"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 Валидаторы основной сети TON 12 ноября в 10:00 UTC проголосуют за три обновления сети, которые включают запуск крупного регулируемого стейблкоина, активацию TVM 12 и повышение безопасности BTC Teleport.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762510211,
-    "message_id": 1427
-  },
-  {
     "caption": "За неполный месяц с момента запуска аренды общий оборот на платформах Marketapp и Major достиг 47 750 TON, а количество сделок составило 33 718, при среднесуточном показателе в 1 000 операций.",
     "caption_entities": [
       {
@@ -3105,6 +3067,45 @@
     "group_chat_created": false,
     "link_preview_options": {
       "url": "https://t.me/kudrya_write/798"
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 Автор Telegram-канала «ᴋᴜᴅʀʏᴀ ᴨишᴇᴛ…» опубликовал разбор проблем экосистемы TON, указав на падение TVL до $102 млн, отток разработчиков и невыполненные обещания со стороны TON Foundation.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763026631,
+    "message_id": 1459
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1763026881,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 11,
+        "offset": 41,
+        "type": "text_link",
+        "url": "https://t.me/kudrya_write/798"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
     },
     "sender_chat": {
       "id": -1002662123418,
