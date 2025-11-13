@@ -1,69 +1,5 @@
 [
   {
-    "caption": "🪙 Закончился обратный отсчет на сайте tonmemerepublic.com.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5197450760815668186",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 19,
-        "offset": 39,
-        "type": "url"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 51,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFl2kN-2BBoHcI-zNP-LmXm3j0P0p6AAK9DWsb1iBxSOP48kvLPl8AAQEAAwIAA3MAAzYE",
-        "file_size": 1486,
-        "file_unique_id": "AQADvQ1rG9YgcUh4"
-      },
-      {
-        "height": 182,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFl2kN-2BBoHcI-zNP-LmXm3j0P0p6AAK9DWsb1iBxSOP48kvLPl8AAQEAAwIAA20AAzYE",
-        "file_size": 23317,
-        "file_unique_id": "AQADvQ1rG9YgcUhy"
-      },
-      {
-        "height": 454,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFl2kN-2BBoHcI-zNP-LmXm3j0P0p6AAK9DWsb1iBxSOP48kvLPl8AAQEAAwIAA3gAAzYE",
-        "file_size": 104924,
-        "file_unique_id": "AQADvQ1rG9YgcUh9"
-      },
-      {
-        "height": 726,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFl2kN-2BBoHcI-zNP-LmXm3j0P0p6AAK9DWsb1iBxSOP48kvLPl8AAQEAAwIAA3kAAzYE",
-        "file_size": 150079,
-        "file_unique_id": "AQADvQ1rG9YgcUh-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762524000,
-    "message_id": 1431
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2909,5 +2845,70 @@
     },
     "date": 1763026631,
     "message_id": 1459
+  },
+  {
+    "caption": "✈️ Telegram оспаривает в Федеральном суде Австралии закон о онлайн-безопасности 2021 года, который требует верификации возраста пользователей.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 10,
+        "offset": 12,
+        "type": "text_link",
+        "url": "https://www.techradar.com/vpn/vpn-privacy-security/telegram-sues-australia-over-age-verification-law-heres-what-we-know"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 51,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFtmkV1iFvveHFaQep83dco_sw3OabAALQDGsbfdOxSCh47dKC9ePcAQADAgADcwADNgQ",
+        "file_size": 1093,
+        "file_unique_id": "AQAD0AxrG33TsUh4"
+      },
+      {
+        "height": 180,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFtmkV1iFvveHFaQep83dco_sw3OabAALQDGsbfdOxSCh47dKC9ePcAQADAgADbQADNgQ",
+        "file_size": 10786,
+        "file_unique_id": "AQAD0AxrG33TsUhy"
+      },
+      {
+        "height": 675,
+        "width": 1200,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFtmkV1iFvveHFaQep83dco_sw3OabAALQDGsbfdOxSCh47dKC9ePcAQADAgADeQADNgQ",
+        "file_size": 36722,
+        "file_unique_id": "AQAD0AxrG33TsUh-"
+      },
+      {
+        "height": 450,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFtmkV1iFvveHFaQep83dco_sw3OabAALQDGsbfdOxSCh47dKC9ePcAQADAgADeAADNgQ",
+        "file_size": 37160,
+        "file_unique_id": "AQAD0AxrG33TsUh9"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763038753,
+    "message_id": 1462
   }
 ]
