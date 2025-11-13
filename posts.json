@@ -1,43 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5461068994381381031",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 6,
-        "offset": 12,
-        "type": "text_link",
-        "url": "https://www.forbes.com/sites/digital-assets/2025/11/07/the-next-paypal-how-ai-and-blockchain-are-rewriting-digital-payments/"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🍬 Forbes в статье о будущем цифровых платежей привел в пример экосистему TON, отметив мини-приложение Goodies, которое объединяет в себе коллекционирование, бренды и платежи для создания «первой в мире экономики, встроенной в чат».",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762571247,
-    "message_id": 1433
-  },
-  {
     "caption": "✈️ The New York Times сообщает, что Telegram впервые станет прибыльным в этом году, а его выручка превысит $1 млрд благодаря монетизации, включая рекламу и подписки.",
     "caption_entities": [
       {
@@ -2937,5 +2899,43 @@
     },
     "date": 1763040468,
     "message_id": 1463
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5314597028901190799",
+        "length": 3,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 38,
+        "type": "text_link",
+        "url": "https://www.marketwatch.com/press-release/alphaton-capital-and-singularitynet-join-forces-to-accelerate-telegram-s-cocoon-ai-growing-the-ethical-decentralized-ai-ecosystem-627d1f57?mod=search_headline"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🅰️ AlphaTON Capital и SingularityNET заключили партнерство для ускорения развития ИИ Cocoon для Telegram.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763041414,
+    "message_id": 1464
   }
 ]
