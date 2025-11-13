@@ -1,64 +1,5 @@
 [
   {
-    "caption": "За неполный месяц с момента запуска аренды общий оборот на платформах Marketapp и Major достиг 47 750 TON, а количество сделок составило 33 718, при среднесуточном показателе в 1 000 операций.",
-    "caption_entities": [
-      {
-        "length": 6,
-        "offset": 88,
-        "type": "text_link",
-        "url": "https://giftstat.com/"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 36,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFlGkN3kFXLrsnnhSQzoUAAS6EA2NFEQACjwxrG9YgcUiyXE00AAEc6_UBAAMCAANzAAM2BA",
-        "file_size": 758,
-        "file_unique_id": "AQADjwxrG9YgcUh4"
-      },
-      {
-        "height": 127,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFlGkN3kFXLrsnnhSQzoUAAS6EA2NFEQACjwxrG9YgcUiyXE00AAEc6_UBAAMCAANtAAM2BA",
-        "file_size": 8849,
-        "file_unique_id": "AQADjwxrG9YgcUhy"
-      },
-      {
-        "height": 317,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFlGkN3kFXLrsnnhSQzoUAAS6EA2NFEQACjwxrG9YgcUiyXE00AAEc6_UBAAMCAAN4AAM2BA",
-        "file_size": 34503,
-        "file_unique_id": "AQADjwxrG9YgcUh9"
-      },
-      {
-        "height": 507,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFlGkN3kFXLrsnnhSQzoUAAS6EA2NFEQACjwxrG9YgcUiyXE00AAEc6_UBAAMCAAN5AAM2BA",
-        "file_size": 47135,
-        "file_unique_id": "AQADjwxrG9YgcUh-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762516545,
-    "message_id": 1428
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -3123,5 +3064,63 @@
     },
     "date": 1763026631,
     "message_id": 1459
+  },
+  {
+    "caption": "💎 На CoinTelegraph вышла статья «DeFi внутри Telegram: как экосистема TON превращает мессенджер в Web3-платформу»",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 6,
+        "offset": 26,
+        "type": "text_link",
+        "url": "https://ru.cointelegraph.com/news/defi-vnutri-telegram-kak-ekosistema-ton-prevrasaet-messendzer-v-web3-platformu"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 60,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFtGkVqRbvRH_xeYlX0AO7elMo8f-4AAKeDWsb-ZawSNmoX6swUZhIAQADAgADcwADNgQ",
+        "file_size": 1590,
+        "file_unique_id": "AQADng1rG_mWsEh4"
+      },
+      {
+        "height": 213,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFtGkVqRbvRH_xeYlX0AO7elMo8f-4AAKeDWsb-ZawSNmoX6swUZhIAQADAgADbQADNgQ",
+        "file_size": 26447,
+        "file_unique_id": "AQADng1rG_mWsEhy"
+      },
+      {
+        "height": 319,
+        "width": 480,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFtGkVqRbvRH_xeYlX0AO7elMo8f-4AAKeDWsb-ZawSNmoX6swUZhIAQADAgADeAADNgQ",
+        "file_size": 32842,
+        "file_unique_id": "AQADng1rG_mWsEh9"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763027222,
+    "message_id": 1460
   }
 ]
