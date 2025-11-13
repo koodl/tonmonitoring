@@ -2,44 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 18,
-        "type": "text_link",
-        "url": "https://t.me/semenchuk/42974"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 Слава Семенчук сообщил о проблеме с выводом TON с внутреннего маркета Telegram, если баланс пополнялся через Fragment, на что разработчики ответили, что так и было задумано.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762614606,
-    "message_id": 1437
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1762614651,
     "entities": [
       {
@@ -2912,5 +2874,43 @@
     },
     "date": 1763038753,
     "message_id": 1462
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440704428422229664",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 11,
+        "offset": 13,
+        "type": "text_link",
+        "url": "https://t.me/cryptowallet_news_cis/584"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "👛 «Кошелёк» интегрирует ИИ-помощника в бот поддержки для мгновенного решения вопросов и разгрузки операторов.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763052116,
+    "message_id": 1466
   }
 ]
