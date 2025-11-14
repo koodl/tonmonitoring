@@ -2,56 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5265112348451960063",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 12,
-        "offset": 11,
-        "type": "text_link",
-        "url": "https://t.me/tonmonitoring/1398"
-      },
-      {
-        "custom_emoji_id": "5440764055453200867",
-        "length": 2,
-        "offset": 42,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 45,
-        "type": "text_link",
-        "url": "https://t.me/tonmonitoring/8"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "url": "https://t.me/tonmonitoring/1398"
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🗞 Новости 45ой недели.\n\nСпонсоры недели:\n⭐️ Донатеры\nСпасибо за вашу поддержку!",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762677251,
-    "message_id": 1439
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1762677259,
     "entities": [
       {
@@ -2905,5 +2855,71 @@
     },
     "date": 1763111999,
     "message_id": 1469
+  },
+  {
+    "caption": "📦 Запущена платформа Stickerhead, на которой пользователи могут создавать, покупать, продавать и обменивать стикеры в виде токенизированных коллекционных предметов.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5449670138292894907",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 12,
+        "offset": 22,
+        "type": "text_link",
+        "url": "https://t.me/stickerhead_bot/app?startapp=ref_JM"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1763112287,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 30,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFu2kWNV4cPr2PHbd5NL4sktxIdDEfAAJmEGsbfdOxSBPd29sR_PsdAQADAgADcwADNgQ",
+        "file_size": 951,
+        "file_unique_id": "AQADZhBrG33TsUh4"
+      },
+      {
+        "height": 106,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFu2kWNV4cPr2PHbd5NL4sktxIdDEfAAJmEGsbfdOxSBPd29sR_PsdAQADAgADbQADNgQ",
+        "file_size": 10343,
+        "file_unique_id": "AQADZhBrG33TsUhy"
+      },
+      {
+        "height": 266,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFu2kWNV4cPr2PHbd5NL4sktxIdDEfAAJmEGsbfdOxSBPd29sR_PsdAQADAgADeAADNgQ",
+        "file_size": 40968,
+        "file_unique_id": "AQADZhBrG33TsUh9"
+      },
+      {
+        "height": 426,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFu2kWNV4cPr2PHbd5NL4sktxIdDEfAAJmEGsbfdOxSBPd29sR_PsdAQADAgADeQADNgQ",
+        "file_size": 52591,
+        "file_unique_id": "AQADZhBrG33TsUh-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763063134,
+    "message_id": 1467
   }
 ]
