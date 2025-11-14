@@ -2,37 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "entities": [
-      {
-        "length": 31,
-        "offset": 0,
-        "type": "url"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "url": "https://t.me/tonmonitoring/1442"
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "https://t.me/tonmonitoring/1442\n\nЖдем реакцию Дурова )",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762790095,
-    "message_id": 1443
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1762795262,
     "entities": [
       {
@@ -2608,5 +2577,70 @@
     },
     "date": 1763143020,
     "message_id": 1473
+  },
+  {
+    "caption": "🦴👛 По информации из чата холдеров DOGS, проект планирует коллаборацию с производителем аппаратных кошельков Ledger.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5442695223073344113",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "custom_emoji_id": "5440555191193596932",
+        "length": 2,
+        "offset": 2,
+        "type": "custom_emoji"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 56,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFwmkXfojKbX2bXLGAuBpMpILGM3z1AALHEmsbfdO5SG1U4DK9bQzIAQADAgADcwADNgQ",
+        "file_size": 1171,
+        "file_unique_id": "AQADxxJrG33TuUh4"
+      },
+      {
+        "height": 199,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFwmkXfojKbX2bXLGAuBpMpILGM3z1AALHEmsbfdO5SG1U4DK9bQzIAQADAgADbQADNgQ",
+        "file_size": 10217,
+        "file_unique_id": "AQADxxJrG33TuUhy"
+      },
+      {
+        "height": 498,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFwmkXfojKbX2bXLGAuBpMpILGM3z1AALHEmsbfdO5SG1U4DK9bQzIAQADAgADeAADNgQ",
+        "file_size": 35378,
+        "file_unique_id": "AQADxxJrG33TuUh9"
+      },
+      {
+        "height": 797,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFwmkXfojKbX2bXLGAuBpMpILGM3z1AALHEmsbfdO5SG1U4DK9bQzIAQADAgADeQADNgQ",
+        "file_size": 45184,
+        "file_unique_id": "AQADxxJrG33TuUh-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763147400,
+    "message_id": 1474
   }
 ]
