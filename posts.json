@@ -4,44 +4,6 @@
     "delete_chat_photo": false,
     "entities": [
       {
-        "custom_emoji_id": "5206336451150637102",
-        "length": 4,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 22,
-        "type": "text_link",
-        "url": "https://menafn.com/1110318924/EU-Intends-to-Launch-Central-Disinformation-Hub"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🇪🇺 Европейский союз намерен создать централизованный центр для мониторинга и борьбы с предполагаемой иностранной «дезинформацией», что, по мнению критиков, может привести к созданию общеконтинентального механизма цензуры под контролем Брюсселя.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762789889,
-    "message_id": 1442
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
         "length": 31,
         "offset": 0,
         "type": "url"
@@ -2550,6 +2512,87 @@
         "file_unique_id": "AQADUBJrG33TuUh9"
       }
     ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763143020,
+    "message_id": 1473
+  },
+  {
+    "animation": {
+      "file_name": "azuki-game.mp4",
+      "height": 700,
+      "mime_type": "video/mp4",
+      "width": 700,
+      "thumbnail": {
+        "height": 320,
+        "width": 320,
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgXBaRdw7khyEgExx2_6-XhYUY1xoogAAsmJAAJ907lIW064QeovM-oBAAdtAAM2BA",
+        "file_size": 19101,
+        "file_unique_id": "AQADyYkAAn3TuUhy"
+      },
+      "file_id": "CgACAgIAAyEFAASerMeaAAIFwWkXcO5IchIBMcdv-vl4WFGNcaKIAALJiQACfdO5SFtOuEHqLzPqNgQ",
+      "file_size": 224481,
+      "file_unique_id": "AgADyYkAAn3TuUg",
+      "duration": 3,
+      "thumb": {
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgXBaRdw7khyEgExx2_6-XhYUY1xoogAAsmJAAJ907lIW064QeovM-oBAAdtAAM2BA",
+        "file_unique_id": "AQADyYkAAn3TuUhy",
+        "file_size": 19101,
+        "width": 320,
+        "height": 320
+      }
+    },
+    "caption": "⚔️ GAMEE в партнерстве с Azuki запустили игру Azuki Alley Escape в раннем доступе в Telegram, а полный релиз состоится 20 ноября.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5350765824674136498",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 18,
+        "offset": 46,
+        "type": "text_link",
+        "url": "https://t.me/azukiEscapeBot/start?startapp=eyJyZWYiOjY1OTc3MzAzOH0"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "document": {
+      "file_name": "azuki-game.mp4",
+      "mime_type": "video/mp4",
+      "thumbnail": {
+        "height": 320,
+        "width": 320,
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgXBaRdw7khyEgExx2_6-XhYUY1xoogAAsmJAAJ907lIW064QeovM-oBAAdtAAM2BA",
+        "file_size": 19101,
+        "file_unique_id": "AQADyYkAAn3TuUhy"
+      },
+      "file_id": "CgACAgIAAyEFAASerMeaAAIFwWkXcO5IchIBMcdv-vl4WFGNcaKIAALJiQACfdO5SFtOuEHqLzPqNgQ",
+      "file_size": 224481,
+      "file_unique_id": "AgADyYkAAn3TuUg",
+      "thumb": {
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgXBaRdw7khyEgExx2_6-XhYUY1xoogAAsmJAAJ907lIW064QeovM-oBAAdtAAM2BA",
+        "file_unique_id": "AQADyYkAAn3TuUhy",
+        "file_size": 19101,
+        "width": 320,
+        "height": 320
+      }
+    },
+    "edit_date": 1763143918,
+    "group_chat_created": false,
     "sender_chat": {
       "id": -1002662123418,
       "title": "TON Monitoring",
