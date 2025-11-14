@@ -1,76 +1,5 @@
 [
   {
-    "caption": "⭐️🖼 Пользователи Fragment в 2025 году приобрели 24,04 млрд звезд на сумму около $360,6 млн.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440764055453200867",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "custom_emoji_id": "5440627174845473301",
-        "length": 2,
-        "offset": 2,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 39,
-        "type": "text_link",
-        "url": "https://t.me/gamearea/57"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFoWkR9wzWbmF9BjG3hllRnhgngL5aAAJbEGsbYSuJSJBoFxefLZWaAQADAgADcwADNgQ",
-        "file_size": 2379,
-        "file_unique_id": "AQADWxBrG2EriUh4"
-      },
-      {
-        "height": 320,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFoWkR9wzWbmF9BjG3hllRnhgngL5aAAJbEGsbYSuJSJBoFxefLZWaAQADAgADbQADNgQ",
-        "file_size": 28433,
-        "file_unique_id": "AQADWxBrG2EriUhy"
-      },
-      {
-        "height": 800,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFoWkR9wzWbmF9BjG3hllRnhgngL5aAAJbEGsbYSuJSJBoFxefLZWaAQADAgADeAADNgQ",
-        "file_size": 96176,
-        "file_unique_id": "AQADWxBrG2EriUh9"
-      },
-      {
-        "height": 1280,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFoWkR9wzWbmF9BjG3hllRnhgngL5aAAJbEGsbYSuJSJBoFxefLZWaAQADAgADeQADNgQ",
-        "file_size": 117027,
-        "file_unique_id": "AQADWxBrG2EriUh-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762785036,
-    "message_id": 1441
-  },
-  {
     "caption": "⭐️🖼 Пользователи Fragment в 2025 году приобрели 24,04 млрд звезд на сумму около $360,6 млн.\nПомесячная статистика:\n • Январь — 988 383 494 ⭐️ ≈ $14 825 752\n • Февраль — 6 648 176 143 ⭐️ ≈ $99 722 642\n • Март — 5 519 676 672 ⭐️ ≈ $82 795 150\n • Апрель — 3 934 180 934 ⭐️ ≈ $59 012 714\n • Май — 582 455 173 ⭐️ ≈ $8 736 828\n • Июнь — 1 512 350 276 ⭐️ ≈ $22 685 254\n • Июль — 1 204 454 905 ⭐️ ≈ $18 066 824\n • Август — 1 543 838 461 ⭐️ ≈ $23 157 577\n • Сентябрь — 724 985 981 ⭐️ ≈ $10 874 789\n • Октябрь — 1 288 233 502 ⭐️ ≈ $19 323 503\n • Ноябрь — 97 436 765 ⭐️ ≈ $1 461 551",
     "caption_entities": [
       {
@@ -2886,5 +2815,44 @@
     },
     "date": 1763136377,
     "message_id": 1471
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1763138906,
+    "entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 139,
+        "type": "text_link",
+        "url": "https://t.me/tass_agency/348481"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "✈️ Telegram не будет включен в «белый список», используемый при ограничении мобильного интернета, так как является иностранной платформой, сообщил ТАСС со ссылкой на заявление Немкина.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763136120,
+    "message_id": 1470
   }
 ]
