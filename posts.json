@@ -1,50 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1762614657,
-    "entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 2,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 20,
-        "type": "text_link",
-        "url": "https://t.me/semenchuk/42974"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "✈️💎 Слава Семенчук сообщил о проблеме с выводом TON с внутреннего маркета Telegram, если баланс пополнялся через Fragment, на что разработчики ответили, что так и было задумано.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762614606,
-    "message_id": 1437
-  },
-  {
     "caption": "✈️ WhatsApp начал тестировать в Евросоюзе функцию обмена сообщениями со сторонними мессенджерами, такими как Telegram и Signal, для соблюдения закона о цифровых рынках (DMA).",
     "caption_entities": [
       {
@@ -2932,5 +2887,43 @@
     },
     "date": 1763063134,
     "message_id": 1467
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 12,
+        "offset": 12,
+        "type": "text_link",
+        "url": "https://t.me/bbbreaking/219327"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "✈️ Telegram заблокировал 13 ноября 519 645 групп и каналов, что стало максимальным показателем с 5 февраля.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763110326,
+    "message_id": 1468
   }
 ]
