@@ -1,63 +1,5 @@
 [
   {
-    "caption": "✈️ WhatsApp начал тестировать в Евросоюзе функцию обмена сообщениями со сторонними мессенджерами, такими как Telegram и Signal, для соблюдения закона о цифровых рынках (DMA).",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 5,
-        "offset": 12,
-        "type": "text_link",
-        "url": "https://eastleighvoice.co.ke/technology/237937/whatsapp-to-enable-messaging-across-apps-like-telegram-and-signal"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 51,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFnmkQUZlRn-uoNdELZrCN-luqI2OCAAJJDWsbMW-BSPMHuPAw808XAQADAgADcwADNgQ",
-        "file_size": 1340,
-        "file_unique_id": "AQADSQ1rGzFvgUh4"
-      },
-      {
-        "height": 180,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFnmkQUZlRn-uoNdELZrCN-luqI2OCAAJJDWsbMW-BSPMHuPAw808XAQADAgADbQADNgQ",
-        "file_size": 14267,
-        "file_unique_id": "AQADSQ1rGzFvgUhy"
-      },
-      {
-        "height": 450,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFnmkQUZlRn-uoNdELZrCN-luqI2OCAAJJDWsbMW-BSPMHuPAw808XAQADAgADeAADNgQ",
-        "file_size": 32857,
-        "file_unique_id": "AQADSQ1rGzFvgUh9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762677145,
-    "message_id": 1438
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2925,5 +2867,43 @@
     },
     "date": 1763110326,
     "message_id": 1468
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 5,
+        "offset": 3,
+        "type": "text_link",
+        "url": "https://t.me/tolk_lang/25"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 Вышла версия Tolk v1.2 с поддержкой TVM 12, в которой адрес стал доступен только для внутренних контрактов, реализованы богатые bounced сообщения с передачей полного тела, добавлены анонимные функции и инструменты для более дешёвой работы со slice и адресами, а также представлен новый borrow checker для предотвращения неопределённого поведения.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763111999,
+    "message_id": 1469
   }
 ]
