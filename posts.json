@@ -2,45 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "edit_date": 1762795262,
-    "entities": [
-      {
-        "custom_emoji_id": "5206336451150637102",
-        "length": 4,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 22,
-        "type": "text_link",
-        "url": "https://menafn.com/1110318924/EU-Intends-to-Launch-Central-Disinformation-Hub"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "url": "https://menafn.com/1110318924/EU-Intends-to-Launch-Central-Disinformation-Hub"
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🇪🇺 Европейский союз намерен создать централизованный хаб для мониторинга и борьбы с предполагаемой иностранной «дезинформацией», что, по мнению критиков, может привести к созданию общеконтинентального механизма цензуры под контролем Брюсселя.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762789889,
-    "message_id": 1442
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1762795270,
     "entities": [
       {
@@ -2642,5 +2603,43 @@
     },
     "date": 1763147400,
     "message_id": 1474
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 43,
+        "type": "text_link",
+        "url": "https://t.me/telelakel/709"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "✈️ В обновлении Telegram до версии v12.2.0 появилась функция прямых трансляций в Stories с возможностью донатов, а также аукционы для покупки подарков.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763148882,
+    "message_id": 1475
   }
 ]
