@@ -1,65 +1,5 @@
 [
   {
-    "caption": "💎 Сооснователь NFT-маркетплейса GetGems Vanya дал интервью для «Чеснока» и считает, что для увеличения числа владельцев подарков до 100 млн человек необходимо продолжать их выпуск, придерживаясь стратегии разнообразия.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5442796949373740481",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 51,
-        "type": "text_link",
-        "url": "https://t.me/chesnok/521"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1762812760,
-    "group_chat_created": false,
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "video": {
-      "file_name": "IMG_5249.MP4",
-      "height": 848,
-      "mime_type": "video/mp4",
-      "width": 848,
-      "thumbnail": {
-        "height": 320,
-        "width": 320,
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgWkaRJb4Eu5ErFNCKMmxh3h_B2amSwAAi-IAAJhK5FIjeukgZRAtN0BAAdtAAM2BA",
-        "file_size": 24986,
-        "file_unique_id": "AQADL4gAAmErkUhy"
-      },
-      "file_id": "BAACAgIAAyEFAASerMeaAAIFpGkSW-BLuRKxTQijJsYd4fwdmpksAAIviAACYSuRSI3rpIGUQLTdNgQ",
-      "file_size": 1237618,
-      "file_unique_id": "AgADL4gAAmErkUg",
-      "duration": 6,
-      "thumb": {
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgWkaRJb4Eu5ErFNCKMmxh3h_B2amSwAAi-IAAJhK5FIjeukgZRAtN0BAAdtAAM2BA",
-        "file_unique_id": "AQADL4gAAmErkUhy",
-        "file_size": 24986,
-        "width": 320,
-        "height": 320
-      }
-    },
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762810849,
-    "message_id": 1444
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2651,5 +2591,60 @@
     },
     "date": 1763201912,
     "message_id": 1476
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5255854911517654002",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 6,
+        "offset": 34,
+        "type": "text_link",
+        "url": "https://t.me/palacenftbot/app?startapp=nryXMO5bNI"
+      },
+      {
+        "length": 8,
+        "offset": 41,
+        "type": "text_link",
+        "url": "https://t.me/StickersBelievers/419"
+      },
+      {
+        "length": 9,
+        "offset": 106,
+        "type": "mention"
+      },
+      {
+        "length": 7,
+        "offset": 172,
+        "type": "text_link",
+        "url": "https://t.me/palacenftbot/app?startapp=nryXMO5bNI"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🏰 Сообщества Sticker Believers и Palace проведут 15 ноября в 20:00 мск совместную АМА-сессию со спикером @niumicto, посвященную будущему NFT-стикеров и обновлению проекта Palace.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763215425,
+    "message_id": 1477
   }
 ]
