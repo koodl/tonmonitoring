@@ -2,44 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 46,
-        "type": "text_link",
-        "url": "https://skyeng.ru/it-industry/analytics/skolko-polzovateley-v-telegram-v-2025-godu/"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "✈️ Рост аудитории Telegram в западных странах ускорился: к 2025 году в Европе насчитывается 360 миллионов пользователей, а в Северной Америке — 70 миллионов, из которых 65 миллионов приходится на США.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762816406,
-    "message_id": 1447
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1762824008,
     "entities": [
       {
@@ -2672,5 +2634,43 @@
     },
     "date": 1763201912,
     "message_id": 1476
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440479333481217835",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 11,
+        "offset": 15,
+        "type": "text_link",
+        "url": "https://t.me/durov/457"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "✈️ Павел Дуров анонсировал начало тестирования в Telegram прямых трансляций в Stories и аукционов для подарков, первым из которых станет эксклюзивный 🎁 Telegram Plane.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763223111,
+    "message_id": 1479
   }
 ]
