@@ -10,44 +10,6 @@
         "type": "custom_emoji"
       },
       {
-        "length": 5,
-        "offset": 44,
-        "type": "text_link",
-        "url": "https://skyeng.ru/it-industry/analytics/skolko-polzovateley-v-telegram-v-2025-godu/"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "✈️ Более 65% компаний из списка Fortune 500 имеют официальное присутствие в Telegram.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762816106,
-    "message_id": 1445
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
         "length": 10,
         "offset": 12,
         "type": "text_link",
@@ -2646,5 +2608,42 @@
     },
     "date": 1763215425,
     "message_id": 1477
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 39,
+        "offset": 82,
+        "type": "url"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 Ровно 6 лет назад, 15 ноября 2019 года, был добыт генезис-блок блокчейна TON.\n\ntonscan.org/block/-1:8000000000000000:1",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763221914,
+    "message_id": 1478
   }
 ]
