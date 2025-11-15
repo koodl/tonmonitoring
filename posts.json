@@ -12,65 +12,6 @@
         "length": 8,
         "offset": 51,
         "type": "text_link",
-        "url": "https://t.me/chesnok/521?comment=155168"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "video": {
-      "file_name": "IMG_5249.MP4",
-      "height": 848,
-      "mime_type": "video/mp4",
-      "width": 848,
-      "thumbnail": {
-        "height": 320,
-        "width": 320,
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgWkaRJb4Eu5ErFNCKMmxh3h_B2amSwAAi-IAAJhK5FIjeukgZRAtN0BAAdtAAM2BA",
-        "file_size": 24986,
-        "file_unique_id": "AQADL4gAAmErkUhy"
-      },
-      "file_id": "BAACAgIAAyEFAASerMeaAAIFpGkSW-BLuRKxTQijJsYd4fwdmpksAAIviAACYSuRSI3rpIGUQLTdNgQ",
-      "file_size": 1237618,
-      "file_unique_id": "AgADL4gAAmErkUg",
-      "duration": 6,
-      "thumb": {
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgWkaRJb4Eu5ErFNCKMmxh3h_B2amSwAAi-IAAJhK5FIjeukgZRAtN0BAAdtAAM2BA",
-        "file_unique_id": "AQADL4gAAmErkUhy",
-        "file_size": 24986,
-        "width": 320,
-        "height": 320
-      }
-    },
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762810849,
-    "message_id": 1444
-  },
-  {
-    "caption": "💎 Сооснователь NFT-маркетплейса GetGems Vanya дал интервью для «Чеснока» и считает, что для увеличения числа владельцев подарков до 100 млн человек необходимо продолжать их выпуск.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5442796949373740481",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 51,
-        "type": "text_link",
         "url": "https://t.me/chesnok/521"
       }
     ],
@@ -2641,5 +2582,69 @@
     },
     "date": 1763148882,
     "message_id": 1475
+  },
+  {
+    "caption": "💎 CMO TON Foundation Герардо выступит на Crypto Content Creator Campus с прямой трансляцией в канале @tonwalll.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 102,
+        "type": "mention"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 49,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFxGkYU3j7dVYcw96xuIeuShfBBQJXAAIRDmsbG9fBSIHqsJG3B98gAQADAgADcwADNgQ",
+        "file_size": 1080,
+        "file_unique_id": "AQADEQ5rGxvXwUh4"
+      },
+      {
+        "height": 173,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFxGkYU3j7dVYcw96xuIeuShfBBQJXAAIRDmsbG9fBSIHqsJG3B98gAQADAgADbQADNgQ",
+        "file_size": 11583,
+        "file_unique_id": "AQADEQ5rGxvXwUhy"
+      },
+      {
+        "height": 433,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFxGkYU3j7dVYcw96xuIeuShfBBQJXAAIRDmsbG9fBSIHqsJG3B98gAQADAgADeAADNgQ",
+        "file_size": 39275,
+        "file_unique_id": "AQADEQ5rGxvXwUh9"
+      },
+      {
+        "height": 633,
+        "width": 1170,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFxGkYU3j7dVYcw96xuIeuShfBBQJXAAIRDmsbG9fBSIHqsJG3B98gAQADAgADeQADNgQ",
+        "file_size": 41453,
+        "file_unique_id": "AQADEQ5rGxvXwUh-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763201912,
+    "message_id": 1476
   }
 ]
