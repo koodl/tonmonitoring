@@ -1,48 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 3,
-        "type": "url"
-      },
-      {
-        "length": 8,
-        "offset": 11,
-        "type": "text_link",
-        "url": "https://t.me/tonlow/1398"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 Max.ton запустил публичный трейдинг-челлендж «100 иксов на TON», в рамках которого он намерен превратить 1000 TON в 100 000 TON.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762943362,
-    "message_id": 1450
-  },
-  {
     "caption": "💎 По данным CryptoDiffer, The Open Network (TON) занял седьмое место по росту объема торгов на Perp DEX за последние 30 дней, показав увеличение на 59,3% и достигнув $445 млн.",
     "caption_entities": [
       {
@@ -2632,5 +2589,70 @@
     },
     "date": 1763231158,
     "message_id": 1481
+  },
+  {
+    "caption": "🎁 Канадский бизнесмен Джейсон Фалович потратил 18 миллионов рублей на телеграм-подарок в ходе первого аукциона на платформе.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440615647153256792",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 39,
+        "type": "text_link",
+        "url": "https://t.me/exploitex/29427"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 84,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFymkY0iJ_TZn56BsUyvL_LqfSSKSDAAJXDWsbG9fJSFsVZ5N64_pQAQADAgADcwADNgQ",
+        "file_size": 1663,
+        "file_unique_id": "AQADVw1rGxvXyUh4"
+      },
+      {
+        "height": 298,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFymkY0iJ_TZn56BsUyvL_LqfSSKSDAAJXDWsbG9fJSFsVZ5N64_pQAQADAgADbQADNgQ",
+        "file_size": 17893,
+        "file_unique_id": "AQADVw1rGxvXyUhy"
+      },
+      {
+        "height": 976,
+        "width": 1050,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFymkY0iJ_TZn56BsUyvL_LqfSSKSDAAJXDWsbG9fJSFsVZ5N64_pQAQADAgADeQADNgQ",
+        "file_size": 55307,
+        "file_unique_id": "AQADVw1rGxvXyUh-"
+      },
+      {
+        "height": 744,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFymkY0iJ_TZn56BsUyvL_LqfSSKSDAAJXDWsbG9fJSFsVZ5N64_pQAQADAgADeAADNgQ",
+        "file_size": 57938,
+        "file_unique_id": "AQADVw1rGxvXyUh9"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763234338,
+    "message_id": 1482
   }
 ]
