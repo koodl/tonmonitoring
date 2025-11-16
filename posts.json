@@ -1,64 +1,5 @@
 [
   {
-    "caption": "Правительство Таджикистана запустило национальный мессенджер ORIZ для конкуренции с WhatsApp и Telegram.",
-    "caption_entities": [
-      {
-        "length": 9,
-        "offset": 27,
-        "type": "text_link",
-        "url": "https://oriz.tj/"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFrGkUgXApNmcqqvAcbzZlm3emPvZWAAKpDmsb-ZaoSGU3JmIISvdfAQADAgADcwADNgQ",
-        "file_size": 1727,
-        "file_unique_id": "AQADqQ5rG_mWqEh4"
-      },
-      {
-        "height": 320,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFrGkUgXApNmcqqvAcbzZlm3emPvZWAAKpDmsb-ZaoSGU3JmIISvdfAQADAgADbQADNgQ",
-        "file_size": 12370,
-        "file_unique_id": "AQADqQ5rG_mWqEhy"
-      },
-      {
-        "height": 1024,
-        "width": 1024,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFrGkUgXApNmcqqvAcbzZlm3emPvZWAAKpDmsb-ZaoSGU3JmIISvdfAQADAgADeQADNgQ",
-        "file_size": 30335,
-        "file_unique_id": "AQADqQ5rG_mWqEh-"
-      },
-      {
-        "height": 800,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFrGkUgXApNmcqqvAcbzZlm3emPvZWAAKpDmsb-ZaoSGU3JmIISvdfAQADAgADeAADNgQ",
-        "file_size": 34011,
-        "file_unique_id": "AQADqQ5rG_mWqEh9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762951536,
-    "message_id": 1452
-  },
-  {
     "caption": "📈 Совокупный объем торгов xStocks на CEX и DEX превысил $10 млрд менее чем за 6 месяцев с момента запуска.",
     "caption_entities": [
       {
@@ -2647,5 +2588,55 @@
     },
     "date": 1763247277,
     "message_id": 1483
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5265112348451960063",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 12,
+        "offset": 11,
+        "type": "text_link",
+        "url": "https://t.me/tonmonitoring/1438"
+      },
+      {
+        "custom_emoji_id": "5440764055453200867",
+        "length": 2,
+        "offset": 42,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 45,
+        "type": "text_link",
+        "url": "https://t.me/tonmonitoring/8"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🗞 Новости 46ой недели.\n\nСпонсоры недели:\n⭐️ Донатеры\nСпасибо за вашу поддержку!",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763282926,
+    "message_id": 1484
   }
 ]
