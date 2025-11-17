@@ -1,71 +1,5 @@
 [
   {
-    "caption": "📈 Совокупный объем торгов xStocks на CEX и DEX превысил $10 млрд менее чем за 6 месяцев с момента запуска.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5190741704071743060",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 48,
-        "type": "text_link",
-        "url": "https://x.com/xstocksfi/status/1988594280454295841?s=46"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1762953156,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 72,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFrWkUh4-_3j12FRT701-FQCqYjb0lAALRDmsb-ZaoSNEud7w_adXwAQADAgADcwADNgQ",
-        "file_size": 1593,
-        "file_unique_id": "AQAD0Q5rG_mWqEh4"
-      },
-      {
-        "height": 320,
-        "width": 256,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFrWkUh4-_3j12FRT701-FQCqYjb0lAALRDmsb-ZaoSNEud7w_adXwAQADAgADbQADNgQ",
-        "file_size": 18460,
-        "file_unique_id": "AQAD0Q5rG_mWqEhy"
-      },
-      {
-        "height": 800,
-        "width": 640,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFrWkUh4-_3j12FRT701-FQCqYjb0lAALRDmsb-ZaoSNEud7w_adXwAQADAgADeAADNgQ",
-        "file_size": 69283,
-        "file_unique_id": "AQAD0Q5rG_mWqEh9"
-      },
-      {
-        "height": 1280,
-        "width": 1024,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFrWkUh4-_3j12FRT701-FQCqYjb0lAALRDmsb-ZaoSNEud7w_adXwAQADAgADeQADNgQ",
-        "file_size": 86879,
-        "file_unique_id": "AQAD0Q5rG_mWqEh-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762953103,
-    "message_id": 1453
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2632,5 +2566,70 @@
     },
     "date": 1763317129,
     "message_id": 1486
+  },
+  {
+    "caption": "💎 В США открылся TON Hub, который займется популяризацией блокчейн-функций Telegram.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 9,
+        "type": "text_link",
+        "url": "https://x.com/tonushub/status/1990404772860453113?s=46"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFz2kbIOFlUqKihREv9pm05PFSVeBNAALdD2sbLUbZSLxxFmvVeqB_AQADAgADcwADNgQ",
+        "file_size": 1392,
+        "file_unique_id": "AQAD3Q9rGy1G2Uh4"
+      },
+      {
+        "height": 320,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFz2kbIOFlUqKihREv9pm05PFSVeBNAALdD2sbLUbZSLxxFmvVeqB_AQADAgADbQADNgQ",
+        "file_size": 16828,
+        "file_unique_id": "AQAD3Q9rGy1G2Uhy"
+      },
+      {
+        "height": 800,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFz2kbIOFlUqKihREv9pm05PFSVeBNAALdD2sbLUbZSLxxFmvVeqB_AQADAgADeAADNgQ",
+        "file_size": 100670,
+        "file_unique_id": "AQAD3Q9rGy1G2Uh9"
+      },
+      {
+        "height": 1280,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIFz2kbIOFlUqKihREv9pm05PFSVeBNAALdD2sbLUbZSLxxFmvVeqB_AQADAgADeQADNgQ",
+        "file_size": 148342,
+        "file_unique_id": "AQAD3Q9rGy1G2Uh-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763385569,
+    "message_id": 1487
   }
 ]
