@@ -1,70 +1,5 @@
 [
   {
-    "caption": "💎 US Hub Manager TON Foundation Angela Brasington 19 ноября выступит на мероприятии Startup Palacio в Аргентине, где расскажет, как привлечь следующий миллиард пользователей.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 61,
-        "type": "text_link",
-        "url": "https://x.com/supermooncamp/status/1988386013048090806?s=46"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFr2kUnInlnmS1aUe6cFzrCrP6WCqeAAKrD2sb-ZaoSKr2T6qCjHjjAQADAgADcwADNgQ",
-        "file_size": 1858,
-        "file_unique_id": "AQADqw9rG_mWqEh4"
-      },
-      {
-        "height": 320,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFr2kUnInlnmS1aUe6cFzrCrP6WCqeAAKrD2sb-ZaoSKr2T6qCjHjjAQADAgADbQADNgQ",
-        "file_size": 26373,
-        "file_unique_id": "AQADqw9rG_mWqEhy"
-      },
-      {
-        "height": 800,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFr2kUnInlnmS1aUe6cFzrCrP6WCqeAAKrD2sb-ZaoSKr2T6qCjHjjAQADAgADeAADNgQ",
-        "file_size": 114963,
-        "file_unique_id": "AQADqw9rG_mWqEh9"
-      },
-      {
-        "height": 1080,
-        "width": 1080,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFr2kUnInlnmS1aUe6cFzrCrP6WCqeAAKrD2sb-ZaoSKr2T6qCjHjjAQADAgADeQADNgQ",
-        "file_size": 119037,
-        "file_unique_id": "AQADqw9rG_mWqEh-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762958473,
-    "message_id": 1455
-  },
-  {
     "caption": "🪙 Появился сайт для отслеживания позиций мемкоинов в лидерборде Meme Republic.\nИзображение: https://x.com/martinfromton/status/1988660211796889991?s=46",
     "caption_entities": [
       {
@@ -2612,6 +2547,72 @@
     ],
     "channel_chat_created": false,
     "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF0GkbIbCoRw3eoLcxoYY1wFtKCyTNAALgD2sbLUbZSPhL_EUMdYSQAQADAgADcwADNgQ",
+        "file_size": 2599,
+        "file_unique_id": "AQAD4A9rGy1G2Uh4"
+      },
+      {
+        "height": 320,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF0GkbIbCoRw3eoLcxoYY1wFtKCyTNAALgD2sbLUbZSPhL_EUMdYSQAQADAgADbQADNgQ",
+        "file_size": 41882,
+        "file_unique_id": "AQAD4A9rGy1G2Uhy"
+      },
+      {
+        "height": 800,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF0GkbIbCoRw3eoLcxoYY1wFtKCyTNAALgD2sbLUbZSPhL_EUMdYSQAQADAgADeAADNgQ",
+        "file_size": 164955,
+        "file_unique_id": "AQAD4A9rGy1G2Uh9"
+      },
+      {
+        "height": 1280,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF0GkbIbCoRw3eoLcxoYY1wFtKCyTNAALgD2sbLUbZSPhL_EUMdYSQAQADAgADeQADNgQ",
+        "file_size": 212000,
+        "file_unique_id": "AQAD4A9rGy1G2Uh-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763385776,
+    "message_id": 1488
+  },
+  {
+    "caption": "🪙 Мемкоин UTYA стал победителем первой недели конкурса Meme Republic и получил $100 000, а организаторы обновили оценочную формулу, добавив в нее метрики роста цены и количества активных кошельков.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5197450760815668186",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 4,
+        "offset": 16,
+        "type": "text_link",
+        "url": "https://t.me/TONMemeRepublic/183"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1763385837,
     "group_chat_created": false,
     "photo": [
       {
