@@ -1,76 +1,5 @@
 [
   {
-    "caption": "🪙 Появился сайт для отслеживания позиций мемкоинов в лидерборде Meme Republic.\nИзображение: https://x.com/martinfromton/status/1988660211796889991?s=46",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5197450760815668186",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 4,
-        "offset": 12,
-        "type": "text_link",
-        "url": "https://memerepublic.ffmemes.com/leaderboard"
-      },
-      {
-        "length": 59,
-        "offset": 93,
-        "type": "url"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1762969228,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 47,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFsGkUxihm9zwDcZda-vuR7SINETw5AAJLEWsb-ZaoSHB7QggfTsYoAQADAgADcwADNgQ",
-        "file_size": 1096,
-        "file_unique_id": "AQADSxFrG_mWqEh4"
-      },
-      {
-        "height": 168,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFsGkUxihm9zwDcZda-vuR7SINETw5AAJLEWsb-ZaoSHB7QggfTsYoAQADAgADbQADNgQ",
-        "file_size": 13159,
-        "file_unique_id": "AQADSxFrG_mWqEhy"
-      },
-      {
-        "height": 421,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFsGkUxihm9zwDcZda-vuR7SINETw5AAJLEWsb-ZaoSHB7QggfTsYoAQADAgADeAADNgQ",
-        "file_size": 45999,
-        "file_unique_id": "AQADSxFrG_mWqEh9"
-      },
-      {
-        "height": 674,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFsGkUxihm9zwDcZda-vuR7SINETw5AAJLEWsb-ZaoSHB7QggfTsYoAQADAgADeQADNgQ",
-        "file_size": 55957,
-        "file_unique_id": "AQADSxFrG_mWqEh-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762969128,
-    "message_id": 1456
-  },
-  {
     "caption": "🦴 Команда DOGS сегодня запускает тестовую версию чата для держателей токенов $DOGS с ранним альфа-доступом, прямым общением с командой и привилегиями.",
     "caption_entities": [
       {
@@ -2659,5 +2588,70 @@
     },
     "date": 1763404111,
     "message_id": 1489
+  },
+  {
+    "caption": "💎 Криптовалютная биржа Coinbase 18 ноября 2025 года запустит спотовую торговлю парой TON-USD.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 53,
+        "type": "text_link",
+        "url": "https://x.com/coinbasemarkets/status/1990503887820787844?s=12"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 51,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF0mkbeiUWyLcvd-2ppiiQEGE0Ru6qAAJ5DWsbLUbhSE8p0jBHA6fyAQADAgADcwADNgQ",
+        "file_size": 1009,
+        "file_unique_id": "AQADeQ1rGy1G4Uh4"
+      },
+      {
+        "height": 180,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF0mkbeiUWyLcvd-2ppiiQEGE0Ru6qAAJ5DWsbLUbhSE8p0jBHA6fyAQADAgADbQADNgQ",
+        "file_size": 8648,
+        "file_unique_id": "AQADeQ1rGy1G4Uhy"
+      },
+      {
+        "height": 450,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF0mkbeiUWyLcvd-2ppiiQEGE0Ru6qAAJ5DWsbLUbhSE8p0jBHA6fyAQADAgADeAADNgQ",
+        "file_size": 30115,
+        "file_unique_id": "AQADeQ1rGy1G4Uh9"
+      },
+      {
+        "height": 628,
+        "width": 1116,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF0mkbeiUWyLcvd-2ppiiQEGE0Ru6qAAJ5DWsbLUbhSE8p0jBHA6fyAQADAgADeQADNgQ",
+        "file_size": 31628,
+        "file_unique_id": "AQADeQ1rGy1G4Uh-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763408421,
+    "message_id": 1490
   }
 ]
