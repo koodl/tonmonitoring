@@ -1,43 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5238004177031953682",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 10,
-        "offset": 14,
-        "type": "text_link",
-        "url": "https://www.sec.gov/Archives/edgar/data/1566610/000149315225021741/form10-q.htm"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 Финансовые показатели TON Strategy:\n\nВыручка: За III квартал 2025 года — $3,61 млн (из них $707 тыс. — вознаграждения от стейкинга TON). За 9 месяцев — $7,04 млн.\n\nЧистая прибыль: За III квартал — $84,3 млн.\n\nБаланс: К 30 сентября 2025 года — $661,9 млн активов; $587,8 тыс. — цифровые активы (TON и USDT); $525 млн — TON в статусе “ограниченный актив”.\n\nАкции: На 5 ноября 2025 года — 59 090 521 акций в обращении.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762954179,
-    "message_id": 1454
-  },
-  {
     "caption": "💎 US Hub Manager TON Foundation Angela Brasington 19 ноября выступит на мероприятии Startup Palacio в Аргентине, где расскажет, как привлечь следующий миллиард пользователей.",
     "caption_entities": [
       {
@@ -2631,5 +2593,70 @@
     },
     "date": 1763385569,
     "message_id": 1487
+  },
+  {
+    "caption": "🪙 Мемкоин UTYA стал победителем первой недели конкурса и получил $100 000, а организаторы обновили оценочную формулу, добавив в нее метрики роста цены и количества активных кошельков.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5197450760815668186",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 4,
+        "offset": 16,
+        "type": "text_link",
+        "url": "https://t.me/TONMemeRepublic/183"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF0GkbIbCoRw3eoLcxoYY1wFtKCyTNAALgD2sbLUbZSPhL_EUMdYSQAQADAgADcwADNgQ",
+        "file_size": 2599,
+        "file_unique_id": "AQAD4A9rGy1G2Uh4"
+      },
+      {
+        "height": 320,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF0GkbIbCoRw3eoLcxoYY1wFtKCyTNAALgD2sbLUbZSPhL_EUMdYSQAQADAgADbQADNgQ",
+        "file_size": 41882,
+        "file_unique_id": "AQAD4A9rGy1G2Uhy"
+      },
+      {
+        "height": 800,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF0GkbIbCoRw3eoLcxoYY1wFtKCyTNAALgD2sbLUbZSPhL_EUMdYSQAQADAgADeAADNgQ",
+        "file_size": 164955,
+        "file_unique_id": "AQAD4A9rGy1G2Uh9"
+      },
+      {
+        "height": 1280,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF0GkbIbCoRw3eoLcxoYY1wFtKCyTNAALgD2sbLUbZSPhL_EUMdYSQAQADAgADeQADNgQ",
+        "file_size": 212000,
+        "file_unique_id": "AQAD4A9rGy1G2Uh-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763385776,
+    "message_id": 1488
   }
 ]
