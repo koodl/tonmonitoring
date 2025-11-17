@@ -12,76 +12,6 @@
         "length": 4,
         "offset": 12,
         "type": "text_link",
-        "url": "https://x.com/martinfromton/status/1988660211796889991?s=12"
-      },
-      {
-        "length": 59,
-        "offset": 93,
-        "type": "url"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 47,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFsGkUxihm9zwDcZda-vuR7SINETw5AAJLEWsb-ZaoSHB7QggfTsYoAQADAgADcwADNgQ",
-        "file_size": 1096,
-        "file_unique_id": "AQADSxFrG_mWqEh4"
-      },
-      {
-        "height": 168,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFsGkUxihm9zwDcZda-vuR7SINETw5AAJLEWsb-ZaoSHB7QggfTsYoAQADAgADbQADNgQ",
-        "file_size": 13159,
-        "file_unique_id": "AQADSxFrG_mWqEhy"
-      },
-      {
-        "height": 421,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFsGkUxihm9zwDcZda-vuR7SINETw5AAJLEWsb-ZaoSHB7QggfTsYoAQADAgADeAADNgQ",
-        "file_size": 45999,
-        "file_unique_id": "AQADSxFrG_mWqEh9"
-      },
-      {
-        "height": 674,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFsGkUxihm9zwDcZda-vuR7SINETw5AAJLEWsb-ZaoSHB7QggfTsYoAQADAgADeQADNgQ",
-        "file_size": 55957,
-        "file_unique_id": "AQADSxFrG_mWqEh-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762969128,
-    "message_id": 1456
-  },
-  {
-    "caption": "🪙 Появился сайт для отслеживания позиций мемкоинов в лидерборде Meme Republic.\nИзображение: https://x.com/martinfromton/status/1988660211796889991?s=46",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5197450760815668186",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 4,
-        "offset": 12,
-        "type": "text_link",
         "url": "https://memerepublic.ffmemes.com/leaderboard"
       },
       {
@@ -2659,5 +2589,75 @@
     },
     "date": 1763385776,
     "message_id": 1488
+  },
+  {
+    "caption": "🅰️ Публичная компания AlphaTON Capital (NASDAQ: ATON) первой запустила институциональный стейкинг 4 млн TON в партнерстве с валидатором P2P.org и кастодианом BitGo.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5314597028901190799",
+        "length": 3,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 62,
+        "type": "text_link",
+        "url": "https://x.com/alphatoncapital/status/1990485373919580571?s=46"
+      },
+      {
+        "length": 7,
+        "offset": 137,
+        "type": "url"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 49,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF0WkbaU_HX_nWUSM7AAH6NeZ_LoC1dAACDw1rGy1G4Ui-qi94wj4HVAEAAwIAA3MAAzYE",
+        "file_size": 1328,
+        "file_unique_id": "AQADDw1rGy1G4Uh4"
+      },
+      {
+        "height": 173,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF0WkbaU_HX_nWUSM7AAH6NeZ_LoC1dAACDw1rGy1G4Ui-qi94wj4HVAEAAwIAA20AAzYE",
+        "file_size": 14951,
+        "file_unique_id": "AQADDw1rGy1G4Uhy"
+      },
+      {
+        "height": 432,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF0WkbaU_HX_nWUSM7AAH6NeZ_LoC1dAACDw1rGy1G4Ui-qi94wj4HVAEAAwIAA3gAAzYE",
+        "file_size": 53255,
+        "file_unique_id": "AQADDw1rGy1G4Uh9"
+      },
+      {
+        "height": 632,
+        "width": 1170,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF0WkbaU_HX_nWUSM7AAH6NeZ_LoC1dAACDw1rGy1G4Ui-qi94wj4HVAEAAwIAA3kAAzYE",
+        "file_size": 56562,
+        "file_unique_id": "AQADDw1rGy1G4Uh-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763404111,
+    "message_id": 1489
   }
 ]
