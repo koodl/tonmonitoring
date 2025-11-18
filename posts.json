@@ -9,70 +9,6 @@
         "type": "custom_emoji"
       },
       {
-        "length": 5,
-        "offset": 78,
-        "type": "cashtag"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFsWkUztYBGPn4ZIN3QyzJbav3uhpoAAK4EWsb-ZaoSG9K3jaCORuGAQADAgADcwADNgQ",
-        "file_size": 1949,
-        "file_unique_id": "AQADuBFrG_mWqEh4"
-      },
-      {
-        "height": 320,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFsWkUztYBGPn4ZIN3QyzJbav3uhpoAAK4EWsb-ZaoSG9K3jaCORuGAQADAgADbQADNgQ",
-        "file_size": 21970,
-        "file_unique_id": "AQADuBFrG_mWqEhy"
-      },
-      {
-        "height": 800,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFsWkUztYBGPn4ZIN3QyzJbav3uhpoAAK4EWsb-ZaoSG9K3jaCORuGAQADAgADeAADNgQ",
-        "file_size": 73069,
-        "file_unique_id": "AQADuBFrG_mWqEh9"
-      },
-      {
-        "height": 1280,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFsWkUztYBGPn4ZIN3QyzJbav3uhpoAAK4EWsb-ZaoSG9K3jaCORuGAQADAgADeQADNgQ",
-        "file_size": 88639,
-        "file_unique_id": "AQADuBFrG_mWqEh-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1762971350,
-    "message_id": 1457
-  },
-  {
-    "caption": "🦴 Команда DOGS сегодня запускает тестовую версию чата для держателей токенов $DOGS с ранним альфа-доступом, прямым общением с командой и привилегиями.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5442695223073344113",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
         "length": 4,
         "offset": 50,
         "type": "text_link",
@@ -2653,5 +2589,43 @@
     },
     "date": 1763408421,
     "message_id": 1490
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440627174845473301",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 44,
+        "type": "text_link",
+        "url": "https://t.me/pgrton/1315"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🖼 С начала 2025 года на платформу Fragment поступило 100 млн TON ($178 млн), из которых владельцы Telegram-каналов и ботов вывели 44,27 млн TON ($78,8 млн), а чистое накопление на кошельках платформы составило 55,73 млн TON ($99,2 млн).",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763461065,
+    "message_id": 1491
   }
 ]
