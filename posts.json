@@ -1,63 +1,5 @@
 [
   {
-    "caption": "💎 На CoinTelegraph вышла статья «DeFi внутри Telegram: как экосистема TON превращает мессенджер в Web3-платформу»",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 6,
-        "offset": 26,
-        "type": "text_link",
-        "url": "https://ru.cointelegraph.com/news/defi-vnutri-telegram-kak-ekosistema-ton-prevrasaet-messendzer-v-web3-platformu"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 60,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFtGkVqRbvRH_xeYlX0AO7elMo8f-4AAKeDWsb-ZawSNmoX6swUZhIAQADAgADcwADNgQ",
-        "file_size": 1590,
-        "file_unique_id": "AQADng1rG_mWsEh4"
-      },
-      {
-        "height": 213,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFtGkVqRbvRH_xeYlX0AO7elMo8f-4AAKeDWsb-ZawSNmoX6swUZhIAQADAgADbQADNgQ",
-        "file_size": 26447,
-        "file_unique_id": "AQADng1rG_mWsEhy"
-      },
-      {
-        "height": 319,
-        "width": 480,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFtGkVqRbvRH_xeYlX0AO7elMo8f-4AAKeDWsb-ZawSNmoX6swUZhIAQADAgADeAADNgQ",
-        "file_size": 32842,
-        "file_unique_id": "AQADng1rG_mWsEh9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763027222,
-    "message_id": 1460
-  },
-  {
     "caption": "🧿 Основатель ONTON Махди Фаримани объявил о нехватке средств на продолжение работы проекта и поиске инвесторов, готовых вложить деньги или время в его возобновление в обмен на долю в эквити и токенах ONION.",
     "caption_entities": [
       {
@@ -2638,6 +2580,45 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5314597028901190799",
+        "length": 3,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 5,
+        "offset": 21,
+        "type": "text_link",
+        "url": "https://www.globenewswire.com/news-release/2025/11/19/3191032/0/en/AlphaTON-Capital-Nasdaq-ATON-Issues-Shareholder-Update-on-Balance-Sheet-Assets-and-Strategic-Ecosystem-Expansion.html"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🅰️ AlphaTON Capital имеет на балансе $28,6 млн в цифровых активах (TON и USD1), приобрела дополнительно 1,6 млн TON, разместила 4 млн TON в стейкинге через институциональные контракты и планирует докупить TON на $18,5 млн за счёт линии от ATW Partners.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763564179,
+    "message_id": 1495
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1763567590,
     "entities": [
       {
         "custom_emoji_id": "5314597028901190799",
