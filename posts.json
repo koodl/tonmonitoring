@@ -7,65 +7,6 @@
         "length": 2,
         "offset": 0,
         "type": "custom_emoji"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 85,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFtWkVuzr53uZbc6ZgD-ZIy4Qiw0bIAAImDmsb-ZawSBphWhkBHX0_AQADAgADcwADNgQ",
-        "file_size": 1484,
-        "file_unique_id": "AQADJg5rG_mWsEh4"
-      },
-      {
-        "height": 302,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFtWkVuzr53uZbc6ZgD-ZIy4Qiw0bIAAImDmsb-ZawSBphWhkBHX0_AQADAgADbQADNgQ",
-        "file_size": 26662,
-        "file_unique_id": "AQADJg5rG_mWsEhy"
-      },
-      {
-        "height": 1006,
-        "width": 1068,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFtWkVuzr53uZbc6ZgD-ZIy4Qiw0bIAAImDmsb-ZawSBphWhkBHX0_AQADAgADeQADNgQ",
-        "file_size": 102801,
-        "file_unique_id": "AQADJg5rG_mWsEh-"
-      },
-      {
-        "height": 754,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFtWkVuzr53uZbc6ZgD-ZIy4Qiw0bIAAImDmsb-ZawSBphWhkBHX0_AQADAgADeAADNgQ",
-        "file_size": 108884,
-        "file_unique_id": "AQADJg5rG_mWsEh9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763031866,
-    "message_id": 1461
-  },
-  {
-    "caption": "🧿 Основатель ONTON Махди Фаримани объявил о нехватке средств на продолжение работы проекта и поиске инвесторов, готовых вложить деньги или время в его возобновление в обмен на долю в эквити и токенах ONION.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5447534942546325077",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
       },
       {
         "length": 7,
@@ -2653,5 +2594,76 @@
     },
     "date": 1763564179,
     "message_id": 1495
+  },
+  {
+    "caption": "🧱 Access представил глобальный рейтинг активных чатов с возможностью фильтрации по Asset Value (TVL), сообщив о росте числа сообществ до 600 и увеличении аудитории до 25 тысяч пользователей.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5442689837184345354",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 6,
+        "offset": 3,
+        "type": "text_link",
+        "url": "https://t.me/access_app_bot?startapp"
+      },
+      {
+        "length": 10,
+        "offset": 10,
+        "type": "text_link",
+        "url": "https://t.me/builders/302"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF2Gkd7rIB8jR-T1t6VGVnxHzmSYJIAAKIDmsbGynxSIL0dmHXVgvwAQADAgADcwADNgQ",
+        "file_size": 1446,
+        "file_unique_id": "AQADiA5rGxsp8Uh4"
+      },
+      {
+        "height": 320,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF2Gkd7rIB8jR-T1t6VGVnxHzmSYJIAAKIDmsbGynxSIL0dmHXVgvwAQADAgADbQADNgQ",
+        "file_size": 20514,
+        "file_unique_id": "AQADiA5rGxsp8Uhy"
+      },
+      {
+        "height": 800,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF2Gkd7rIB8jR-T1t6VGVnxHzmSYJIAAKIDmsbGynxSIL0dmHXVgvwAQADAgADeAADNgQ",
+        "file_size": 72773,
+        "file_unique_id": "AQADiA5rGxsp8Uh9"
+      },
+      {
+        "height": 1280,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF2Gkd7rIB8jR-T1t6VGVnxHzmSYJIAAKIDmsbGynxSIL0dmHXVgvwAQADAgADeQADNgQ",
+        "file_size": 80542,
+        "file_unique_id": "AQADiA5rGxsp8Uh-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763569330,
+    "message_id": 1496
   }
 ]
