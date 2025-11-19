@@ -1,70 +1,5 @@
 [
   {
-    "caption": "💎 Coinbase добавила TON в дорожную карту листинга новых активов.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 12,
-        "type": "text_link",
-        "url": "https://www.coinbase.com/ru/blog/increasing-transparency-for-new-asset-listings-on-coinbase"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 82,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFsmkVSuPHX_hQ3KIt94Y6Ukgb57cxAAImC2sb-ZawSJdCZRETmRJSAQADAgADcwADNgQ",
-        "file_size": 1748,
-        "file_unique_id": "AQADJgtrG_mWsEh4"
-      },
-      {
-        "height": 292,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFsmkVSuPHX_hQ3KIt94Y6Ukgb57cxAAImC2sb-ZawSJdCZRETmRJSAQADAgADbQADNgQ",
-        "file_size": 21455,
-        "file_unique_id": "AQADJgtrG_mWsEhy"
-      },
-      {
-        "height": 731,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFsmkVSuPHX_hQ3KIt94Y6Ukgb57cxAAImC2sb-ZawSJdCZRETmRJSAQADAgADeAADNgQ",
-        "file_size": 81284,
-        "file_unique_id": "AQADJgtrG_mWsEh9"
-      },
-      {
-        "height": 1084,
-        "width": 1186,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFsmkVSuPHX_hQ3KIt94Y6Ukgb57cxAAImC2sb-ZawSJdCZRETmRJSAQADAgADeQADNgQ",
-        "file_size": 101185,
-        "file_unique_id": "AQADJgtrG_mWsEh-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763003107,
-    "message_id": 1458
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2615,5 +2550,75 @@
     },
     "date": 1763554152,
     "message_id": 1492
+  },
+  {
+    "caption": "💎 TON номинирован на премию BeInCrypto 100 Awards 2025 в категории «Best Ecosystem Program for Developers».\nПроголосовать можно здесь: awards.beincrypto.com",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 11,
+        "offset": 7,
+        "type": "text_link",
+        "url": "https://t.me/toncoin/2116"
+      },
+      {
+        "length": 21,
+        "offset": 136,
+        "type": "url"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 72,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF1WkdzN3vbUIhLA1ysJIM46LLZHDcAAJVDGsb3N3xSJUn0JaBz_OuAQADAgADcwADNgQ",
+        "file_size": 1453,
+        "file_unique_id": "AQADVQxrG9zd8Uh4"
+      },
+      {
+        "height": 320,
+        "width": 256,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF1WkdzN3vbUIhLA1ysJIM46LLZHDcAAJVDGsb3N3xSJUn0JaBz_OuAQADAgADbQADNgQ",
+        "file_size": 15003,
+        "file_unique_id": "AQADVQxrG9zd8Uhy"
+      },
+      {
+        "height": 800,
+        "width": 640,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF1WkdzN3vbUIhLA1ysJIM46LLZHDcAAJVDGsb3N3xSJUn0JaBz_OuAQADAgADeAADNgQ",
+        "file_size": 53428,
+        "file_unique_id": "AQADVQxrG9zd8Uh9"
+      },
+      {
+        "height": 1280,
+        "width": 1024,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF1WkdzN3vbUIhLA1ysJIM46LLZHDcAAJVDGsb3N3xSJUn0JaBz_OuAQADAgADeQADNgQ",
+        "file_size": 65966,
+        "file_unique_id": "AQADVQxrG9zd8Uh-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763560670,
+    "message_id": 1493
   }
 ]
