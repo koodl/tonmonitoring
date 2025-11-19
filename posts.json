@@ -2,45 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "edit_date": 1763026875,
-    "entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 11,
-        "offset": 41,
-        "type": "text_link",
-        "url": "https://t.me/kudrya_write/798"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "url": "https://t.me/kudrya_write/798"
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 Автор Telegram-канала «ᴋᴜᴅʀʏᴀ ᴨишᴇᴛ…» опубликовал разбор проблем экосистемы TON, указав на падение TVL до $102 млн, отток разработчиков и невыполненные обещания со стороны TON Foundation.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763026631,
-    "message_id": 1459
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1763026881,
     "entities": [
       {
@@ -2642,5 +2603,75 @@
     },
     "date": 1763554152,
     "message_id": 1492
+  },
+  {
+    "caption": "💎 TON Studio представила обновлённую документацию TON, созданную с учётом отзывов сообщества и включающую AI-помощника, оптимизированную навигацию, расширенные руководства, переработанные whitepaper Dr. Durov и новые разделы для разработчиков.\ndocs.ton.org",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 11,
+        "offset": 14,
+        "type": "text_link",
+        "url": "https://t.me/toncoin/2117"
+      },
+      {
+        "length": 12,
+        "offset": 245,
+        "type": "url"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF1mkd2L5853ZwHUkEXS87J-UvTHPmAALxDWsbGynxSHQI8FVijEvyAQADAgADcwADNgQ",
+        "file_size": 1419,
+        "file_unique_id": "AQAD8Q1rGxsp8Uh4"
+      },
+      {
+        "height": 319,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF1mkd2L5853ZwHUkEXS87J-UvTHPmAALxDWsbGynxSHQI8FVijEvyAQADAgADbQADNgQ",
+        "file_size": 14209,
+        "file_unique_id": "AQAD8Q1rGxsp8Uhy"
+      },
+      {
+        "height": 797,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF1mkd2L5853ZwHUkEXS87J-UvTHPmAALxDWsbGynxSHQI8FVijEvyAQADAgADeAADNgQ",
+        "file_size": 50455,
+        "file_unique_id": "AQAD8Q1rGxsp8Uh9"
+      },
+      {
+        "height": 1276,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF1mkd2L5853ZwHUkEXS87J-UvTHPmAALxDWsbGynxSHQI8FVijEvyAQADAgADeQADNgQ",
+        "file_size": 66059,
+        "file_unique_id": "AQAD8Q1rGxsp8Uh-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763563710,
+    "message_id": 1494
   }
 ]
