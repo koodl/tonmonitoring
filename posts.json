@@ -1,44 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1763026881,
-    "entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 11,
-        "offset": 41,
-        "type": "text_link",
-        "url": "https://t.me/kudrya_write/798"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 Автор Telegram-канала «ᴋᴜᴅʀʏᴀ ᴨишᴇᴛ…» опубликовал разбор проблем экосистемы TON, указав на падение TVL до $102 млн, отток разработчиков и невыполненные обещания со стороны TON Foundation.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763026631,
-    "message_id": 1459
-  },
-  {
     "caption": "💎 На CoinTelegraph вышла статья «DeFi внутри Telegram: как экосистема TON превращает мессенджер в Web3-платформу»",
     "caption_entities": [
       {
@@ -2673,5 +2634,43 @@
     },
     "date": 1763563710,
     "message_id": 1494
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5314597028901190799",
+        "length": 3,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 5,
+        "offset": 21,
+        "type": "text_link",
+        "url": "https://www.globenewswire.com/news-release/2025/11/19/3191032/0/en/AlphaTON-Capital-Nasdaq-ATON-Issues-Shareholder-Update-on-Balance-Sheet-Assets-and-Strategic-Ecosystem-Expansion.html"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🅰️ AlphaTON Capital имеет на балансе $28,6 млн в цифровых активах (TON и USD1), приобрела дополнительно 1,6 млн TON, разместила 4 млн TON в стейкинге через институциональные контракты и планирует докупить TON на $18,5 млн за счёт линии от ATW Partners.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763564179,
+    "message_id": 1495
   }
 ]
