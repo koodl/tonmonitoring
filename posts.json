@@ -1,44 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1763138906,
-    "entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 139,
-        "type": "text_link",
-        "url": "https://t.me/tass_agency/348481"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "✈️ Telegram не будет включен в «белый список», используемый при ограничении мобильного интернета, так как является иностранной платформой, сообщил ТАСС со ссылкой на заявление Немкина.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763136120,
-    "message_id": 1470
-  },
-  {
     "caption": "🦴 По информации из чата холдеров DOGS, проект DOGS в сотрудничестве с Tonhub разрабатывает брендированную платежную карту Visa, финальный дизайн которой находится на завершающей стадии.",
     "caption_entities": [
       {
@@ -2867,6 +2828,51 @@
     },
     "supergroup_chat_created": false,
     "text": "🔁 Ton Raffles приостановила работу модуля Taxes Tokens после того, как DeDust в одностороннем порядке отключил создание совместимых пулов ликвидности, нарушив ранее достигнутые соглашения.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763667002,
+    "message_id": 1509
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1763669287,
+    "entities": [
+      {
+        "custom_emoji_id": "5442704457253020400",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 13,
+        "offset": 15,
+        "type": "text_link",
+        "url": "https://t.me/tonraffles_ru/798"
+      },
+      {
+        "length": 5,
+        "offset": 202,
+        "type": "text_link",
+        "url": "https://t.me/TonGentlemens/8968"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🔁 Ton Raffles приостановила работу модуля Taxes Tokens после того, как DeDust в одностороннем порядке отключил создание совместимых пулов ликвидности, нарушив ранее достигнутые соглашения.\nОбновление: ответ фаундера DeDust.",
     "chat": {
       "id": -1002662123418,
       "title": "TON Monitoring",
