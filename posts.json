@@ -2,49 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5442689837184345354",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 30,
-        "type": "mention"
-      },
-      {
-        "length": 5,
-        "offset": 53,
-        "type": "text_link",
-        "url": "https://t.me/builders/301"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🧱 По итогам конкурса идей от @builders победителями стали инструменты для мониторинга цен токенов, рекламный маркетплейс для каналов и конструктор магазинов.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763136377,
-    "message_id": 1471
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1763138906,
     "entities": [
       {
@@ -2880,5 +2837,43 @@
     },
     "date": 1763664617,
     "message_id": 1508
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5442704457253020400",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 13,
+        "offset": 15,
+        "type": "text_link",
+        "url": "https://t.me/tonraffles_ru/798"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🔁 Ton Raffles приостановила работу модуля Taxes Tokens после того, как DeDust в одностороннем порядке отключил создание совместимых пулов ликвидности, нарушив ранее достигнутые соглашения.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763667002,
+    "message_id": 1509
   }
 ]
