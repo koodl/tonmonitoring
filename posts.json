@@ -1,63 +1,5 @@
 [
   {
-    "caption": "⚔️ GAMEE в партнерстве с Azuki запустили игру Azuki Alley Escape в раннем доступе в Telegram, а полный релиз состоится 20 ноября.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5350765824674136498",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 18,
-        "offset": 46,
-        "type": "text_link",
-        "url": "https://t.me/azukiEscapeBot/start?startapp=eyJyZWYiOjY1OTc3MzAzOH0"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFwWkXbWxXPv16nN3EEaWGQIWCMjeQAAJQEmsbfdO5SEn3Tm22EUAPAQADAgADcwADNgQ",
-        "file_size": 1562,
-        "file_unique_id": "AQADUBJrG33TuUh4"
-      },
-      {
-        "height": 320,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFwWkXbWxXPv16nN3EEaWGQIWCMjeQAAJQEmsbfdO5SEn3Tm22EUAPAQADAgADbQADNgQ",
-        "file_size": 20977,
-        "file_unique_id": "AQADUBJrG33TuUhy"
-      },
-      {
-        "height": 700,
-        "width": 700,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFwWkXbWxXPv16nN3EEaWGQIWCMjeQAAJQEmsbfdO5SEn3Tm22EUAPAQADAgADeAADNgQ",
-        "file_size": 55441,
-        "file_unique_id": "AQADUBJrG33TuUh9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763143020,
-    "message_id": 1473
-  },
-  {
     "animation": {
       "file_name": "azuki-game.mp4",
       "height": 700,
@@ -2860,5 +2802,43 @@
     },
     "date": 1763669776,
     "message_id": 1510
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5314597028901190799",
+        "length": 3,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 21,
+        "type": "text_link",
+        "url": "https://x.com/gameetoken/status/1991614314575458320?s=46"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🅰️ AlphaTON Capital увеличит долю в проекте GAMEE до 60%, что должно позволить ей стать первой игровой Web3-компанией с листингом на бирже Nasdaq.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763677559,
+    "message_id": 1511
   }
 ]
