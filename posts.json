@@ -2,44 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 6,
-        "offset": 31,
-        "type": "text_link",
-        "url": "https://t.me/tontech/145"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 В экосистеме TON официально принят стандарт Scaled UI (TEP-526), который унифицирует отображение сумм токенов в кошельках и dApps для поддержки сложных моделей токенов, таких как ребейзинг и начисление доходности, и обеспечения прозрачности балансов.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763045731,
-    "message_id": 1465
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1763045814,
     "entities": [
       {
@@ -2724,5 +2686,75 @@
     },
     "date": 1763637431,
     "message_id": 1500
+  },
+  {
+    "caption": "💎 Martin Masser, глава по росту TON Foundation, заявил в интервью crypto.news, что блокчейн TON уже функционирует как полностью интегрированная экосистема внутри Telegram, предоставляя почти миллиардной аудитории мессенджера доступ к платежам, играм и NFT в один клик без необходимости покидать приложение.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 6,
+        "offset": 49,
+        "type": "text_link",
+        "url": "https://crypto.news/ton-plans-bring-blockchain-to-billion-telegram-users/"
+      },
+      {
+        "length": 11,
+        "offset": 67,
+        "type": "url"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 53,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF3Wke-sJz-1obXuXksPXS5KzyvYzrAALHDWsbGyn5SOj_joupyAxKAQADAgADcwADNgQ",
+        "file_size": 1646,
+        "file_unique_id": "AQADxw1rGxsp-Uh4"
+      },
+      {
+        "height": 190,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF3Wke-sJz-1obXuXksPXS5KzyvYzrAALHDWsbGyn5SOj_joupyAxKAQADAgADbQADNgQ",
+        "file_size": 17556,
+        "file_unique_id": "AQADxw1rGxsp-Uhy"
+      },
+      {
+        "height": 475,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF3Wke-sJz-1obXuXksPXS5KzyvYzrAALHDWsbGyn5SOj_joupyAxKAQADAgADeAADNgQ",
+        "file_size": 63299,
+        "file_unique_id": "AQADxw1rGxsp-Uh9"
+      },
+      {
+        "height": 760,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF3Wke-sJz-1obXuXksPXS5KzyvYzrAALHDWsbGyn5SOj_joupyAxKAQADAgADeQADNgQ",
+        "file_size": 79242,
+        "file_unique_id": "AQADxw1rGxsp-Uh-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763637954,
+    "message_id": 1501
   }
 ]
