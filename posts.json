@@ -1,44 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1763045814,
-    "entities": [
-      {
-        "custom_emoji_id": "5314597028901190799",
-        "length": 3,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 38,
-        "type": "text_link",
-        "url": "https://www.marketwatch.com/press-release/alphaton-capital-and-singularitynet-join-forces-to-accelerate-telegram-s-cocoon-ai-growing-the-ethical-decentralized-ai-ecosystem-627d1f57?mod=search_headline"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🅰️ AlphaTON Capital и SingularityNET заключили партнерство для ускорения развития ИИ Cocoon для Telegram.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763041414,
-    "message_id": 1464
-  },
-  {
     "caption": "✈️ Telegram оспаривает в Федеральном суде Австралии закон о онлайн-безопасности 2021 года, который требует верификации возраста пользователей.",
     "caption_entities": [
       {
@@ -2756,5 +2717,70 @@
     },
     "date": 1763637954,
     "message_id": 1501
+  },
+  {
+    "caption": "💎🔝 Halil Mirakhmed, Chief Strategy Officer в The Open Platform, и Alena S., Director of Ecosystem в TON Foundation, 19 ноября приняли участие в организованном Daos Hub и Gate круглом столе в Дубае, посвященном анализу факторов волатильности криптовалютного рынка.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "custom_emoji_id": "5451930983307703379",
+        "length": 2,
+        "offset": 2,
+        "type": "custom_emoji"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 51,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF3mke_JO4k92v8HA8EhfTaJkuHEFQAALhDWsbGyn5SNHWelzDLXDGAQADAgADcwADNgQ",
+        "file_size": 1461,
+        "file_unique_id": "AQAD4Q1rGxsp-Uh4"
+      },
+      {
+        "height": 180,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF3mke_JO4k92v8HA8EhfTaJkuHEFQAALhDWsbGyn5SNHWelzDLXDGAQADAgADbQADNgQ",
+        "file_size": 19315,
+        "file_unique_id": "AQAD4Q1rGxsp-Uhy"
+      },
+      {
+        "height": 449,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF3mke_JO4k92v8HA8EhfTaJkuHEFQAALhDWsbGyn5SNHWelzDLXDGAQADAgADeAADNgQ",
+        "file_size": 83026,
+        "file_unique_id": "AQAD4Q1rGxsp-Uh9"
+      },
+      {
+        "height": 656,
+        "width": 1170,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF3mke_JO4k92v8HA8EhfTaJkuHEFQAALhDWsbGyn5SNHWelzDLXDGAQADAgADeQADNgQ",
+        "file_size": 94094,
+        "file_unique_id": "AQAD4Q1rGxsp-Uh-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763638419,
+    "message_id": 1502
   }
 ]
