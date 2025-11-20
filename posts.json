@@ -1,70 +1,5 @@
 [
   {
-    "caption": "✈️ Telegram оспаривает в Федеральном суде Австралии закон о онлайн-безопасности 2021 года, который требует верификации возраста пользователей.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 10,
-        "offset": 12,
-        "type": "text_link",
-        "url": "https://www.techradar.com/vpn/vpn-privacy-security/telegram-sues-australia-over-age-verification-law-heres-what-we-know"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 51,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFtmkV1iFvveHFaQep83dco_sw3OabAALQDGsbfdOxSCh47dKC9ePcAQADAgADcwADNgQ",
-        "file_size": 1093,
-        "file_unique_id": "AQAD0AxrG33TsUh4"
-      },
-      {
-        "height": 180,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFtmkV1iFvveHFaQep83dco_sw3OabAALQDGsbfdOxSCh47dKC9ePcAQADAgADbQADNgQ",
-        "file_size": 10786,
-        "file_unique_id": "AQAD0AxrG33TsUhy"
-      },
-      {
-        "height": 675,
-        "width": 1200,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFtmkV1iFvveHFaQep83dco_sw3OabAALQDGsbfdOxSCh47dKC9ePcAQADAgADeQADNgQ",
-        "file_size": 36722,
-        "file_unique_id": "AQAD0AxrG33TsUh-"
-      },
-      {
-        "height": 450,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFtmkV1iFvveHFaQep83dco_sw3OabAALQDGsbfdOxSCh47dKC9ePcAQADAgADeAADNgQ",
-        "file_size": 37160,
-        "file_unique_id": "AQAD0AxrG33TsUh9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763038753,
-    "message_id": 1462
-  },
-  {
     "caption": "✈️ Следственные органы Франции полностью сняли запрет на выезд из страны для CEO Telegram Павла Дурова, а также отменили требование регулярно отмечаться в местной полиции, согласно решению от 10 ноября.",
     "caption_entities": [
       {
@@ -2690,5 +2625,76 @@
     },
     "date": 1763633029,
     "message_id": 1498
+  },
+  {
+    "caption": "👛💵 Fonbnk, TON и Tether заключили партнерство, предоставив пользователям TON Wallet в Африке возможность отправлять, обменивать и тратить USDT с использованием местных платежных методов, включая мобильные деньги и банковские переводы.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440704428422229664",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "custom_emoji_id": "5440588361226023965",
+        "length": 2,
+        "offset": 2,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 26,
+        "type": "text_link",
+        "url": "https://t.me/toncoin/2118"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 80,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF22ke8pHiDE8z8IHt9Hq6GZoNjTH5AAKLDWsbGyn5SBii6T3VfcHdAQADAgADcwADNgQ",
+        "file_size": 905,
+        "file_unique_id": "AQADiw1rGxsp-Uh4"
+      },
+      {
+        "height": 320,
+        "width": 284,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF22ke8pHiDE8z8IHt9Hq6GZoNjTH5AAKLDWsbGyn5SBii6T3VfcHdAQADAgADbQADNgQ",
+        "file_size": 9382,
+        "file_unique_id": "AQADiw1rGxsp-Uhy"
+      },
+      {
+        "height": 901,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF22ke8pHiDE8z8IHt9Hq6GZoNjTH5AAKLDWsbGyn5SBii6T3VfcHdAQADAgADeQADNgQ",
+        "file_size": 27948,
+        "file_unique_id": "AQADiw1rGxsp-Uh-"
+      },
+      {
+        "height": 800,
+        "width": 710,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF22ke8pHiDE8z8IHt9Hq6GZoNjTH5AAKLDWsbGyn5SBii6T3VfcHdAQADAgADeAADNgQ",
+        "file_size": 36429,
+        "file_unique_id": "AQADiw1rGxsp-Uh9"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763635857,
+    "message_id": 1499
   }
 ]
