@@ -1,71 +1,5 @@
 [
   {
-    "caption": "🧿 Основатель ONTON Махди Фаримани объявил о нехватке средств на продолжение работы проекта и поиске инвесторов, готовых вложить деньги или время в его возобновление в обмен на долю в эквити и токенах ONION.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5447534942546325077",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 35,
-        "type": "text_link",
-        "url": "https://t.me/c/2568882918/2441"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1763031885,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 85,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFtWkVuzr53uZbc6ZgD-ZIy4Qiw0bIAAImDmsb-ZawSBphWhkBHX0_AQADAgADcwADNgQ",
-        "file_size": 1484,
-        "file_unique_id": "AQADJg5rG_mWsEh4"
-      },
-      {
-        "height": 302,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFtWkVuzr53uZbc6ZgD-ZIy4Qiw0bIAAImDmsb-ZawSBphWhkBHX0_AQADAgADbQADNgQ",
-        "file_size": 26662,
-        "file_unique_id": "AQADJg5rG_mWsEhy"
-      },
-      {
-        "height": 1006,
-        "width": 1068,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFtWkVuzr53uZbc6ZgD-ZIy4Qiw0bIAAImDmsb-ZawSBphWhkBHX0_AQADAgADeQADNgQ",
-        "file_size": 102801,
-        "file_unique_id": "AQADJg5rG_mWsEh-"
-      },
-      {
-        "height": 754,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFtWkVuzr53uZbc6ZgD-ZIy4Qiw0bIAAImDmsb-ZawSBphWhkBHX0_AQADAgADeAADNgQ",
-        "file_size": 108884,
-        "file_unique_id": "AQADJg5rG_mWsEh9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763031866,
-    "message_id": 1461
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "edit_date": 1763035624,
@@ -2665,5 +2599,70 @@
     },
     "date": 1763569330,
     "message_id": 1496
+  },
+  {
+    "caption": "✈️ Telegram объявил, что все новые лимитированные подарки теперь будут распределяться исключительно через аукционы, где размер ставки участника определяет уникальный порядковый номер получаемого предмета.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 12,
+        "type": "text_link",
+        "url": "https://telegram.org/blog/live-stories-gift-auctions"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 58,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF2WkeaEgBfrYk9ulYxezaCXoPBR4UAAK0EGsbGynxSPh88F_jnkv6AQADAgADcwADNgQ",
+        "file_size": 1947,
+        "file_unique_id": "AQADtBBrGxsp8Uh4"
+      },
+      {
+        "height": 207,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF2WkeaEgBfrYk9ulYxezaCXoPBR4UAAK0EGsbGynxSPh88F_jnkv6AQADAgADbQADNgQ",
+        "file_size": 30079,
+        "file_unique_id": "AQADtBBrGxsp8Uhy"
+      },
+      {
+        "height": 517,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF2WkeaEgBfrYk9ulYxezaCXoPBR4UAAK0EGsbGynxSPh88F_jnkv6AQADAgADeAADNgQ",
+        "file_size": 125256,
+        "file_unique_id": "AQADtBBrGxsp8Uh9"
+      },
+      {
+        "height": 776,
+        "width": 1200,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF2WkeaEgBfrYk9ulYxezaCXoPBR4UAAK0EGsbGynxSPh88F_jnkv6AQADAgADeQADNgQ",
+        "file_size": 145456,
+        "file_unique_id": "AQADtBBrGxsp8Uh-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763600456,
+    "message_id": 1497
   }
 ]
