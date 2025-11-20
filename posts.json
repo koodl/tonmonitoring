@@ -1,43 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 5,
-        "offset": 3,
-        "type": "text_link",
-        "url": "https://t.me/tolk_lang/25"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 Вышла версия Tolk v1.2 с поддержкой TVM 12, в которой адрес стал доступен только для внутренних контрактов, реализованы богатые bounced сообщения с передачей полного тела, добавлены анонимные функции и инструменты для более дешёвой работы со slice и адресами, а также представлен новый borrow checker для предотвращения неопределённого поведения.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763111999,
-    "message_id": 1469
-  },
-  {
     "caption": "📦 Запущена платформа Stickerhead, на которой пользователи могут создавать, покупать, продавать и обменивать стикеры в виде токенизированных коллекционных предметов.",
     "caption_entities": [
       {
@@ -2833,5 +2795,76 @@
     },
     "date": 1763652413,
     "message_id": 1505
+  },
+  {
+    "caption": "⚔ Azuki запустили игру Azuki Alley Escape.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5350765824674136498",
+        "length": 1,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 18,
+        "offset": 23,
+        "type": "text_link",
+        "url": "https://t.me/azukiEscapeBot/start?startapp=eyJyZWYiOjY1OTc3MzAzOH0"
+      },
+      {
+        "length": 1,
+        "offset": 41,
+        "type": "text_link",
+        "url": "https://t.me/azukiEscapeBot/start?startapp=eyJyZWYiOjY1OTc3MzAzOH0"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 42,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF4mkfNibJEWTJeEGXnj6SgsHML5AXAAIuEGsbGyn5SNCvAUIzGc8rAQADAgADcwADNgQ",
+        "file_size": 1274,
+        "file_unique_id": "AQADLhBrGxsp-Uh4"
+      },
+      {
+        "height": 320,
+        "width": 148,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF4mkfNibJEWTJeEGXnj6SgsHML5AXAAIuEGsbGyn5SNCvAUIzGc8rAQADAgADbQADNgQ",
+        "file_size": 17522,
+        "file_unique_id": "AQADLhBrGxsp-Uhy"
+      },
+      {
+        "height": 800,
+        "width": 369,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF4mkfNibJEWTJeEGXnj6SgsHML5AXAAIuEGsbGyn5SNCvAUIzGc8rAQADAgADeAADNgQ",
+        "file_size": 67861,
+        "file_unique_id": "AQADLhBrGxsp-Uh9"
+      },
+      {
+        "height": 1280,
+        "width": 591,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF4mkfNibJEWTJeEGXnj6SgsHML5AXAAIuEGsbGyn5SNCvAUIzGc8rAQADAgADeQADNgQ",
+        "file_size": 86207,
+        "file_unique_id": "AQADLhBrGxsp-Uh-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763653158,
+    "message_id": 1506
   }
 ]
