@@ -1,71 +1,5 @@
 [
   {
-    "caption": "📦 Запущена платформа Stickerhead, на которой пользователи могут создавать, покупать, продавать и обменивать стикеры в виде токенизированных коллекционных предметов.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5449670138292894907",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 12,
-        "offset": 22,
-        "type": "text_link",
-        "url": "https://t.me/stickerhead_bot/app?startapp=ref_JM"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1763112287,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 30,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFu2kWNV4cPr2PHbd5NL4sktxIdDEfAAJmEGsbfdOxSBPd29sR_PsdAQADAgADcwADNgQ",
-        "file_size": 951,
-        "file_unique_id": "AQADZhBrG33TsUh4"
-      },
-      {
-        "height": 106,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFu2kWNV4cPr2PHbd5NL4sktxIdDEfAAJmEGsbfdOxSBPd29sR_PsdAQADAgADbQADNgQ",
-        "file_size": 10343,
-        "file_unique_id": "AQADZhBrG33TsUhy"
-      },
-      {
-        "height": 266,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFu2kWNV4cPr2PHbd5NL4sktxIdDEfAAJmEGsbfdOxSBPd29sR_PsdAQADAgADeAADNgQ",
-        "file_size": 40968,
-        "file_unique_id": "AQADZhBrG33TsUh9"
-      },
-      {
-        "height": 426,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFu2kWNV4cPr2PHbd5NL4sktxIdDEfAAJmEGsbfdOxSBPd29sR_PsdAQADAgADeQADNgQ",
-        "file_size": 52591,
-        "file_unique_id": "AQADZhBrG33TsUh-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763063134,
-    "message_id": 1467
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2866,5 +2800,64 @@
     },
     "date": 1763653158,
     "message_id": 1506
+  },
+  {
+    "caption": "💎 На Seeking Alpha вышел материал, где автор объясняет причины покупки акций TON Strategy.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5238004177031953682",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 26,
+        "type": "text_link",
+        "url": "https://seekingalpha.com/article/4845935-ton-strategy-why-i-bought-shares-despite-being-a-crypto-sceptic"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "video": {
+      "file_name": "IMG_4815.MP4",
+      "height": 448,
+      "mime_type": "video/mp4",
+      "width": 592,
+      "thumbnail": {
+        "height": 242,
+        "width": 320,
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgXjaR9cQglze8nlz0n6igJyIU2OEP4AAouUAAIbKflIu0_rnoisl8gBAAdtAAM2BA",
+        "file_size": 17205,
+        "file_unique_id": "AQADi5QAAhsp-Uhy"
+      },
+      "file_id": "BAACAgIAAyEFAASerMeaAAIF42kfXEIJc3vJ5c9J-ooCciFNjhD-AAKLlAACGyn5SLtP656IrJfINgQ",
+      "file_size": 764156,
+      "file_unique_id": "AgADi5QAAhsp-Ug",
+      "duration": 9,
+      "thumb": {
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgXjaR9cQglze8nlz0n6igJyIU2OEP4AAouUAAIbKflIu0_rnoisl8gBAAdtAAM2BA",
+        "file_unique_id": "AQADi5QAAhsp-Uhy",
+        "file_size": 17205,
+        "width": 320,
+        "height": 242
+      }
+    },
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763662914,
+    "message_id": 1507
   }
 ]
