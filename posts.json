@@ -1,43 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5314597028901190799",
-        "length": 3,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 38,
-        "type": "text_link",
-        "url": "https://www.marketwatch.com/press-release/alphaton-capital-and-singularitynet-join-forces-to-accelerate-telegram-s-cocoon-ai-growing-the-ethical-decentralized-ai-ecosystem-627d1f57?mod=search_headline"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🅰️ AlphaTON Capital и SingularityNET заключили партнерство для ускорения развития ИИ Cocoon для Telegram.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763041414,
-    "message_id": 1464
-  },
-  {
     "caption": "✈️ Следственные органы Франции полностью сняли запрет на выезд из страны для CEO Telegram Павла Дурова, а также отменили требование регулярно отмечаться в местной полиции, согласно решению от 10 ноября.",
     "caption_entities": [
       {
@@ -2697,5 +2659,71 @@
     },
     "date": 1763600456,
     "message_id": 1497
+  },
+  {
+    "caption": "💎 Alena, Director of Ecosystem в TON Foundation, выступит на конференции HSC Asset Management в Абу-Даби 9–10 декабря, посвященной интеграции Web3 и институциональных активов.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 50,
+        "type": "text_link",
+        "url": "https://x.com/mpost_io/status/1991224659384107411?s=46"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1763637228,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 89,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF2mke54X9X_WY9CJ3Nlj_6XfZYbQPAAICDWsbGyn5SCDTLBJ0T7sxAQADAgADcwADNgQ",
+        "file_size": 1634,
+        "file_unique_id": "AQADAg1rGxsp-Uh4"
+      },
+      {
+        "height": 317,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF2mke54X9X_WY9CJ3Nlj_6XfZYbQPAAICDWsbGyn5SCDTLBJ0T7sxAQADAgADbQADNgQ",
+        "file_size": 15916,
+        "file_unique_id": "AQADAg1rGxsp-Uhy"
+      },
+      {
+        "height": 792,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF2mke54X9X_WY9CJ3Nlj_6XfZYbQPAAICDWsbGyn5SCDTLBJ0T7sxAQADAgADeAADNgQ",
+        "file_size": 56095,
+        "file_unique_id": "AQADAg1rGxsp-Uh9"
+      },
+      {
+        "height": 1158,
+        "width": 1170,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF2mke54X9X_WY9CJ3Nlj_6XfZYbQPAAICDWsbGyn5SCDTLBJ0T7sxAQADAgADeQADNgQ",
+        "file_size": 59987,
+        "file_unique_id": "AQADAg1rGxsp-Uh-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763633029,
+    "message_id": 1498
   }
 ]
