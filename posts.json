@@ -16,70 +16,6 @@
     ],
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 49,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFxGkYU3j7dVYcw96xuIeuShfBBQJXAAIRDmsbG9fBSIHqsJG3B98gAQADAgADcwADNgQ",
-        "file_size": 1080,
-        "file_unique_id": "AQADEQ5rGxvXwUh4"
-      },
-      {
-        "height": 173,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFxGkYU3j7dVYcw96xuIeuShfBBQJXAAIRDmsbG9fBSIHqsJG3B98gAQADAgADbQADNgQ",
-        "file_size": 11583,
-        "file_unique_id": "AQADEQ5rGxvXwUhy"
-      },
-      {
-        "height": 433,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFxGkYU3j7dVYcw96xuIeuShfBBQJXAAIRDmsbG9fBSIHqsJG3B98gAQADAgADeAADNgQ",
-        "file_size": 39275,
-        "file_unique_id": "AQADEQ5rGxvXwUh9"
-      },
-      {
-        "height": 633,
-        "width": 1170,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFxGkYU3j7dVYcw96xuIeuShfBBQJXAAIRDmsbG9fBSIHqsJG3B98gAQADAgADeQADNgQ",
-        "file_size": 41453,
-        "file_unique_id": "AQADEQ5rGxvXwUh-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763201912,
-    "message_id": 1476
-  },
-  {
-    "caption": "💎 CMO TON Foundation Герардо выступит на Crypto Content Creator Campus с прямой трансляцией в канале @tonwalll.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 102,
-        "type": "mention"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1763206348,
     "group_chat_created": false,
     "photo": [
@@ -2799,5 +2735,44 @@
     },
     "date": 1763725489,
     "message_id": 1514
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1763731575,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 43,
+        "type": "text_link",
+        "url": "https://t.me/pgrton/1322"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 TVL сети TON впервые с апреля 2024 года опустился ниже $100 млн на фоне минимального роста ончейн-активности пользователей, снижения ликвидности в пулах TON/USDT на 9,1% и притока 0,59 млн TON на централизованные биржи.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763723135,
+    "message_id": 1512
   }
 ]
