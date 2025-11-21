@@ -1,70 +1,5 @@
 [
   {
-    "caption": "💎 CMO TON Foundation Герардо выступит на Crypto Content Creator Campus с прямой трансляцией в канале @tonwalll.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 102,
-        "type": "mention"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1763223059,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 49,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFxGkYU3j7dVYcw96xuIeuShfBBQJXAAIRDmsbG9fBSIHqsJG3B98gAQADAgADcwADNgQ",
-        "file_size": 1080,
-        "file_unique_id": "AQADEQ5rGxvXwUh4"
-      },
-      {
-        "height": 173,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFxGkYU3j7dVYcw96xuIeuShfBBQJXAAIRDmsbG9fBSIHqsJG3B98gAQADAgADbQADNgQ",
-        "file_size": 11583,
-        "file_unique_id": "AQADEQ5rGxvXwUhy"
-      },
-      {
-        "height": 433,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFxGkYU3j7dVYcw96xuIeuShfBBQJXAAIRDmsbG9fBSIHqsJG3B98gAQADAgADeAADNgQ",
-        "file_size": 39275,
-        "file_unique_id": "AQADEQ5rGxvXwUh9"
-      },
-      {
-        "height": 633,
-        "width": 1170,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFxGkYU3j7dVYcw96xuIeuShfBBQJXAAIRDmsbG9fBSIHqsJG3B98gAQADAgADeQADNgQ",
-        "file_size": 41453,
-        "file_unique_id": "AQADEQ5rGxvXwUh-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763201912,
-    "message_id": 1476
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2795,5 +2730,70 @@
     },
     "date": 1763735612,
     "message_id": 1516
+  },
+  {
+    "caption": "🐦 Криптовалютному сервису Whitebird исполнилось 5 лет.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5309889985262939059",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 11,
+        "offset": 37,
+        "type": "text_link",
+        "url": "https://t.me/whitebirdio/911"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 77,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF7Wkgep1V6TR5ajHAcXl4geG4V6t2AAIJEGsbFUQBSWhX6k_BBD5ZAQADAgADcwADNgQ",
+        "file_size": 2090,
+        "file_unique_id": "AQADCRBrGxVEAUl4"
+      },
+      {
+        "height": 320,
+        "width": 274,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF7Wkgep1V6TR5ajHAcXl4geG4V6t2AAIJEGsbFUQBSWhX6k_BBD5ZAQADAgADbQADNgQ",
+        "file_size": 28414,
+        "file_unique_id": "AQADCRBrGxVEAUly"
+      },
+      {
+        "height": 1030,
+        "width": 883,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF7Wkgep1V6TR5ajHAcXl4geG4V6t2AAIJEGsbFUQBSWhX6k_BBD5ZAQADAgADeQADNgQ",
+        "file_size": 105779,
+        "file_unique_id": "AQADCRBrGxVEAUl-"
+      },
+      {
+        "height": 800,
+        "width": 686,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF7Wkgep1V6TR5ajHAcXl4geG4V6t2AAIJEGsbFUQBSWhX6k_BBD5ZAQADAgADeAADNgQ",
+        "file_size": 110425,
+        "file_unique_id": "AQADCRBrGxVEAUl9"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763736221,
+    "message_id": 1517
   }
 ]
