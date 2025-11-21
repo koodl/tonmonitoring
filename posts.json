@@ -2,44 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440479333481217835",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 11,
-        "offset": 15,
-        "type": "text_link",
-        "url": "https://t.me/durov/457"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "✈️ Павел Дуров анонсировал начало тестирования в Telegram прямых трансляций в Stories и аукционов для подарков, первым из которых станет эксклюзивный 🎁 Telegram Plane.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763223111,
-    "message_id": 1479
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1763223118,
     "entities": [
       {
@@ -2795,5 +2757,70 @@
     },
     "date": 1763736221,
     "message_id": 1517
+  },
+  {
+    "caption": "🅰️ Martin Masser опубликовал интервью с CEO AlphaTON Brittany Kaiser, в котором она опровергла слухи о ликвидации активов компании во время снижения рыночных цен. Содержание на русском.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5314597028901190799",
+        "length": 3,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 11,
+        "offset": 18,
+        "type": "text_link",
+        "url": "https://t.me/InvitedByMarTON/90"
+      },
+      {
+        "length": 21,
+        "offset": 164,
+        "type": "text_link",
+        "url": "https://teletype.in/@selfowner/13-yP-ggoON"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "video": {
+      "file_name": "7462595368487525615.mp4",
+      "height": 720,
+      "mime_type": "video/mp4",
+      "width": 1280,
+      "thumbnail": {
+        "height": 180,
+        "width": 320,
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgXuaSCzzAABwlasP_4HKrMqtyLOEI91AAJoiQACFUQJSbCThLV58t0JAQAHbQADNgQ",
+        "file_size": 7408,
+        "file_unique_id": "AQADaIkAAhVECUly"
+      },
+      "file_id": "BAACAgIAAyEFAASerMeaAAIF7mkgs8wAAcJWrD_-ByqzKrcizhCPdQACaIkAAhVECUmwk4S1efLdCTYE",
+      "file_size": 28631595,
+      "file_unique_id": "AgADaIkAAhVECUk",
+      "duration": 83,
+      "thumb": {
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgXuaSCzzAABwlasP_4HKrMqtyLOEI91AAJoiQACFUQJSbCThLV58t0JAQAHbQADNgQ",
+        "file_unique_id": "AQADaIkAAhVECUly",
+        "file_size": 7408,
+        "width": 320,
+        "height": 180
+      }
+    },
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763750860,
+    "message_id": 1518
   }
 ]
