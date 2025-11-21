@@ -4,61 +4,6 @@
     "delete_chat_photo": false,
     "entities": [
       {
-        "custom_emoji_id": "5255854911517654002",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 6,
-        "offset": 34,
-        "type": "text_link",
-        "url": "https://t.me/palacenftbot/app?startapp=nryXMO5bNI"
-      },
-      {
-        "length": 8,
-        "offset": 41,
-        "type": "text_link",
-        "url": "https://t.me/StickersBelievers/419"
-      },
-      {
-        "length": 9,
-        "offset": 106,
-        "type": "mention"
-      },
-      {
-        "length": 7,
-        "offset": 172,
-        "type": "text_link",
-        "url": "https://t.me/palacenftbot/app?startapp=nryXMO5bNI"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🏰 Сообщества Sticker Believers и Palace проведут 15 ноября в 20:00 мск совместную АМА-сессию со спикером @niumicto, посвященную будущему NFT-стикеров и обновлению проекта Palace.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763215425,
-    "message_id": 1477
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
         "custom_emoji_id": "5440671546152610057",
         "length": 2,
         "offset": 0,
@@ -2745,5 +2690,76 @@
     },
     "date": 1763723471,
     "message_id": 1513
+  },
+  {
+    "caption": "💎 CMO TON Foundation Gerardo Carucci выступил на конференции #CCCCLisbon2025 с речью о будущем контента в Web3, призвав создателей не бояться рисковать и использовать личный опыт для построения глобальных брендов.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 38,
+        "type": "text_link",
+        "url": "https://x.com/ccccampus/status/1991506905521615116?s=46"
+      },
+      {
+        "length": 15,
+        "offset": 62,
+        "type": "hashtag"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1763731587,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 60,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF6mkgULGhDgoh45EjEx2tfEU7zmExAAKvDmsbFUQBSXfSOxpWD4g5AQADAgADcwADNgQ",
+        "file_size": 1647,
+        "file_unique_id": "AQADrw5rGxVEAUl4"
+      },
+      {
+        "height": 213,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF6mkgULGhDgoh45EjEx2tfEU7zmExAAKvDmsbFUQBSXfSOxpWD4g5AQADAgADbQADNgQ",
+        "file_size": 17603,
+        "file_unique_id": "AQADrw5rGxVEAUly"
+      },
+      {
+        "height": 533,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF6mkgULGhDgoh45EjEx2tfEU7zmExAAKvDmsbFUQBSXfSOxpWD4g5AQADAgADeAADNgQ",
+        "file_size": 73623,
+        "file_unique_id": "AQADrw5rGxVEAUl9"
+      },
+      {
+        "height": 853,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF6mkgULGhDgoh45EjEx2tfEU7zmExAAKvDmsbFUQBSXfSOxpWD4g5AQADAgADeQADNgQ",
+        "file_size": 99466,
+        "file_unique_id": "AQADrw5rGxVEAUl-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763725489,
+    "message_id": 1514
   }
 ]
