@@ -1,44 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1763195881,
-    "entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 43,
-        "type": "text_link",
-        "url": "https://t.me/telelakel/709"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "✈️ В обновлении Telegram до версии v12.2.0 появилась функция прямых трансляций в Stories с возможностью донатов, а также аукционы для покупки подарков.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763148882,
-    "message_id": 1475
-  },
-  {
     "caption": "💎 CMO TON Foundation Герардо выступит на Crypto Content Creator Campus с прямой трансляцией в канале @tonwalll.",
     "caption_entities": [
       {
@@ -2768,5 +2729,75 @@
     },
     "date": 1763723471,
     "message_id": 1513
+  },
+  {
+    "caption": "💎 CMO TON Foundation Gerardo Carucci выступил на конференции #CCCCLisbon2025 с речью о будущем контента в Web3, призвав создателей не бояться рисковать и использовать личный опыт для построения глобальных брендов.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 38,
+        "type": "text_link",
+        "url": "https://x.com/ccccampus/status/1991506905521615116?s=46"
+      },
+      {
+        "length": 15,
+        "offset": 62,
+        "type": "hashtag"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 60,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF6mkgULGhDgoh45EjEx2tfEU7zmExAAKvDmsbFUQBSXfSOxpWD4g5AQADAgADcwADNgQ",
+        "file_size": 1647,
+        "file_unique_id": "AQADrw5rGxVEAUl4"
+      },
+      {
+        "height": 213,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF6mkgULGhDgoh45EjEx2tfEU7zmExAAKvDmsbFUQBSXfSOxpWD4g5AQADAgADbQADNgQ",
+        "file_size": 17603,
+        "file_unique_id": "AQADrw5rGxVEAUly"
+      },
+      {
+        "height": 533,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF6mkgULGhDgoh45EjEx2tfEU7zmExAAKvDmsbFUQBSXfSOxpWD4g5AQADAgADeAADNgQ",
+        "file_size": 73623,
+        "file_unique_id": "AQADrw5rGxVEAUl9"
+      },
+      {
+        "height": 853,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF6mkgULGhDgoh45EjEx2tfEU7zmExAAKvDmsbFUQBSXfSOxpWD4g5AQADAgADeQADNgQ",
+        "file_size": 99466,
+        "file_unique_id": "AQADrw5rGxVEAUl-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763725489,
+    "message_id": 1514
   }
 ]
