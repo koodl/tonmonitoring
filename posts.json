@@ -2,45 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "edit_date": 1763223118,
-    "entities": [
-      {
-        "custom_emoji_id": "5440479333481217835",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 11,
-        "offset": 15,
-        "type": "text_link",
-        "url": "https://t.me/durov/457"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "url": "https://t.me/durov/457"
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "✈️ Павел Дуров анонсировал начало тестирования в Telegram прямых трансляций в Stories и аукционов для подарков, первым из которых станет эксклюзивный Telegram Plane.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763223111,
-    "message_id": 1479
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1763223124,
     "entities": [
       {
@@ -2822,5 +2783,70 @@
     },
     "date": 1763750860,
     "message_id": 1518
+  },
+  {
+    "caption": "✈️ Павел Дуров сообщил, что завтра в 12:00 EST в Telegram начнется аукцион легендарных папах Хабиба Нурмагомедова.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440479333481217835",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 15,
+        "type": "text_link",
+        "url": "https://t.me/durov/460"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 88,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF72kgzURbEAeV7Ywt7rZwD04GR6UAA-MMaxsVRAlJZR10apDFe4wBAAMCAANzAAM2BA",
+        "file_size": 1431,
+        "file_unique_id": "AQAD4wxrGxVECUl4"
+      },
+      {
+        "height": 313,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF72kgzURbEAeV7Ywt7rZwD04GR6UAA-MMaxsVRAlJZR10apDFe4wBAAMCAANtAAM2BA",
+        "file_size": 14690,
+        "file_unique_id": "AQAD4wxrGxVECUly"
+      },
+      {
+        "height": 782,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF72kgzURbEAeV7Ywt7rZwD04GR6UAA-MMaxsVRAlJZR10apDFe4wBAAMCAAN4AAM2BA",
+        "file_size": 51940,
+        "file_unique_id": "AQAD4wxrGxVECUl9"
+      },
+      {
+        "height": 1252,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF72kgzURbEAeV7Ywt7rZwD04GR6UAA-MMaxsVRAlJZR10apDFe4wBAAMCAAN5AAM2BA",
+        "file_size": 62455,
+        "file_unique_id": "AQAD4wxrGxVECUl-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763757380,
+    "message_id": 1519
   }
 ]
