@@ -1,70 +1,5 @@
 [
   {
-    "caption": "🦴👛 По информации из чата холдеров DOGS, проект планирует коллаборацию с производителем аппаратных кошельков Ledger.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5442695223073344113",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "custom_emoji_id": "5440555191193596932",
-        "length": 2,
-        "offset": 2,
-        "type": "custom_emoji"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 56,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFwmkXfojKbX2bXLGAuBpMpILGM3z1AALHEmsbfdO5SG1U4DK9bQzIAQADAgADcwADNgQ",
-        "file_size": 1171,
-        "file_unique_id": "AQADxxJrG33TuUh4"
-      },
-      {
-        "height": 199,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFwmkXfojKbX2bXLGAuBpMpILGM3z1AALHEmsbfdO5SG1U4DK9bQzIAQADAgADbQADNgQ",
-        "file_size": 10217,
-        "file_unique_id": "AQADxxJrG33TuUhy"
-      },
-      {
-        "height": 498,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFwmkXfojKbX2bXLGAuBpMpILGM3z1AALHEmsbfdO5SG1U4DK9bQzIAQADAgADeAADNgQ",
-        "file_size": 35378,
-        "file_unique_id": "AQADxxJrG33TuUh9"
-      },
-      {
-        "height": 797,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFwmkXfojKbX2bXLGAuBpMpILGM3z1AALHEmsbfdO5SG1U4DK9bQzIAQADAgADeQADNgQ",
-        "file_size": 45184,
-        "file_unique_id": "AQADxxJrG33TuUh-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763147400,
-    "message_id": 1474
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2798,5 +2733,43 @@
     },
     "date": 1763677559,
     "message_id": 1511
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 43,
+        "type": "text_link",
+        "url": "https://t.me/pgrton/1322"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 TVL сети TON впервые с апреля 2024 года опустился ниже $100 млн на фоне минимального роста ончейн-активности пользователей, снижения ликвидности в пулах TON/USDT на 9,1% и притока 0,59 млн TON на централизованные биржи.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763723135,
+    "message_id": 1512
   }
 ]
