@@ -1,58 +1,5 @@
 [
   {
-    "caption": "🍬 В чате холдеров Teddie сообщили о скором обновлении: согласно опубликованному превью, пользователям станет доступна новая функция Workshop, позволяющая создавать, стейкать и сжигать стикеры для получения вознаграждений и опыта, в том числе собирать ultimate packs и участвовать в лидерборде. \nПримечание: приведённые тексты и значения являются предварительными и не стоит их рассматривать как точные и финальные.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5461068994381381031",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "video": {
-      "file_name": "telegram-cloud-document-4-5823227495842847542.mp4",
-      "height": 1080,
-      "mime_type": "video/mp4",
-      "width": 1080,
-      "thumbnail": {
-        "height": 320,
-        "width": 320,
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgXOaRoVibq8iLzPBKIeH_vAwVgBWIYAAj-aAAItRtFI-htZBjFtvmYBAAdtAAM2BA",
-        "file_size": 4465,
-        "file_unique_id": "AQADP5oAAi1G0Uhy"
-      },
-      "file_id": "BAACAgIAAyEFAASerMeaAAIFzmkaFYm6vIi8zwSiHh_7wMFYAViGAAI_mgACLUbRSPobWQYxbb5mNgQ",
-      "file_size": 37981215,
-      "file_unique_id": "AgADP5oAAi1G0Ug",
-      "duration": 20,
-      "thumb": {
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgXOaRoVibq8iLzPBKIeH_vAwVgBWIYAAj-aAAItRtFI-htZBjFtvmYBAAdtAAM2BA",
-        "file_unique_id": "AQADP5oAAi1G0Uhy",
-        "file_size": 4465,
-        "width": 320,
-        "height": 320
-      }
-    },
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763317129,
-    "message_id": 1486
-  },
-  {
     "caption": "💎 В США открылся TON Hub, который займется популяризацией блокчейн-функций Telegram.",
     "caption_entities": [
       {
@@ -2912,5 +2859,64 @@
     },
     "date": 1763757380,
     "message_id": 1519
+  },
+  {
+    "caption": "💎 Директор TON Strategy Rory J. Cutaia уведомил SEC о планируемой продаже 887 374 обыкновенных акций компании оценочной стоимостью $2,6 млн.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5238004177031953682",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 40,
+        "type": "text_link",
+        "url": "https://www.sec.gov/Archives/edgar/data/1566610/000194984625000623/xsl144X01/primary_doc.xml"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1763812273,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF8mkhZkJSfJso1F_-h1uJqn1t70mYAAK0DmsbFUQJSTA4chS3jD61AQADAgADcwADNgQ",
+        "file_size": 1462,
+        "file_unique_id": "AQADtA5rGxVECUl4"
+      },
+      {
+        "height": 384,
+        "width": 384,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF8mkhZkJSfJso1F_-h1uJqn1t70mYAAK0DmsbFUQJSTA4chS3jD61AQADAgADeAADNgQ",
+        "file_size": 13744,
+        "file_unique_id": "AQADtA5rGxVECUl9"
+      },
+      {
+        "height": 320,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF8mkhZkJSfJso1F_-h1uJqn1t70mYAAK0DmsbFUQJSTA4chS3jD61AQADAgADbQADNgQ",
+        "file_size": 15328,
+        "file_unique_id": "AQADtA5rGxVECUly"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763796546,
+    "message_id": 1522
   }
 ]
