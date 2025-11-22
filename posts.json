@@ -1,63 +1,5 @@
 [
   {
-    "caption": "🍏 Apple в рамках новой программы Mini Apps Partner Program снизит комиссию в App Store с 30% до 15% для разработчиков мини-приложений.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5443111912210459950",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 6,
-        "offset": 60,
-        "type": "text_link",
-        "url": "https://indianexpress.com/article/technology/tech-news-technology/apple-joins-the-mini-app-bandwagon-halves-commissions-for-developers-10364782/"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 50,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFy2kZBK1EVN_8l17dBZhfPvQXqOQgAAJkDmsbG9fJSAABZnInVMwjdwEAAwIAA3MAAzYE",
-        "file_size": 1350,
-        "file_unique_id": "AQADZA5rGxvXyUh4"
-      },
-      {
-        "height": 232,
-        "width": 414,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFy2kZBK1EVN_8l17dBZhfPvQXqOQgAAJkDmsbG9fJSAABZnInVMwjdwEAAwIAA3gAAzYE",
-        "file_size": 13067,
-        "file_unique_id": "AQADZA5rGxvXyUh9"
-      },
-      {
-        "height": 179,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFy2kZBK1EVN_8l17dBZhfPvQXqOQgAAJkDmsbG9fJSAABZnInVMwjdwEAAwIAA20AAzYE",
-        "file_size": 13825,
-        "file_unique_id": "AQADZA5rGxvXyUhy"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763247277,
-    "message_id": 1483
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2894,5 +2836,65 @@
     },
     "date": 1763796546,
     "message_id": 1522
+  },
+  {
+    "caption": "💎 В отчете о развитии экосистемы TON за октябрь 2025 года зафиксирован пиковый дневной объем торгов NFT в $4,9 млн, а количество держателей подарков в Telegram выросло до 1,96 млн пользователей.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1763812238,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 80,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF8GkhWNzua9WCEOoP-aypkJGGFhBTAAKEDmsbFUQJSYEGVAEjdfHvAQADAgADcwADNgQ",
+        "file_size": 1446,
+        "file_unique_id": "AQADhA5rGxVECUl4"
+      },
+      {
+        "height": 320,
+        "width": 283,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF8GkhWNzua9WCEOoP-aypkJGGFhBTAAKEDmsbFUQJSYEGVAEjdfHvAQADAgADbQADNgQ",
+        "file_size": 19391,
+        "file_unique_id": "AQADhA5rGxVECUly"
+      },
+      {
+        "height": 1050,
+        "width": 928,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF8GkhWNzua9WCEOoP-aypkJGGFhBTAAKEDmsbFUQJSYEGVAEjdfHvAQADAgADeQADNgQ",
+        "file_size": 67976,
+        "file_unique_id": "AQADhA5rGxVECUl-"
+      },
+      {
+        "height": 800,
+        "width": 707,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF8GkhWNzua9WCEOoP-aypkJGGFhBTAAKEDmsbFUQJSYEGVAEjdfHvAQADAgADeAADNgQ",
+        "file_size": 72183,
+        "file_unique_id": "AQADhA5rGxVECUl9"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763793116,
+    "message_id": 1520
   }
 ]
