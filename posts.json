@@ -1,70 +1,5 @@
 [
   {
-    "caption": "🎁 Канадский бизнесмен Джейсон Фалович потратил 18 миллионов рублей на телеграм-подарок в ходе первого аукциона на платформе.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440615647153256792",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 39,
-        "type": "text_link",
-        "url": "https://t.me/exploitex/29427"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 84,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFymkY0iJ_TZn56BsUyvL_LqfSSKSDAAJXDWsbG9fJSFsVZ5N64_pQAQADAgADcwADNgQ",
-        "file_size": 1663,
-        "file_unique_id": "AQADVw1rGxvXyUh4"
-      },
-      {
-        "height": 298,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFymkY0iJ_TZn56BsUyvL_LqfSSKSDAAJXDWsbG9fJSFsVZ5N64_pQAQADAgADbQADNgQ",
-        "file_size": 17893,
-        "file_unique_id": "AQADVw1rGxvXyUhy"
-      },
-      {
-        "height": 976,
-        "width": 1050,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFymkY0iJ_TZn56BsUyvL_LqfSSKSDAAJXDWsbG9fJSFsVZ5N64_pQAQADAgADeQADNgQ",
-        "file_size": 55307,
-        "file_unique_id": "AQADVw1rGxvXyUh-"
-      },
-      {
-        "height": 744,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFymkY0iJ_TZn56BsUyvL_LqfSSKSDAAJXDWsbG9fJSFsVZ5N64_pQAQADAgADeAADNgQ",
-        "file_size": 57938,
-        "file_unique_id": "AQADVw1rGxvXyUh9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763234338,
-    "message_id": 1482
-  },
-  {
     "caption": "🍏 Apple в рамках новой программы Mini Apps Partner Program снизит комиссию в App Store с 30% до 15% для разработчиков мини-приложений.",
     "caption_entities": [
       {
@@ -2861,6 +2796,65 @@
     ],
     "channel_chat_created": false,
     "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF8mkhZkJSfJso1F_-h1uJqn1t70mYAAK0DmsbFUQJSTA4chS3jD61AQADAgADcwADNgQ",
+        "file_size": 1462,
+        "file_unique_id": "AQADtA5rGxVECUl4"
+      },
+      {
+        "height": 384,
+        "width": 384,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF8mkhZkJSfJso1F_-h1uJqn1t70mYAAK0DmsbFUQJSTA4chS3jD61AQADAgADeAADNgQ",
+        "file_size": 13744,
+        "file_unique_id": "AQADtA5rGxVECUl9"
+      },
+      {
+        "height": 320,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF8mkhZkJSfJso1F_-h1uJqn1t70mYAAK0DmsbFUQJSTA4chS3jD61AQADAgADbQADNgQ",
+        "file_size": 15328,
+        "file_unique_id": "AQADtA5rGxVECUly"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763796546,
+    "message_id": 1522
+  },
+  {
+    "caption": "💎 Директор TON Strategy Rory J. Cutaia уведомил SEC о планируемой продаже 887 374 обыкновенных акций компании оценочной стоимостью $2,6 млн.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5238004177031953682",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 40,
+        "type": "text_link",
+        "url": "https://www.sec.gov/Archives/edgar/data/1566610/000194984625000623/xsl144X01/primary_doc.xml"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1763797558,
     "group_chat_created": false,
     "photo": [
       {
