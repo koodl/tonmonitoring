@@ -1,70 +1,5 @@
 [
   {
-    "caption": "💎 В США открылся TON Hub, который займется популяризацией блокчейн-функций Telegram.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 9,
-        "type": "text_link",
-        "url": "https://x.com/tonushub/status/1990404772860453113?s=46"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFz2kbIOFlUqKihREv9pm05PFSVeBNAALdD2sbLUbZSLxxFmvVeqB_AQADAgADcwADNgQ",
-        "file_size": 1392,
-        "file_unique_id": "AQAD3Q9rGy1G2Uh4"
-      },
-      {
-        "height": 320,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFz2kbIOFlUqKihREv9pm05PFSVeBNAALdD2sbLUbZSLxxFmvVeqB_AQADAgADbQADNgQ",
-        "file_size": 16828,
-        "file_unique_id": "AQAD3Q9rGy1G2Uhy"
-      },
-      {
-        "height": 800,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFz2kbIOFlUqKihREv9pm05PFSVeBNAALdD2sbLUbZSLxxFmvVeqB_AQADAgADeAADNgQ",
-        "file_size": 100670,
-        "file_unique_id": "AQAD3Q9rGy1G2Uh9"
-      },
-      {
-        "height": 1280,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIFz2kbIOFlUqKihREv9pm05PFSVeBNAALdD2sbLUbZSLxxFmvVeqB_AQADAgADeQADNgQ",
-        "file_size": 148342,
-        "file_unique_id": "AQAD3Q9rGy1G2Uh-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763385569,
-    "message_id": 1487
-  },
-  {
     "caption": "🪙 Мемкоин UTYA стал победителем первой недели конкурса и получил $100 000, а организаторы обновили оценочную формулу, добавив в нее метрики роста цены и количества активных кошельков.",
     "caption_entities": [
       {
@@ -2918,5 +2853,43 @@
     },
     "date": 1763796546,
     "message_id": 1522
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5314597028901190799",
+        "length": 3,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 10,
+        "offset": 37,
+        "type": "text_link",
+        "url": "https://www.stocktitan.net/sec-filings/ATON/6-k-alpha-ton-capital-corp-current-report-foreign-issuer-7bb149fd870f.html"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🅰️ AlphaTON Capital Corp официально опровергла информацию о привлечении акционерного финансирования на сумму $18,5 млн от ATW Partners, уточнив отсутствие инвестиционных соглашений с данной компанией.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763825421,
+    "message_id": 1523
   }
 ]
