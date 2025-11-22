@@ -4,44 +4,6 @@
     "delete_chat_photo": false,
     "entities": [
       {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 50,
-        "type": "text_link",
-        "url": "https://t.me/pgrton/1311"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 За неделю приток TON на централизованные биржи составил 7,69 млн монет на фоне снижения ончейн-активности и падения ликвидности в DEX-пулах TON/USDT на 0,5 млн USDT.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763225255,
-    "message_id": 1480
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
         "custom_emoji_id": "5454408552372268227",
         "length": 2,
         "offset": 0,
@@ -2868,5 +2830,55 @@
     },
     "date": 1763793116,
     "message_id": 1520
+  },
+  {
+    "caption": "💎 Вышел отчет по экосистеме за октябрь 2025 от TON Foundation.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "document": {
+      "file_name": "2025-10.pdf",
+      "mime_type": "application/pdf",
+      "thumbnail": {
+        "height": 320,
+        "width": 226,
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgXxaSFY8ZXXNuw6IV0HXngJZFSODzEAAmuNAAIVRAlJNQckUsaEsGkBAAdtAAM2BA",
+        "file_size": 9611,
+        "file_unique_id": "AQADa40AAhVECUly"
+      },
+      "file_id": "BQACAgIAAyEFAASerMeaAAIF8WkhWPGV1zbsOiFdB154CWRUjg8xAAJrjQACFUQJSTUHJFLGhLBpNgQ",
+      "file_size": 14425078,
+      "file_unique_id": "AgADa40AAhVECUk",
+      "thumb": {
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgXxaSFY8ZXXNuw6IV0HXngJZFSODzEAAmuNAAIVRAlJNQckUsaEsGkBAAdtAAM2BA",
+        "file_unique_id": "AQADa40AAhVECUly",
+        "file_size": 9611,
+        "width": 226,
+        "height": 320
+      }
+    },
+    "group_chat_created": false,
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763793137,
+    "message_id": 1521
   }
 ]
