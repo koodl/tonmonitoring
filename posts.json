@@ -1,71 +1,5 @@
 [
   {
-    "caption": "🪙 Мемкоин UTYA стал победителем первой недели конкурса Meme Republic и получил $100 000, а организаторы обновили оценочную формулу, добавив в нее метрики роста цены и количества активных кошельков.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5197450760815668186",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 4,
-        "offset": 16,
-        "type": "text_link",
-        "url": "https://t.me/TONMemeRepublic/183"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1763385837,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF0GkbIbCoRw3eoLcxoYY1wFtKCyTNAALgD2sbLUbZSPhL_EUMdYSQAQADAgADcwADNgQ",
-        "file_size": 2599,
-        "file_unique_id": "AQAD4A9rGy1G2Uh4"
-      },
-      {
-        "height": 320,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF0GkbIbCoRw3eoLcxoYY1wFtKCyTNAALgD2sbLUbZSPhL_EUMdYSQAQADAgADbQADNgQ",
-        "file_size": 41882,
-        "file_unique_id": "AQAD4A9rGy1G2Uhy"
-      },
-      {
-        "height": 800,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF0GkbIbCoRw3eoLcxoYY1wFtKCyTNAALgD2sbLUbZSPhL_EUMdYSQAQADAgADeAADNgQ",
-        "file_size": 164955,
-        "file_unique_id": "AQAD4A9rGy1G2Uh9"
-      },
-      {
-        "height": 1280,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF0GkbIbCoRw3eoLcxoYY1wFtKCyTNAALgD2sbLUbZSPhL_EUMdYSQAQADAgADeQADNgQ",
-        "file_size": 212000,
-        "file_unique_id": "AQAD4A9rGy1G2Uh-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763385776,
-    "message_id": 1488
-  },
-  {
     "caption": "🅰️ Публичная компания AlphaTON Capital (NASDAQ: ATON) первой запустила институциональный стейкинг 4 млн TON в партнерстве с валидатором P2P.org и кастодианом BitGo.",
     "caption_entities": [
       {
@@ -2891,5 +2825,55 @@
     },
     "date": 1763890523,
     "message_id": 1524
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5265112348451960063",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 12,
+        "offset": 11,
+        "type": "text_link",
+        "url": "https://t.me/tonmonitoring/1483"
+      },
+      {
+        "custom_emoji_id": "5440764055453200867",
+        "length": 2,
+        "offset": 42,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 45,
+        "type": "text_link",
+        "url": "https://t.me/tonmonitoring/8"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🗞 Новости 47ой недели.\n\nСпонсоры недели:\n⭐️ Донатеры\nСпасибо за вашу поддержку!",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763894384,
+    "message_id": 1525
   }
 ]
