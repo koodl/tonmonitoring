@@ -1,64 +1,5 @@
 [
   {
-    "caption": "📈 После запуска xStocks 30 июня объем ончейн-транзакций с токенизированными акциями вырос на 300% в третьем квартале по сравнению со вторым, а в текущем квартале он уже на 50% выше, чем в предыдущем.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5190741704071743060",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 71,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF1Gkds2cyKeHJTSmugtAxq4CotQO5AAJ3C2sb3N3xSHBhTdEZRXFEAQADAgADcwADNgQ",
-        "file_size": 1364,
-        "file_unique_id": "AQADdwtrG9zd8Uh4"
-      },
-      {
-        "height": 320,
-        "width": 253,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF1Gkds2cyKeHJTSmugtAxq4CotQO5AAJ3C2sb3N3xSHBhTdEZRXFEAQADAgADbQADNgQ",
-        "file_size": 13967,
-        "file_unique_id": "AQADdwtrG9zd8Uhy"
-      },
-      {
-        "height": 1050,
-        "width": 830,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF1Gkds2cyKeHJTSmugtAxq4CotQO5AAJ3C2sb3N3xSHBhTdEZRXFEAQADAgADeQADNgQ",
-        "file_size": 45785,
-        "file_unique_id": "AQADdwtrG9zd8Uh-"
-      },
-      {
-        "height": 800,
-        "width": 632,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF1Gkds2cyKeHJTSmugtAxq4CotQO5AAJ3C2sb3N3xSHBhTdEZRXFEAQADAgADeAADNgQ",
-        "file_size": 50918,
-        "file_unique_id": "AQADdwtrG9zd8Uh9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763554152,
-    "message_id": 1492
-  },
-  {
     "caption": "💎 TON номинирован на премию BeInCrypto 100 Awards 2025 в категории «Best Ecosystem Program for Developers».\nПроголосовать можно здесь: awards.beincrypto.com",
     "caption_entities": [
       {
@@ -2844,5 +2785,70 @@
     },
     "date": 1763983634,
     "message_id": 1527
+  },
+  {
+    "caption": "👛 Крипто Кошелек анонсировал листинг токена Monad с открытием депозитов в 13:00 UTC и запуском обменных операций после 15:10 UTC.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440704428422229664",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 11,
+        "offset": 18,
+        "type": "text_link",
+        "url": "https://t.me/cryptowallet_news_cis/588"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF-GkkSgAB5IhunniK9wyP10rDSVNTLAACEA5rGwABpiFJYie59IyoZ14BAAMCAANzAAM2BA",
+        "file_size": 1595,
+        "file_unique_id": "AQADEA5rGwABpiFJeA"
+      },
+      {
+        "height": 320,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF-GkkSgAB5IhunniK9wyP10rDSVNTLAACEA5rGwABpiFJYie59IyoZ14BAAMCAANtAAM2BA",
+        "file_size": 16616,
+        "file_unique_id": "AQADEA5rGwABpiFJcg"
+      },
+      {
+        "height": 800,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF-GkkSgAB5IhunniK9wyP10rDSVNTLAACEA5rGwABpiFJYie59IyoZ14BAAMCAAN4AAM2BA",
+        "file_size": 55243,
+        "file_unique_id": "AQADEA5rGwABpiFJfQ"
+      },
+      {
+        "height": 1280,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF-GkkSgAB5IhunniK9wyP10rDSVNTLAACEA5rGwABpiFJYie59IyoZ14BAAMCAAN5AAM2BA",
+        "file_size": 60397,
+        "file_unique_id": "AQADEA5rGwABpiFJfg"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763985921,
+    "message_id": 1528
   }
 ]
