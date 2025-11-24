@@ -1,65 +1,5 @@
 [
   {
-    "caption": "📈 После запуска xStocks 30 июня объем ончейн-транзакций с токенизированными акциями вырос на 300% в третьем квартале по сравнению со вторым, а в текущем квартале он уже на 50% выше, чем в предыдущем.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5190741704071743060",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1763560759,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 71,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF1Gkds2cyKeHJTSmugtAxq4CotQO5AAJ3C2sb3N3xSHBhTdEZRXFEAQADAgADcwADNgQ",
-        "file_size": 1364,
-        "file_unique_id": "AQADdwtrG9zd8Uh4"
-      },
-      {
-        "height": 320,
-        "width": 253,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF1Gkds2cyKeHJTSmugtAxq4CotQO5AAJ3C2sb3N3xSHBhTdEZRXFEAQADAgADbQADNgQ",
-        "file_size": 13967,
-        "file_unique_id": "AQADdwtrG9zd8Uhy"
-      },
-      {
-        "height": 1050,
-        "width": 830,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF1Gkds2cyKeHJTSmugtAxq4CotQO5AAJ3C2sb3N3xSHBhTdEZRXFEAQADAgADeQADNgQ",
-        "file_size": 45785,
-        "file_unique_id": "AQADdwtrG9zd8Uh-"
-      },
-      {
-        "height": 800,
-        "width": 632,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF1Gkds2cyKeHJTSmugtAxq4CotQO5AAJ3C2sb3N3xSHBhTdEZRXFEAQADAgADeAADNgQ",
-        "file_size": 50918,
-        "file_unique_id": "AQADdwtrG9zd8Uh9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763554152,
-    "message_id": 1492
-  },
-  {
     "caption": "💎 TON Studio представила обновлённую документацию TON, созданную с учётом отзывов сообщества и включающую AI-помощника, оптимизированную навигацию, расширенные руководства, переработанные whitepaper Dr. Durov и новые разделы для разработчиков.\ndocs.ton.org",
     "caption_entities": [
       {
@@ -2845,5 +2785,63 @@
     },
     "date": 1763990689,
     "message_id": 1529
+  },
+  {
+    "caption": "🅰️ AlphaTON Capital подала письмо о намерениях приобрести 51% акций Forbes Media Holdings за доллары или стейблкоины с целью использования архивов издания для обучения ИИ и создания новостной платформы о цифровых активах.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5314597028901190799",
+        "length": 3,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 6,
+        "offset": 21,
+        "type": "text_link",
+        "url": "https://www.investing.com/news/company-news/alphaton-capital-offers-to-acquire-51-stake-in-forbes-media-93CH-4374861"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 60,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF-mkkXojklik9Ag3pf7D78ftoY_1jAAIFD2sbAAGmIUnEqZkb2E3cyAEAAwIAA3MAAzYE",
+        "file_size": 1441,
+        "file_unique_id": "AQADBQ9rGwABpiFJeA"
+      },
+      {
+        "height": 213,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF-mkkXojklik9Ag3pf7D78ftoY_1jAAIFD2sbAAGmIUnEqZkb2E3cyAEAAwIAA20AAzYE",
+        "file_size": 17477,
+        "file_unique_id": "AQADBQ9rGwABpiFJcg"
+      },
+      {
+        "height": 533,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF-mkkXojklik9Ag3pf7D78ftoY_1jAAIFD2sbAAGmIUnEqZkb2E3cyAEAAwIAA3gAAzYE",
+        "file_size": 51901,
+        "file_unique_id": "AQADBQ9rGwABpiFJfQ"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763991176,
+    "message_id": 1530
   }
 ]
