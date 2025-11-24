@@ -1,75 +1,5 @@
 [
   {
-    "caption": "💎 TON Studio представила обновлённую документацию TON, созданную с учётом отзывов сообщества и включающую AI-помощника, оптимизированную навигацию, расширенные руководства, переработанные whitepaper Dr. Durov и новые разделы для разработчиков.\ndocs.ton.org",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 11,
-        "offset": 14,
-        "type": "text_link",
-        "url": "https://t.me/toncoin/2117"
-      },
-      {
-        "length": 12,
-        "offset": 245,
-        "type": "url"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF1mkd2L5853ZwHUkEXS87J-UvTHPmAALxDWsbGynxSHQI8FVijEvyAQADAgADcwADNgQ",
-        "file_size": 1419,
-        "file_unique_id": "AQAD8Q1rGxsp8Uh4"
-      },
-      {
-        "height": 319,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF1mkd2L5853ZwHUkEXS87J-UvTHPmAALxDWsbGynxSHQI8FVijEvyAQADAgADbQADNgQ",
-        "file_size": 14209,
-        "file_unique_id": "AQAD8Q1rGxsp8Uhy"
-      },
-      {
-        "height": 797,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF1mkd2L5853ZwHUkEXS87J-UvTHPmAALxDWsbGynxSHQI8FVijEvyAQADAgADeAADNgQ",
-        "file_size": 50455,
-        "file_unique_id": "AQAD8Q1rGxsp8Uh9"
-      },
-      {
-        "height": 1276,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF1mkd2L5853ZwHUkEXS87J-UvTHPmAALxDWsbGynxSHQI8FVijEvyAQADAgADeQADNgQ",
-        "file_size": 66059,
-        "file_unique_id": "AQAD8Q1rGxsp8Uh-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763563710,
-    "message_id": 1494
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2826,6 +2756,72 @@
         "file_id": "AgACAgIAAyEFAASerMeaAAIF-mkkXojklik9Ag3pf7D78ftoY_1jAAIFD2sbAAGmIUnEqZkb2E3cyAEAAwIAA3gAAzYE",
         "file_size": 51901,
         "file_unique_id": "AQADBQ9rGwABpiFJfQ"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1763991176,
+    "message_id": 1530
+  },
+  {
+    "caption": "🅰️ AlphaTON Capital подала письмо о намерениях приобрести 51% акций Forbes Media Holdings за доллары или стейблкоины с целью использования архивов издания для обучения ИИ и создания новостной платформы о цифровых активах.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5314597028901190799",
+        "length": 3,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 6,
+        "offset": 21,
+        "type": "text_link",
+        "url": "https://www.investing.com/news/company-news/alphaton-capital-offers-to-acquire-51-stake-in-forbes-media-93CH-4374861"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1763992465,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 51,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF-mkkY5FGenYEQIpeDHYtuxuTbvsFAAJLD2sbAAGmIUn9XT2E4oVoDQEAAwIAA3MAAzYE",
+        "file_size": 1579,
+        "file_unique_id": "AQADSw9rGwABpiFJeA"
+      },
+      {
+        "height": 180,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF-mkkY5FGenYEQIpeDHYtuxuTbvsFAAJLD2sbAAGmIUn9XT2E4oVoDQEAAwIAA20AAzYE",
+        "file_size": 18804,
+        "file_unique_id": "AQADSw9rGwABpiFJcg"
+      },
+      {
+        "height": 449,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF-mkkY5FGenYEQIpeDHYtuxuTbvsFAAJLD2sbAAGmIUn9XT2E4oVoDQEAAwIAA3gAAzYE",
+        "file_size": 75585,
+        "file_unique_id": "AQADSw9rGwABpiFJfQ"
+      },
+      {
+        "height": 719,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF-mkkY5FGenYEQIpeDHYtuxuTbvsFAAJLD2sbAAGmIUn9XT2E4oVoDQEAAwIAA3kAAzYE",
+        "file_size": 98413,
+        "file_unique_id": "AQADSw9rGwABpiFJfg"
       }
     ],
     "sender_chat": {
