@@ -1,76 +1,5 @@
 [
   {
-    "caption": "👛💵 Fonbnk, TON и Tether заключили партнерство, предоставив пользователям TON Wallet в Африке возможность отправлять, обменивать и тратить USDT с использованием местных платежных методов, включая мобильные деньги и банковские переводы.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440704428422229664",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "custom_emoji_id": "5440588361226023965",
-        "length": 2,
-        "offset": 2,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 26,
-        "type": "text_link",
-        "url": "https://t.me/toncoin/2118"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 80,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF22ke8pHiDE8z8IHt9Hq6GZoNjTH5AAKLDWsbGyn5SBii6T3VfcHdAQADAgADcwADNgQ",
-        "file_size": 905,
-        "file_unique_id": "AQADiw1rGxsp-Uh4"
-      },
-      {
-        "height": 320,
-        "width": 284,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF22ke8pHiDE8z8IHt9Hq6GZoNjTH5AAKLDWsbGyn5SBii6T3VfcHdAQADAgADbQADNgQ",
-        "file_size": 9382,
-        "file_unique_id": "AQADiw1rGxsp-Uhy"
-      },
-      {
-        "height": 901,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF22ke8pHiDE8z8IHt9Hq6GZoNjTH5AAKLDWsbGyn5SBii6T3VfcHdAQADAgADeQADNgQ",
-        "file_size": 27948,
-        "file_unique_id": "AQADiw1rGxsp-Uh-"
-      },
-      {
-        "height": 800,
-        "width": 710,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF22ke8pHiDE8z8IHt9Hq6GZoNjTH5AAKLDWsbGyn5SBii6T3VfcHdAQADAgADeAADNgQ",
-        "file_size": 36429,
-        "file_unique_id": "AQADiw1rGxsp-Uh9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763635857,
-    "message_id": 1499
-  },
-  {
     "caption": "✈️ Telegram объявил, что все новые лимитированные подарки теперь будут распределяться исключительно через аукционы, где размер ставки участника определяет уникальный порядковый номер получаемого предмета.",
     "caption_entities": [
       {
@@ -2888,5 +2817,63 @@
     },
     "date": 1764004797,
     "message_id": 1532
+  },
+  {
+    "caption": "🛡 Forbes сообщил о новом Android-трояне Sturnus, который обходит шифрование в Telegram, Signal и WhatsApp, считывая сообщения и личные данные непосредственно с экрана смартфона через службы специальных возможностей.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5447638103365806920",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 10,
+        "type": "text_link",
+        "url": "https://www.forbes.com/sites/daveywinder/2025/11/24/hackers-bypass-signal-telegram-and-whatsapp-encryption-to-read-messages/"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 60,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF_WkkmOxLiVLXO8Vk52GJ3NrAAmAsAAIpEWsbAAGmIUnCRwbvWU6QlAEAAwIAA3MAAzYE",
+        "file_size": 1253,
+        "file_unique_id": "AQADKRFrGwABpiFJeA"
+      },
+      {
+        "height": 213,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF_WkkmOxLiVLXO8Vk52GJ3NrAAmAsAAIpEWsbAAGmIUnCRwbvWU6QlAEAAwIAA20AAzYE",
+        "file_size": 12769,
+        "file_unique_id": "AQADKRFrGwABpiFJcg"
+      },
+      {
+        "height": 320,
+        "width": 480,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF_WkkmOxLiVLXO8Vk52GJ3NrAAmAsAAIpEWsbAAGmIUnCRwbvWU6QlAEAAwIAA3gAAzYE",
+        "file_size": 14343,
+        "file_unique_id": "AQADKRFrGwABpiFJfQ"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764006124,
+    "message_id": 1533
   }
 ]
