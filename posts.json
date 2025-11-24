@@ -1,71 +1,5 @@
 [
   {
-    "caption": "✈️ Telegram объявил, что все новые лимитированные подарки теперь будут распределяться исключительно через аукционы, где размер ставки участника определяет уникальный порядковый номер получаемого предмета.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 12,
-        "type": "text_link",
-        "url": "https://telegram.org/blog/live-stories-gift-auctions"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1763637222,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 58,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF2WkeaEgBfrYk9ulYxezaCXoPBR4UAAK0EGsbGynxSPh88F_jnkv6AQADAgADcwADNgQ",
-        "file_size": 1947,
-        "file_unique_id": "AQADtBBrGxsp8Uh4"
-      },
-      {
-        "height": 207,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF2WkeaEgBfrYk9ulYxezaCXoPBR4UAAK0EGsbGynxSPh88F_jnkv6AQADAgADbQADNgQ",
-        "file_size": 30079,
-        "file_unique_id": "AQADtBBrGxsp8Uhy"
-      },
-      {
-        "height": 517,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF2WkeaEgBfrYk9ulYxezaCXoPBR4UAAK0EGsbGynxSPh88F_jnkv6AQADAgADeAADNgQ",
-        "file_size": 125256,
-        "file_unique_id": "AQADtBBrGxsp8Uh9"
-      },
-      {
-        "height": 776,
-        "width": 1200,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF2WkeaEgBfrYk9ulYxezaCXoPBR4UAAK0EGsbGynxSPh88F_jnkv6AQADAgADeQADNgQ",
-        "file_size": 145456,
-        "file_unique_id": "AQADtBBrGxsp8Uh-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763600456,
-    "message_id": 1497
-  },
-  {
     "caption": "💎 Alena, Director of Ecosystem в TON Foundation, выступит на конференции HSC Asset Management в Абу-Даби 9–10 декабря, посвященной интеграции Web3 и институциональных активов.",
     "caption_entities": [
       {
@@ -2875,5 +2809,49 @@
     },
     "date": 1764006124,
     "message_id": 1533
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440615647153256792",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 5,
+        "offset": 15,
+        "type": "text_link",
+        "url": "https://t.me/xgift/?startapp=ref-d85db7ddaf2aa572bf9635a6a5e12d9d"
+      },
+      {
+        "length": 9,
+        "offset": 21,
+        "type": "text_link",
+        "url": "https://t.me/rocketmania/52"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🎁 Маркетплейс xGift планирует открыть возможность поштучной торговли редкими неулучшенными Telegram-подарками через передачу сервису технических аккаунтов.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764013665,
+    "message_id": 1534
   }
 ]
