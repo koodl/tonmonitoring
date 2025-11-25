@@ -1,70 +1,5 @@
 [
   {
-    "caption": "👛 Elliptic объявила о партнерстве с Wallet в Telegram, интегрировав инструменты риск-мониторинга Elliptic Lens для проверки транзакций и защиты более 100 млн пользователей от незаконной активности.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440704428422229664",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 12,
-        "type": "text_link",
-        "url": "https://www.elliptic.co/media-center/elliptic-powers-compliance-for-wallets-100m-users-on-telegram"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 48,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF3Gke-Lb7OAlUQQv4Vp26DjFfAAFxVAACwQ1rGxsp-UiRLhB0849wOgEAAwIAA3MAAzYE",
-        "file_size": 890,
-        "file_unique_id": "AQADwQ1rGxsp-Uh4"
-      },
-      {
-        "height": 169,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF3Gke-Lb7OAlUQQv4Vp26DjFfAAFxVAACwQ1rGxsp-UiRLhB0849wOgEAAwIAA20AAzYE",
-        "file_size": 10535,
-        "file_unique_id": "AQADwQ1rGxsp-Uhy"
-      },
-      {
-        "height": 528,
-        "width": 1000,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF3Gke-Lb7OAlUQQv4Vp26DjFfAAFxVAACwQ1rGxsp-UiRLhB0849wOgEAAwIAA3kAAzYE",
-        "file_size": 30297,
-        "file_unique_id": "AQADwQ1rGxsp-Uh-"
-      },
-      {
-        "height": 422,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF3Gke-Lb7OAlUQQv4Vp26DjFfAAFxVAACwQ1rGxsp-UiRLhB0849wOgEAAwIAA3gAAzYE",
-        "file_size": 39903,
-        "file_unique_id": "AQADwQ1rGxsp-Uh9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763637431,
-    "message_id": 1500
-  },
-  {
     "caption": "💎 Martin Masser, глава по росту TON Foundation, заявил в интервью crypto.news, что блокчейн TON уже функционирует как полностью интегрированная экосистема внутри Telegram, предоставляя почти миллиардной аудитории мессенджера доступ к платежам, играм и NFT в один клик без необходимости покидать приложение.",
     "caption_entities": [
       {
@@ -2812,6 +2747,78 @@
     ],
     "channel_chat_created": false,
     "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 81,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF_2kk_52i29YgQDShHGm8Kmwt4hJ2AAIXDGsbvI8pSWdZxiRqHwERAQADAgADcwADNgQ",
+        "file_size": 1497,
+        "file_unique_id": "AQADFwxrG7yPKUl4"
+      },
+      {
+        "height": 320,
+        "width": 289,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF_2kk_52i29YgQDShHGm8Kmwt4hJ2AAIXDGsbvI8pSWdZxiRqHwERAQADAgADbQADNgQ",
+        "file_size": 14097,
+        "file_unique_id": "AQADFwxrG7yPKUly"
+      },
+      {
+        "height": 800,
+        "width": 723,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF_2kk_52i29YgQDShHGm8Kmwt4hJ2AAIXDGsbvI8pSWdZxiRqHwERAQADAgADeAADNgQ",
+        "file_size": 51055,
+        "file_unique_id": "AQADFwxrG7yPKUl9"
+      },
+      {
+        "height": 1280,
+        "width": 1157,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIF_2kk_52i29YgQDShHGm8Kmwt4hJ2AAIXDGsbvI8pSWdZxiRqHwERAQADAgADeQADNgQ",
+        "file_size": 68563,
+        "file_unique_id": "AQADFwxrG7yPKUl-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764032413,
+    "message_id": 1535
+  },
+  {
+    "caption": "💎✈️ Организаторы японской конференции TEAMZ Web3/AI Summit объявили, что на мероприятии 7–8 апреля выступят Steve Yun и John Hyman (CIO Telegram), а TON и Telegram станут Diamond спонсорами события.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 2,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 60,
+        "type": "text_link",
+        "url": "https://www.teamz.co.jp/"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1764056068,
     "group_chat_created": false,
     "photo": [
       {
