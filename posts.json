@@ -1,70 +1,5 @@
 [
   {
-    "caption": "💎🔝 Halil Mirakhmed, Chief Strategy Officer в The Open Platform, и Alena S., Director of Ecosystem в TON Foundation, 19 ноября приняли участие в организованном Daos Hub и Gate круглом столе в Дубае, посвященном анализу факторов волатильности криптовалютного рынка.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "custom_emoji_id": "5451930983307703379",
-        "length": 2,
-        "offset": 2,
-        "type": "custom_emoji"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 51,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF3mke_JO4k92v8HA8EhfTaJkuHEFQAALhDWsbGyn5SNHWelzDLXDGAQADAgADcwADNgQ",
-        "file_size": 1461,
-        "file_unique_id": "AQAD4Q1rGxsp-Uh4"
-      },
-      {
-        "height": 180,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF3mke_JO4k92v8HA8EhfTaJkuHEFQAALhDWsbGyn5SNHWelzDLXDGAQADAgADbQADNgQ",
-        "file_size": 19315,
-        "file_unique_id": "AQAD4Q1rGxsp-Uhy"
-      },
-      {
-        "height": 449,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF3mke_JO4k92v8HA8EhfTaJkuHEFQAALhDWsbGyn5SNHWelzDLXDGAQADAgADeAADNgQ",
-        "file_size": 83026,
-        "file_unique_id": "AQAD4Q1rGxsp-Uh9"
-      },
-      {
-        "height": 656,
-        "width": 1170,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF3mke_JO4k92v8HA8EhfTaJkuHEFQAALhDWsbGyn5SNHWelzDLXDGAQADAgADeQADNgQ",
-        "file_size": 94094,
-        "file_unique_id": "AQAD4Q1rGxsp-Uh-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763638419,
-    "message_id": 1502
-  },
-  {
     "caption": "💎 TON US HUB запустил первый конкурс IdeaTON с призовым фондом $7000, заявки на который принимаются до 15 декабря.",
     "caption_entities": [
       {
@@ -2838,5 +2773,48 @@
     },
     "date": 1764078704,
     "message_id": 1536
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 15,
+        "type": "url"
+      },
+      {
+        "length": 6,
+        "offset": 23,
+        "type": "text_link",
+        "url": "https://t.me/tonlow/1431"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 Автор блога Max.ton заявил о кризисе идентичности экосистемы TON и необходимости сменить стратегию с недостижимого массового принятия на работу с профильной криптоаудиторией, заинтересованной в высоких рисках и заработке.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764085920,
+    "message_id": 1537
   }
 ]
