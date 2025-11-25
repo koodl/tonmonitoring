@@ -1,64 +1,5 @@
 [
   {
-    "caption": "💎 На Seeking Alpha вышел материал, где автор объясняет причины покупки акций TON Strategy.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5238004177031953682",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 26,
-        "type": "text_link",
-        "url": "https://seekingalpha.com/article/4845935-ton-strategy-why-i-bought-shares-despite-being-a-crypto-sceptic"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "video": {
-      "file_name": "IMG_4815.MP4",
-      "height": 448,
-      "mime_type": "video/mp4",
-      "width": 592,
-      "thumbnail": {
-        "height": 242,
-        "width": 320,
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgXjaR9cQglze8nlz0n6igJyIU2OEP4AAouUAAIbKflIu0_rnoisl8gBAAdtAAM2BA",
-        "file_size": 17205,
-        "file_unique_id": "AQADi5QAAhsp-Uhy"
-      },
-      "file_id": "BAACAgIAAyEFAASerMeaAAIF42kfXEIJc3vJ5c9J-ooCciFNjhD-AAKLlAACGyn5SLtP656IrJfINgQ",
-      "file_size": 764156,
-      "file_unique_id": "AgADi5QAAhsp-Ug",
-      "duration": 9,
-      "thumb": {
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgXjaR9cQglze8nlz0n6igJyIU2OEP4AAouUAAIbKflIu0_rnoisl8gBAAdtAAM2BA",
-        "file_unique_id": "AQADi5QAAhsp-Uhy",
-        "file_size": 17205,
-        "width": 320,
-        "height": 242
-      }
-    },
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763662914,
-    "message_id": 1507
-  },
-  {
     "caption": "WalletConnect объявил о полной интеграции с TON, что позволит подключить быстрорастущий блокчейн TON к сотням кошельков и институциональным платформам. Теперь пользователи смогут заходить на TON dApps прямо из кошельков, совместимых с WalletConnect.",
     "caption_entities": [
       {
@@ -2738,5 +2679,75 @@
     },
     "date": 1764105136,
     "message_id": 1540
+  },
+  {
+    "caption": "🎁 Канал village”ton сообщил о запуске приложения TeleGifts (Telegram и iOS), которое предоставляет аналитику рынка Telegram Gifts с поддержкой iOS-виджетов.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440615647153256792",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 21,
+        "type": "text_link",
+        "url": "https://t.me/villageton/3541"
+      },
+      {
+        "length": 8,
+        "offset": 61,
+        "type": "text_link",
+        "url": "https://t.me/telegiftsappbot/app?startapp=starswap_N4jBdjJJz"
+      },
+      {
+        "length": 3,
+        "offset": 72,
+        "type": "text_link",
+        "url": "https://apps.apple.com/app/telegifts-nft-ton-explorer/id6751137583"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 55,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGBmkmNh7mxmdMzFAznYw4R_OIqFsNAAKxC2sbfR85SVjwrmqaHbyRAQADAgADcwADNgQ",
+        "file_size": 1468,
+        "file_unique_id": "AQADsQtrG30fOUl4"
+      },
+      {
+        "height": 320,
+        "width": 194,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGBmkmNh7mxmdMzFAznYw4R_OIqFsNAAKxC2sbfR85SVjwrmqaHbyRAQADAgADbQADNgQ",
+        "file_size": 14642,
+        "file_unique_id": "AQADsQtrG30fOUly"
+      },
+      {
+        "height": 760,
+        "width": 460,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGBmkmNh7mxmdMzFAznYw4R_OIqFsNAAKxC2sbfR85SVjwrmqaHbyRAQADAgADeAADNgQ",
+        "file_size": 32042,
+        "file_unique_id": "AQADsQtrG30fOUl9"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764111902,
+    "message_id": 1542
   }
 ]
