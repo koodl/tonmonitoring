@@ -1,75 +1,5 @@
 [
   {
-    "caption": "💎 Martin Masser, глава по росту TON Foundation, заявил в интервью crypto.news, что блокчейн TON уже функционирует как полностью интегрированная экосистема внутри Telegram, предоставляя почти миллиардной аудитории мессенджера доступ к платежам, играм и NFT в один клик без необходимости покидать приложение.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 6,
-        "offset": 49,
-        "type": "text_link",
-        "url": "https://crypto.news/ton-plans-bring-blockchain-to-billion-telegram-users/"
-      },
-      {
-        "length": 11,
-        "offset": 67,
-        "type": "url"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 53,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF3Wke-sJz-1obXuXksPXS5KzyvYzrAALHDWsbGyn5SOj_joupyAxKAQADAgADcwADNgQ",
-        "file_size": 1646,
-        "file_unique_id": "AQADxw1rGxsp-Uh4"
-      },
-      {
-        "height": 190,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF3Wke-sJz-1obXuXksPXS5KzyvYzrAALHDWsbGyn5SOj_joupyAxKAQADAgADbQADNgQ",
-        "file_size": 17556,
-        "file_unique_id": "AQADxw1rGxsp-Uhy"
-      },
-      {
-        "height": 475,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF3Wke-sJz-1obXuXksPXS5KzyvYzrAALHDWsbGyn5SOj_joupyAxKAQADAgADeAADNgQ",
-        "file_size": 63299,
-        "file_unique_id": "AQADxw1rGxsp-Uh9"
-      },
-      {
-        "height": 760,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF3Wke-sJz-1obXuXksPXS5KzyvYzrAALHDWsbGyn5SOj_joupyAxKAQADAgADeQADNgQ",
-        "file_size": 79242,
-        "file_unique_id": "AQADxw1rGxsp-Uh-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763637954,
-    "message_id": 1501
-  },
-  {
     "caption": "💎🔝 Halil Mirakhmed, Chief Strategy Officer в The Open Platform, и Alena S., Director of Ecosystem в TON Foundation, 19 ноября приняли участие в организованном Daos Hub и Gate круглом столе в Дубае, посвященном анализу факторов волатильности криптовалютного рынка.",
     "caption_entities": [
       {
@@ -2865,5 +2795,48 @@
     },
     "date": 1764032413,
     "message_id": 1535
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5472237906510770280",
+        "length": 5,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 10,
+        "offset": 33,
+        "type": "url"
+      },
+      {
+        "length": 6,
+        "offset": 119,
+        "type": "text_link",
+        "url": "https://kod.ru/telegram-gifts-off-chain-on-chain-stats"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🧑‍💻 По данным NFT-маркетплейса Getgems.io, за 11 месяцев с момента запуска торговли объем продаж подарков в Telegram достиг $296 млн.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764078704,
+    "message_id": 1536
   }
 ]
