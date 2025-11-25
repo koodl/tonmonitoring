@@ -1,63 +1,5 @@
 [
   {
-    "caption": "🅰️ AlphaTON Capital назначила Logan Ryan Golema на должность CTO для развития децентрализованной ИИ-инфраструктуры и масштабирования продуктов в экосистеме Telegram.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5314597028901190799",
-        "length": 3,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 21,
-        "type": "text_link",
-        "url": "https://www.globenewswire.com/news-release/2025/11/20/3192070/0/en/AlphaTON-Bolsters-Tech-Leadership-with-New-CTO-to-Drive-AI-Growth.html"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 61,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF4GkfMViwEdaCVWJjN4S8C56NrVu-AAIYEGsbGyn5SPEsVx9oORmzAQADAgADcwADNgQ",
-        "file_size": 1834,
-        "file_unique_id": "AQADGBBrGxsp-Uh4"
-      },
-      {
-        "height": 216,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF4GkfMViwEdaCVWJjN4S8C56NrVu-AAIYEGsbGyn5SPEsVx9oORmzAQADAgADbQADNgQ",
-        "file_size": 19519,
-        "file_unique_id": "AQADGBBrGxsp-Uhy"
-      },
-      {
-        "height": 378,
-        "width": 561,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF4GkfMViwEdaCVWJjN4S8C56NrVu-AAIYEGsbGyn5SPEsVx9oORmzAQADAgADeAADNgQ",
-        "file_size": 28451,
-        "file_unique_id": "AQADGBBrGxsp-Uh9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763651928,
-    "message_id": 1504
-  },
-  {
     "caption": "🔁 STON.fi отмечает трехлетие работы, став крупнейшим DeFi-протоколом на блокчейне TON с совокупным объемом торгов $6.65 млрд и аудиторией более 5.6 млн пользователей.",
     "caption_entities": [
       {
@@ -2816,5 +2758,43 @@
     },
     "date": 1764087486,
     "message_id": 1538
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5310031775018285687",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 37,
+        "type": "text_link",
+        "url": "https://t.me/plohishi_ton/555"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🪟 Пользователи маркетплейса Portals сообщают о массовой пропаже цифровых подарков при их переводе на площадку и последующем появлении активов в продаже на фоне длительного игнорирования жалоб службой поддержки.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764101660,
+    "message_id": 1539
   }
 ]
