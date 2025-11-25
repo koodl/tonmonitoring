@@ -1,64 +1,5 @@
 [
   {
-    "caption": "WalletConnect объявил о полной интеграции с TON, что позволит подключить быстрорастущий блокчейн TON к сотням кошельков и институциональным платформам. Теперь пользователи смогут заходить на TON dApps прямо из кошельков, совместимых с WalletConnect.",
-    "caption_entities": [
-      {
-        "length": 7,
-        "offset": 14,
-        "type": "text_link",
-        "url": "https://markets.businessinsider.com/news/currencies/walletconnect-adds-ton-support-connecting-the-open-network-to-major-wallets-and-institutional-platforms-1035581864"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 60,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF5GkfYumAm7MMJdzh8JGjkFuYN3f6AAJVEWsbGyn5SB5NQGM_BwQ3AQADAgADcwADNgQ",
-        "file_size": 999,
-        "file_unique_id": "AQADVRFrGxsp-Uh4"
-      },
-      {
-        "height": 213,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF5GkfYumAm7MMJdzh8JGjkFuYN3f6AAJVEWsbGyn5SB5NQGM_BwQ3AQADAgADbQADNgQ",
-        "file_size": 9989,
-        "file_unique_id": "AQADVRFrGxsp-Uhy"
-      },
-      {
-        "height": 533,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF5GkfYumAm7MMJdzh8JGjkFuYN3f6AAJVEWsbGyn5SB5NQGM_BwQ3AQADAgADeAADNgQ",
-        "file_size": 52582,
-        "file_unique_id": "AQADVRFrGxsp-Uh9"
-      },
-      {
-        "height": 853,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF5GkfYumAm7MMJdzh8JGjkFuYN3f6AAJVEWsbGyn5SB5NQGM_BwQ3AQADAgADeQADNgQ",
-        "file_size": 79513,
-        "file_unique_id": "AQADVRFrGxsp-Uh-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763664617,
-    "message_id": 1508
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2749,5 +2690,48 @@
     },
     "date": 1764111902,
     "message_id": 1542
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5449681232193418122",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 10,
+        "type": "text_link",
+        "url": "https://t.me/roxtalk/351"
+      },
+      {
+        "length": 13,
+        "offset": 182,
+        "type": "mention"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "📐 Roxman сообщил, что для ускоренного решения «зависших» более чем на две недели проблем с маркетплейсом Portals пользователям следует продублировать свои заявки в Telegram-аккаунт @PortalsSolve, где их возьмётся обрабатывать отдельная команда.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764112779,
+    "message_id": 1543
   }
 ]
