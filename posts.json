@@ -1,76 +1,5 @@
 [
   {
-    "caption": "⚔ Azuki запустили игру Azuki Alley Escape.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5350765824674136498",
-        "length": 1,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 18,
-        "offset": 23,
-        "type": "text_link",
-        "url": "https://t.me/azukiEscapeBot/start?startapp=eyJyZWYiOjY1OTc3MzAzOH0"
-      },
-      {
-        "length": 1,
-        "offset": 41,
-        "type": "text_link",
-        "url": "https://t.me/azukiEscapeBot/start?startapp=eyJyZWYiOjY1OTc3MzAzOH0"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 42,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF4mkfNibJEWTJeEGXnj6SgsHML5AXAAIuEGsbGyn5SNCvAUIzGc8rAQADAgADcwADNgQ",
-        "file_size": 1274,
-        "file_unique_id": "AQADLhBrGxsp-Uh4"
-      },
-      {
-        "height": 320,
-        "width": 148,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF4mkfNibJEWTJeEGXnj6SgsHML5AXAAIuEGsbGyn5SNCvAUIzGc8rAQADAgADbQADNgQ",
-        "file_size": 17522,
-        "file_unique_id": "AQADLhBrGxsp-Uhy"
-      },
-      {
-        "height": 800,
-        "width": 369,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF4mkfNibJEWTJeEGXnj6SgsHML5AXAAIuEGsbGyn5SNCvAUIzGc8rAQADAgADeAADNgQ",
-        "file_size": 67861,
-        "file_unique_id": "AQADLhBrGxsp-Uh9"
-      },
-      {
-        "height": 1280,
-        "width": 591,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF4mkfNibJEWTJeEGXnj6SgsHML5AXAAIuEGsbGyn5SNCvAUIzGc8rAQADAgADeQADNgQ",
-        "file_size": 86207,
-        "file_unique_id": "AQADLhBrGxsp-Uh-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763653158,
-    "message_id": 1506
-  },
-  {
     "caption": "💎 На Seeking Alpha вышел материал, где автор объясняет причины покупки акций TON Strategy.",
     "caption_entities": [
       {
@@ -2770,5 +2699,44 @@
     },
     "date": 1764106530,
     "message_id": 1541
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1764107721,
+    "entities": [
+      {
+        "custom_emoji_id": "5310031775018285687",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 32,
+        "type": "text_link",
+        "url": "https://t.me/jpegmillionaire/613"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🪟 Автор канала JpegMillionaire сообщил, что за три недели пользователи маркетплейса Portals вывели 60 тыс. подарков, из‑за чего их количество сократилось с 473 тыс. до 413 тыс.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764105136,
+    "message_id": 1540
   }
 ]
