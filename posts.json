@@ -1,76 +1,5 @@
 [
   {
-    "caption": "🎁 Агрегатор Thermos запустил функцию платных уведомлений, которая отслеживает появление подарков на маркетплейсах по заданным пользователем поисковым фильтрам.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5402276844923811424",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 13,
-        "type": "text_link",
-        "url": "https://t.me/thermos/thermos?startapp=ref_1325a707-f392-4bc5-b73d-eb1797f8e9db"
-      },
-      {
-        "length": 8,
-        "offset": 21,
-        "type": "text_link",
-        "url": "https://t.me/thermos_news/30"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF7GkgeD1PjwUS8B5Vzm8fG6LYxrOLAAL3D2sbFUQBSW1jAWAyRsPNAQADAgADcwADNgQ",
-        "file_size": 1305,
-        "file_unique_id": "AQAD9w9rGxVEAUl4"
-      },
-      {
-        "height": 320,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF7GkgeD1PjwUS8B5Vzm8fG6LYxrOLAAL3D2sbFUQBSW1jAWAyRsPNAQADAgADbQADNgQ",
-        "file_size": 13593,
-        "file_unique_id": "AQAD9w9rGxVEAUly"
-      },
-      {
-        "height": 1000,
-        "width": 1000,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF7GkgeD1PjwUS8B5Vzm8fG6LYxrOLAAL3D2sbFUQBSW1jAWAyRsPNAQADAgADeQADNgQ",
-        "file_size": 32703,
-        "file_unique_id": "AQAD9w9rGxVEAUl-"
-      },
-      {
-        "height": 800,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF7GkgeD1PjwUS8B5Vzm8fG6LYxrOLAAL3D2sbFUQBSW1jAWAyRsPNAQADAgADeAADNgQ",
-        "file_size": 43996,
-        "file_unique_id": "AQAD9w9rGxVEAUl9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763735612,
-    "message_id": 1516
-  },
-  {
     "caption": "🐦 Криптовалютному сервису Whitebird исполнилось 5 лет.",
     "caption_entities": [
       {
@@ -2706,6 +2635,66 @@
     ],
     "channel_chat_created": false,
     "delete_chat_photo": false,
+    "group_chat_created": false,
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "video": {
+      "file_name": "IMG_5438.MP4",
+      "height": 1280,
+      "mime_type": "video/mp4",
+      "width": 704,
+      "thumbnail": {
+        "height": 320,
+        "width": 176,
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgYRaSdTsXdtqtyGhxWqRCpuwPBbLBEAAh-OAAJ9H0FJwAMmM5G6bx8BAAdtAAM2BA",
+        "file_size": 15231,
+        "file_unique_id": "AQADH44AAn0fQUly"
+      },
+      "file_id": "BAACAgIAAyEFAASerMeaAAIGEWknU7F3barchocVqkQqbsDwWywRAAIfjgACfR9BScADJjORum8fNgQ",
+      "file_size": 8251991,
+      "file_unique_id": "AgADH44AAn0fQUk",
+      "duration": 22,
+      "thumb": {
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgYRaSdTsXdtqtyGhxWqRCpuwPBbLBEAAh-OAAJ9H0FJwAMmM5G6bx8BAAdtAAM2BA",
+        "file_unique_id": "AQADH44AAn0fQUly",
+        "file_size": 15231,
+        "width": 176,
+        "height": 320
+      }
+    },
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764185009,
+    "message_id": 1553
+  },
+  {
+    "caption": "💎 Юлия Вавилова рассказала, что у неё появился новый питомец — трёхмесячный мини‑козлёнок по кличке TONSKI.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 11,
+        "offset": 17,
+        "type": "text_link",
+        "url": "https://t.me/julivavilovaa/1040"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1764185812,
     "group_chat_created": false,
     "sender_chat": {
       "id": -1002662123418,
