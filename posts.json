@@ -2,44 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5314597028901190799",
-        "length": 3,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 21,
-        "type": "text_link",
-        "url": "https://x.com/gameetoken/status/1991614314575458320?s=46"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🅰️ AlphaTON Capital увеличит долю в проекте GAMEE до 60%, что должно позволить ей стать первой игровой Web3-компанией с листингом на бирже Nasdaq.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763677559,
-    "message_id": 1511
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1763692988,
     "entities": [
       {
@@ -2728,5 +2690,43 @@
     },
     "date": 1764151772,
     "message_id": 1545
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 17,
+        "offset": 39,
+        "type": "text_link",
+        "url": "https://t.me/TheOpenCemetery"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 В Telegram 25 ноября появился канал The Open Cemetery для отслеживания закрывшихся проектов на блокчейне TON.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764160358,
+    "message_id": 1546
   }
 ]
