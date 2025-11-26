@@ -1,40 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 2,
-        "type": "custom_emoji"
-      }
-    ],
-    "group_chat_created": false,
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "✈️💎 Николай Дуров, сооснователь Telegram и автор whitepaper TON, сегодня отмечает 45-летие.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763723471,
-    "message_id": 1513
-  },
-  {
     "caption": "💎 CMO TON Foundation Gerardo Carucci выступил на конференции #CCCCLisbon2025 с речью о будущем контента в Web3, призвав создателей не бояться рисковать и использовать личный опыт для построения глобальных брендов.",
     "caption_entities": [
       {
@@ -2732,5 +2697,76 @@
     },
     "date": 1764163814,
     "message_id": 1548
+  },
+  {
+    "caption": "🎁 Сервис xGift официально запустил опцию передачи Telegram‑аккаунтов с неулучшенными подарками на свой маркетплейс, позволяющую владельцам профилей с коллекцией от 100 000 Телеграм‑звёзд продавать такие подарки поштучно.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440615647153256792",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 5,
+        "offset": 10,
+        "type": "text_link",
+        "url": "https://t.me/xgift/?startapp=ref-d85db7ddaf2aa572bf9635a6a5e12d9d"
+      },
+      {
+        "length": 8,
+        "offset": 27,
+        "type": "text_link",
+        "url": "https://t.me/xgiftnewsru/22"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 54,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGDWknA0eWagtlFhuAzRqcMSxWVjdVAAIkEGsbfR85SXw822B7SBE1AQADAgADcwADNgQ",
+        "file_size": 1522,
+        "file_unique_id": "AQADJBBrG30fOUl4"
+      },
+      {
+        "height": 192,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGDWknA0eWagtlFhuAzRqcMSxWVjdVAAIkEGsbfR85SXw822B7SBE1AQADAgADbQADNgQ",
+        "file_size": 18946,
+        "file_unique_id": "AQADJBBrG30fOUly"
+      },
+      {
+        "height": 480,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGDWknA0eWagtlFhuAzRqcMSxWVjdVAAIkEGsbfR85SXw822B7SBE1AQADAgADeAADNgQ",
+        "file_size": 65769,
+        "file_unique_id": "AQADJBBrG30fOUl9"
+      },
+      {
+        "height": 768,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGDWknA0eWagtlFhuAzRqcMSxWVjdVAAIkEGsbfR85SXw822B7SBE1AQADAgADeQADNgQ",
+        "file_size": 79428,
+        "file_unique_id": "AQADJBBrG30fOUl-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764164423,
+    "message_id": 1549
   }
 ]
