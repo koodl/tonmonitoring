@@ -2,45 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "edit_date": 1763692988,
-    "entities": [
-      {
-        "custom_emoji_id": "5314597028901190799",
-        "length": 3,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 21,
-        "type": "text_link",
-        "url": "https://x.com/gameetoken/status/1991614314575458320?s=46"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🅰️ AlphaTON Capital увеличит долю в проекте GAMEE до 60%, что должно позволить ей стать первой игровой Web3-компанией с листингом на бирже Nasdaq.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763677559,
-    "message_id": 1511
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "entities": [
       {
         "custom_emoji_id": "5440671546152610057",
@@ -2728,5 +2689,48 @@
     },
     "date": 1764160358,
     "message_id": 1546
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440627174845473301",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 6,
+        "offset": 13,
+        "type": "text_link",
+        "url": "https://t.me/NFTDevOps/72"
+      },
+      {
+        "length": 10,
+        "offset": 20,
+        "type": "mention"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🖼 По данным отчета @NFTDevOps, с января 2025 года на Fragment было уплачено в общей сложности 606 000 TON за апгрейд 606 бот-юзернеймов.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764161180,
+    "message_id": 1547
   }
 ]
