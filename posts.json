@@ -1,41 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1763731581,
-    "entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 2,
-        "type": "custom_emoji"
-      }
-    ],
-    "group_chat_created": false,
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "✈️💎 Николай Дуров, сооснователь Telegram и автор whitepaper TON, сегодня отмечает 45-летие.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763723471,
-    "message_id": 1513
-  },
-  {
     "caption": "💎 CMO TON Foundation Gerardo Carucci выступил на конференции #CCCCLisbon2025 с речью о будущем контента в Web3, призвав создателей не бояться рисковать и использовать личный опыт для построения глобальных брендов.",
     "caption_entities": [
       {
@@ -2762,5 +2726,43 @@
     },
     "date": 1764168785,
     "message_id": 1551
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5456285538979965369",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 18,
+        "type": "text_link",
+        "url": "https://x.com/takoy_sasha/status/1993732840765243845?s=46"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🆗 Саша Плотвинов допустил для TON и web3-приложений возможность двухлетнего периода низкой активности по сценарию 2022–2024 годов, отметив неизбежность влияния общих рыночных трендов.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764178427,
+    "message_id": 1552
   }
 ]
