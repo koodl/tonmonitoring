@@ -4,44 +4,6 @@
     "delete_chat_photo": false,
     "entities": [
       {
-        "custom_emoji_id": "5442704457253020400",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 10,
-        "type": "text_link",
-        "url": "https://t.me/TonGentlemens/8968"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🔁 DeDust опроверг обвинения Ton Raffles в нарушении договоренностей, заявив, что сотрудничество ограничивалось поддержкой двух конкретных токенов, а предложенное альтернативное решение для новых пулов было отвергнуто партнерами.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763669776,
-    "message_id": 1510
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
         "custom_emoji_id": "5314597028901190799",
         "length": 3,
         "offset": 0,
@@ -2732,5 +2694,39 @@
     },
     "date": 1764150395,
     "message_id": 1544
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5265112348451960063",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 10,
+        "offset": 16,
+        "type": "mention"
+      }
+    ],
+    "group_chat_created": false,
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🗞 Набор эмодзи @ton_flags от TON Monitoring набрал более 200 тысяч использований и 2500 установок за весь период существования.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764151772,
+    "message_id": 1545
   }
 ]
