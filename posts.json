@@ -1,75 +1,5 @@
 [
   {
-    "caption": "💎 CMO TON Foundation Gerardo Carucci выступил на конференции #CCCCLisbon2025 с речью о будущем контента в Web3, призвав создателей не бояться рисковать и использовать личный опыт для построения глобальных брендов.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 38,
-        "type": "text_link",
-        "url": "https://x.com/ccccampus/status/1991506905521615116?s=46"
-      },
-      {
-        "length": 15,
-        "offset": 62,
-        "type": "hashtag"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 60,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF6mkgULGhDgoh45EjEx2tfEU7zmExAAKvDmsbFUQBSXfSOxpWD4g5AQADAgADcwADNgQ",
-        "file_size": 1647,
-        "file_unique_id": "AQADrw5rGxVEAUl4"
-      },
-      {
-        "height": 213,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF6mkgULGhDgoh45EjEx2tfEU7zmExAAKvDmsbFUQBSXfSOxpWD4g5AQADAgADbQADNgQ",
-        "file_size": 17603,
-        "file_unique_id": "AQADrw5rGxVEAUly"
-      },
-      {
-        "height": 533,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF6mkgULGhDgoh45EjEx2tfEU7zmExAAKvDmsbFUQBSXfSOxpWD4g5AQADAgADeAADNgQ",
-        "file_size": 73623,
-        "file_unique_id": "AQADrw5rGxVEAUl9"
-      },
-      {
-        "height": 853,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF6mkgULGhDgoh45EjEx2tfEU7zmExAAKvDmsbFUQBSXfSOxpWD4g5AQADAgADeQADNgQ",
-        "file_size": 99466,
-        "file_unique_id": "AQADrw5rGxVEAUl-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763725489,
-    "message_id": 1514
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "edit_date": 1763731575,
@@ -2768,5 +2698,43 @@
     },
     "date": 1764164423,
     "message_id": 1549
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5314597028901190799",
+        "length": 3,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 36,
+        "type": "text_link",
+        "url": "https://www.globenewswire.com/news-release/2025/11/26/3195187/0/en/AlphaTON-Capital-Announces-82-5-Million-Strategic-GPU-Infrastructure-Investment-to-Power-Privacy-First-Decentralized-AI-after-Successful-Pilot-Launch-of-Telegram-s-Cocoon-AI.html"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🅰️ AlphaTON Capital (Nasdaq: ATON) объявила о вложении $82,5 млн в GPU-инфраструктуру, включая закупку и развертывание кластера из 1000+ Nvidia B200 GPU стоимостью около $68 млн для поддержки Cocoon AI, при этом общий объем активов компании достиг $97 млн. AlphaTON успешно запустил пилотную программу с Cocoon AI 25 ноября 2025 года.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764167719,
+    "message_id": 1550
   }
 ]
