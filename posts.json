@@ -1,70 +1,5 @@
 [
   {
-    "caption": "✈️ Павел Дуров сообщил, что завтра в 12:00 EST в Telegram начнется аукцион легендарных папах Хабиба Нурмагомедова.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440479333481217835",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 15,
-        "type": "text_link",
-        "url": "https://t.me/durov/460"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 88,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF72kgzURbEAeV7Ywt7rZwD04GR6UAA-MMaxsVRAlJZR10apDFe4wBAAMCAANzAAM2BA",
-        "file_size": 1431,
-        "file_unique_id": "AQAD4wxrGxVECUl4"
-      },
-      {
-        "height": 313,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF72kgzURbEAeV7Ywt7rZwD04GR6UAA-MMaxsVRAlJZR10apDFe4wBAAMCAANtAAM2BA",
-        "file_size": 14690,
-        "file_unique_id": "AQAD4wxrGxVECUly"
-      },
-      {
-        "height": 782,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF72kgzURbEAeV7Ywt7rZwD04GR6UAA-MMaxsVRAlJZR10apDFe4wBAAMCAAN4AAM2BA",
-        "file_size": 51940,
-        "file_unique_id": "AQAD4wxrGxVECUl9"
-      },
-      {
-        "height": 1252,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF72kgzURbEAeV7Ywt7rZwD04GR6UAA-MMaxsVRAlJZR10apDFe4wBAAMCAAN5AAM2BA",
-        "file_size": 62455,
-        "file_unique_id": "AQAD4wxrGxVECUl-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763757380,
-    "message_id": 1519
-  },
-  {
     "caption": "💎 В отчете о развитии экосистемы TON за октябрь 2025 года зафиксирован пиковый дневной объем торгов NFT в $4,9 млн, а количество держателей подарков в Telegram выросло до 1,96 млн пользователей.",
     "caption_entities": [
       {
@@ -2734,5 +2669,70 @@
     },
     "date": 1764188235,
     "message_id": 1554
+  },
+  {
+    "caption": "🪙 TONSKI уже занимает 2е место в лидерборде Meme Republic.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5197450760815668186",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 14,
+        "type": "text_link",
+        "url": "https://www.tonmemerepublic.com/leaderboard"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 44,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGE2knb62nJ4Ad3LPlZefoXuXc3iQkAAKqDmsbfR9BSV7yzpL73Ni8AQADAgADcwADNgQ",
+        "file_size": 905,
+        "file_unique_id": "AQADqg5rG30fQUl4"
+      },
+      {
+        "height": 320,
+        "width": 156,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGE2knb62nJ4Ad3LPlZefoXuXc3iQkAAKqDmsbfR9BSV7yzpL73Ni8AQADAgADbQADNgQ",
+        "file_size": 10472,
+        "file_unique_id": "AQADqg5rG30fQUly"
+      },
+      {
+        "height": 800,
+        "width": 391,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGE2knb62nJ4Ad3LPlZefoXuXc3iQkAAKqDmsbfR9BSV7yzpL73Ni8AQADAgADeAADNgQ",
+        "file_size": 40416,
+        "file_unique_id": "AQADqg5rG30fQUl9"
+      },
+      {
+        "height": 1280,
+        "width": 626,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGE2knb62nJ4Ad3LPlZefoXuXc3iQkAAKqDmsbfR9BSV7yzpL73Ni8AQADAgADeQADNgQ",
+        "file_size": 51449,
+        "file_unique_id": "AQADqg5rG30fQUl-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764192173,
+    "message_id": 1555
   }
 ]
