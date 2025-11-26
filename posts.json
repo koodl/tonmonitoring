@@ -2,51 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "edit_date": 1763669287,
-    "entities": [
-      {
-        "custom_emoji_id": "5442704457253020400",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 13,
-        "offset": 15,
-        "type": "text_link",
-        "url": "https://t.me/tonraffles_ru/798"
-      },
-      {
-        "length": 5,
-        "offset": 202,
-        "type": "text_link",
-        "url": "https://t.me/TonGentlemens/8968"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🔁 Ton Raffles приостановила работу модуля Taxes Tokens после того, как DeDust в одностороннем порядке отключил создание совместимых пулов ликвидности, нарушив ранее достигнутые соглашения.\nОбновление: ответ фаундера DeDust.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763667002,
-    "message_id": 1509
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "entities": [
       {
         "custom_emoji_id": "5442704457253020400",
@@ -2739,5 +2694,43 @@
     },
     "date": 1764112779,
     "message_id": 1543
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 27,
+        "type": "text_link",
+        "url": "https://t.me/zicelaqo/4245"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "✈️ Telegram-канал Zicelaqo сообщил, что Хабиб Нурмагомедов удалил из Twitter и Instagram все публикации, связанные с партнерством с Telegram и цифровыми подарками.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764150395,
+    "message_id": 1544
   }
 ]
