@@ -2,44 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5442704457253020400",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 13,
-        "offset": 15,
-        "type": "text_link",
-        "url": "https://t.me/tonraffles_ru/798"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🔁 Ton Raffles приостановила работу модуля Taxes Tokens после того, как DeDust в одностороннем порядке отключил создание совместимых пулов ликвидности, нарушив ранее достигнутые соглашения.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763667002,
-    "message_id": 1509
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1763669287,
     "entities": [
       {
@@ -2694,6 +2656,50 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5449681232193418122",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 10,
+        "type": "text_link",
+        "url": "https://t.me/roxtalk/351"
+      },
+      {
+        "length": 13,
+        "offset": 182,
+        "type": "mention"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "📐 Roxman сообщил, что для ускоренного решения «зависших» более чем на две недели проблем с маркетплейсом Portals пользователям следует продублировать свои заявки в Telegram-аккаунт @PortalsSolve, где их возьмётся обрабатывать отдельная команда.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764112779,
+    "message_id": 1543
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1764125497,
     "entities": [
       {
         "custom_emoji_id": "5449681232193418122",
