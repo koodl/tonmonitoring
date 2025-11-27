@@ -1,65 +1,5 @@
 [
   {
-    "caption": "💎 В отчете о развитии экосистемы TON за октябрь 2025 года зафиксирован пиковый дневной объем торгов NFT в $4,9 млн, а количество держателей подарков в Telegram выросло до 1,96 млн пользователей.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1763812238,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 80,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF8GkhWNzua9WCEOoP-aypkJGGFhBTAAKEDmsbFUQJSYEGVAEjdfHvAQADAgADcwADNgQ",
-        "file_size": 1446,
-        "file_unique_id": "AQADhA5rGxVECUl4"
-      },
-      {
-        "height": 320,
-        "width": 283,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF8GkhWNzua9WCEOoP-aypkJGGFhBTAAKEDmsbFUQJSYEGVAEjdfHvAQADAgADbQADNgQ",
-        "file_size": 19391,
-        "file_unique_id": "AQADhA5rGxVECUly"
-      },
-      {
-        "height": 1050,
-        "width": 928,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF8GkhWNzua9WCEOoP-aypkJGGFhBTAAKEDmsbFUQJSYEGVAEjdfHvAQADAgADeQADNgQ",
-        "file_size": 67976,
-        "file_unique_id": "AQADhA5rGxVECUl-"
-      },
-      {
-        "height": 800,
-        "width": 707,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF8GkhWNzua9WCEOoP-aypkJGGFhBTAAKEDmsbFUQJSYEGVAEjdfHvAQADAgADeAADNgQ",
-        "file_size": 72183,
-        "file_unique_id": "AQADhA5rGxVECUl9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763793116,
-    "message_id": 1520
-  },
-  {
     "caption": "✈️ Павел Дуров сообщил, что завтра в 12:00 EST в Telegram начнется аукцион легендарных папах Хабиба Нурмагомедова.",
     "caption_entities": [
       {
@@ -2716,5 +2656,70 @@
     },
     "date": 1764240893,
     "message_id": 1557
+  },
+  {
+    "caption": "🧑‍💻 «Код Дурова» сообщил, что обновление дизайна мобильного приложения Telegram привело к сбоям в работе функции VoiceOver, из-за чего навигационная панель и другие элементы управления стали недоступны для пользователей с нарушениями зрения.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5472237906510770280",
+        "length": 5,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 19,
+        "type": "text_link",
+        "url": "https://kod.ru/telegram-accessibility-issues"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 60,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGFmkoW8O0f17OlZobYKU3Ii2z1Ee5AALXDmsbEMVBSe1E1yscsHzQAQADAgADcwADNgQ",
+        "file_size": 919,
+        "file_unique_id": "AQAD1w5rGxDFQUl4"
+      },
+      {
+        "height": 213,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGFmkoW8O0f17OlZobYKU3Ii2z1Ee5AALXDmsbEMVBSe1E1yscsHzQAQADAgADbQADNgQ",
+        "file_size": 9439,
+        "file_unique_id": "AQAD1w5rGxDFQUly"
+      },
+      {
+        "height": 533,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGFmkoW8O0f17OlZobYKU3Ii2z1Ee5AALXDmsbEMVBSe1E1yscsHzQAQADAgADeAADNgQ",
+        "file_size": 34167,
+        "file_unique_id": "AQAD1w5rGxDFQUl9"
+      },
+      {
+        "height": 853,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGFmkoW8O0f17OlZobYKU3Ii2z1Ee5AALXDmsbEMVBSe1E1yscsHzQAQADAgADeQADNgQ",
+        "file_size": 41845,
+        "file_unique_id": "AQAD1w5rGxDFQUl-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764252611,
+    "message_id": 1558
   }
 ]
