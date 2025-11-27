@@ -1,71 +1,5 @@
 [
   {
-    "caption": "✈️ Павел Дуров сообщил, что завтра в 12:00 EST в Telegram начнется аукцион легендарных папах Хабиба Нурмагомедова.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440479333481217835",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 15,
-        "type": "text_link",
-        "url": "https://t.me/durov/460"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1763812249,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 88,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF72kgzURbEAeV7Ywt7rZwD04GR6UAA-MMaxsVRAlJZR10apDFe4wBAAMCAANzAAM2BA",
-        "file_size": 1431,
-        "file_unique_id": "AQAD4wxrGxVECUl4"
-      },
-      {
-        "height": 313,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF72kgzURbEAeV7Ywt7rZwD04GR6UAA-MMaxsVRAlJZR10apDFe4wBAAMCAANtAAM2BA",
-        "file_size": 14690,
-        "file_unique_id": "AQAD4wxrGxVECUly"
-      },
-      {
-        "height": 782,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF72kgzURbEAeV7Ywt7rZwD04GR6UAA-MMaxsVRAlJZR10apDFe4wBAAMCAAN4AAM2BA",
-        "file_size": 51940,
-        "file_unique_id": "AQAD4wxrGxVECUl9"
-      },
-      {
-        "height": 1252,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF72kgzURbEAeV7Ywt7rZwD04GR6UAA-MMaxsVRAlJZR10apDFe4wBAAMCAAN5AAM2BA",
-        "file_size": 62455,
-        "file_unique_id": "AQAD4wxrGxVECUl-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763757380,
-    "message_id": 1519
-  },
-  {
     "caption": "💎 Директор TON Strategy Rory J. Cutaia уведомил SEC о планируемой продаже 887 374 обыкновенных акций компании оценочной стоимостью $2,6 млн.",
     "caption_entities": [
       {
@@ -2721,5 +2655,70 @@
     },
     "date": 1764252611,
     "message_id": 1558
+  },
+  {
+    "caption": "✈️ В Telegram стартовал новогодний фестиваль Gift Fest, в рамках которого анонсирован розыгрыш 100 000 подарков общим фондом $400 000.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 10,
+        "offset": 45,
+        "type": "text_link",
+        "url": "https://t.me/giftfest_bot/app?startapp=UkM9MDAwMDAwaWVMNmMmUlM9aW52aXRlX2ZyaWVuZA%3D%3D"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGF2koYdJNhm5C88ArjbaQtaTITAwWAAICD2sbEMVBSesUF_-JUIGoAQADAgADcwADNgQ",
+        "file_size": 1767,
+        "file_unique_id": "AQADAg9rGxDFQUl4"
+      },
+      {
+        "height": 320,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGF2koYdJNhm5C88ArjbaQtaTITAwWAAICD2sbEMVBSesUF_-JUIGoAQADAgADbQADNgQ",
+        "file_size": 24107,
+        "file_unique_id": "AQADAg9rGxDFQUly"
+      },
+      {
+        "height": 1080,
+        "width": 1080,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGF2koYdJNhm5C88ArjbaQtaTITAwWAAICD2sbEMVBSesUF_-JUIGoAQADAgADeQADNgQ",
+        "file_size": 84932,
+        "file_unique_id": "AQADAg9rGxDFQUl-"
+      },
+      {
+        "height": 800,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGF2koYdJNhm5C88ArjbaQtaTITAwWAAICD2sbEMVBSesUF_-JUIGoAQADAgADeAADNgQ",
+        "file_size": 89393,
+        "file_unique_id": "AQADAg9rGxDFQUl9"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764254162,
+    "message_id": 1559
   }
 ]
