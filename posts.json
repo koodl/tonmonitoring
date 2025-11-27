@@ -1,64 +1,5 @@
 [
   {
-    "caption": "💎 Директор TON Strategy Rory J. Cutaia уведомил SEC о планируемой продаже 887 374 обыкновенных акций компании оценочной стоимостью $2,6 млн.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5238004177031953682",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 40,
-        "type": "text_link",
-        "url": "https://www.sec.gov/Archives/edgar/data/1566610/000194984625000623/xsl144X01/primary_doc.xml"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1763812273,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF8mkhZkJSfJso1F_-h1uJqn1t70mYAAK0DmsbFUQJSTA4chS3jD61AQADAgADcwADNgQ",
-        "file_size": 1462,
-        "file_unique_id": "AQADtA5rGxVECUl4"
-      },
-      {
-        "height": 384,
-        "width": 384,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF8mkhZkJSfJso1F_-h1uJqn1t70mYAAK0DmsbFUQJSTA4chS3jD61AQADAgADeAADNgQ",
-        "file_size": 13744,
-        "file_unique_id": "AQADtA5rGxVECUl9"
-      },
-      {
-        "height": 320,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF8mkhZkJSfJso1F_-h1uJqn1t70mYAAK0DmsbFUQJSTA4chS3jD61AQADAgADbQADNgQ",
-        "file_size": 15328,
-        "file_unique_id": "AQADtA5rGxVECUly"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763796546,
-    "message_id": 1522
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2720,5 +2661,71 @@
     },
     "date": 1764254162,
     "message_id": 1559
+  },
+  {
+    "caption": "🧑‍💻 «Код Дурова» сообщил, что обновление дизайна мобильного приложения Telegram привело к сбоям в работе функции VoiceOver, из-за чего навигационная панель и другие элементы управления стали недоступны для пользователей с нарушениями зрения.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5472237906510770280",
+        "length": 5,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 19,
+        "type": "text_link",
+        "url": "https://kod.ru/telegram-accessibility-issues"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1764257327,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 60,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGFmkoW8O0f17OlZobYKU3Ii2z1Ee5AALXDmsbEMVBSe1E1yscsHzQAQADAgADcwADNgQ",
+        "file_size": 919,
+        "file_unique_id": "AQAD1w5rGxDFQUl4"
+      },
+      {
+        "height": 213,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGFmkoW8O0f17OlZobYKU3Ii2z1Ee5AALXDmsbEMVBSe1E1yscsHzQAQADAgADbQADNgQ",
+        "file_size": 9439,
+        "file_unique_id": "AQAD1w5rGxDFQUly"
+      },
+      {
+        "height": 533,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGFmkoW8O0f17OlZobYKU3Ii2z1Ee5AALXDmsbEMVBSe1E1yscsHzQAQADAgADeAADNgQ",
+        "file_size": 34167,
+        "file_unique_id": "AQAD1w5rGxDFQUl9"
+      },
+      {
+        "height": 853,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGFmkoW8O0f17OlZobYKU3Ii2z1Ee5AALXDmsbEMVBSe1E1yscsHzQAQADAgADeQADNgQ",
+        "file_size": 41845,
+        "file_unique_id": "AQAD1w5rGxDFQUl-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764252611,
+    "message_id": 1558
   }
 ]
