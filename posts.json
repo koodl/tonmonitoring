@@ -1,55 +1,5 @@
 [
   {
-    "caption": "💎 Вышел отчет по экосистеме за октябрь 2025 от TON Foundation.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "document": {
-      "file_name": "2025-10.pdf",
-      "mime_type": "application/pdf",
-      "thumbnail": {
-        "height": 320,
-        "width": 226,
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgXxaSFY8ZXXNuw6IV0HXngJZFSODzEAAmuNAAIVRAlJNQckUsaEsGkBAAdtAAM2BA",
-        "file_size": 9611,
-        "file_unique_id": "AQADa40AAhVECUly"
-      },
-      "file_id": "BQACAgIAAyEFAASerMeaAAIF8WkhWPGV1zbsOiFdB154CWRUjg8xAAJrjQACFUQJSTUHJFLGhLBpNgQ",
-      "file_size": 14425078,
-      "file_unique_id": "AgADa40AAhVECUk",
-      "thumb": {
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgXxaSFY8ZXXNuw6IV0HXngJZFSODzEAAmuNAAIVRAlJNQckUsaEsGkBAAdtAAM2BA",
-        "file_unique_id": "AQADa40AAhVECUly",
-        "file_size": 9611,
-        "width": 226,
-        "height": 320
-      }
-    },
-    "group_chat_created": false,
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763793137,
-    "message_id": 1521
-  },
-  {
     "caption": "💎 Директор TON Strategy Co TON Strategy Rory J. Cutaia уведомил SEC о планируемой продаже 887 374 обыкновенных акций компании оценочной стоимостью $2,6 млн.",
     "caption_entities": [
       {
@@ -2740,5 +2690,43 @@
     },
     "date": 1764240414,
     "message_id": 1556
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5238004177031953682",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 5,
+        "offset": 57,
+        "type": "text_link",
+        "url": "https://www.sec.gov/Archives/edgar/data/1623811/000149315225025238/xslF345X05/ownership.xml"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 Инсайдер Rory J. Cutaia, директор TON Strategy, подал отчёт в SEC Form 4 о продаже обыкновенных акций компании 24–26 ноября 2025 года, всего продано 390 940 акций по цене примерно $3,05–3,096, после чего у него осталось 508 930 акций.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764240893,
+    "message_id": 1557
   }
 ]
