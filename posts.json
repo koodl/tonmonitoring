@@ -1,70 +1,5 @@
 [
   {
-    "caption": "✈️ Николай Кононов в декабре выпустит продолжение книги «Код Дурова», в котором рассмотрит трансформацию Павла Дурова от программиста до криптопопулиста, а также историю провала проекта Gram и его перерождения в TON.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440479333481217835",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 29,
-        "type": "text_link",
-        "url": "https://www.forbes.ru/tekhnologii/550454-zil-by-kak-svatoj-cto-pomesalo-pavlu-durovu-pobedit-v-bitve-dobra-s-nejtralitetom"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 60,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF9Gki1VseMpR3IxmVnUtMeAOysy4vAAJqDGsb7FsYSVzaRPoiC0WCAQADAgADcwADNgQ",
-        "file_size": 1304,
-        "file_unique_id": "AQADagxrG-xbGEl4"
-      },
-      {
-        "height": 320,
-        "width": 214,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF9Gki1VseMpR3IxmVnUtMeAOysy4vAAJqDGsb7FsYSVzaRPoiC0WCAQADAgADbQADNgQ",
-        "file_size": 13550,
-        "file_unique_id": "AQADagxrG-xbGEly"
-      },
-      {
-        "height": 1050,
-        "width": 702,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF9Gki1VseMpR3IxmVnUtMeAOysy4vAAJqDGsb7FsYSVzaRPoiC0WCAQADAgADeQADNgQ",
-        "file_size": 45121,
-        "file_unique_id": "AQADagxrG-xbGEl-"
-      },
-      {
-        "height": 800,
-        "width": 535,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF9Gki1VseMpR3IxmVnUtMeAOysy4vAAJqDGsb7FsYSVzaRPoiC0WCAQADAgADeAADNgQ",
-        "file_size": 49384,
-        "file_unique_id": "AQADagxrG-xbGEl9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763890523,
-    "message_id": 1524
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2754,5 +2689,48 @@
     },
     "date": 1764261748,
     "message_id": 1560
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 51,
+        "type": "text_link",
+        "url": "https://www.binance.com/en/square/post/11-27-2025-nexton-solutions-secures-4-million-in-strategic-funding-32937171418050"
+      },
+      {
+        "length": 7,
+        "offset": 118,
+        "type": "url"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 По данным BlockBeats, протокол Nexton Solutions привлек $4 млн стратегических инвестиций от Danal, TON Foundation, STON.fi и других партнеров для развития ИИ-системы автоматизации кросс-чейн генерации доходности.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764271419,
+    "message_id": 1561
   }
 ]
