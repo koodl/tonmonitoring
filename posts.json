@@ -1,43 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 16,
-        "type": "text_link",
-        "url": "https://t.me/exploitex/29675"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "✈️ Роскомнадзор опроверг распространённые в Telegram‑СМИ сообщения о якобы признании слова «ж*па» нецензурным, указав, что в выпущенном в мае Толковом словаре государственного языка РФ оно лишь отнесено к ругательствам и его использование не запрещено.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763983634,
-    "message_id": 1527
-  },
-  {
     "caption": "👛 Крипто Кошелек анонсировал листинг токена Monad с открытием депозитов в 13:00 UTC и запуском обменных операций после 15:10 UTC.",
     "caption_entities": [
       {
@@ -2716,6 +2678,50 @@
     },
     "supergroup_chat_created": false,
     "text": "💎 Пользователь @julia_innovator предостерегла разработчиков от призов в кредитах Adsgram, сообщив о накрутке ботов вместо реальных пользователей и аннулировании выигрыша в $25 000 у проекта Aqua Protocol.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764338133,
+    "message_id": 1564
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1764338707,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 16,
+        "offset": 3,
+        "type": "mention"
+      },
+      {
+        "length": 13,
+        "offset": 20,
+        "type": "text_link",
+        "url": "https://t.me/julia_innovator_blog/431"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "url": "http://t.me/julia_innovator_blog/431"
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 @julia_innovator предостерегла разработчиков от призов в кредитах Adsgram, сообщив о накрутке ботов вместо реальных пользователей и аннулировании выигрыша в $25 000 у проекта Aqua Protocol.",
     "chat": {
       "id": -1002662123418,
       "title": "TON Monitoring",
