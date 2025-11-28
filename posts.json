@@ -1,71 +1,5 @@
 [
   {
-    "caption": "👛 Крипто Кошелек анонсировал листинг токена Monad с открытием депозитов в 13:00 UTC и запуском обменных операций после 15:10 UTC.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440704428422229664",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 11,
-        "offset": 18,
-        "type": "text_link",
-        "url": "https://t.me/cryptowallet_news_cis/588"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1763997405,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF-GkkSgAB5IhunniK9wyP10rDSVNTLAACEA5rGwABpiFJYie59IyoZ14BAAMCAANzAAM2BA",
-        "file_size": 1595,
-        "file_unique_id": "AQADEA5rGwABpiFJeA"
-      },
-      {
-        "height": 320,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF-GkkSgAB5IhunniK9wyP10rDSVNTLAACEA5rGwABpiFJYie59IyoZ14BAAMCAANtAAM2BA",
-        "file_size": 16616,
-        "file_unique_id": "AQADEA5rGwABpiFJcg"
-      },
-      {
-        "height": 800,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF-GkkSgAB5IhunniK9wyP10rDSVNTLAACEA5rGwABpiFJYie59IyoZ14BAAMCAAN4AAM2BA",
-        "file_size": 55243,
-        "file_unique_id": "AQADEA5rGwABpiFJfQ"
-      },
-      {
-        "height": 1280,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF-GkkSgAB5IhunniK9wyP10rDSVNTLAACEA5rGwABpiFJYie59IyoZ14BAAMCAAN5AAM2BA",
-        "file_size": 60397,
-        "file_unique_id": "AQADEA5rGwABpiFJfg"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763985921,
-    "message_id": 1528
-  },
-  {
     "caption": "🪙 Проект LAMBO стал победителем второй недели соревнования мемкоинов MemeRepublic.",
     "caption_entities": [
       {
@@ -2690,5 +2624,93 @@
     },
     "date": 1764347055,
     "message_id": 1566
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5449428481957982088",
+        "length": 3,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 12,
+        "type": "text_link",
+        "url": "https://t.me/julia_innovator_blog/431?comment=12650"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "url": "https://t.me/julia_innovator_blog/431?comment=12650"
+    },
+    "reply_to_message": {
+      "channel_chat_created": false,
+      "delete_chat_photo": false,
+      "edit_date": 1764345678,
+      "entities": [
+        {
+          "custom_emoji_id": "5440671546152610057",
+          "length": 2,
+          "offset": 0,
+          "type": "custom_emoji"
+        },
+        {
+          "length": 16,
+          "offset": 3,
+          "type": "mention"
+        },
+        {
+          "length": 13,
+          "offset": 20,
+          "type": "text_link",
+          "url": "https://t.me/julia_innovator_blog/431"
+        },
+        {
+          "length": 10,
+          "offset": 193,
+          "type": "text_link",
+          "url": "https://t.me/tecteam/222"
+        }
+      ],
+      "group_chat_created": false,
+      "link_preview_options": {
+        "is_disabled": true
+      },
+      "sender_chat": {
+        "id": -1002662123418,
+        "title": "TON Monitoring",
+        "type": "channel",
+        "username": "tonmonitoring"
+      },
+      "supergroup_chat_created": false,
+      "text": "💎 @julia_innovator предостерегла разработчиков от призов в кредитах Adsgram, сообщив о накрутке ботов вместо реальных пользователей и аннулировании выигрыша в $25 000 у проекта Aqua Protocol.\nДополнение от TEC Team.",
+      "chat": {
+        "id": -1002662123418,
+        "title": "TON Monitoring",
+        "type": "channel",
+        "username": "tonmonitoring"
+      },
+      "date": 1764338133,
+      "message_id": 1564
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🅰️ Adsgram опроверг обвинения в присвоении кредитов Aqua Protocol, заявив, что отказ в переводе средств на сторонние ресурсы обусловлен условиями контракта с TON Foundation и отсутствием официального разрешения от фонда на смену целевого проекта.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764348035,
+    "message_id": 1567
   }
 ]
