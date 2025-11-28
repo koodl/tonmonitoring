@@ -17,64 +17,6 @@
     ],
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 60,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF-mkkXojklik9Ag3pf7D78ftoY_1jAAIFD2sbAAGmIUnEqZkb2E3cyAEAAwIAA3MAAzYE",
-        "file_size": 1441,
-        "file_unique_id": "AQADBQ9rGwABpiFJeA"
-      },
-      {
-        "height": 213,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF-mkkXojklik9Ag3pf7D78ftoY_1jAAIFD2sbAAGmIUnEqZkb2E3cyAEAAwIAA20AAzYE",
-        "file_size": 17477,
-        "file_unique_id": "AQADBQ9rGwABpiFJcg"
-      },
-      {
-        "height": 533,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF-mkkXojklik9Ag3pf7D78ftoY_1jAAIFD2sbAAGmIUnEqZkb2E3cyAEAAwIAA3gAAzYE",
-        "file_size": 51901,
-        "file_unique_id": "AQADBQ9rGwABpiFJfQ"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763991176,
-    "message_id": 1530
-  },
-  {
-    "caption": "🅰️ AlphaTON Capital подала письмо о намерениях приобрести 51% акций Forbes Media Holdings за доллары или стейблкоины с целью использования архивов издания для обучения ИИ и создания новостной платформы о цифровых активах.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5314597028901190799",
-        "length": 3,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 6,
-        "offset": 21,
-        "type": "text_link",
-        "url": "https://www.investing.com/news/company-news/alphaton-capital-offers-to-acquire-51-stake-in-forbes-media-93CH-4374861"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1763992465,
     "group_chat_created": false,
     "photo": [
@@ -2694,5 +2636,70 @@
     },
     "date": 1764338133,
     "message_id": 1564
+  },
+  {
+    "caption": "🪹 Программа поддержки разработчиков TON Nest объявила о наборе русскоязычных экспертов для проведения образовательных сессий и воркшопов по маркетингу, DeFi и разработке в экосистеме TON.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5449527614098145226",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 46,
+        "type": "text_link",
+        "url": "https://x.com/toncishub/status/1994434058525217279?s=46"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 51,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGHWkpxi2FroTHwBLpzhKSEQ8g-hViAAImC2sbEMVRSbLZAawTOmyzAQADAgADcwADNgQ",
+        "file_size": 1472,
+        "file_unique_id": "AQADJgtrGxDFUUl4"
+      },
+      {
+        "height": 180,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGHWkpxi2FroTHwBLpzhKSEQ8g-hViAAImC2sbEMVRSbLZAawTOmyzAQADAgADbQADNgQ",
+        "file_size": 17028,
+        "file_unique_id": "AQADJgtrGxDFUUly"
+      },
+      {
+        "height": 628,
+        "width": 1116,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGHWkpxi2FroTHwBLpzhKSEQ8g-hViAAImC2sbEMVRSbLZAawTOmyzAQADAgADeQADNgQ",
+        "file_size": 58104,
+        "file_unique_id": "AQADJgtrGxDFUUl-"
+      },
+      {
+        "height": 450,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGHWkpxi2FroTHwBLpzhKSEQ8g-hViAAImC2sbEMVRSbLZAawTOmyzAQADAgADeAADNgQ",
+        "file_size": 58469,
+        "file_unique_id": "AQADJgtrGxDFUUl9"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764345389,
+    "message_id": 1565
   }
 ]
