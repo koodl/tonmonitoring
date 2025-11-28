@@ -1,71 +1,5 @@
 [
   {
-    "caption": "🅰️ AlphaTON Capital подала письмо о намерениях приобрести 51% акций Forbes Media Holdings за доллары или стейблкоины с целью использования архивов издания для обучения ИИ и создания новостной платформы о цифровых активах.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5314597028901190799",
-        "length": 3,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 6,
-        "offset": 21,
-        "type": "text_link",
-        "url": "https://www.investing.com/news/company-news/alphaton-capital-offers-to-acquire-51-stake-in-forbes-media-93CH-4374861"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1763997419,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 51,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF-mkkY5FGenYEQIpeDHYtuxuTbvsFAAJLD2sbAAGmIUn9XT2E4oVoDQEAAwIAA3MAAzYE",
-        "file_size": 1579,
-        "file_unique_id": "AQADSw9rGwABpiFJeA"
-      },
-      {
-        "height": 180,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF-mkkY5FGenYEQIpeDHYtuxuTbvsFAAJLD2sbAAGmIUn9XT2E4oVoDQEAAwIAA20AAzYE",
-        "file_size": 18804,
-        "file_unique_id": "AQADSw9rGwABpiFJcg"
-      },
-      {
-        "height": 449,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF-mkkY5FGenYEQIpeDHYtuxuTbvsFAAJLD2sbAAGmIUn9XT2E4oVoDQEAAwIAA3gAAzYE",
-        "file_size": 75585,
-        "file_unique_id": "AQADSw9rGwABpiFJfQ"
-      },
-      {
-        "height": 719,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF-mkkY5FGenYEQIpeDHYtuxuTbvsFAAJLD2sbAAGmIUn9XT2E4oVoDQEAAwIAA3kAAzYE",
-        "file_size": 98413,
-        "file_unique_id": "AQADSw9rGwABpiFJfg"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763991176,
-    "message_id": 1530
-  },
-  {
     "caption": "🐒 Держатели BAYC, MAYC и BAYC стикеров/аватаров смогут получить бесплатный набор стикеров 4 декабря при условии хранения активов на момент снимка 2 декабря и присоединения к The Hangout.",
     "caption_entities": [
       {
@@ -2735,5 +2669,43 @@
     },
     "date": 1764348035,
     "message_id": 1567
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 11,
+        "offset": 21,
+        "type": "text_link",
+        "url": "https://t.me/contest/430"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "✈️ Telegram Contests анонсировал проведение в декабре 2025 года трех новых конкурсов: для дизайнеров (1 декабря), художников (5 декабря) и iOS-разработчиков.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764355221,
+    "message_id": 1568
   }
 ]
