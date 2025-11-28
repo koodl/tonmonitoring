@@ -4,44 +4,6 @@
     "delete_chat_photo": false,
     "entities": [
       {
-        "custom_emoji_id": "5411157501557110248",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 17,
-        "type": "text_link",
-        "url": "https://t.me/kuznetsovton/1606"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🕐 Илья Кузнецов сравнил текущую ситуацию на рынке подарков Telegram с финалом NFT-тренда 2022 года, отметив массовую продажу активов пользователями в убыток на премаркете.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763931895,
-    "message_id": 1526
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
         "custom_emoji_id": "5440613134597387384",
         "length": 2,
         "offset": 0,
@@ -2719,5 +2681,48 @@
     },
     "date": 1764324079,
     "message_id": 1563
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 16,
+        "offset": 16,
+        "type": "mention"
+      },
+      {
+        "length": 13,
+        "offset": 33,
+        "type": "text_link",
+        "url": "https://t.me/julia_innovator_blog/431"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 Пользователь @julia_innovator предостерегла разработчиков от призов в кредитах Adsgram, сообщив о накрутке ботов вместо реальных пользователей и аннулировании выигрыша в $25 000 у проекта Aqua Protocol.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764338133,
+    "message_id": 1564
   }
 ]
