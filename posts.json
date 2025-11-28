@@ -1,70 +1,5 @@
 [
   {
-    "caption": "🪙 Проект LAMBO стал победителем второй недели соревнования мемкоинов MemeRepublic.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5197450760815668186",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 4,
-        "offset": 16,
-        "type": "text_link",
-        "url": "https://blog.ton.org/chronicles-of-the-week-week-2-results"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 53,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF-WkkXKHhsPCr5MCTYO_yZdBEGCeqAAL7DmsbAAGmIUmUKb4q1NQBEwEAAwIAA3MAAzYE",
-        "file_size": 1975,
-        "file_unique_id": "AQAD-w5rGwABpiFJeA"
-      },
-      {
-        "height": 190,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF-WkkXKHhsPCr5MCTYO_yZdBEGCeqAAL7DmsbAAGmIUmUKb4q1NQBEwEAAwIAA20AAzYE",
-        "file_size": 29192,
-        "file_unique_id": "AQAD-w5rGwABpiFJcg"
-      },
-      {
-        "height": 474,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF-WkkXKHhsPCr5MCTYO_yZdBEGCeqAAL7DmsbAAGmIUmUKb4q1NQBEwEAAwIAA3gAAzYE",
-        "file_size": 109515,
-        "file_unique_id": "AQAD-w5rGwABpiFJfQ"
-      },
-      {
-        "height": 758,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF-WkkXKHhsPCr5MCTYO_yZdBEGCeqAAL7DmsbAAGmIUmUKb4q1NQBEwEAAwIAA3kAAzYE",
-        "file_size": 138438,
-        "file_unique_id": "AQAD-w5rGwABpiFJfg"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1763990689,
-    "message_id": 1529
-  },
-  {
     "caption": "🅰️ AlphaTON Capital подала письмо о намерениях приобрести 51% акций Forbes Media Holdings за доллары или стейблкоины с целью использования архивов издания для обучения ИИ и создания новостной платформы о цифровых активах.",
     "caption_entities": [
       {
@@ -2701,6 +2636,56 @@
     },
     "supergroup_chat_created": false,
     "text": "💎 @julia_innovator предостерегла разработчиков от призов в кредитах Adsgram, сообщив о накрутке ботов вместо реальных пользователей и аннулировании выигрыша в $25 000 у проекта Aqua Protocol.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764338133,
+    "message_id": 1564
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1764339507,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 16,
+        "offset": 3,
+        "type": "mention"
+      },
+      {
+        "length": 13,
+        "offset": 20,
+        "type": "text_link",
+        "url": "https://t.me/julia_innovator_blog/431"
+      },
+      {
+        "length": 10,
+        "offset": 193,
+        "type": "text_link",
+        "url": "https://t.me/tecteam/222"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 @julia_innovator предостерегла разработчиков от призов в кредитах Adsgram, сообщив о накрутке ботов вместо реальных пользователей и аннулировании выигрыша в $25 000 у проекта Aqua Protocol.\nДополнение от TEC Team.",
     "chat": {
       "id": -1002662123418,
       "title": "TON Monitoring",
