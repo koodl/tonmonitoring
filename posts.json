@@ -1,64 +1,5 @@
 [
   {
-    "caption": "🐒 Держатели BAYC, MAYC и BAYC стикеров/аватаров смогут получить бесплатный набор стикеров 4 декабря при условии хранения активов на момент снимка 2 декабря и присоединения к The Hangout.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5352822667332318362",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 6,
-        "offset": 49,
-        "type": "text_link",
-        "url": "https://t.me/OfficialBAYC/240"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "video": {
-      "file_name": "IMG_5406.MP4",
-      "height": 512,
-      "mime_type": "video/mp4",
-      "width": 512,
-      "thumbnail": {
-        "height": 320,
-        "width": 320,
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgX8aSSTvWBgWHASCmqgTTAP2kClaY0AAr6XAAOmIUlQtT_b5XbSswEAB20AAzYE",
-        "file_size": 21083,
-        "file_unique_id": "AQADvpcAA6YhSXI"
-      },
-      "file_id": "BAACAgIAAyEFAASerMeaAAIF_Gkkk71gYFhwEgpqoE0wD9pApWmNAAK-lwADpiFJULU_2-V20rM2BA",
-      "file_size": 229896,
-      "file_unique_id": "AgADvpcAA6YhSQ",
-      "duration": 3,
-      "thumb": {
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgX8aSSTvWBgWHASCmqgTTAP2kClaY0AAr6XAAOmIUlQtT_b5XbSswEAB20AAzYE",
-        "file_unique_id": "AQADvpcAA6YhSXI",
-        "file_size": 21083,
-        "width": 320,
-        "height": 320
-      }
-    },
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764004797,
-    "message_id": 1532
-  },
-  {
     "caption": "🛡 Forbes сообщил о новом Android-трояне Sturnus, который обходит шифрование в Telegram, Signal и WhatsApp, считывая сообщения и личные данные непосредственно с экрана смартфона через службы специальных возможностей.",
     "caption_entities": [
       {
@@ -2673,6 +2614,45 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 11,
+        "offset": 21,
+        "type": "text_link",
+        "url": "https://t.me/contest/430"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "✈️ Telegram Contests анонсировал проведение в декабре 2025 года трех новых конкурсов: для дизайнеров (1 декабря), художников (5 декабря) и iOS-разработчиков.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764355221,
+    "message_id": 1568
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1764374658,
     "entities": [
       {
         "custom_emoji_id": "5440613134597387384",
