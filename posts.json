@@ -1,63 +1,5 @@
 [
   {
-    "caption": "🛡 Forbes сообщил о новом Android-трояне Sturnus, который обходит шифрование в Telegram, Signal и WhatsApp, считывая сообщения и личные данные непосредственно с экрана смартфона через службы специальных возможностей.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5447638103365806920",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 10,
-        "type": "text_link",
-        "url": "https://www.forbes.com/sites/daveywinder/2025/11/24/hackers-bypass-signal-telegram-and-whatsapp-encryption-to-read-messages/"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 60,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF_WkkmOxLiVLXO8Vk52GJ3NrAAmAsAAIpEWsbAAGmIUnCRwbvWU6QlAEAAwIAA3MAAzYE",
-        "file_size": 1253,
-        "file_unique_id": "AQADKRFrGwABpiFJeA"
-      },
-      {
-        "height": 213,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF_WkkmOxLiVLXO8Vk52GJ3NrAAmAsAAIpEWsbAAGmIUnCRwbvWU6QlAEAAwIAA20AAzYE",
-        "file_size": 12769,
-        "file_unique_id": "AQADKRFrGwABpiFJcg"
-      },
-      {
-        "height": 320,
-        "width": 480,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF_WkkmOxLiVLXO8Vk52GJ3NrAAmAsAAIpEWsbAAGmIUnCRwbvWU6QlAEAAwIAA3gAAzYE",
-        "file_size": 14343,
-        "file_unique_id": "AQADKRFrGwABpiFJfQ"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764006124,
-    "message_id": 1533
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2687,5 +2629,70 @@
     },
     "date": 1764355221,
     "message_id": 1568
+  },
+  {
+    "caption": "Ⓜ️ Проект @mint открыл возможность обмена накопленных очков XP на билеты для участия в розыгрыше подарков Telegram на сумму $20 000, который состоится 1 декабря.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5276019924706292346",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 5,
+        "offset": 10,
+        "type": "text_link",
+        "url": "https://t.me/mint?startapp=invite_659773038"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 47,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGIWkq_jIZDRhWKGI-CRMRTejk8FA2AAI_EGsbozFYSaGu8ylSJXmxAQADAgADcwADNgQ",
+        "file_size": 1449,
+        "file_unique_id": "AQADPxBrG6MxWEl4"
+      },
+      {
+        "height": 320,
+        "width": 167,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGIWkq_jIZDRhWKGI-CRMRTejk8FA2AAI_EGsbozFYSaGu8ylSJXmxAQADAgADbQADNgQ",
+        "file_size": 17825,
+        "file_unique_id": "AQADPxBrG6MxWEly"
+      },
+      {
+        "height": 800,
+        "width": 417,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGIWkq_jIZDRhWKGI-CRMRTejk8FA2AAI_EGsbozFYSaGu8ylSJXmxAQADAgADeAADNgQ",
+        "file_size": 65382,
+        "file_unique_id": "AQADPxBrG6MxWEl9"
+      },
+      {
+        "height": 1280,
+        "width": 667,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGIWkq_jIZDRhWKGI-CRMRTejk8FA2AAI_EGsbozFYSaGu8ylSJXmxAQADAgADeQADNgQ",
+        "file_size": 82159,
+        "file_unique_id": "AQADPxBrG6MxWEl-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764425266,
+    "message_id": 1569
   }
 ]
