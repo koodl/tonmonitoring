@@ -1,49 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440615647153256792",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 5,
-        "offset": 15,
-        "type": "text_link",
-        "url": "https://t.me/xgift/?startapp=ref-d85db7ddaf2aa572bf9635a6a5e12d9d"
-      },
-      {
-        "length": 9,
-        "offset": 21,
-        "type": "text_link",
-        "url": "https://t.me/rocketmania/52"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🎁 Маркетплейс xGift планирует открыть возможность поштучной торговли редкими неулучшенными Telegram-подарками через передачу сервису технических аккаунтов.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764013665,
-    "message_id": 1534
-  },
-  {
     "caption": "💎✈️ Организаторы японской конференции TEAMZ Web3/AI Summit объявили, что на мероприятии 7–8 апреля выступят Steve Yun и John Hyman (CIO Telegram), а TON и Telegram станут Diamond спонсорами события.",
     "caption_entities": [
       {
@@ -2648,6 +2604,72 @@
     ],
     "channel_chat_created": false,
     "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 47,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGIWkq_jIZDRhWKGI-CRMRTejk8FA2AAI_EGsbozFYSaGu8ylSJXmxAQADAgADcwADNgQ",
+        "file_size": 1449,
+        "file_unique_id": "AQADPxBrG6MxWEl4"
+      },
+      {
+        "height": 320,
+        "width": 167,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGIWkq_jIZDRhWKGI-CRMRTejk8FA2AAI_EGsbozFYSaGu8ylSJXmxAQADAgADbQADNgQ",
+        "file_size": 17825,
+        "file_unique_id": "AQADPxBrG6MxWEly"
+      },
+      {
+        "height": 800,
+        "width": 417,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGIWkq_jIZDRhWKGI-CRMRTejk8FA2AAI_EGsbozFYSaGu8ylSJXmxAQADAgADeAADNgQ",
+        "file_size": 65382,
+        "file_unique_id": "AQADPxBrG6MxWEl9"
+      },
+      {
+        "height": 1280,
+        "width": 667,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGIWkq_jIZDRhWKGI-CRMRTejk8FA2AAI_EGsbozFYSaGu8ylSJXmxAQADAgADeQADNgQ",
+        "file_size": 82159,
+        "file_unique_id": "AQADPxBrG6MxWEl-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764425266,
+    "message_id": 1569
+  },
+  {
+    "caption": "Ⓜ️ Проект @mint открыл возможность обмена накопленных очков XP на билеты для участия в розыгрыше на сумму $20 000, который состоится 1 декабря.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5276019924706292346",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 5,
+        "offset": 10,
+        "type": "text_link",
+        "url": "https://t.me/mint?startapp=invite_659773038"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1764425303,
     "group_chat_created": false,
     "photo": [
       {
