@@ -1,77 +1,5 @@
 [
   {
-    "caption": "💎✈️ Организаторы японской конференции TEAMZ Web3/AI Summit объявили, что на мероприятии 7–8 апреля выступят Steve Yun и John Hyman (CIO Telegram), а TON и Telegram станут Diamond спонсорами события.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 2,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 60,
-        "type": "text_link",
-        "url": "https://www.teamz.co.jp/"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1764056068,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 81,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF_2kk_52i29YgQDShHGm8Kmwt4hJ2AAIXDGsbvI8pSWdZxiRqHwERAQADAgADcwADNgQ",
-        "file_size": 1497,
-        "file_unique_id": "AQADFwxrG7yPKUl4"
-      },
-      {
-        "height": 320,
-        "width": 289,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF_2kk_52i29YgQDShHGm8Kmwt4hJ2AAIXDGsbvI8pSWdZxiRqHwERAQADAgADbQADNgQ",
-        "file_size": 14097,
-        "file_unique_id": "AQADFwxrG7yPKUly"
-      },
-      {
-        "height": 800,
-        "width": 723,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF_2kk_52i29YgQDShHGm8Kmwt4hJ2AAIXDGsbvI8pSWdZxiRqHwERAQADAgADeAADNgQ",
-        "file_size": 51055,
-        "file_unique_id": "AQADFwxrG7yPKUl9"
-      },
-      {
-        "height": 1280,
-        "width": 1157,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF_2kk_52i29YgQDShHGm8Kmwt4hJ2AAIXDGsbvI8pSWdZxiRqHwERAQADAgADeQADNgQ",
-        "file_size": 68563,
-        "file_unique_id": "AQADFwxrG7yPKUl-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764032413,
-    "message_id": 1535
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2711,5 +2639,64 @@
     },
     "date": 1764425266,
     "message_id": 1569
+  },
+  {
+    "caption": "💎 На телеканале Bloomberg TV вышел выпуск программы New to The Street с участием CEO TON Strategy (TONX) Вероники Капустиной, которая рассказала о стратегических инициативах в блокчейне TON, институциональном принятии и планах будущего расширения.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5238004177031953682",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 6,
+        "offset": 36,
+        "type": "text_link",
+        "url": "https://youtu.be/pEmoH1ezRqw?si=GOEz2EFk3lyRSVXd"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "video": {
+      "file_name": "TON_Strategy_$560M_Raised_in_4_Days_Telegram_Integrated_Crypto,.mp4",
+      "height": 720,
+      "mime_type": "video/mp4",
+      "width": 1280,
+      "thumbnail": {
+        "height": 180,
+        "width": 320,
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgYiaSuDwkbWI2ExnXqFoY_0xIccL5wAAgGQAAKjMWBJqSyM9iN0o6gBAAdtAAM2BA",
+        "file_size": 5657,
+        "file_unique_id": "AQADAZAAAqMxYEly"
+      },
+      "file_id": "BAACAgIAAyEFAASerMeaAAIGImkrg8JG1iNhMZ16haGP9MSHHC-cAAIBkAACozFgSaksjPYjdKOoNgQ",
+      "file_size": 104687676,
+      "file_unique_id": "AgADAZAAAqMxYEk",
+      "duration": 739,
+      "thumb": {
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgYiaSuDwkbWI2ExnXqFoY_0xIccL5wAAgGQAAKjMWBJqSyM9iN0o6gBAAdtAAM2BA",
+        "file_unique_id": "AQADAZAAAqMxYEly",
+        "file_size": 5657,
+        "width": 320,
+        "height": 180
+      }
+    },
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764459458,
+    "message_id": 1570
   }
 ]
