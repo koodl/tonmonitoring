@@ -23,77 +23,6 @@
     ],
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 81,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF_2kk_52i29YgQDShHGm8Kmwt4hJ2AAIXDGsbvI8pSWdZxiRqHwERAQADAgADcwADNgQ",
-        "file_size": 1497,
-        "file_unique_id": "AQADFwxrG7yPKUl4"
-      },
-      {
-        "height": 320,
-        "width": 289,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF_2kk_52i29YgQDShHGm8Kmwt4hJ2AAIXDGsbvI8pSWdZxiRqHwERAQADAgADbQADNgQ",
-        "file_size": 14097,
-        "file_unique_id": "AQADFwxrG7yPKUly"
-      },
-      {
-        "height": 800,
-        "width": 723,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF_2kk_52i29YgQDShHGm8Kmwt4hJ2AAIXDGsbvI8pSWdZxiRqHwERAQADAgADeAADNgQ",
-        "file_size": 51055,
-        "file_unique_id": "AQADFwxrG7yPKUl9"
-      },
-      {
-        "height": 1280,
-        "width": 1157,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIF_2kk_52i29YgQDShHGm8Kmwt4hJ2AAIXDGsbvI8pSWdZxiRqHwERAQADAgADeQADNgQ",
-        "file_size": 68563,
-        "file_unique_id": "AQADFwxrG7yPKUl-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764032413,
-    "message_id": 1535
-  },
-  {
-    "caption": "💎✈️ Организаторы японской конференции TEAMZ Web3/AI Summit объявили, что на мероприятии 7–8 апреля выступят Steve Yun и John Hyman (CIO Telegram), а TON и Telegram станут Diamond спонсорами события.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 2,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 60,
-        "type": "text_link",
-        "url": "https://www.teamz.co.jp/"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1764056068,
     "group_chat_created": false,
     "photo": [
@@ -2670,6 +2599,72 @@
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "edit_date": 1764425303,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 47,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGIWkq_jIZDRhWKGI-CRMRTejk8FA2AAI_EGsbozFYSaGu8ylSJXmxAQADAgADcwADNgQ",
+        "file_size": 1449,
+        "file_unique_id": "AQADPxBrG6MxWEl4"
+      },
+      {
+        "height": 320,
+        "width": 167,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGIWkq_jIZDRhWKGI-CRMRTejk8FA2AAI_EGsbozFYSaGu8ylSJXmxAQADAgADbQADNgQ",
+        "file_size": 17825,
+        "file_unique_id": "AQADPxBrG6MxWEly"
+      },
+      {
+        "height": 800,
+        "width": 417,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGIWkq_jIZDRhWKGI-CRMRTejk8FA2AAI_EGsbozFYSaGu8ylSJXmxAQADAgADeAADNgQ",
+        "file_size": 65382,
+        "file_unique_id": "AQADPxBrG6MxWEl9"
+      },
+      {
+        "height": 1280,
+        "width": 667,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGIWkq_jIZDRhWKGI-CRMRTejk8FA2AAI_EGsbozFYSaGu8ylSJXmxAQADAgADeQADNgQ",
+        "file_size": 82159,
+        "file_unique_id": "AQADPxBrG6MxWEl-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764425266,
+    "message_id": 1569
+  },
+  {
+    "caption": "Ⓜ️ Проект @mint открыл возможность обмена накопленных очков XP на билеты для участия в розыгрыше на сумму $20 000, который состоится 1 декабря.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5276019924706292346",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 5,
+        "offset": 10,
+        "type": "text_link",
+        "url": "https://t.me/mint?startapp=invite_659773038"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1764430870,
     "group_chat_created": false,
     "photo": [
       {
