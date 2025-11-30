@@ -4,49 +4,6 @@
     "delete_chat_photo": false,
     "entities": [
       {
-        "custom_emoji_id": "5472237906510770280",
-        "length": 5,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 10,
-        "offset": 33,
-        "type": "url"
-      },
-      {
-        "length": 6,
-        "offset": 119,
-        "type": "text_link",
-        "url": "https://kod.ru/telegram-gifts-off-chain-on-chain-stats"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🧑‍💻 По данным NFT-маркетплейса Getgems.io, за 11 месяцев с момента запуска торговли объем продаж подарков в Telegram достиг $296 млн.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764078704,
-    "message_id": 1536
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
         "custom_emoji_id": "5440671546152610057",
         "length": 2,
         "offset": 0,
@@ -2698,5 +2655,43 @@
     },
     "date": 1764459458,
     "message_id": 1570
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 6,
+        "offset": 38,
+        "type": "text_link",
+        "url": "https://www.cnbctv18.com/technology/sim-binding-rule-auto-logout-for-whatsapp-telegram-signal-what-users-must-know-new-telecom-rule-ws-l-19776460.htm"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "✈️ Департамент телекоммуникаций Индии обязал Telegram, WhatsApp и другие мессенджеры в течение 90 дней внедрить запрет на работу приложения без активной SIM-карты в устройстве и установить автоматический выход из веб-версий каждые шесть часов.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764493588,
+    "message_id": 1571
   }
 ]
