@@ -1,76 +1,5 @@
 [
   {
-    "caption": "➿ Сервис Split.tg празднует первую годовщину запуском розыгрыша 350 000 Stars и анонсом функции автопокупки звезд.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5462883227221913609",
-        "length": 1,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 9,
-        "type": "text_link",
-        "url": "https://split.tg/?ref=UQCv_g6U-fhIbRTbbJbcUEzjK93ZtXyYAHW46TLb3ZEuY3Qg"
-      },
-      {
-        "length": 9,
-        "offset": 18,
-        "type": "text_link",
-        "url": "https://t.me/SplitTg/73"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 42,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGBWkmISJQs8a_pw87IUXrPOZfAhrXAAImC2sbfR85SRGlhYUHFEPAAQADAgADcwADNgQ",
-        "file_size": 812,
-        "file_unique_id": "AQADJgtrG30fOUl4"
-      },
-      {
-        "height": 150,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGBWkmISJQs8a_pw87IUXrPOZfAhrXAAImC2sbfR85SRGlhYUHFEPAAQADAgADbQADNgQ",
-        "file_size": 8570,
-        "file_unique_id": "AQADJgtrG30fOUly"
-      },
-      {
-        "height": 375,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGBWkmISJQs8a_pw87IUXrPOZfAhrXAAImC2sbfR85SRGlhYUHFEPAAQADAgADeAADNgQ",
-        "file_size": 31459,
-        "file_unique_id": "AQADJgtrG30fOUl9"
-      },
-      {
-        "height": 600,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGBWkmISJQs8a_pw87IUXrPOZfAhrXAAImC2sbfR85SRGlhYUHFEPAAQADAgADeQADNgQ",
-        "file_size": 40002,
-        "file_unique_id": "AQADJgtrG30fOUl-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764106530,
-    "message_id": 1541
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "edit_date": 1764107721,
@@ -2714,5 +2643,76 @@
     },
     "date": 1764523782,
     "message_id": 1573
+  },
+  {
+    "caption": "✈️ Павел Дуров объявил о запуске децентрализованной сети конфиденциальных вычислений Cocoon, которая позволяет владельцам GPU зарабатывать TON за безопасную обработку AI-запросов.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440479333481217835",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 15,
+        "type": "text_link",
+        "url": "https://t.me/durov/462"
+      },
+      {
+        "length": 7,
+        "offset": 85,
+        "type": "text_link",
+        "url": "https://cocoon.org/"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 88,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGJmksi_Zh-IHuOhgel5jFIyhpaiOUAALpEWsbXaxgSTt3G-H17AO2AQADAgADcwADNgQ",
+        "file_size": 1659,
+        "file_unique_id": "AQAD6RFrG12sYEl4"
+      },
+      {
+        "height": 313,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGJmksi_Zh-IHuOhgel5jFIyhpaiOUAALpEWsbXaxgSTt3G-H17AO2AQADAgADbQADNgQ",
+        "file_size": 17238,
+        "file_unique_id": "AQAD6RFrG12sYEly"
+      },
+      {
+        "height": 782,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGJmksi_Zh-IHuOhgel5jFIyhpaiOUAALpEWsbXaxgSTt3G-H17AO2AQADAgADeAADNgQ",
+        "file_size": 60534,
+        "file_unique_id": "AQAD6RFrG12sYEl9"
+      },
+      {
+        "height": 1144,
+        "width": 1170,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGJmksi_Zh-IHuOhgel5jFIyhpaiOUAALpEWsbXaxgSTt3G-H17AO2AQADAgADeQADNgQ",
+        "file_size": 64045,
+        "file_unique_id": "AQAD6RFrG12sYEl-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764527094,
+    "message_id": 1574
   }
 ]
