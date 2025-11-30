@@ -1,43 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5310031775018285687",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 32,
-        "type": "text_link",
-        "url": "https://t.me/jpegmillionaire/613"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🪟 Автор канала JpegMillionaire сообщил, что за три недели пользователи маркетплейса Portals вывели 60 тыс. подарков, из‑за чего их количество сократилось с 473 тыс. до 413 тыс.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764105136,
-    "message_id": 1540
-  },
-  {
     "caption": "➿ Сервис Split.tg празднует первую годовщину запуском розыгрыша 350 000 Stars и анонсом функции автопокупки звезд.",
     "caption_entities": [
       {
@@ -2687,5 +2649,70 @@
     },
     "date": 1764493588,
     "message_id": 1571
+  },
+  {
+    "caption": "👛 MyTonWallet выпустил обновление 4.4 с функцией вывода криптовалюты на карту через сервис MoonPay, поддержкой Telegram-доменов, встроенным обозревателем блокчейна и переключением кошельков свайпом.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5442808395461583047",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 15,
+        "type": "text_link",
+        "url": "https://t.me/MyTonWalletRu/362"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGJWksfwbKx9FMWBYpL88FIZGTN6TpAAJnEWsbXaxgSVXZgpoZsHA1AQADAgADcwADNgQ",
+        "file_size": 1782,
+        "file_unique_id": "AQADZxFrG12sYEl4"
+      },
+      {
+        "height": 320,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGJWksfwbKx9FMWBYpL88FIZGTN6TpAAJnEWsbXaxgSVXZgpoZsHA1AQADAgADbQADNgQ",
+        "file_size": 24718,
+        "file_unique_id": "AQADZxFrG12sYEly"
+      },
+      {
+        "height": 800,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGJWksfwbKx9FMWBYpL88FIZGTN6TpAAJnEWsbXaxgSVXZgpoZsHA1AQADAgADeAADNgQ",
+        "file_size": 87102,
+        "file_unique_id": "AQADZxFrG12sYEl9"
+      },
+      {
+        "height": 1280,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGJWksfwbKx9FMWBYpL88FIZGTN6TpAAJnEWsbXaxgSVXZgpoZsHA1AQADAgADeQADNgQ",
+        "file_size": 109193,
+        "file_unique_id": "AQADZxFrG12sYEl-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764523782,
+    "message_id": 1573
   }
 ]
