@@ -1,70 +1,5 @@
 [
   {
-    "caption": "🅰️ AlphaTON Capital Corp. объявила о начале приобретения облигаций Telegram с доходностью 9% для своего корпоративного казначейства, стремясь получить прямой доступ к растущим доходам мессенджера.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5314597028901190799",
-        "length": 3,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 27,
-        "type": "text_link",
-        "url": "https://www.globenewswire.com/news-release/2025/11/25/3194278/0/en/AlphaTON-Capital-Corp-to-Accumulate-Telegram-Bonds-for-its-Treasury.html"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 50,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGAmkl1r7dLuisJJwmdNIxRH9-Bs-jAAKPEWsbfR8xSTyOkc9fRfWlAQADAgADcwADNgQ",
-        "file_size": 1500,
-        "file_unique_id": "AQADjxFrG30fMUl4"
-      },
-      {
-        "height": 177,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGAmkl1r7dLuisJJwmdNIxRH9-Bs-jAAKPEWsbfR8xSTyOkc9fRfWlAQADAgADbQADNgQ",
-        "file_size": 17787,
-        "file_unique_id": "AQADjxFrG30fMUly"
-      },
-      {
-        "height": 442,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGAmkl1r7dLuisJJwmdNIxRH9-Bs-jAAKPEWsbfR8xSTyOkc9fRfWlAQADAgADeAADNgQ",
-        "file_size": 69751,
-        "file_unique_id": "AQADjxFrG30fMUl9"
-      },
-      {
-        "height": 647,
-        "width": 1170,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGAmkl1r7dLuisJJwmdNIxRH9-Bs-jAAKPEWsbfR8xSTyOkc9fRfWlAQADAgADeQADNgQ",
-        "file_size": 75965,
-        "file_unique_id": "AQADjxFrG30fMUl-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764087486,
-    "message_id": 1538
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2666,6 +2601,57 @@
         "offset": 11,
         "type": "text_link",
         "url": "https://t.me/tonmonitoring/1483"
+      },
+      {
+        "custom_emoji_id": "5440764055453200867",
+        "length": 2,
+        "offset": 42,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 45,
+        "type": "text_link",
+        "url": "https://t.me/tonmonitoring/8"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🗞 Новости 48ой недели.\n\nСпонсоры недели:\n⭐️ Донатеры\nСпасибо за вашу поддержку!",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764494092,
+    "message_id": 1572
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1764494162,
+    "entities": [
+      {
+        "custom_emoji_id": "5265112348451960063",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 12,
+        "offset": 11,
+        "type": "text_link",
+        "url": "https://t.me/tonmonitoring/1524"
       },
       {
         "custom_emoji_id": "5440764055453200867",
