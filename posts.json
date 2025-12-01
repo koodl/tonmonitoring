@@ -4,44 +4,6 @@
     "delete_chat_photo": false,
     "entities": [
       {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 27,
-        "type": "text_link",
-        "url": "https://t.me/zicelaqo/4245"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "✈️ Telegram-канал Zicelaqo сообщил, что Хабиб Нурмагомедов удалил из Twitter и Instagram все публикации, связанные с партнерством с Telegram и цифровыми подарками.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764150395,
-    "message_id": 1544
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
         "custom_emoji_id": "5265112348451960063",
         "length": 2,
         "offset": 0,
@@ -2758,5 +2720,43 @@
     },
     "date": 1764598578,
     "message_id": 1577
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 27,
+        "type": "text_link",
+        "url": "https://t.me/contest/431"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "✈️ Канал Telegram Contests объявил о запуске глобального Design Contest 2025 с призовым фондом от $50 000, в рамках которого участники до 23:59 по дубайскому времени 15 декабря 2025 года должны представить концепт интерфейса Telegram Nodes с полным набором макетов для Android и iOS и демонстрационным видео, при этом участие открыто для всех.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764598971,
+    "message_id": 1578
   }
 ]
