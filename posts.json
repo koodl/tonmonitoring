@@ -4,44 +4,6 @@
     "delete_chat_photo": false,
     "entities": [
       {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 17,
-        "offset": 39,
-        "type": "text_link",
-        "url": "https://t.me/TheOpenCemetery"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 В Telegram 25 ноября появился канал The Open Cemetery для отслеживания закрывшихся проектов на блокчейне TON.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764160358,
-    "message_id": 1546
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
         "custom_emoji_id": "5440627174845473301",
         "length": 2,
         "offset": 0,
@@ -2762,5 +2724,64 @@
     },
     "date": 1764603371,
     "message_id": 1579
+  },
+  {
+    "caption": "Gift Fest почти достиг 700к MAU.",
+    "caption_entities": [
+      {
+        "length": 9,
+        "offset": 0,
+        "type": "text_link",
+        "url": "https://t.me/giftfest_bot/app?startapp=UkM9MDAwMDAwaWVMNmMmUlM9aW52aXRlX2ZyaWVuZA%3D%3D"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 44,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGLGktt-uX_rp3gAAB-cwC70RaDtjoVgACqRNrG12saEmZzc3nvZW9pwEAAwIAA3MAAzYE",
+        "file_size": 848,
+        "file_unique_id": "AQADqRNrG12saEl4"
+      },
+      {
+        "height": 155,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGLGktt-uX_rp3gAAB-cwC70RaDtjoVgACqRNrG12saEmZzc3nvZW9pwEAAwIAA20AAzYE",
+        "file_size": 7469,
+        "file_unique_id": "AQADqRNrG12saEly"
+      },
+      {
+        "height": 387,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGLGktt-uX_rp3gAAB-cwC70RaDtjoVgACqRNrG12saEmZzc3nvZW9pwEAAwIAA3gAAzYE",
+        "file_size": 24054,
+        "file_unique_id": "AQADqRNrG12saEl9"
+      },
+      {
+        "height": 566,
+        "width": 1170,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGLGktt-uX_rp3gAAB-cwC70RaDtjoVgACqRNrG12saEmZzc3nvZW9pwEAAwIAA3kAAzYE",
+        "file_size": 26835,
+        "file_unique_id": "AQADqRNrG12saEl-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764603883,
+    "message_id": 1580
   }
 ]
