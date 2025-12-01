@@ -1,75 +1,5 @@
 [
   {
-    "caption": "🎁 Канал village”ton сообщил о запуске приложения TeleGifts (Telegram и iOS), которое предоставляет аналитику рынка Telegram Gifts с поддержкой iOS-виджетов.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440615647153256792",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 21,
-        "type": "text_link",
-        "url": "https://t.me/villageton/3541"
-      },
-      {
-        "length": 8,
-        "offset": 61,
-        "type": "text_link",
-        "url": "https://t.me/telegiftsappbot/app?startapp=starswap_N4jBdjJJz"
-      },
-      {
-        "length": 3,
-        "offset": 72,
-        "type": "text_link",
-        "url": "https://apps.apple.com/app/telegifts-nft-ton-explorer/id6751137583"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 55,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGBmkmNh7mxmdMzFAznYw4R_OIqFsNAAKxC2sbfR85SVjwrmqaHbyRAQADAgADcwADNgQ",
-        "file_size": 1468,
-        "file_unique_id": "AQADsQtrG30fOUl4"
-      },
-      {
-        "height": 320,
-        "width": 194,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGBmkmNh7mxmdMzFAznYw4R_OIqFsNAAKxC2sbfR85SVjwrmqaHbyRAQADAgADbQADNgQ",
-        "file_size": 14642,
-        "file_unique_id": "AQADsQtrG30fOUly"
-      },
-      {
-        "height": 760,
-        "width": 460,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGBmkmNh7mxmdMzFAznYw4R_OIqFsNAAKxC2sbfR85SVjwrmqaHbyRAQADAgADeAADNgQ",
-        "file_size": 32042,
-        "file_unique_id": "AQADsQtrG30fOUl9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764111902,
-    "message_id": 1542
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2747,5 +2677,70 @@
     },
     "date": 1764527094,
     "message_id": 1574
+  },
+  {
+    "caption": "🪙 TON Foundation приостановила конкурс MemeRepublic и выплату наград за третью неделю из-за сообщений о манипуляциях с результатами и необходимости пересмотра формата соревнования.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5197450760815668186",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 13,
+        "offset": 18,
+        "type": "text_link",
+        "url": "https://x.com/tonmemerepublic/status/1995487955918418415?s=46"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 49,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGJ2ktmzJVUgABdMR3hLfTPpHL6ERdVgACuxJrG12saEnAL8xFzsahBQEAAwIAA3MAAzYE",
+        "file_size": 988,
+        "file_unique_id": "AQADuxJrG12saEl4"
+      },
+      {
+        "height": 174,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGJ2ktmzJVUgABdMR3hLfTPpHL6ERdVgACuxJrG12saEnAL8xFzsahBQEAAwIAA20AAzYE",
+        "file_size": 7857,
+        "file_unique_id": "AQADuxJrG12saEly"
+      },
+      {
+        "height": 435,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGJ2ktmzJVUgABdMR3hLfTPpHL6ERdVgACuxJrG12saEnAL8xFzsahBQEAAwIAA3gAAzYE",
+        "file_size": 23840,
+        "file_unique_id": "AQADuxJrG12saEl9"
+      },
+      {
+        "height": 636,
+        "width": 1170,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGJ2ktmzJVUgABdMR3hLfTPpHL6ERdVgACuxJrG12saEnAL8xFzsahBQEAAwIAA3kAAzYE",
+        "file_size": 26712,
+        "file_unique_id": "AQADuxJrG12saEl-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764596530,
+    "message_id": 1575
   }
 ]
