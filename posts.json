@@ -2,49 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5449681232193418122",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 10,
-        "type": "text_link",
-        "url": "https://t.me/roxtalk/351"
-      },
-      {
-        "length": 13,
-        "offset": 182,
-        "type": "mention"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "📐 Roxman сообщил, что для ускоренного решения «зависших» более чем на две недели проблем с маркетплейсом Portals пользователям следует продублировать свои заявки в Telegram-аккаунт @PortalsSolve, где их возьмётся обрабатывать отдельная команда.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764112779,
-    "message_id": 1543
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1764125497,
     "entities": [
       {
@@ -2742,5 +2699,70 @@
     },
     "date": 1764596530,
     "message_id": 1575
+  },
+  {
+    "caption": "📦 TON Foundation сообщила, что объем продаж NFT-стикеров в Telegram достиг $11 млн при более чем 294 000 сделок, а свои коллекции уже выпустили бренды Kung Fu Panda, Jarritos и Nascar.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5449670138292894907",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 18,
+        "type": "text_link",
+        "url": "https://t.me/toncoin/2128"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGKGktoKa5A3oTMR8Rnf71HzlzNrHmAALjEmsbXaxoSVp_48t8Ba_vAQADAgADcwADNgQ",
+        "file_size": 2018,
+        "file_unique_id": "AQAD4xJrG12saEl4"
+      },
+      {
+        "height": 320,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGKGktoKa5A3oTMR8Rnf71HzlzNrHmAALjEmsbXaxoSVp_48t8Ba_vAQADAgADbQADNgQ",
+        "file_size": 21481,
+        "file_unique_id": "AQAD4xJrG12saEly"
+      },
+      {
+        "height": 800,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGKGktoKa5A3oTMR8Rnf71HzlzNrHmAALjEmsbXaxoSVp_48t8Ba_vAQADAgADeAADNgQ",
+        "file_size": 72845,
+        "file_unique_id": "AQAD4xJrG12saEl9"
+      },
+      {
+        "height": 1280,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGKGktoKa5A3oTMR8Rnf71HzlzNrHmAALjEmsbXaxoSVp_48t8Ba_vAQADAgADeQADNgQ",
+        "file_size": 93266,
+        "file_unique_id": "AQAD4xJrG12saEl-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764597926,
+    "message_id": 1576
   }
 ]
