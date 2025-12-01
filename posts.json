@@ -4,49 +4,6 @@
     "delete_chat_photo": false,
     "entities": [
       {
-        "custom_emoji_id": "5440627174845473301",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 6,
-        "offset": 13,
-        "type": "text_link",
-        "url": "https://t.me/NFTDevOps/72"
-      },
-      {
-        "length": 10,
-        "offset": 20,
-        "type": "mention"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🖼 По данным отчета @NFTDevOps, с января 2025 года на Fragment было уплачено в общей сложности 606 000 TON за апгрейд 606 бот-юзернеймов.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764161180,
-    "message_id": 1547
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
         "custom_emoji_id": "5440671546152610057",
         "length": 2,
         "offset": 0,
@@ -2783,5 +2740,70 @@
     },
     "date": 1764603883,
     "message_id": 1580
+  },
+  {
+    "caption": "🥚 Запущен дашборд с актуальной статистикой сети Cocoon, в которой на данный момент зарегистрировано 30 поставщиков и 12 клиентов.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5287229346967229276",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 11,
+        "type": "text_link",
+        "url": "https://cocoon.doge.tg/"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 46,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGLWktvVYcPw21bFZE5-uI7J02PbzrAAIBFGsbXaxoSSaHfzqu72ULAQADAgADcwADNgQ",
+        "file_size": 777,
+        "file_unique_id": "AQADARRrG12saEl4"
+      },
+      {
+        "height": 320,
+        "width": 164,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGLWktvVYcPw21bFZE5-uI7J02PbzrAAIBFGsbXaxoSSaHfzqu72ULAQADAgADbQADNgQ",
+        "file_size": 7635,
+        "file_unique_id": "AQADARRrG12saEly"
+      },
+      {
+        "height": 800,
+        "width": 409,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGLWktvVYcPw21bFZE5-uI7J02PbzrAAIBFGsbXaxoSSaHfzqu72ULAQADAgADeAADNgQ",
+        "file_size": 30845,
+        "file_unique_id": "AQADARRrG12saEl9"
+      },
+      {
+        "height": 1280,
+        "width": 654,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGLWktvVYcPw21bFZE5-uI7J02PbzrAAIBFGsbXaxoSSaHfzqu72ULAQADAgADeQADNgQ",
+        "file_size": 41213,
+        "file_unique_id": "AQADARRrG12saEl-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764605270,
+    "message_id": 1581
   }
 ]
