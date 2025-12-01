@@ -2,50 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "edit_date": 1764125497,
-    "entities": [
-      {
-        "custom_emoji_id": "5449681232193418122",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 10,
-        "type": "text_link",
-        "url": "https://t.me/roxtalk/351"
-      },
-      {
-        "length": 13,
-        "offset": 182,
-        "type": "mention"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "📐 Roxman сообщил, что для ускоренного решения «зависших» более чем на две недели проблем с маркетплейсом Portals пользователям следует продублировать свои заявки в Telegram-аккаунт @PortalsSolve, где их возьмётся обрабатывать отдельная команда.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764112779,
-    "message_id": 1543
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "entities": [
       {
         "custom_emoji_id": "5440613134597387384",
@@ -2764,5 +2720,43 @@
     },
     "date": 1764597926,
     "message_id": 1576
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5314597028901190799",
+        "length": 3,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 10,
+        "offset": 29,
+        "type": "text_link",
+        "url": "https://www.globenewswire.com/news-release/2025/12/01/3197058/0/en/AlphaTON-Capital-Successfully-Deploys-First-Fleet-of-Nvidia-B200-GPUs-to-Telegram-s-Cocoon-AI-Network-Powering-Privacy-First-AI-for-One-Billion-Users.html"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🅰️ AlphaTON Capital успешно развернула первый парк графических процессоров Nvidia B200 в сети Telegram Cocoon AI, обеспечивающей конфиденциальность ИИ для миллиарда пользователей.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764598578,
+    "message_id": 1577
   }
 ]
