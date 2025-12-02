@@ -1,43 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5456285538979965369",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 18,
-        "type": "text_link",
-        "url": "https://x.com/takoy_sasha/status/1993732840765243845?s=46"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🆗 Саша Плотвинов допустил для TON и web3-приложений возможность двухлетнего периода низкой активности по сценарию 2022–2024 годов, отметив неизбежность влияния общих рыночных трендов.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764178427,
-    "message_id": 1552
-  },
-  {
     "caption": "💎 Юлия Вавилова рассказала, что у неё появился новый питомец — трёхмесячный мини‑козлёнок по кличке TONSKI.",
     "caption_entities": [
       {
@@ -2756,5 +2718,75 @@
     },
     "date": 1764691180,
     "message_id": 1585
+  },
+  {
+    "caption": "🔁 DEX-биржа STON.fi запустила первую в экосистеме TON ончейн-DAO, где застейканные токены STON дают право голоса для управления развитием проекта.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5442772532484665802",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 13,
+        "type": "url"
+      },
+      {
+        "length": 9,
+        "offset": 21,
+        "type": "text_link",
+        "url": "https://t.me/ston_fi_ru/1156"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 47,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGMmkvEYNy5W74Ylrg1TdS34-gUgKoAALTD2sbRsF5SbUIBlSqShntAQADAgADcwADNgQ",
+        "file_size": 1376,
+        "file_unique_id": "AQAD0w9rG0bBeUl4"
+      },
+      {
+        "height": 168,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGMmkvEYNy5W74Ylrg1TdS34-gUgKoAALTD2sbRsF5SbUIBlSqShntAQADAgADbQADNgQ",
+        "file_size": 17644,
+        "file_unique_id": "AQAD0w9rG0bBeUly"
+      },
+      {
+        "height": 419,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGMmkvEYNy5W74Ylrg1TdS34-gUgKoAALTD2sbRsF5SbUIBlSqShntAQADAgADeAADNgQ",
+        "file_size": 81773,
+        "file_unique_id": "AQAD0w9rG0bBeUl9"
+      },
+      {
+        "height": 671,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGMmkvEYNy5W74Ylrg1TdS34-gUgKoAALTD2sbRsF5SbUIBlSqShntAQADAgADeQADNgQ",
+        "file_size": 112590,
+        "file_unique_id": "AQAD0w9rG0bBeUl-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764692355,
+    "message_id": 1586
   }
 ]
