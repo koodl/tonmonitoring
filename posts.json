@@ -1,70 +1,5 @@
 [
   {
-    "caption": "💎 Martin Masser из TON Foundation выступит на Binance Blockchain Week в Дубае 3 декабря на панели Building A Super App Economy.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 35,
-        "type": "text_link",
-        "url": "https://t.me/InvitedByMarTON/93"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 87,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGFGkoLB7RayHB7rNkwb5tk1Yp2PAxAAJmDWsbEMVBScvBfO8KQIbBAQADAgADcwADNgQ",
-        "file_size": 1661,
-        "file_unique_id": "AQADZg1rGxDFQUl4"
-      },
-      {
-        "height": 311,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGFGkoLB7RayHB7rNkwb5tk1Yp2PAxAAJmDWsbEMVBScvBfO8KQIbBAQADAgADbQADNgQ",
-        "file_size": 21559,
-        "file_unique_id": "AQADZg1rGxDFQUly"
-      },
-      {
-        "height": 830,
-        "width": 854,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGFGkoLB7RayHB7rNkwb5tk1Yp2PAxAAJmDWsbEMVBScvBfO8KQIbBAQADAgADeQADNgQ",
-        "file_size": 59273,
-        "file_unique_id": "AQADZg1rGxDFQUl-"
-      },
-      {
-        "height": 778,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGFGkoLB7RayHB7rNkwb5tk1Yp2PAxAAJmDWsbEMVBScvBfO8KQIbBAQADAgADeAADNgQ",
-        "file_size": 87951,
-        "file_unique_id": "AQADZg1rGxDFQUl9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764240414,
-    "message_id": 1556
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2693,5 +2628,70 @@
     },
     "date": 1764708683,
     "message_id": 1589
+  },
+  {
+    "caption": "💎 BlockchainReporter сообщил, что Bitkub Exchange и Bitkub Academy заключили партнерство с TON Foundation для запуска образовательных инициатив в сфере DeFi и Web3 в Таиланде.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 22,
+        "type": "text_link",
+        "url": "https://blockchainreporter.net/bitkub-exchange-and-academy-join-forces-with-ton-to-boost-defi-education/"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGNmkvU5cYoLldkCA3SyiHxJtViR-jAAKBEmsbRsF5SXnQWlZ2hrz7AQADAgADcwADNgQ",
+        "file_size": 1807,
+        "file_unique_id": "AQADgRJrG0bBeUl4"
+      },
+      {
+        "height": 320,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGNmkvU5cYoLldkCA3SyiHxJtViR-jAAKBEmsbRsF5SXnQWlZ2hrz7AQADAgADbQADNgQ",
+        "file_size": 25196,
+        "file_unique_id": "AQADgRJrG0bBeUly"
+      },
+      {
+        "height": 1080,
+        "width": 1080,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGNmkvU5cYoLldkCA3SyiHxJtViR-jAAKBEmsbRsF5SXnQWlZ2hrz7AQADAgADeQADNgQ",
+        "file_size": 103051,
+        "file_unique_id": "AQADgRJrG0bBeUl-"
+      },
+      {
+        "height": 800,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGNmkvU5cYoLldkCA3SyiHxJtViR-jAAKBEmsbRsF5SXnQWlZ2hrz7AQADAgADeAADNgQ",
+        "file_size": 104038,
+        "file_unique_id": "AQADgRJrG0bBeUl9"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764709271,
+    "message_id": 1590
   }
 ]
