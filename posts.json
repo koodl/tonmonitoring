@@ -1,65 +1,5 @@
 [
   {
-    "caption": "💎 Юлия Вавилова рассказала, что у неё появился новый питомец — трёхмесячный мини‑козлёнок по кличке TONSKI.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 11,
-        "offset": 17,
-        "type": "text_link",
-        "url": "https://t.me/julivavilovaa/1040"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1764185812,
-    "group_chat_created": false,
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "video": {
-      "file_name": "IMG_5438.MP4",
-      "height": 1280,
-      "mime_type": "video/mp4",
-      "width": 704,
-      "thumbnail": {
-        "height": 320,
-        "width": 176,
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgYRaSdTsXdtqtyGhxWqRCpuwPBbLBEAAh-OAAJ9H0FJwAMmM5G6bx8BAAdtAAM2BA",
-        "file_size": 15231,
-        "file_unique_id": "AQADH44AAn0fQUly"
-      },
-      "file_id": "BAACAgIAAyEFAASerMeaAAIGEWknU7F3barchocVqkQqbsDwWywRAAIfjgACfR9BScADJjORum8fNgQ",
-      "file_size": 8251991,
-      "file_unique_id": "AgADH44AAn0fQUk",
-      "duration": 22,
-      "thumb": {
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgYRaSdTsXdtqtyGhxWqRCpuwPBbLBEAAh-OAAJ9H0FJwAMmM5G6bx8BAAdtAAM2BA",
-        "file_unique_id": "AQADH44AAn0fQUly",
-        "file_size": 15231,
-        "width": 176,
-        "height": 320
-      }
-    },
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764185009,
-    "message_id": 1553
-  },
-  {
     "caption": "🎁 Конор Макгрегор обвинил Хабиба Нурмагомедова в мошенничестве и очернении имени отца после удаления публикаций о подарках в Telegram, что спровоцировало активные обсуждения конфликта в социальных сетях.",
     "caption_entities": [
       {
@@ -2773,5 +2713,43 @@
     },
     "date": 1764696187,
     "message_id": 1587
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 17,
+        "type": "text_link",
+        "url": "https://t.me/tonm_app/61"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 TON Messenger объявил о запуске конкурса для дизайнеров на создание анимированного векторного бренд-персонажа с призом $500 и приемом работ до 31 декабря 2025 года.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764703328,
+    "message_id": 1588
   }
 ]
