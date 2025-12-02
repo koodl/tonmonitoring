@@ -1,71 +1,5 @@
 [
   {
-    "caption": "💎 Martin Masser из TON Foundation выступит на Binance Blockchain Week в Дубае 3 декабря на панели Building A Super App Economy.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 35,
-        "type": "text_link",
-        "url": "https://t.me/InvitedByMarTON/93"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1764247882,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 87,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGFGkoLB7RayHB7rNkwb5tk1Yp2PAxAAJmDWsbEMVBScvBfO8KQIbBAQADAgADcwADNgQ",
-        "file_size": 1661,
-        "file_unique_id": "AQADZg1rGxDFQUl4"
-      },
-      {
-        "height": 311,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGFGkoLB7RayHB7rNkwb5tk1Yp2PAxAAJmDWsbEMVBScvBfO8KQIbBAQADAgADbQADNgQ",
-        "file_size": 21559,
-        "file_unique_id": "AQADZg1rGxDFQUly"
-      },
-      {
-        "height": 830,
-        "width": 854,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGFGkoLB7RayHB7rNkwb5tk1Yp2PAxAAJmDWsbEMVBScvBfO8KQIbBAQADAgADeQADNgQ",
-        "file_size": 59273,
-        "file_unique_id": "AQADZg1rGxDFQUl-"
-      },
-      {
-        "height": 778,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGFGkoLB7RayHB7rNkwb5tk1Yp2PAxAAJmDWsbEMVBScvBfO8KQIbBAQADAgADeAADNgQ",
-        "file_size": 87951,
-        "file_unique_id": "AQADZg1rGxDFQUl9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764240414,
-    "message_id": 1556
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "edit_date": 1764247895,
@@ -2715,5 +2649,64 @@
     },
     "date": 1764712307,
     "message_id": 1591
+  },
+  {
+    "caption": "✈️ В последней бета версии Telegram (iOS) обновилась верхняя часть приложения.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 56,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGOGkvX3Nw9NHAwEnBeTnF6OD1VqEXAALHEmsbRsF5Sfy2x8nu6UngAQADAgADcwADNgQ",
+        "file_size": 1374,
+        "file_unique_id": "AQADxxJrG0bBeUl4"
+      },
+      {
+        "height": 198,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGOGkvX3Nw9NHAwEnBeTnF6OD1VqEXAALHEmsbRsF5Sfy2x8nu6UngAQADAgADbQADNgQ",
+        "file_size": 18678,
+        "file_unique_id": "AQADxxJrG0bBeUly"
+      },
+      {
+        "height": 496,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGOGkvX3Nw9NHAwEnBeTnF6OD1VqEXAALHEmsbRsF5Sfy2x8nu6UngAQADAgADeAADNgQ",
+        "file_size": 68454,
+        "file_unique_id": "AQADxxJrG0bBeUl9"
+      },
+      {
+        "height": 725,
+        "width": 1170,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGOGkvX3Nw9NHAwEnBeTnF6OD1VqEXAALHEmsbRsF5Sfy2x8nu6UngAQADAgADeQADNgQ",
+        "file_size": 76679,
+        "file_unique_id": "AQADxxJrG0bBeUl-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764712472,
+    "message_id": 1593
   }
 ]
