@@ -1,43 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5314597028901190799",
-        "length": 3,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 36,
-        "type": "text_link",
-        "url": "https://www.globenewswire.com/news-release/2025/11/26/3195187/0/en/AlphaTON-Capital-Announces-82-5-Million-Strategic-GPU-Infrastructure-Investment-to-Power-Privacy-First-Decentralized-AI-after-Successful-Pilot-Launch-of-Telegram-s-Cocoon-AI.html"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🅰️ AlphaTON Capital (Nasdaq: ATON) объявила о вложении $82,5 млн в GPU-инфраструктуру, включая закупку и развертывание кластера из 1000+ Nvidia B200 GPU стоимостью около $68 млн для поддержки Cocoon AI, при этом общий объем активов компании достиг $97 млн. AlphaTON успешно запустил пилотную программу с Cocoon AI 25 ноября 2025 года.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764167719,
-    "message_id": 1550
-  },
-  {
     "caption": "⚡️ По данным рейтинга CryptoDiffer, Storm Trade занимает 7-е место среди децентрализованных бирж бессрочных фьючерсов (Perp DEXs) по темпам роста объема торгов за последние 30 дней, платформа показала рост на 139%.",
     "caption_entities": [
       {
@@ -2772,5 +2734,48 @@
     },
     "date": 1764684820,
     "message_id": 1583
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5287229346967229276",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 16,
+        "type": "url"
+      },
+      {
+        "length": 8,
+        "offset": 25,
+        "type": "text_link",
+        "url": "https://t.me/TonGentlemens/9607"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🥚 Исследование TEE.fail раскрыло критическую уязвимость в доверенных средах выполнения Intel TDX и AMD SEV-SNP, на которых построена система безопасности децентрализованной AI-сети Cocoon на блокчейне TON.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764687772,
+    "message_id": 1584
   }
 ]
