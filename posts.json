@@ -1,70 +1,5 @@
 [
   {
-    "caption": "⚡️ По данным рейтинга CryptoDiffer, Storm Trade занимает 7-е место среди децентрализованных бирж бессрочных фьючерсов (Perp DEXs) по темпам роста объема торгов за последние 30 дней, платформа показала рост на 139%.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440700872189306557",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 6,
-        "offset": 6,
-        "type": "text_link",
-        "url": "https://x.com/cryptodiffer/status/1993595599267283167?s=46"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 51,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGD2knFFGZo8YKKiK7HQKo_NFraffGAAICC2sbfR9BSd2bQfUYnjQdAQADAgADcwADNgQ",
-        "file_size": 1252,
-        "file_unique_id": "AQADAgtrG30fQUl4"
-      },
-      {
-        "height": 180,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGD2knFFGZo8YKKiK7HQKo_NFraffGAAICC2sbfR9BSd2bQfUYnjQdAQADAgADbQADNgQ",
-        "file_size": 15675,
-        "file_unique_id": "AQADAgtrG30fQUly"
-      },
-      {
-        "height": 450,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGD2knFFGZo8YKKiK7HQKo_NFraffGAAICC2sbfR9BSd2bQfUYnjQdAQADAgADeAADNgQ",
-        "file_size": 59903,
-        "file_unique_id": "AQADAgtrG30fQUl9"
-      },
-      {
-        "height": 720,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGD2knFFGZo8YKKiK7HQKo_NFraffGAAICC2sbfR9BSd2bQfUYnjQdAQADAgADeQADNgQ",
-        "file_size": 72434,
-        "file_unique_id": "AQADAgtrG30fQUl-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764168785,
-    "message_id": 1551
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2777,5 +2712,49 @@
     },
     "date": 1764687772,
     "message_id": 1584
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5287229346967229276",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 12,
+        "type": "text_link",
+        "url": "https://t.me/cryptoEssay/2693"
+      },
+      {
+        "length": 9,
+        "offset": 54,
+        "type": "text_link",
+        "url": "https://huggingface.co/blog/qvac/fabric-llm-finetune"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🥚 У Cocoon появился новый конкурент, Tether запустил фреймворк для тренировки ИИ-моделей, позволяющий обучать их в децентрализованной среде на персональных устройствах.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764691180,
+    "message_id": 1585
   }
 ]
