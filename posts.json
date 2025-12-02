@@ -23,70 +23,6 @@
     ],
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 47,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGEmknYEu4e7HmYeQIJ-bES-Fvc7bQAAIZDmsbfR9BSU4wo-0AAeGMagEAAwIAA3MAAzYE",
-        "file_size": 1361,
-        "file_unique_id": "AQADGQ5rG30fQUl4"
-      },
-      {
-        "height": 204,
-        "width": 390,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGEmknYEu4e7HmYeQIJ-bES-Fvc7bQAAIZDmsbfR9BSU4wo-0AAeGMagEAAwIAA3gAAzYE",
-        "file_size": 16968,
-        "file_unique_id": "AQADGQ5rG30fQUl9"
-      },
-      {
-        "height": 167,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGEmknYEu4e7HmYeQIJ-bES-Fvc7bQAAIZDmsbfR9BSU4wo-0AAeGMagEAAwIAA20AAzYE",
-        "file_size": 18190,
-        "file_unique_id": "AQADGQ5rG30fQUly"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764188235,
-    "message_id": 1554
-  },
-  {
-    "caption": "🎁 Конор Макгрегор обвинил Хабиба Нурмагомедова в мошенничестве и очернении имени отца после удаления публикаций о подарках в Telegram, что спровоцировало активные обсуждения конфликта в социальных сетях.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440615647153256792",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 19,
-        "type": "text_link",
-        "url": "https://www.lowkickmma.com/the-conor-mcgregor-khabib-nurmagomedov-november-feud-explained-digital-nft-warfare/"
-      },
-      {
-        "length": 14,
-        "offset": 140,
-        "type": "text_link",
-        "url": "https://t.me/rengev_crypto/1350"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1764188305,
     "group_chat_created": false,
     "photo": [
@@ -2743,6 +2679,45 @@
     },
     "supergroup_chat_created": false,
     "text": "💎 TON Messenger объявил о запуске конкурса для дизайнеров на создание анимированного векторного бренд-персонажа с призом $500 и приемом работ до 31 декабря 2025 года.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764703328,
+    "message_id": 1588
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1764704669,
+    "entities": [
+      {
+        "custom_emoji_id": "5294110309777189243",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 17,
+        "type": "text_link",
+        "url": "https://t.me/tonm_app/61"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "url": "https://t.me/tonm_app/61"
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🔵 TON Messenger объявил о запуске конкурса для дизайнеров на создание анимированного векторного бренд-персонажа с призом $500 и приемом работ до 31 декабря 2025 года.",
     "chat": {
       "id": -1002662123418,
       "title": "TON Monitoring",
