@@ -1,48 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 51,
-        "type": "text_link",
-        "url": "https://www.binance.com/en/square/post/11-27-2025-nexton-solutions-secures-4-million-in-strategic-funding-32937171418050"
-      },
-      {
-        "length": 7,
-        "offset": 118,
-        "type": "url"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 По данным BlockBeats, протокол Nexton Solutions привлек $4 млн стратегических инвестиций от Danal, TON Foundation, STON.fi и других партнеров для развития ИИ-системы автоматизации кросс-чейн генерации доходности.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764271419,
-    "message_id": 1561
-  },
-  {
     "caption": "💎 По данным Quiver Quantitative, в третьем квартале 2025 года 42 институциональных инвестора, включая фонды Aristeia Capital и Toms Capital, добавили в свои портфели акции компании TON Strategy.",
     "caption_entities": [
       {
@@ -2624,6 +2581,45 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 19,
+        "type": "text_link",
+        "url": "https://telegra.ph/Car-horoshij-boyare-neehffektivnye-12-04"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 Rengev выпустил материал, в котором указал на неисполнение TON Foundation обещаний по конвертации опыта за Soulbound-токены в Toncoin и отсутствие коммуникации с сообществом.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764883336,
+    "message_id": 1597
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1764892537,
     "entities": [
       {
         "custom_emoji_id": "5440671546152610057",
