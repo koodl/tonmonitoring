@@ -1,70 +1,5 @@
 [
   {
-    "caption": "✈️ В Telegram стартовал новогодний фестиваль Gift Fest, в рамках которого анонсирован розыгрыш 100 000 подарков общим фондом $400 000.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 10,
-        "offset": 45,
-        "type": "text_link",
-        "url": "https://t.me/giftfest_bot/app?startapp=UkM9MDAwMDAwaWVMNmMmUlM9aW52aXRlX2ZyaWVuZA%3D%3D"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGF2koYdJNhm5C88ArjbaQtaTITAwWAAICD2sbEMVBSesUF_-JUIGoAQADAgADcwADNgQ",
-        "file_size": 1767,
-        "file_unique_id": "AQADAg9rGxDFQUl4"
-      },
-      {
-        "height": 320,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGF2koYdJNhm5C88ArjbaQtaTITAwWAAICD2sbEMVBSesUF_-JUIGoAQADAgADbQADNgQ",
-        "file_size": 24107,
-        "file_unique_id": "AQADAg9rGxDFQUly"
-      },
-      {
-        "height": 1080,
-        "width": 1080,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGF2koYdJNhm5C88ArjbaQtaTITAwWAAICD2sbEMVBSesUF_-JUIGoAQADAgADeQADNgQ",
-        "file_size": 84932,
-        "file_unique_id": "AQADAg9rGxDFQUl-"
-      },
-      {
-        "height": 800,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGF2koYdJNhm5C88ArjbaQtaTITAwWAAICD2sbEMVBSesUF_-JUIGoAQADAgADeAADNgQ",
-        "file_size": 89393,
-        "file_unique_id": "AQADAg9rGxDFQUl9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764254162,
-    "message_id": 1559
-  },
-  {
     "caption": "🧑‍💻 «Код Дурова» сообщил, что обновление дизайна мобильного приложения Telegram привело к сбоям в работе функции VoiceOver, из-за чего навигационная панель и другие элементы управления стали недоступны для пользователей с нарушениями зрения.",
     "caption_entities": [
       {
@@ -2707,5 +2642,75 @@
     },
     "date": 1764856036,
     "message_id": 1595
+  },
+  {
+    "caption": "🧱 Канал @builders анонсировал запуск Giveaway Tool — инструмента для проведения розыгрышей в Telegram, который позволяет создавать и управлять конкурсами, выбирать любые призы, устанавливать условия участия и отслеживать активность в реальном времени, при этом инструмент находится на стадии MVP и не хранит активы пользователей.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5442689837184345354",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 9,
+        "type": "mention"
+      },
+      {
+        "length": 11,
+        "offset": 19,
+        "type": "text_link",
+        "url": "https://t.me/builders/306"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGPGkxo0dtql-rF1AERkr9DD2QOyY1AAIQDGsbC3OQSb5ECYChG5h5AQADAgADcwADNgQ",
+        "file_size": 2052,
+        "file_unique_id": "AQADEAxrGwtzkEl4"
+      },
+      {
+        "height": 320,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGPGkxo0dtql-rF1AERkr9DD2QOyY1AAIQDGsbC3OQSb5ECYChG5h5AQADAgADbQADNgQ",
+        "file_size": 23541,
+        "file_unique_id": "AQADEAxrGwtzkEly"
+      },
+      {
+        "height": 800,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGPGkxo0dtql-rF1AERkr9DD2QOyY1AAIQDGsbC3OQSb5ECYChG5h5AQADAgADeAADNgQ",
+        "file_size": 80677,
+        "file_unique_id": "AQADEAxrGwtzkEl9"
+      },
+      {
+        "height": 1280,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGPGkxo0dtql-rF1AERkr9DD2QOyY1AAIQDGsbC3OQSb5ECYChG5h5AQADAgADeQADNgQ",
+        "file_size": 95851,
+        "file_unique_id": "AQADEAxrGwtzkEl-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764860743,
+    "message_id": 1596
   }
 ]
