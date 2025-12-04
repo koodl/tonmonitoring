@@ -1,71 +1,5 @@
 [
   {
-    "caption": "🧑‍💻 «Код Дурова» сообщил, что обновление дизайна мобильного приложения Telegram привело к сбоям в работе функции VoiceOver, из-за чего навигационная панель и другие элементы управления стали недоступны для пользователей с нарушениями зрения.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5472237906510770280",
-        "length": 5,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 19,
-        "type": "text_link",
-        "url": "https://kod.ru/telegram-accessibility-issues"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1764257327,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 60,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGFmkoW8O0f17OlZobYKU3Ii2z1Ee5AALXDmsbEMVBSe1E1yscsHzQAQADAgADcwADNgQ",
-        "file_size": 919,
-        "file_unique_id": "AQAD1w5rGxDFQUl4"
-      },
-      {
-        "height": 213,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGFmkoW8O0f17OlZobYKU3Ii2z1Ee5AALXDmsbEMVBSe1E1yscsHzQAQADAgADbQADNgQ",
-        "file_size": 9439,
-        "file_unique_id": "AQAD1w5rGxDFQUly"
-      },
-      {
-        "height": 533,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGFmkoW8O0f17OlZobYKU3Ii2z1Ee5AALXDmsbEMVBSe1E1yscsHzQAQADAgADeAADNgQ",
-        "file_size": 34167,
-        "file_unique_id": "AQAD1w5rGxDFQUl9"
-      },
-      {
-        "height": 853,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGFmkoW8O0f17OlZobYKU3Ii2z1Ee5AALXDmsbEMVBSe1E1yscsHzQAQADAgADeQADNgQ",
-        "file_size": 41845,
-        "file_unique_id": "AQAD1w5rGxDFQUl-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764252611,
-    "message_id": 1558
-  },
-  {
     "caption": "📈 Платформа токенизированных акций xStocks сообщила о преодолении отметки в $150 млн объема активов под управлением.",
     "caption_entities": [
       {
@@ -2712,5 +2646,44 @@
     },
     "date": 1764860743,
     "message_id": 1596
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1764860986,
+    "entities": [
+      {
+        "custom_emoji_id": "5314597028901190799",
+        "length": 3,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 21,
+        "type": "text_link",
+        "url": "https://www.globenewswire.com/news-release/2025/12/04/3199803/0/en/AlphaTON-Capital-Exits-SEC-Baby-Shelf-Rules-and-Files-420-69-Million-Shelf-Registration-Statement.html"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🅰️ AlphaTON Capital объявила, что вышла из-под ограничений SEC по так называемым “baby-shelf rules” и подала shelf‑регистрацию на выпуск ценных бумаг объёмом 420,69 млн долларов для ускорения роста в Telegram/TON и Cocoon AI.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764856036,
+    "message_id": 1595
   }
 ]
