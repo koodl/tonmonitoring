@@ -1,70 +1,5 @@
 [
   {
-    "caption": "📈 Платформа токенизированных акций xStocks сообщила о преодолении отметки в $150 млн объема активов под управлением.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5190741704071743060",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 44,
-        "type": "text_link",
-        "url": "https://x.com/xstocksfi/status/1994078510307230081?s=46"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGGGkof3SBfTcwfR_A842kDvhCz69_AALbD2sbEMVBSdZGKa_7SC4pAQADAgADcwADNgQ",
-        "file_size": 1681,
-        "file_unique_id": "AQAD2w9rGxDFQUl4"
-      },
-      {
-        "height": 320,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGGGkof3SBfTcwfR_A842kDvhCz69_AALbD2sbEMVBSdZGKa_7SC4pAQADAgADbQADNgQ",
-        "file_size": 16602,
-        "file_unique_id": "AQAD2w9rGxDFQUly"
-      },
-      {
-        "height": 800,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGGGkof3SBfTcwfR_A842kDvhCz69_AALbD2sbEMVBSdZGKa_7SC4pAQADAgADeAADNgQ",
-        "file_size": 50419,
-        "file_unique_id": "AQAD2w9rGxDFQUl9"
-      },
-      {
-        "height": 1280,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGGGkof3SBfTcwfR_A842kDvhCz69_AALbD2sbEMVBSdZGKa_7SC4pAQADAgADeQADNgQ",
-        "file_size": 64849,
-        "file_unique_id": "AQAD2w9rGxDFQUl-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764261748,
-    "message_id": 1560
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2685,5 +2620,43 @@
     },
     "date": 1764856036,
     "message_id": 1595
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 19,
+        "type": "text_link",
+        "url": "https://telegra.ph/Car-horoshij-boyare-neehffektivnye-12-04"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 Rengev выпустил материал, в котором указал на неисполнение TON Foundation обещаний по конвертации опыта за Soulbound-токены в Toncoin и отсутствие коммуникации с сообществом.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764883336,
+    "message_id": 1597
   }
 ]
