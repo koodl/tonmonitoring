@@ -10,44 +10,6 @@
         "type": "custom_emoji"
       },
       {
-        "length": 12,
-        "offset": 80,
-        "type": "text_link",
-        "url": "https://t.me/pgrton/1325"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 На фоне сохраняющегося минимального роста пользовательской активности в сети зафиксирован отток 1,38 млн TON с централизованных бирж и увеличение ликвидности пулов TON/USDT на децентрализованных платформах на 0,19 млн USDT.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764324079,
-    "message_id": 1563
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
         "length": 16,
         "offset": 16,
         "type": "mention"
@@ -2654,5 +2616,64 @@
     },
     "date": 1764957315,
     "message_id": 1598
+  },
+  {
+    "caption": "🎁 Telegram выпустил новый подарок.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440615647153256792",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 60,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGP2kzNoutW3vcIG3pMApS5ysOSQJfAAISC2sbma6gSak9KhA0ETPoAQADAgADcwADNgQ",
+        "file_size": 1208,
+        "file_unique_id": "AQADEgtrG5muoEl4"
+      },
+      {
+        "height": 320,
+        "width": 214,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGP2kzNoutW3vcIG3pMApS5ysOSQJfAAISC2sbma6gSak9KhA0ETPoAQADAgADbQADNgQ",
+        "file_size": 15911,
+        "file_unique_id": "AQADEgtrG5muoEly"
+      },
+      {
+        "height": 800,
+        "width": 534,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGP2kzNoutW3vcIG3pMApS5ysOSQJfAAISC2sbma6gSak9KhA0ETPoAQADAgADeAADNgQ",
+        "file_size": 57633,
+        "file_unique_id": "AQADEgtrG5muoEl9"
+      },
+      {
+        "height": 1280,
+        "width": 855,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGP2kzNoutW3vcIG3pMApS5ysOSQJfAAISC2sbma6gSak9KhA0ETPoAQADAgADeQADNgQ",
+        "file_size": 74586,
+        "file_unique_id": "AQADEgtrG5muoEl-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764963979,
+    "message_id": 1599
   }
 ]
