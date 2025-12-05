@@ -1,70 +1,5 @@
 [
   {
-    "caption": "💎 По данным Quiver Quantitative, в третьем квартале 2025 года 42 институциональных инвестора, включая фонды Aristeia Capital и Toms Capital, добавили в свои портфели акции компании TON Strategy.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5238004177031953682",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 6,
-        "offset": 6,
-        "type": "text_link",
-        "url": "https://www.quiverquant.com/news/TON+Strategy+Co+Stock+%28TONX%29+Opinions+on+Coinbase+Trading+Launch+and+Nasdaq+Reprimand"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 72,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGGmkoppsnXN7wHgXVLlbC9H3XvtgxAAImEWsbEMVBSYjQSnXVJ07ZAQADAgADcwADNgQ",
-        "file_size": 1361,
-        "file_unique_id": "AQADJhFrGxDFQUl4"
-      },
-      {
-        "height": 320,
-        "width": 257,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGGmkoppsnXN7wHgXVLlbC9H3XvtgxAAImEWsbEMVBSYjQSnXVJ07ZAQADAgADbQADNgQ",
-        "file_size": 11494,
-        "file_unique_id": "AQADJhFrGxDFQUly"
-      },
-      {
-        "height": 1050,
-        "width": 844,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGGmkoppsnXN7wHgXVLlbC9H3XvtgxAAImEWsbEMVBSYjQSnXVJ07ZAQADAgADeQADNgQ",
-        "file_size": 37739,
-        "file_unique_id": "AQADJhFrGxDFQUl-"
-      },
-      {
-        "height": 800,
-        "width": 643,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGGmkoppsnXN7wHgXVLlbC9H3XvtgxAAImEWsbEMVBSYjQSnXVJ07ZAQADAgADeAADNgQ",
-        "file_size": 38882,
-        "file_unique_id": "AQADJhFrGxDFQUl9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764271771,
-    "message_id": 1562
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2654,5 +2589,70 @@
     },
     "date": 1764883336,
     "message_id": 1597
+  },
+  {
+    "caption": "🎁 Telegram и UFC запустили совместную рекламную кампанию на выставке Art Basel в Майами с розыгрышем $100 000.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440615647153256792",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 18,
+        "type": "text_link",
+        "url": "https://t.me/zoned/544"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 51,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGPmkzHIOZRFjYtzl7BxJB-7WVHrAvAAJAEWsbma6YSezX52Jr5U0nAQADAgADcwADNgQ",
+        "file_size": 1307,
+        "file_unique_id": "AQADQBFrG5mumEl4"
+      },
+      {
+        "height": 320,
+        "width": 180,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGPmkzHIOZRFjYtzl7BxJB-7WVHrAvAAJAEWsbma6YSezX52Jr5U0nAQADAgADbQADNgQ",
+        "file_size": 19519,
+        "file_unique_id": "AQADQBFrG5mumEly"
+      },
+      {
+        "height": 800,
+        "width": 450,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGPmkzHIOZRFjYtzl7BxJB-7WVHrAvAAJAEWsbma6YSezX52Jr5U0nAQADAgADeAADNgQ",
+        "file_size": 89613,
+        "file_unique_id": "AQADQBFrG5mumEl9"
+      },
+      {
+        "height": 1280,
+        "width": 720,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGPmkzHIOZRFjYtzl7BxJB-7WVHrAvAAJAEWsbma6YSezX52Jr5U0nAQADAgADeQADNgQ",
+        "file_size": 125203,
+        "file_unique_id": "AQADQBFrG5mumEl-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1764957315,
+    "message_id": 1598
   }
 ]
