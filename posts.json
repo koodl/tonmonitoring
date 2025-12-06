@@ -2,50 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "edit_date": 1764338707,
-    "entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 16,
-        "offset": 3,
-        "type": "mention"
-      },
-      {
-        "length": 13,
-        "offset": 20,
-        "type": "text_link",
-        "url": "https://t.me/julia_innovator_blog/431"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "url": "http://t.me/julia_innovator_blog/431"
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 @julia_innovator предостерегла разработчиков от призов в кредитах Adsgram, сообщив о накрутке ботов вместо реальных пользователей и аннулировании выигрыша в $25 000 у проекта Aqua Protocol.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764338133,
-    "message_id": 1564
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1764338713,
     "entities": [
       {
@@ -2666,5 +2622,43 @@
     },
     "date": 1764964277,
     "message_id": 1600
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 55,
+        "type": "text_link",
+        "url": "https://t.me/pgrton/1328"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 Совокупный приток средств на централизованные биржи составил 2,41 млн TON на фоне снижения активности пользователей в сети и оттока 0,08 млн USDT из пулов на децентрализованных площадках.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1765022785,
+    "message_id": 1601
   }
 ]
