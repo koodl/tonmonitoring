@@ -1,70 +1,5 @@
 [
   {
-    "caption": "🪹 Программа поддержки разработчиков TON Nest объявила о наборе русскоязычных экспертов для проведения образовательных сессий и воркшопов по маркетингу, DeFi и разработке в экосистеме TON.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5449527614098145226",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 46,
-        "type": "text_link",
-        "url": "https://x.com/toncishub/status/1994434058525217279?s=46"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 51,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGHWkpxi2FroTHwBLpzhKSEQ8g-hViAAImC2sbEMVRSbLZAawTOmyzAQADAgADcwADNgQ",
-        "file_size": 1472,
-        "file_unique_id": "AQADJgtrGxDFUUl4"
-      },
-      {
-        "height": 180,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGHWkpxi2FroTHwBLpzhKSEQ8g-hViAAImC2sbEMVRSbLZAawTOmyzAQADAgADbQADNgQ",
-        "file_size": 17028,
-        "file_unique_id": "AQADJgtrGxDFUUly"
-      },
-      {
-        "height": 628,
-        "width": 1116,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGHWkpxi2FroTHwBLpzhKSEQ8g-hViAAImC2sbEMVRSbLZAawTOmyzAQADAgADeQADNgQ",
-        "file_size": 58104,
-        "file_unique_id": "AQADJgtrGxDFUUl-"
-      },
-      {
-        "height": 450,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGHWkpxi2FroTHwBLpzhKSEQ8g-hViAAImC2sbEMVRSbLZAawTOmyzAQADAgADeAADNgQ",
-        "file_size": 58469,
-        "file_unique_id": "AQADJgtrGxDFUUl9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764345389,
-    "message_id": 1565
-  },
-  {
     "caption": "⚔ В приложении Azuki открылась возможность получения уникальных наград для владельцев стикеров при подключении кошелька.",
     "caption_entities": [
       {
@@ -2651,5 +2586,75 @@
     },
     "date": 1764964277,
     "message_id": 1600
+  },
+  {
+    "caption": "🐒 Владельцы BAYC, MAYC и связанных с ними стикеров или аватаров могут до 23:59 PT 7 декабря бесплатно получить набор стикеров во вкладке Tasks сервиса @mint, если их активы были зафиксированы во время снимка 2 декабря.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5352822667332318362",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 5,
+        "offset": 65,
+        "type": "text_link",
+        "url": "https://t.me/OfficialBAYC/247"
+      },
+      {
+        "length": 5,
+        "offset": 152,
+        "type": "mention"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 72,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGQ2k16kvRZLPhlhacjS6UbVJxFdOcAAIdEGsb2oaxSfKpe0FdOOKMAQADAgADcwADNgQ",
+        "file_size": 1909,
+        "file_unique_id": "AQADHRBrG9qGsUl4"
+      },
+      {
+        "height": 320,
+        "width": 256,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGQ2k16kvRZLPhlhacjS6UbVJxFdOcAAIdEGsb2oaxSfKpe0FdOOKMAQADAgADbQADNgQ",
+        "file_size": 30868,
+        "file_unique_id": "AQADHRBrG9qGsUly"
+      },
+      {
+        "height": 800,
+        "width": 640,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGQ2k16kvRZLPhlhacjS6UbVJxFdOcAAIdEGsb2oaxSfKpe0FdOOKMAQADAgADeAADNgQ",
+        "file_size": 142701,
+        "file_unique_id": "AQADHRBrG9qGsUl9"
+      },
+      {
+        "height": 1280,
+        "width": 1024,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGQ2k16kvRZLPhlhacjS6UbVJxFdOcAAIdEGsb2oaxSfKpe0FdOOKMAQADAgADeQADNgQ",
+        "file_size": 197534,
+        "file_unique_id": "AQADHRBrG9qGsUl-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1765141067,
+    "message_id": 1603
   }
 ]
