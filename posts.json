@@ -9,65 +9,6 @@
         "type": "custom_emoji"
       },
       {
-        "length": 9,
-        "offset": 21,
-        "type": "text_link",
-        "url": "https://t.me/azukialleyescape/20"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "video": {
-      "file_name": "IMG_5484.MP4",
-      "height": 640,
-      "mime_type": "video/mp4",
-      "width": 640,
-      "thumbnail": {
-        "height": 320,
-        "width": 320,
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgYeaSnMr9EEzH5aCIulcZQxK3W-YloAAmCCAAIQxVFJHQY8tC1XW38BAAdtAAM2BA",
-        "file_size": 18382,
-        "file_unique_id": "AQADYIIAAhDFUUly"
-      },
-      "file_id": "BAACAgIAAyEFAASerMeaAAIGHmkpzK_RBMx-WgiLpXGUMSt1vmJaAAJgggACEMVRSR0GPLQtV1t_NgQ",
-      "file_size": 152292,
-      "file_unique_id": "AgADYIIAAhDFUUk",
-      "duration": 2,
-      "thumb": {
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgYeaSnMr9EEzH5aCIulcZQxK3W-YloAAmCCAAIQxVFJHQY8tC1XW38BAAdtAAM2BA",
-        "file_unique_id": "AQADYIIAAhDFUUly",
-        "file_size": 18382,
-        "width": 320,
-        "height": 320
-      }
-    },
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764347055,
-    "message_id": 1566
-  },
-  {
-    "caption": "⚔ В приложении Azuki открылась возможность получения уникальных наград для владельцев стикеров при подключении кошелька.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5350765824674136498",
-        "length": 1,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
         "length": 5,
         "offset": 15,
         "type": "text_link",
@@ -2656,5 +2597,49 @@
     },
     "date": 1765141067,
     "message_id": 1603
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5443047436161413892",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 12,
+        "type": "text_link",
+        "url": "https://t.me/toncore/95"
+      },
+      {
+        "length": 12,
+        "offset": 44,
+        "type": "text_link",
+        "url": "https://docs.ton.org/languages/tolk"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "⚙️ Ton Core выпустила масштабное обновление документации для языка Tolk.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1765192231,
+    "message_id": 1604
   }
 ]
