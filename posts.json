@@ -2,94 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5449428481957982088",
-        "length": 3,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 12,
-        "type": "text_link",
-        "url": "https://t.me/julia_innovator_blog/431?comment=12650"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "url": "https://t.me/julia_innovator_blog/431?comment=12650"
-    },
-    "reply_to_message": {
-      "channel_chat_created": false,
-      "delete_chat_photo": false,
-      "edit_date": 1764345678,
-      "entities": [
-        {
-          "custom_emoji_id": "5440671546152610057",
-          "length": 2,
-          "offset": 0,
-          "type": "custom_emoji"
-        },
-        {
-          "length": 16,
-          "offset": 3,
-          "type": "mention"
-        },
-        {
-          "length": 13,
-          "offset": 20,
-          "type": "text_link",
-          "url": "https://t.me/julia_innovator_blog/431"
-        },
-        {
-          "length": 10,
-          "offset": 193,
-          "type": "text_link",
-          "url": "https://t.me/tecteam/222"
-        }
-      ],
-      "group_chat_created": false,
-      "link_preview_options": {
-        "is_disabled": true
-      },
-      "sender_chat": {
-        "id": -1002662123418,
-        "title": "TON Monitoring",
-        "type": "channel",
-        "username": "tonmonitoring"
-      },
-      "supergroup_chat_created": false,
-      "text": "💎 @julia_innovator предостерегла разработчиков от призов в кредитах Adsgram, сообщив о накрутке ботов вместо реальных пользователей и аннулировании выигрыша в $25 000 у проекта Aqua Protocol.\nДополнение от TEC Team.",
-      "chat": {
-        "id": -1002662123418,
-        "title": "TON Monitoring",
-        "type": "channel",
-        "username": "tonmonitoring"
-      },
-      "date": 1764338133,
-      "message_id": 1564
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🅰️ Adsgram опроверг обвинения в присвоении кредитов Aqua Protocol, заявив, что отказ в переводе средств на сторонние ресурсы обусловлен условиями контракта с TON Foundation и отсутствием официального разрешения от фонда на смену целевого проекта.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764348035,
-    "message_id": 1567
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1764348044,
     "entities": [
       {
@@ -2613,5 +2525,43 @@
     },
     "date": 1765221720,
     "message_id": 1605
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 12,
+        "type": "text_link",
+        "url": "https://t.me/tginfo/4356"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "✈️ Telegram запустил функцию авторизации через Passkey для пользователей с российскими номерами телефонов, позволяющую входить в аккаунт без ввода номера и одноразового кода из SMS.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1765221889,
+    "message_id": 1606
   }
 ]
