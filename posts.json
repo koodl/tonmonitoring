@@ -17,72 +17,6 @@
     ],
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "edit_date": 1764425303,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 47,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGIWkq_jIZDRhWKGI-CRMRTejk8FA2AAI_EGsbozFYSaGu8ylSJXmxAQADAgADcwADNgQ",
-        "file_size": 1449,
-        "file_unique_id": "AQADPxBrG6MxWEl4"
-      },
-      {
-        "height": 320,
-        "width": 167,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGIWkq_jIZDRhWKGI-CRMRTejk8FA2AAI_EGsbozFYSaGu8ylSJXmxAQADAgADbQADNgQ",
-        "file_size": 17825,
-        "file_unique_id": "AQADPxBrG6MxWEly"
-      },
-      {
-        "height": 800,
-        "width": 417,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGIWkq_jIZDRhWKGI-CRMRTejk8FA2AAI_EGsbozFYSaGu8ylSJXmxAQADAgADeAADNgQ",
-        "file_size": 65382,
-        "file_unique_id": "AQADPxBrG6MxWEl9"
-      },
-      {
-        "height": 1280,
-        "width": 667,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGIWkq_jIZDRhWKGI-CRMRTejk8FA2AAI_EGsbozFYSaGu8ylSJXmxAQADAgADeQADNgQ",
-        "file_size": 82159,
-        "file_unique_id": "AQADPxBrG6MxWEl-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764425266,
-    "message_id": 1569
-  },
-  {
-    "caption": "Ⓜ️ Проект @mint открыл возможность обмена накопленных очков XP на билеты для участия в розыгрыше на сумму $20 000, который состоится 1 декабря.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5276019924706292346",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 5,
-        "offset": 10,
-        "type": "text_link",
-        "url": "https://t.me/mint?startapp=invite_659773038"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1764430870,
     "group_chat_created": false,
     "photo": [
@@ -2518,6 +2452,45 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 113,
+        "type": "text_link",
+        "url": "https://t.me/telelakel/749"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "✈️ Функция авторизации Telegram через ключ доступа Passkey, ранее доступная только пользователям в России, стала доступна всем пользователям мессенджера.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1765292598,
+    "message_id": 1608
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1765302667,
     "entities": [
       {
         "custom_emoji_id": "5440613134597387384",
