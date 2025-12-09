@@ -1,71 +1,5 @@
 [
   {
-    "caption": "Ⓜ️ Проект @mint открыл возможность обмена накопленных очков XP на билеты для участия в розыгрыше на сумму $20 000, который состоится 1 декабря.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5276019924706292346",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 5,
-        "offset": 10,
-        "type": "text_link",
-        "url": "https://t.me/mint?startapp=invite_659773038"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1764430870,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 47,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGIWkq_jIZDRhWKGI-CRMRTejk8FA2AAI_EGsbozFYSaGu8ylSJXmxAQADAgADcwADNgQ",
-        "file_size": 1449,
-        "file_unique_id": "AQADPxBrG6MxWEl4"
-      },
-      {
-        "height": 320,
-        "width": 167,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGIWkq_jIZDRhWKGI-CRMRTejk8FA2AAI_EGsbozFYSaGu8ylSJXmxAQADAgADbQADNgQ",
-        "file_size": 17825,
-        "file_unique_id": "AQADPxBrG6MxWEly"
-      },
-      {
-        "height": 800,
-        "width": 417,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGIWkq_jIZDRhWKGI-CRMRTejk8FA2AAI_EGsbozFYSaGu8ylSJXmxAQADAgADeAADNgQ",
-        "file_size": 65382,
-        "file_unique_id": "AQADPxBrG6MxWEl9"
-      },
-      {
-        "height": 1280,
-        "width": 667,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGIWkq_jIZDRhWKGI-CRMRTejk8FA2AAI_EGsbozFYSaGu8ylSJXmxAQADAgADeQADNgQ",
-        "file_size": 82159,
-        "file_unique_id": "AQADPxBrG6MxWEl-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764425266,
-    "message_id": 1569
-  },
-  {
     "caption": "💎 На телеканале Bloomberg TV вышел выпуск программы New to The Street с участием CEO TON Strategy (TONX) Вероники Капустиной, которая рассказала о стратегических инициативах в блокчейне TON, институциональном принятии и планах будущего расширения.",
     "caption_entities": [
       {
@@ -2525,5 +2459,63 @@
     },
     "date": 1765292598,
     "message_id": 1608
+  },
+  {
+    "caption": "✈️ Kaspersky зафиксировала, что с октября 2024 года Telegram усилил блокировки теневых каналов, вынуждая киберпреступников мигрировать на другие платформы, несмотря на то что медианный срок жизни таких сообществ в 2023–2024 годах вырос до девяти месяцев.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 14,
+        "offset": 13,
+        "type": "text_link",
+        "url": "https://securelist.com/goodbye-dark-telegram/118286/"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 51,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGSWk4h79hFbN_VMryO1k4coClcuNCAAK-EGsbcznASYaW4DtYpQ4PAQADAgADcwADNgQ",
+        "file_size": 1344,
+        "file_unique_id": "AQADvhBrG3M5wEl4"
+      },
+      {
+        "height": 180,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGSWk4h79hFbN_VMryO1k4coClcuNCAAK-EGsbcznASYaW4DtYpQ4PAQADAgADbQADNgQ",
+        "file_size": 15537,
+        "file_unique_id": "AQADvhBrG3M5wEly"
+      },
+      {
+        "height": 450,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGSWk4h79hFbN_VMryO1k4coClcuNCAAK-EGsbcznASYaW4DtYpQ4PAQADAgADeAADNgQ",
+        "file_size": 38406,
+        "file_unique_id": "AQADvhBrG3M5wEl9"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1765312447,
+    "message_id": 1609
   }
 ]
