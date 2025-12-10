@@ -1,70 +1,5 @@
 [
   {
-    "caption": "👛 MyTonWallet выпустил обновление 4.4 с функцией вывода криптовалюты на карту через сервис MoonPay, поддержкой Telegram-доменов, встроенным обозревателем блокчейна и переключением кошельков свайпом.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5442808395461583047",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 15,
-        "type": "text_link",
-        "url": "https://t.me/MyTonWalletRu/362"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGJWksfwbKx9FMWBYpL88FIZGTN6TpAAJnEWsbXaxgSVXZgpoZsHA1AQADAgADcwADNgQ",
-        "file_size": 1782,
-        "file_unique_id": "AQADZxFrG12sYEl4"
-      },
-      {
-        "height": 320,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGJWksfwbKx9FMWBYpL88FIZGTN6TpAAJnEWsbXaxgSVXZgpoZsHA1AQADAgADbQADNgQ",
-        "file_size": 24718,
-        "file_unique_id": "AQADZxFrG12sYEly"
-      },
-      {
-        "height": 800,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGJWksfwbKx9FMWBYpL88FIZGTN6TpAAJnEWsbXaxgSVXZgpoZsHA1AQADAgADeAADNgQ",
-        "file_size": 87102,
-        "file_unique_id": "AQADZxFrG12sYEl9"
-      },
-      {
-        "height": 1280,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGJWksfwbKx9FMWBYpL88FIZGTN6TpAAJnEWsbXaxgSVXZgpoZsHA1AQADAgADeQADNgQ",
-        "file_size": 109193,
-        "file_unique_id": "AQADZxFrG12sYEl-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764523782,
-    "message_id": 1573
-  },
-  {
     "caption": "✈️ Павел Дуров объявил о запуске децентрализованной сети конфиденциальных вычислений Cocoon, которая позволяет владельцам GPU зарабатывать TON за безопасную обработку AI-запросов.",
     "caption_entities": [
       {
@@ -2515,5 +2450,70 @@
     },
     "date": 1765377273,
     "message_id": 1613
+  },
+  {
+    "caption": "💎 Анонимный номер +888 8 001 был продан китайскому покупателю за 216 000 TON (около $363 000), подорожав почти вдвое по сравнению с ценой покупки месяц назад.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 6,
+        "offset": 34,
+        "type": "text_link",
+        "url": "https://t.me/groza/1963"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 75,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGTmk56hHMt7yCeF7yXb65bXgkD2DXAAIcD2sbniLQSWotMehK75cqAQADAgADcwADNgQ",
+        "file_size": 1679,
+        "file_unique_id": "AQADHA9rG54i0El4"
+      },
+      {
+        "height": 266,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGTmk56hHMt7yCeF7yXb65bXgkD2DXAAIcD2sbniLQSWotMehK75cqAQADAgADbQADNgQ",
+        "file_size": 17231,
+        "file_unique_id": "AQADHA9rG54i0Ely"
+      },
+      {
+        "height": 664,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGTmk56hHMt7yCeF7yXb65bXgkD2DXAAIcD2sbniLQSWotMehK75cqAQADAgADeAADNgQ",
+        "file_size": 57086,
+        "file_unique_id": "AQADHA9rG54i0El9"
+      },
+      {
+        "height": 1062,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGTmk56hHMt7yCeF7yXb65bXgkD2DXAAIcD2sbniLQSWotMehK75cqAQADAgADeQADNgQ",
+        "file_size": 68403,
+        "file_unique_id": "AQADHA9rG54i0El-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1765403153,
+    "message_id": 1614
   }
 ]
