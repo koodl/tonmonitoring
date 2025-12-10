@@ -4,44 +4,6 @@
     "delete_chat_photo": false,
     "entities": [
       {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 6,
-        "offset": 38,
-        "type": "text_link",
-        "url": "https://www.cnbctv18.com/technology/sim-binding-rule-auto-logout-for-whatsapp-telegram-signal-what-users-must-know-new-telecom-rule-ws-l-19776460.htm"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "✈️ Департамент телекоммуникаций Индии обязал Telegram, WhatsApp и другие мессенджеры в течение 90 дней внедрить запрет на работу приложения без активной SIM-карты в устройстве и установить автоматический выход из веб-версий каждые шесть часов.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764493588,
-    "message_id": 1571
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
         "custom_emoji_id": "5265112348451960063",
         "length": 2,
         "offset": 0,
@@ -2516,5 +2478,39 @@
     },
     "date": 1765331316,
     "message_id": 1610
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 9,
+        "type": "url"
+      }
+    ],
+    "group_chat_created": false,
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 Домен ton.com, ранее принадлежавший брокеру Digimedia, начал перенаправлять пользователей на обозреватель блоков Tonscan.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1765364862,
+    "message_id": 1611
   }
 ]
