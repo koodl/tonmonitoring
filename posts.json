@@ -2,57 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "edit_date": 1764494162,
-    "entities": [
-      {
-        "custom_emoji_id": "5265112348451960063",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 12,
-        "offset": 11,
-        "type": "text_link",
-        "url": "https://t.me/tonmonitoring/1524"
-      },
-      {
-        "custom_emoji_id": "5440764055453200867",
-        "length": 2,
-        "offset": 42,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 45,
-        "type": "text_link",
-        "url": "https://t.me/tonmonitoring/8"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🗞 Новости 48ой недели.\n\nСпонсоры недели:\n⭐️ Донатеры\nСпасибо за вашу поддержку!",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764494092,
-    "message_id": 1572
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1764497865,
     "entities": [
       {
@@ -2502,5 +2451,43 @@
     },
     "date": 1765364862,
     "message_id": 1611
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 11,
+        "offset": 36,
+        "type": "text_link",
+        "url": "https://t.me/thedailytonrus/1278"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 Анализ вакансий в экосистеме TON показывает, что наем продолжают преимущественно крупные игроки вроде TON Foundation, The Open Platform и Wallet, которые обновляют руководящий состав, тогда как активность небольших независимых проектов практически отсутствует.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1765371412,
+    "message_id": 1612
   }
 ]
