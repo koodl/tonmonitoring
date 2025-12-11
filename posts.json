@@ -1,70 +1,5 @@
 [
   {
-    "caption": "🪙 TON Foundation приостановила конкурс MemeRepublic и выплату наград за третью неделю из-за сообщений о манипуляциях с результатами и необходимости пересмотра формата соревнования.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5197450760815668186",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 13,
-        "offset": 18,
-        "type": "text_link",
-        "url": "https://x.com/tonmemerepublic/status/1995487955918418415?s=46"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 49,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGJ2ktmzJVUgABdMR3hLfTPpHL6ERdVgACuxJrG12saEnAL8xFzsahBQEAAwIAA3MAAzYE",
-        "file_size": 988,
-        "file_unique_id": "AQADuxJrG12saEl4"
-      },
-      {
-        "height": 174,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGJ2ktmzJVUgABdMR3hLfTPpHL6ERdVgACuxJrG12saEnAL8xFzsahBQEAAwIAA20AAzYE",
-        "file_size": 7857,
-        "file_unique_id": "AQADuxJrG12saEly"
-      },
-      {
-        "height": 435,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGJ2ktmzJVUgABdMR3hLfTPpHL6ERdVgACuxJrG12saEnAL8xFzsahBQEAAwIAA3gAAzYE",
-        "file_size": 23840,
-        "file_unique_id": "AQADuxJrG12saEl9"
-      },
-      {
-        "height": 636,
-        "width": 1170,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGJ2ktmzJVUgABdMR3hLfTPpHL6ERdVgACuxJrG12saEnAL8xFzsahBQEAAwIAA3kAAzYE",
-        "file_size": 26712,
-        "file_unique_id": "AQADuxJrG12saEl-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764596530,
-    "message_id": 1575
-  },
-  {
     "caption": "📦 TON Foundation сообщила, что объем продаж NFT-стикеров в Telegram достиг $11 млн при более чем 294 000 сделок, а свои коллекции уже выпустили бренды Kung Fu Panda, Jarritos и Nascar.",
     "caption_entities": [
       {
@@ -2547,5 +2482,75 @@
     },
     "date": 1765469764,
     "message_id": 1616
+  },
+  {
+    "caption": "👁️‍🗨️ Канал @vibes предложил внедрить в Telegram функцию цифрового наследования, позволяющую автоматически передавать активы и права на аккаунт преемнику после шести месяцев неактивности пользователя.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5321457199774471279",
+        "length": 7,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 6,
+        "offset": 14,
+        "type": "mention"
+      },
+      {
+        "length": 9,
+        "offset": 21,
+        "type": "text_link",
+        "url": "https://t.me/vibes/1990"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 51,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGUWk6_yUlg0YP6aUU5fyEuiBMEY4sAAI2EWsbniLYSSEAAVhwu385HQEAAwIAA3MAAzYE",
+        "file_size": 679,
+        "file_unique_id": "AQADNhFrG54i2El4"
+      },
+      {
+        "height": 180,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGUWk6_yUlg0YP6aUU5fyEuiBMEY4sAAI2EWsbniLYSSEAAVhwu385HQEAAwIAA20AAzYE",
+        "file_size": 6604,
+        "file_unique_id": "AQADNhFrG54i2Ely"
+      },
+      {
+        "height": 450,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGUWk6_yUlg0YP6aUU5fyEuiBMEY4sAAI2EWsbniLYSSEAAVhwu385HQEAAwIAA3gAAzYE",
+        "file_size": 25668,
+        "file_unique_id": "AQADNhFrG54i2El9"
+      },
+      {
+        "height": 720,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGUWk6_yUlg0YP6aUU5fyEuiBMEY4sAAI2EWsbniLYSSEAAVhwu385HQEAAwIAA3kAAzYE",
+        "file_size": 33170,
+        "file_unique_id": "AQADNhFrG54i2El-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1765474085,
+    "message_id": 1617
   }
 ]
