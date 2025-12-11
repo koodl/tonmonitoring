@@ -4,44 +4,6 @@
     "delete_chat_photo": false,
     "entities": [
       {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 27,
-        "type": "text_link",
-        "url": "https://t.me/contest/431"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "✈️ Канал Telegram Contests объявил о запуске глобального Design Contest 2025 с призовым фондом от $50 000, в рамках которого участники до 23:59 по дубайскому времени 15 декабря 2025 года должны представить концепт интерфейса Telegram Nodes с полным набором макетов для Android и iOS и демонстрационным видео, при этом участие открыто для всех.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764598971,
-    "message_id": 1578
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
         "custom_emoji_id": "5440671546152610057",
         "length": 2,
         "offset": 0,
@@ -2552,5 +2514,64 @@
     },
     "date": 1765492085,
     "message_id": 1619
+  },
+  {
+    "caption": "🅰️ AlphaTON Capital Corp заключила соглашение с европейским оператором atNorth на размещение 2,2 МВт вычислительных мощностей в Швеции для развития ИИ-инфраструктуры экосистемы Telegram.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5314597028901190799",
+        "length": 3,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 26,
+        "type": "text_link",
+        "url": "https://www.globenewswire.com/news-release/2025/12/11/3204253/0/en/AlphaTON-Capital-Corp-Announces-First-Major-Data-Center-Agreement-with-atNorth-Securing-2-2-MW-of-High-Performance-Computing-Capacity-in-Sweden.html"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1765496483,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 52,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGUmk7VqNiQ-QCqshJjvKPtYe-9wxiAAKxGmsbniLYSXuixwzfbEO_AQADAgADcwADNgQ",
+        "file_size": 1586,
+        "file_unique_id": "AQADsRprG54i2El4"
+      },
+      {
+        "height": 184,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGUmk7VqNiQ-QCqshJjvKPtYe-9wxiAAKxGmsbniLYSXuixwzfbEO_AQADAgADbQADNgQ",
+        "file_size": 18829,
+        "file_unique_id": "AQADsRprG54i2Ely"
+      },
+      {
+        "height": 451,
+        "width": 784,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGUmk7VqNiQ-QCqshJjvKPtYe-9wxiAAKxGmsbniLYSXuixwzfbEO_AQADAgADeAADNgQ",
+        "file_size": 46173,
+        "file_unique_id": "AQADsRprG54i2El9"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1765490986,
+    "message_id": 1618
   }
 ]
