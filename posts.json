@@ -11,49 +11,6 @@
       },
       {
         "length": 8,
-        "offset": 16,
-        "type": "url"
-      },
-      {
-        "length": 8,
-        "offset": 25,
-        "type": "text_link",
-        "url": "https://t.me/TonGentlemens/9607"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🥚 Исследование TEE.fail раскрыло критическую уязвимость в доверенных средах выполнения Intel TDX и AMD SEV-SNP, на которых построена система безопасности децентрализованной AI-сети Cocoon на блокчейне TON.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764687772,
-    "message_id": 1584
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5287229346967229276",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
         "offset": 12,
         "type": "text_link",
         "url": "https://t.me/cryptoEssay/2693"
@@ -2565,5 +2522,43 @@
     },
     "date": 1765546516,
     "message_id": 1623
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 22,
+        "type": "text_link",
+        "url": "https://t.me/tondev_news/257"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 В документации TON обновлены адреса смарт-контрактов оракула Pyth, новая версия которых снижает стоимость верификации цен в блокчейне в 10–20 раз.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1765549195,
+    "message_id": 1624
   }
 ]
