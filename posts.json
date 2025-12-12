@@ -1,44 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1764704675,
-    "entities": [
-      {
-        "custom_emoji_id": "5294110309777189243",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 17,
-        "type": "text_link",
-        "url": "https://t.me/tonm_app/61"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🔵 TON Messenger объявил о запуске конкурса для дизайнеров на создание анимированного векторного бренд-персонажа с призом $500 и приемом работ до 31 декабря 2025 года.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764703328,
-    "message_id": 1588
-  },
-  {
     "caption": "✈️ Компания ESET опубликовала отчет о безопасности Telegram, в котором предупредила о рисках использования мессенджера для конфиденциальной переписки из-за отсутствия сквозного шифрования в обычных чатах и хранения ключей доступа на серверах платформы.",
     "caption_entities": [
       {
@@ -2639,5 +2600,44 @@
     },
     "date": 1765574468,
     "message_id": 1628
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1765577166,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 96,
+        "type": "text_link",
+        "url": "https://t.me/pgrton/1331"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 На фоне минимального роста сетевой активности за неделю приток TON на централизованные биржи составил 1,87 млн, а ликвидность пулов TON/USDT на основных децентрализованных площадках увеличилась на 60 тыс. USDT.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1765573798,
+    "message_id": 1627
   }
 ]
