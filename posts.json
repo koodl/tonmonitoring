@@ -4,44 +4,6 @@
     "delete_chat_photo": false,
     "entities": [
       {
-        "custom_emoji_id": "5411157501557110248",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 15,
-        "offset": 17,
-        "type": "text_link",
-        "url": "https://t.me/kuznetsovton/1623"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🕐 Илья Кузнецов спрогнозировал, что вслед за трендами на Notcoin и подарки основным направлением развития Telegram в 2026 году станет взаимодействие мессенджера с нейросетью CoCoon.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764684820,
-    "message_id": 1583
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
         "custom_emoji_id": "5287229346967229276",
         "length": 2,
         "offset": 0,
@@ -2565,5 +2527,43 @@
     },
     "date": 1765542445,
     "message_id": 1622
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 11,
+        "offset": 68,
+        "type": "text_link",
+        "url": "https://t.me/thedailytonrus/1281"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 The Daily TON, проводя параллель с антикризисными мерами OpenAI, опубликовал мнение о необходимости введения в экосистеме режима «Code Red» для концентрации оставшихся ресурсов на решении критических проблем на фоне слухов о сокращениях в TON Foundation.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1765546516,
+    "message_id": 1623
   }
 ]
