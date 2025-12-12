@@ -4,44 +4,6 @@
     "delete_chat_photo": false,
     "entities": [
       {
-        "custom_emoji_id": "5469896887341444506",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 13,
-        "offset": 8,
-        "type": "text_link",
-        "url": "https://x.com/ikingyru/status/1995131839258763265?s=46"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🦘 Вуди раскритиковал чрезмерную зависимость TON от Павла Дурова, отметив, что в отличие от CZ, инвестирующего в BNB, основатель Telegram выводит ликвидность из экосистемы через механизм подарков, что становится серьезным недостатком из-за его удаленности от блокчейна.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764619934,
-    "message_id": 1582
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
         "custom_emoji_id": "5411157501557110248",
         "length": 2,
         "offset": 0,
@@ -2574,5 +2536,34 @@
     },
     "date": 1765539241,
     "message_id": 1621
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      }
+    ],
+    "group_chat_created": false,
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 Появившиеся в Telegram слухи об увольнениях сотрудников TON Foundation ставятся под сомнение, поскольку у упоминаемых специалистов сохраняются официальные верификационные значки организации.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1765542445,
+    "message_id": 1622
   }
 ]
