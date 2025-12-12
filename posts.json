@@ -1,75 +1,5 @@
 [
   {
-    "caption": "🔁 DEX-биржа STON.fi запустила первую в экосистеме TON ончейн-DAO, где застейканные токены STON дают право голоса для управления развитием проекта.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5442772532484665802",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 13,
-        "type": "url"
-      },
-      {
-        "length": 9,
-        "offset": 21,
-        "type": "text_link",
-        "url": "https://t.me/ston_fi_ru/1156"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 47,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGMmkvEYNy5W74Ylrg1TdS34-gUgKoAALTD2sbRsF5SbUIBlSqShntAQADAgADcwADNgQ",
-        "file_size": 1376,
-        "file_unique_id": "AQAD0w9rG0bBeUl4"
-      },
-      {
-        "height": 168,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGMmkvEYNy5W74Ylrg1TdS34-gUgKoAALTD2sbRsF5SbUIBlSqShntAQADAgADbQADNgQ",
-        "file_size": 17644,
-        "file_unique_id": "AQAD0w9rG0bBeUly"
-      },
-      {
-        "height": 419,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGMmkvEYNy5W74Ylrg1TdS34-gUgKoAALTD2sbRsF5SbUIBlSqShntAQADAgADeAADNgQ",
-        "file_size": 81773,
-        "file_unique_id": "AQAD0w9rG0bBeUl9"
-      },
-      {
-        "height": 671,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGMmkvEYNy5W74Ylrg1TdS34-gUgKoAALTD2sbRsF5SbUIBlSqShntAQADAgADeQADNgQ",
-        "file_size": 112590,
-        "file_unique_id": "AQAD0w9rG0bBeUl-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764692355,
-    "message_id": 1586
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2586,5 +2516,63 @@
     },
     "date": 1765552613,
     "message_id": 1625
+  },
+  {
+    "caption": "✈️ Financial Times сообщила, что Павел Дуров в 2018 году лично предложил экс-топ-менеджеру Wirecard Яну Марсалеку инвестировать в TON, после чего тот вложил в проект средства ливийских партнеров от своего имени для обхода банковских ограничений.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440479333481217835",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 19,
+        "type": "text_link",
+        "url": "https://t.me/news_sirena/41452"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 50,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGWmk8ZRkcMZR_J4y_Ou3YdvCNRcjEAAJdC2sbsdnoSQX42Lmn3q82AQADAgADcwADNgQ",
+        "file_size": 1041,
+        "file_unique_id": "AQADXQtrG7HZ6El4"
+      },
+      {
+        "height": 179,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGWmk8ZRkcMZR_J4y_Ou3YdvCNRcjEAAJdC2sbsdnoSQX42Lmn3q82AQADAgADbQADNgQ",
+        "file_size": 9030,
+        "file_unique_id": "AQADXQtrG7HZ6Ely"
+      },
+      {
+        "height": 431,
+        "width": 770,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGWmk8ZRkcMZR_J4y_Ou3YdvCNRcjEAAJdC2sbsdnoSQX42Lmn3q82AQADAgADeAADNgQ",
+        "file_size": 21128,
+        "file_unique_id": "AQADXQtrG7HZ6El9"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1765565721,
+    "message_id": 1626
   }
 ]
