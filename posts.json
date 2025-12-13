@@ -1,63 +1,5 @@
 [
   {
-    "caption": "✈️ Компания ESET опубликовала отчет о безопасности Telegram, в котором предупредила о рисках использования мессенджера для конфиденциальной переписки из-за отсутствия сквозного шифрования в обычных чатах и хранения ключей доступа на серверах платформы.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 5,
-        "offset": 30,
-        "type": "text_link",
-        "url": "https://www.eset.com/blog/en/home-topics/privacy-and-identity-protection/telegram-privacy-explained"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 51,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGNWkvUUufnYEcXbh2uY_WjWkdcISgAAJ6EmsbRsF5SUG44LO7l9mtAQADAgADcwADNgQ",
-        "file_size": 898,
-        "file_unique_id": "AQADehJrG0bBeUl4"
-      },
-      {
-        "height": 180,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGNWkvUUufnYEcXbh2uY_WjWkdcISgAAJ6EmsbRsF5SUG44LO7l9mtAQADAgADbQADNgQ",
-        "file_size": 7377,
-        "file_unique_id": "AQADehJrG0bBeUly"
-      },
-      {
-        "height": 266,
-        "width": 472,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGNWkvUUufnYEcXbh2uY_WjWkdcISgAAJ6EmsbRsF5SUG44LO7l9mtAQADAgADeAADNgQ",
-        "file_size": 8182,
-        "file_unique_id": "AQADehJrG0bBeUl9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764708683,
-    "message_id": 1589
-  },
-  {
     "caption": "💎 BlockchainReporter сообщил, что Bitkub Exchange и Bitkub Academy заключили партнерство с TON Foundation для запуска образовательных инициатив в сфере DeFi и Web3 в Таиланде.",
     "caption_entities": [
       {
@@ -2639,5 +2581,70 @@
     },
     "date": 1765573798,
     "message_id": 1627
+  },
+  {
+    "caption": "💎 Анатолий Макосов обратил внимание на слова Павла Дурова о наличии масштабной дорожной карты, в рамках которой Telegram примет более активное участие в развитии технологии TON и сделает ряд громких анонсов в следующем году.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 20,
+        "type": "text_link",
+        "url": "https://t.me/anatolii_makosov/101"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 50,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGXWk8tSLH2Vyzekgz31VbrsX3lf9FAAJdDmsbsdnoSVsx0y709HxwAQADAgADcwADNgQ",
+        "file_size": 1437,
+        "file_unique_id": "AQADXQ5rG7HZ6El4"
+      },
+      {
+        "height": 178,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGXWk8tSLH2Vyzekgz31VbrsX3lf9FAAJdDmsbsdnoSVsx0y709HxwAQADAgADbQADNgQ",
+        "file_size": 18960,
+        "file_unique_id": "AQADXQ5rG7HZ6Ely"
+      },
+      {
+        "height": 445,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGXWk8tSLH2Vyzekgz31VbrsX3lf9FAAJdDmsbsdnoSVsx0y709HxwAQADAgADeAADNgQ",
+        "file_size": 115827,
+        "file_unique_id": "AQADXQ5rG7HZ6El9"
+      },
+      {
+        "height": 712,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGXWk8tSLH2Vyzekgz31VbrsX3lf9FAAJdDmsbsdnoSVsx0y709HxwAQADAgADeQADNgQ",
+        "file_size": 206198,
+        "file_unique_id": "AQADXQ5rG7HZ6El-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1765586210,
+    "message_id": 1629
   }
 ]
