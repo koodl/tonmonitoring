@@ -1,70 +1,5 @@
 [
   {
-    "caption": "💎 BlockchainReporter сообщил, что Bitkub Exchange и Bitkub Academy заключили партнерство с TON Foundation для запуска образовательных инициатив в сфере DeFi и Web3 в Таиланде.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 22,
-        "type": "text_link",
-        "url": "https://blockchainreporter.net/bitkub-exchange-and-academy-join-forces-with-ton-to-boost-defi-education/"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGNmkvU5cYoLldkCA3SyiHxJtViR-jAAKBEmsbRsF5SXnQWlZ2hrz7AQADAgADcwADNgQ",
-        "file_size": 1807,
-        "file_unique_id": "AQADgRJrG0bBeUl4"
-      },
-      {
-        "height": 320,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGNmkvU5cYoLldkCA3SyiHxJtViR-jAAKBEmsbRsF5SXnQWlZ2hrz7AQADAgADbQADNgQ",
-        "file_size": 25196,
-        "file_unique_id": "AQADgRJrG0bBeUly"
-      },
-      {
-        "height": 1080,
-        "width": 1080,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGNmkvU5cYoLldkCA3SyiHxJtViR-jAAKBEmsbRsF5SXnQWlZ2hrz7AQADAgADeQADNgQ",
-        "file_size": 103051,
-        "file_unique_id": "AQADgRJrG0bBeUl-"
-      },
-      {
-        "height": 800,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGNmkvU5cYoLldkCA3SyiHxJtViR-jAAKBEmsbRsF5SXnQWlZ2hrz7AQADAgADeAADNgQ",
-        "file_size": 104038,
-        "file_unique_id": "AQADgRJrG0bBeUl9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764709271,
-    "message_id": 1590
-  },
-  {
     "caption": "✈️ В последней бета версии Telegram (iOS) обновилась верхняя часть приложения.",
     "caption_entities": [
       {
@@ -2646,5 +2581,70 @@
     },
     "date": 1765586210,
     "message_id": 1629
+  },
+  {
+    "caption": "💎 Стартовал прием заявок на участие в The Open Awards, для регистрации в котором претендентам необходимо заполнить короткую форму.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 3,
+        "type": "text_link",
+        "url": "https://t.me/TheOpenAwards/15"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 51,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGXmk8zdaWn8Lht3zaTRmgQBtwuocJAAJsDmsbsdnoSQbWd83k1FLRAQADAgADcwADNgQ",
+        "file_size": 995,
+        "file_unique_id": "AQADbA5rG7HZ6El4"
+      },
+      {
+        "height": 180,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGXmk8zdaWn8Lht3zaTRmgQBtwuocJAAJsDmsbsdnoSQbWd83k1FLRAQADAgADbQADNgQ",
+        "file_size": 8649,
+        "file_unique_id": "AQADbA5rG7HZ6Ely"
+      },
+      {
+        "height": 450,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGXmk8zdaWn8Lht3zaTRmgQBtwuocJAAJsDmsbsdnoSQbWd83k1FLRAQADAgADeAADNgQ",
+        "file_size": 29620,
+        "file_unique_id": "AQADbA5rG7HZ6El9"
+      },
+      {
+        "height": 720,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGXmk8zdaWn8Lht3zaTRmgQBtwuocJAAJsDmsbsdnoSQbWd83k1FLRAQADAgADeQADNgQ",
+        "file_size": 32868,
+        "file_unique_id": "AQADbA5rG7HZ6El-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1765592534,
+    "message_id": 1630
   }
 ]
