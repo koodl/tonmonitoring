@@ -1,75 +1,5 @@
 [
   {
-    "caption": "🧱 Канал @builders анонсировал запуск Giveaway Tool — инструмента для проведения розыгрышей в Telegram, который позволяет создавать и управлять конкурсами, выбирать любые призы, устанавливать условия участия и отслеживать активность в реальном времени, при этом инструмент находится на стадии MVP и не хранит активы пользователей.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5442689837184345354",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 9,
-        "type": "mention"
-      },
-      {
-        "length": 11,
-        "offset": 19,
-        "type": "text_link",
-        "url": "https://t.me/builders/306"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGPGkxo0dtql-rF1AERkr9DD2QOyY1AAIQDGsbC3OQSb5ECYChG5h5AQADAgADcwADNgQ",
-        "file_size": 2052,
-        "file_unique_id": "AQADEAxrGwtzkEl4"
-      },
-      {
-        "height": 320,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGPGkxo0dtql-rF1AERkr9DD2QOyY1AAIQDGsbC3OQSb5ECYChG5h5AQADAgADbQADNgQ",
-        "file_size": 23541,
-        "file_unique_id": "AQADEAxrGwtzkEly"
-      },
-      {
-        "height": 800,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGPGkxo0dtql-rF1AERkr9DD2QOyY1AAIQDGsbC3OQSb5ECYChG5h5AQADAgADeAADNgQ",
-        "file_size": 80677,
-        "file_unique_id": "AQADEAxrGwtzkEl9"
-      },
-      {
-        "height": 1280,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGPGkxo0dtql-rF1AERkr9DD2QOyY1AAIQDGsbC3OQSb5ECYChG5h5AQADAgADeQADNgQ",
-        "file_size": 95851,
-        "file_unique_id": "AQADEAxrGwtzkEl-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764860743,
-    "message_id": 1596
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "edit_date": 1764860986,
@@ -2632,5 +2562,64 @@
     },
     "date": 1765747090,
     "message_id": 1633
+  },
+  {
+    "caption": "🎁 Появился концепт новой функции Telegram, позволяющей бустить каналы с помощью определенных наборов подарков.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440615647153256792",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 11,
+        "offset": 44,
+        "type": "text_link",
+        "url": "https://t.me/lalyounft/4130"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "video": {
+      "file_name": "IMG_5559.MP4",
+      "height": 1280,
+      "mime_type": "video/mp4",
+      "width": 1280,
+      "thumbnail": {
+        "height": 320,
+        "width": 320,
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgZiaT8vIeQbw-Dy1An7YfnYdQ250P4AAnyKAAINbflJpA1Ulfn5jO4BAAdtAAM2BA",
+        "file_size": 21140,
+        "file_unique_id": "AQADfIoAAg1t-Uly"
+      },
+      "file_id": "BAACAgIAAyEFAASerMeaAAIGYmk_LyHkG8Pg8tQJ-2H52HUNudD-AAJ8igACDW35SaQNVJX5-YzuNgQ",
+      "file_size": 5702880,
+      "file_unique_id": "AgADfIoAAg1t-Uk",
+      "duration": 17,
+      "thumb": {
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgZiaT8vIeQbw-Dy1An7YfnYdQ250P4AAnyKAAINbflJpA1Ulfn5jO4BAAdtAAM2BA",
+        "file_unique_id": "AQADfIoAAg1t-Uly",
+        "file_size": 21140,
+        "width": 320,
+        "height": 320
+      }
+    },
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1765748514,
+    "message_id": 1634
   }
 ]
