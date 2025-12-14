@@ -1,43 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5314597028901190799",
-        "length": 3,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 21,
-        "type": "text_link",
-        "url": "https://www.globenewswire.com/news-release/2025/12/04/3199803/0/en/AlphaTON-Capital-Exits-SEC-Baby-Shelf-Rules-and-Files-420-69-Million-Shelf-Registration-Statement.html"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🅰️ AlphaTON Capital объявила, что вышла из-под ограничений SEC по так называемым “baby-shelf rules” и подала shelf‑регистрацию на выпуск ценных бумаг объёмом 420,69 млн долларов для ускорения роста в Telegram/TON и Cocoon AI.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764856036,
-    "message_id": 1595
-  },
-  {
     "caption": "🧱 Канал @builders анонсировал запуск Giveaway Tool — инструмента для проведения розыгрышей в Telegram, который позволяет создавать и управлять конкурсами, выбирать любые призы, устанавливать условия участия и отслеживать активность в реальном времени, при этом инструмент находится на стадии MVP и не хранит активы пользователей.",
     "caption_entities": [
       {
@@ -2605,5 +2567,70 @@
     },
     "date": 1765738976,
     "message_id": 1632
+  },
+  {
+    "caption": "🎁 По подсчетам LaLYoU, Telegram ежедневно зарабатывает от 5 млн звезд (около $75 000) на комиссиях за передачу подарков.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440615647153256792",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 16,
+        "type": "text_link",
+        "url": "https://t.me/lalyounft/4125"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 82,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGYWk_KZLtG_C8Vy95lluwQTY4E7pGAAJAEmsbDW35SQHG67yBdeC9AQADAgADcwADNgQ",
+        "file_size": 1190,
+        "file_unique_id": "AQADQBJrGw1t-Ul4"
+      },
+      {
+        "height": 290,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGYWk_KZLtG_C8Vy95lluwQTY4E7pGAAJAEmsbDW35SQHG67yBdeC9AQADAgADbQADNgQ",
+        "file_size": 13009,
+        "file_unique_id": "AQADQBJrGw1t-Uly"
+      },
+      {
+        "height": 725,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGYWk_KZLtG_C8Vy95lluwQTY4E7pGAAJAEmsbDW35SQHG67yBdeC9AQADAgADeAADNgQ",
+        "file_size": 43518,
+        "file_unique_id": "AQADQBJrGw1t-Ul9"
+      },
+      {
+        "height": 979,
+        "width": 1080,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGYWk_KZLtG_C8Vy95lluwQTY4E7pGAAJAEmsbDW35SQHG67yBdeC9AQADAgADeQADNgQ",
+        "file_size": 45484,
+        "file_unique_id": "AQADQBJrGw1t-Ul-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1765747090,
+    "message_id": 1633
   }
 ]
