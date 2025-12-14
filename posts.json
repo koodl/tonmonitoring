@@ -1,70 +1,5 @@
 [
   {
-    "caption": "🖼 Fragment, добавленный на DeFiLlama, обеспечивает более $1 млн суточного дохода и вывел TON на 4‑е место среди блокчейнов по дневному доходу от приложений.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440627174845473301",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 28,
-        "type": "text_link",
-        "url": "https://defillama.com/protocol/fees/fragment"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 33,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGOmkxfZJuhFPVjqmDQRsvRKExsseTAAIsEGsb-euJSXpHodm705XrAQADAgADcwADNgQ",
-        "file_size": 637,
-        "file_unique_id": "AQADLBBrG_nriUl4"
-      },
-      {
-        "height": 119,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGOmkxfZJuhFPVjqmDQRsvRKExsseTAAIsEGsb-euJSXpHodm705XrAQADAgADbQADNgQ",
-        "file_size": 7159,
-        "file_unique_id": "AQADLBBrG_nriUly"
-      },
-      {
-        "height": 297,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGOmkxfZJuhFPVjqmDQRsvRKExsseTAAIsEGsb-euJSXpHodm705XrAQADAgADeAADNgQ",
-        "file_size": 29124,
-        "file_unique_id": "AQADLBBrG_nriUl9"
-      },
-      {
-        "height": 476,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGOmkxfZJuhFPVjqmDQRsvRKExsseTAAIsEGsb-euJSXpHodm705XrAQADAgADeQADNgQ",
-        "file_size": 42790,
-        "file_unique_id": "AQADLBBrG_nriUl-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764851090,
-    "message_id": 1594
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2603,6 +2538,51 @@
         "offset": 11,
         "type": "text_link",
         "url": "https://t.me/villageton/3586"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🔄 FreeMan обновил комиссии в Tonnel Marketplace для борьбы со злоупотреблениями: льготный возврат до пяти подарков в сутки стоит 0,1 TON, сверх лимита применяется ставка 0,25 TON, а бесплатный перевод доступен только для активов дороже 16 TON при отключенном режиме Internal Purchase.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1765738976,
+    "message_id": 1632
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1765739068,
+    "entities": [
+      {
+        "custom_emoji_id": "5447595991211471135",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 11,
+        "type": "text_link",
+        "url": "https://t.me/villageton/3586"
+      },
+      {
+        "length": 18,
+        "offset": 30,
+        "type": "text_link",
+        "url": "https://t.me/tonnel_network_bot/gifts?startapp=ref_659773038"
       }
     ],
     "group_chat_created": false,
