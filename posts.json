@@ -12,66 +12,6 @@
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "group_chat_created": false,
-    "media_group_id": "14117698460683074",
-    "photo": [
-      {
-        "height": 88,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGN2kvX3PRBVCWK_9PS5klNAAB-q5aSgACxhJrG0bBeUmOQPwyuqWgrgEAAwIAA3MAAzYE",
-        "file_size": 1907,
-        "file_unique_id": "AQADxhJrG0bBeUl4"
-      },
-      {
-        "height": 314,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGN2kvX3PRBVCWK_9PS5klNAAB-q5aSgACxhJrG0bBeUmOQPwyuqWgrgEAAwIAA20AAzYE",
-        "file_size": 26613,
-        "file_unique_id": "AQADxhJrG0bBeUly"
-      },
-      {
-        "height": 786,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGN2kvX3PRBVCWK_9PS5klNAAB-q5aSgACxhJrG0bBeUmOQPwyuqWgrgEAAwIAA3gAAzYE",
-        "file_size": 93540,
-        "file_unique_id": "AQADxhJrG0bBeUl9"
-      },
-      {
-        "height": 1150,
-        "width": 1170,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGN2kvX3PRBVCWK_9PS5klNAAB-q5aSgACxhJrG0bBeUmOQPwyuqWgrgEAAwIAA3kAAzYE",
-        "file_size": 105065,
-        "file_unique_id": "AQADxhJrG0bBeUl-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764712307,
-    "message_id": 1591
-  },
-  {
-    "caption": "✈️ В последней бета версии Telegram (iOS) обновилась верхняя часть приложения.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
     "photo": [
       {
         "height": 56,
@@ -2646,5 +2586,65 @@
     },
     "date": 1765592534,
     "message_id": 1630
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5265112348451960063",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 12,
+        "offset": 11,
+        "type": "text_link",
+        "url": "https://t.me/tonmonitoring/1602"
+      },
+      {
+        "custom_emoji_id": "5321457199774471279",
+        "length": 7,
+        "offset": 42,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 6,
+        "offset": 56,
+        "type": "mention"
+      },
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 63,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 14,
+        "offset": 72,
+        "type": "mention"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🗞 Новости 50ой недели.\n\nСпонсоры недели:\n👁️‍🗨️ Канал @vibes\n💎 Канал @the_big_shave",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1765678577,
+    "message_id": 1631
   }
 ]
