@@ -4,44 +4,6 @@
     "delete_chat_photo": false,
     "entities": [
       {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 55,
-        "type": "text_link",
-        "url": "https://t.me/pgrton/1328"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 Совокупный приток средств на централизованные биржи составил 2,41 млн TON на фоне снижения активности пользователей в сети и оттока 0,08 млн USDT из пулов на децентрализованных площадках.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1765022785,
-    "message_id": 1601
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
         "custom_emoji_id": "5265112348451960063",
         "length": 2,
         "offset": 0,
@@ -2594,6 +2556,71 @@
     ],
     "channel_chat_created": false,
     "delete_chat_photo": false,
+    "group_chat_created": false,
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "video": {
+      "file_name": "IMG_5563.MP4",
+      "height": 720,
+      "mime_type": "video/mp4",
+      "width": 1280,
+      "thumbnail": {
+        "height": 180,
+        "width": 320,
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgZnaUBx6-umv6ZcJPnTwTAze4Cp5QsAArOTAAJwzglK9Cp5fQNKOBkBAAdtAAM2BA",
+        "file_size": 11749,
+        "file_unique_id": "AQADs5MAAnDOCUpy"
+      },
+      "file_id": "BAACAgIAAyEFAASerMeaAAIGZ2lAcevrpr-mXCT508EwM3uAqeULAAKzkwACcM4JSvQqeX0DSjgZNgQ",
+      "file_size": 15744690,
+      "file_unique_id": "AgADs5MAAnDOCUo",
+      "duration": 41,
+      "thumb": {
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgZnaUBx6-umv6ZcJPnTwTAze4Cp5QsAArOTAAJwzglK9Cp5fQNKOBkBAAdtAAM2BA",
+        "file_unique_id": "AQADs5MAAnDOCUpy",
+        "file_size": 11749,
+        "width": 320,
+        "height": 180
+      }
+    },
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1765831147,
+    "message_id": 1639
+  },
+  {
+    "caption": "💎 Rengev сообщил, что автор канала «Слезы Сатоши» Рафаэль сменил сферу деятельности на стриминг CS2, не выполнив обязательства по обратному выкупу Telegram-юзернейма @cryptoholder, проданного в марте 2025 года за 250 000 TON.\nУточнение: про сферу деятельности — это шутка была.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 10,
+        "type": "text_link",
+        "url": "https://t.me/rengev_crypto/1414"
+      },
+      {
+        "length": 13,
+        "offset": 167,
+        "type": "mention"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1765831349,
     "group_chat_created": false,
     "sender_chat": {
       "id": -1002662123418,
