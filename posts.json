@@ -1,64 +1,5 @@
 [
   {
-    "caption": "🎁 Telegram выпустил новый подарок.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440615647153256792",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 60,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGP2kzNoutW3vcIG3pMApS5ysOSQJfAAISC2sbma6gSak9KhA0ETPoAQADAgADcwADNgQ",
-        "file_size": 1208,
-        "file_unique_id": "AQADEgtrG5muoEl4"
-      },
-      {
-        "height": 320,
-        "width": 214,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGP2kzNoutW3vcIG3pMApS5ysOSQJfAAISC2sbma6gSak9KhA0ETPoAQADAgADbQADNgQ",
-        "file_size": 15911,
-        "file_unique_id": "AQADEgtrG5muoEly"
-      },
-      {
-        "height": 800,
-        "width": 534,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGP2kzNoutW3vcIG3pMApS5ysOSQJfAAISC2sbma6gSak9KhA0ETPoAQADAgADeAADNgQ",
-        "file_size": 57633,
-        "file_unique_id": "AQADEgtrG5muoEl9"
-      },
-      {
-        "height": 1280,
-        "width": 855,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGP2kzNoutW3vcIG3pMApS5ysOSQJfAAISC2sbma6gSak9KhA0ETPoAQADAgADeQADNgQ",
-        "file_size": 74586,
-        "file_unique_id": "AQADEgtrG5muoEl-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764963979,
-    "message_id": 1599
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2625,5 +2566,43 @@
     },
     "date": 1765808395,
     "message_id": 1636
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 11,
+        "offset": 13,
+        "type": "text_link",
+        "url": "https://t.me/zeroikins1/2410"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 Zeroikins опубликовал разбор деятельности TON Foundation в Африке, отметив, что за пять лет ни один государственный проект не был реализован, а программу финансирования встреч свернули из-за злоупотреблений, поэтому ключевым драйвером роста аудитории стала лишь интеграция кошелька в Telegram.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1765829001,
+    "message_id": 1638
   }
 ]
