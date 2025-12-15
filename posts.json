@@ -2,45 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "edit_date": 1764860986,
-    "entities": [
-      {
-        "custom_emoji_id": "5314597028901190799",
-        "length": 3,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 21,
-        "type": "text_link",
-        "url": "https://www.globenewswire.com/news-release/2025/12/04/3199803/0/en/AlphaTON-Capital-Exits-SEC-Baby-Shelf-Rules-and-Files-420-69-Million-Shelf-Registration-Statement.html"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🅰️ AlphaTON Capital объявила, что вышла из-под ограничений SEC по так называемым “baby-shelf rules” и подала shelf‑регистрацию на выпуск ценных бумаг объёмом 420,69 млн долларов для ускорения роста в Telegram/TON и Cocoon AI.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764856036,
-    "message_id": 1595
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "entities": [
       {
         "custom_emoji_id": "5440671546152610057",
@@ -2621,5 +2582,43 @@
     },
     "date": 1765748514,
     "message_id": 1634
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 10,
+        "type": "text_link",
+        "url": "https://t.me/rengev_crypto/1408"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 Rengev сообщил, что на фоне сокращения штата TON Foundation у бывших сотрудников, включая Lead SSEA-хаба, начали отзывать официальную верификацию в Telegram.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1765802571,
+    "message_id": 1635
   }
 ]
