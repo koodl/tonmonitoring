@@ -1,70 +1,5 @@
 [
   {
-    "caption": "🎁 Telegram и UFC запустили совместную рекламную кампанию на выставке Art Basel в Майами с розыгрышем $100 000.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440615647153256792",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 18,
-        "type": "text_link",
-        "url": "https://t.me/zoned/544"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 51,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGPmkzHIOZRFjYtzl7BxJB-7WVHrAvAAJAEWsbma6YSezX52Jr5U0nAQADAgADcwADNgQ",
-        "file_size": 1307,
-        "file_unique_id": "AQADQBFrG5mumEl4"
-      },
-      {
-        "height": 320,
-        "width": 180,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGPmkzHIOZRFjYtzl7BxJB-7WVHrAvAAJAEWsbma6YSezX52Jr5U0nAQADAgADbQADNgQ",
-        "file_size": 19519,
-        "file_unique_id": "AQADQBFrG5mumEly"
-      },
-      {
-        "height": 800,
-        "width": 450,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGPmkzHIOZRFjYtzl7BxJB-7WVHrAvAAJAEWsbma6YSezX52Jr5U0nAQADAgADeAADNgQ",
-        "file_size": 89613,
-        "file_unique_id": "AQADQBFrG5mumEl9"
-      },
-      {
-        "height": 1280,
-        "width": 720,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGPmkzHIOZRFjYtzl7BxJB-7WVHrAvAAJAEWsbma6YSezX52Jr5U0nAQADAgADeQADNgQ",
-        "file_size": 125203,
-        "file_unique_id": "AQADQBFrG5mumEl-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764957315,
-    "message_id": 1598
-  },
-  {
     "caption": "🎁 Telegram выпустил новый подарок.",
     "caption_entities": [
       {
@@ -2651,5 +2586,44 @@
     },
     "date": 1765809763,
     "message_id": 1637
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1765813446,
+    "entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 5,
+        "offset": 14,
+        "type": "text_link",
+        "url": "https://t.me/contest/439"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "✈️ ContestBot начал прием заявок на конкурс Design Contest 2025, для участия в котором необходимо отправить боту ссылку на канал и zip-архив с работой.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1765808395,
+    "message_id": 1636
   }
 ]
