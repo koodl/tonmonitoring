@@ -2,56 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5265112348451960063",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 12,
-        "offset": 11,
-        "type": "text_link",
-        "url": "https://t.me/tonmonitoring/1570"
-      },
-      {
-        "custom_emoji_id": "5440764055453200867",
-        "length": 2,
-        "offset": 42,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 45,
-        "type": "text_link",
-        "url": "https://t.me/tonmonitoring/8"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🗞 Новости 49ой недели.\n\nСпонсоры недели:\n⭐️ Донатеры\nСпасибо за вашу поддержку!",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1765111349,
-    "message_id": 1602
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1765111786,
     "entities": [
       {
@@ -2661,5 +2611,65 @@
     },
     "date": 1765831147,
     "message_id": 1639
+  },
+  {
+    "caption": "🅰️ AlphaTON Capital заподозрили в использовании ботов для искусственного создания видимости интереса к новости о закупке чипов NVIDIA в Telegram-канале компании.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5314597028901190799",
+        "length": 3,
+        "offset": 0,
+        "type": "custom_emoji"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "media_group_id": "14126713933261178",
+    "photo": [
+      {
+        "height": 90,
+        "width": 42,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGaGlAkYmuXA3N5NLXQhuB4UwpgWMtAAKCE2sbT3UBSh9SC38ShjW7AQADAgADcwADNgQ",
+        "file_size": 1004,
+        "file_unique_id": "AQADghNrG091AUp4"
+      },
+      {
+        "height": 320,
+        "width": 148,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGaGlAkYmuXA3N5NLXQhuB4UwpgWMtAAKCE2sbT3UBSh9SC38ShjW7AQADAgADbQADNgQ",
+        "file_size": 17080,
+        "file_unique_id": "AQADghNrG091AUpy"
+      },
+      {
+        "height": 800,
+        "width": 369,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGaGlAkYmuXA3N5NLXQhuB4UwpgWMtAAKCE2sbT3UBSh9SC38ShjW7AQADAgADeAADNgQ",
+        "file_size": 79898,
+        "file_unique_id": "AQADghNrG091AUp9"
+      },
+      {
+        "height": 1280,
+        "width": 591,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGaGlAkYmuXA3N5NLXQhuB4UwpgWMtAAKCE2sbT3UBSh9SC38ShjW7AQADAgADeQADNgQ",
+        "file_size": 103756,
+        "file_unique_id": "AQADghNrG091AUp-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1765839241,
+    "message_id": 1640
   }
 ]
