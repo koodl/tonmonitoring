@@ -1,44 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1764892537,
-    "entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 19,
-        "type": "text_link",
-        "url": "https://telegra.ph/Car-horoshij-boyare-neehffektivnye-12-04"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 Rengev выпустил материал, в котором указал на неисполнение TON Foundation обещаний по конвертации опыта за Soulbound-токены в Toncoin и отсутствие коммуникации с сообществом.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764883336,
-    "message_id": 1597
-  },
-  {
     "caption": "🎁 Telegram и UFC запустили совместную рекламную кампанию на выставке Art Basel в Майами с розыгрышем $100 000.",
     "caption_entities": [
       {
@@ -2620,5 +2581,75 @@
     },
     "date": 1765808395,
     "message_id": 1636
+  },
+  {
+    "caption": "💎 Telegram-канал @cryptodays сообщил, что сотрудники TON Foundation предлагают услуги гаранта.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 11,
+        "offset": 18,
+        "type": "mention"
+      },
+      {
+        "length": 8,
+        "offset": 30,
+        "type": "text_link",
+        "url": "https://t.me/cryptodays/10129"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 42,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGZWlAHmOOTpNJv1ny-2yz2myTFx0YAALcEGsbcM4BSmzNKT8WEgHoAQADAgADcwADNgQ",
+        "file_size": 1122,
+        "file_unique_id": "AQAD3BBrG3DOAUp4"
+      },
+      {
+        "height": 320,
+        "width": 148,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGZWlAHmOOTpNJv1ny-2yz2myTFx0YAALcEGsbcM4BSmzNKT8WEgHoAQADAgADbQADNgQ",
+        "file_size": 16973,
+        "file_unique_id": "AQAD3BBrG3DOAUpy"
+      },
+      {
+        "height": 800,
+        "width": 369,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGZWlAHmOOTpNJv1ny-2yz2myTFx0YAALcEGsbcM4BSmzNKT8WEgHoAQADAgADeAADNgQ",
+        "file_size": 73488,
+        "file_unique_id": "AQAD3BBrG3DOAUp9"
+      },
+      {
+        "height": 1280,
+        "width": 591,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGZWlAHmOOTpNJv1ny-2yz2myTFx0YAALcEGsbcM4BSmzNKT8WEgHoAQADAgADeQADNgQ",
+        "file_size": 92643,
+        "file_unique_id": "AQAD3BBrG3DOAUp-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1765809763,
+    "message_id": 1637
   }
 ]
