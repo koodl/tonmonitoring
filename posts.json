@@ -1,44 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1765302667,
-    "entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 113,
-        "type": "text_link",
-        "url": "https://t.me/telelakel/749"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "✈️ Функция авторизации Telegram через ключ доступа Passkey, ранее доступная только пользователям в России, стала доступна всем пользователям мессенджера.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1765292598,
-    "message_id": 1608
-  },
-  {
     "caption": "✈️ Kaspersky зафиксировала, что с октября 2024 года Telegram усилил блокировки теневых каналов, вынуждая киберпреступников мигрировать на другие платформы, несмотря на то что медианный срок жизни таких сообществ в 2023–2024 годах вырос до девяти месяцев.",
     "caption_entities": [
       {
@@ -2715,5 +2676,76 @@
     },
     "date": 1765907278,
     "message_id": 1651
+  },
+  {
+    "caption": "🅰️ AlphaTON Capital объявила о стратегических инвестициях в платформу Alpha Liquid Terminal для интеграции торговых ИИ-агентов и токенизированных финансовых продуктов в экосистему Telegram.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5314597028901190799",
+        "length": 3,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 21,
+        "type": "text_link",
+        "url": "https://www.globenewswire.com/news-release/2025/12/16/3206570/0/en/AlphaTON-Capital-Strategic-Investment-in-Alpha-Liquid-Terminal-Unveils-The-Financial-Terminal-for-the-Telegram-Economy.html"
+      },
+      {
+        "length": 21,
+        "offset": 71,
+        "type": "text_link",
+        "url": "https://www.globenewswire.com/Tracker?data=pwN6V9E2iTbdMENJ85x1vXqcTdPI9zoTR6-4S-7Wc9qTA6xjvXfQ11OAI-uipGzOR2PtN50hk4Ohx4-3R9LgRA==&_gl=1*q9nxl3*_up*MQ..*_ga*MTA2OTc5Njg2NS4xNzY1OTIwOTcx*_ga_ERWPGTJ5X8*czE3NjU5MjA5NzAkbzEkZzAkdDE3NjU5MjA5NzAkajYwJGwwJGgw"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 51,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGdGlB0bk5VV0aWlh_5m7WMrDux5s3AAI7DWsbtp8QSo2ymokkc29XAQADAgADcwADNgQ",
+        "file_size": 1643,
+        "file_unique_id": "AQADOw1rG7afEEp4"
+      },
+      {
+        "height": 180,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGdGlB0bk5VV0aWlh_5m7WMrDux5s3AAI7DWsbtp8QSo2ymokkc29XAQADAgADbQADNgQ",
+        "file_size": 21942,
+        "file_unique_id": "AQADOw1rG7afEEpy"
+      },
+      {
+        "height": 449,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGdGlB0bk5VV0aWlh_5m7WMrDux5s3AAI7DWsbtp8QSo2ymokkc29XAQADAgADeAADNgQ",
+        "file_size": 79386,
+        "file_unique_id": "AQADOw1rG7afEEp9"
+      },
+      {
+        "height": 719,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGdGlB0bk5VV0aWlh_5m7WMrDux5s3AAI7DWsbtp8QSo2ymokkc29XAQADAgADeQADNgQ",
+        "file_size": 100135,
+        "file_unique_id": "AQADOw1rG7afEEp-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1765921209,
+    "message_id": 1652
   }
 ]
