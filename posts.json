@@ -4,50 +4,6 @@
     "delete_chat_photo": false,
     "entities": [
       {
-        "custom_emoji_id": "5443047436161413892",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 12,
-        "type": "text_link",
-        "url": "https://t.me/toncore/95"
-      },
-      {
-        "length": 12,
-        "offset": 44,
-        "type": "text_link",
-        "url": "https://docs.ton.org/languages/tolk"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "⚙️ Ton Core выпустила масштабное обновление документации для языка Tolk.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1765192231,
-    "message_id": 1604
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
         "custom_emoji_id": "5440613134597387384",
         "length": 2,
         "offset": 0,
@@ -2707,5 +2663,43 @@
     },
     "date": 1765886676,
     "message_id": 1646
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 10,
+        "type": "text_link",
+        "url": "https://meduza.io/en/episodes/2025/12/16/pavel-durov-s-tech-bro-feudalism"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "✈️ Meduza сообщает, что Telegram прогнозирует прибыль свыше $700 млн при выручке $2 млрд по итогам 2025 года, а число платных подписчиков мессенджера удвоилось и достигло 15 млн.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1765889308,
+    "message_id": 1647
   }
 ]
