@@ -10,44 +10,6 @@
         "type": "custom_emoji"
       },
       {
-        "length": 7,
-        "offset": 12,
-        "type": "text_link",
-        "url": "https://t.me/telelakel/748"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "✈️ Telegram внедрил новую систему служебных уведомлений, которая предупреждает пользователя о передаче ему прав на владение каналом и позволяет отклонить это назначение, автоматически возвращая права инициатору.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1765221720,
-    "message_id": 1605
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
         "length": 8,
         "offset": 12,
         "type": "text_link",
@@ -2701,5 +2663,70 @@
     },
     "date": 1765889308,
     "message_id": 1647
+  },
+  {
+    "caption": "✈️ Kursiv Media сообщил о выходе новой книги журналиста Николая Кононова «The Populist: The Untold Story of Pavel Durov and Telegram», в которой автор исследует политическое влияние Павла Дурова и описывает его стратегию как «криптопопулизм» .",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440479333481217835",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 16,
+        "type": "text_link",
+        "url": "https://kz.kursiv.media/en/2025-12-11/engk-yeri-code-power-and-exile-the-untold-story-of-pavel-durov-and-telegram/"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 64,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGcGlBYdKF6Jz6g-0w4yn-m3PizeVmAAL9DGsbcM4RSjqY7T4yrKGWAQADAgADcwADNgQ",
+        "file_size": 1508,
+        "file_unique_id": "AQAD_QxrG3DOEUp4"
+      },
+      {
+        "height": 320,
+        "width": 226,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGcGlBYdKF6Jz6g-0w4yn-m3PizeVmAAL9DGsbcM4RSjqY7T4yrKGWAQADAgADbQADNgQ",
+        "file_size": 18388,
+        "file_unique_id": "AQAD_QxrG3DOEUpy"
+      },
+      {
+        "height": 800,
+        "width": 566,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGcGlBYdKF6Jz6g-0w4yn-m3PizeVmAAL9DGsbcM4RSjqY7T4yrKGWAQADAgADeAADNgQ",
+        "file_size": 81976,
+        "file_unique_id": "AQAD_QxrG3DOEUp9"
+      },
+      {
+        "height": 1280,
+        "width": 905,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGcGlBYdKF6Jz6g-0w4yn-m3PizeVmAAL9DGsbcM4RSjqY7T4yrKGWAQADAgADeQADNgQ",
+        "file_size": 111860,
+        "file_unique_id": "AQAD_QxrG3DOEUp-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1765892562,
+    "message_id": 1648
   }
 ]
