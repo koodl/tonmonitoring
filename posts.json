@@ -1,70 +1,5 @@
 [
   {
-    "caption": "💎 Участник сообщества TON призвал Павла Дурова запустить гибридную децентрализованную биржу после публикации данных Cointelegraph о лидерстве платформы Hyperliquid с суточными комиссиями в $2 млн.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 27,
-        "type": "text_link",
-        "url": "https://x.com/mickystonecrypt/status/1998071669076672819?s=46"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 86,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGR2k3KypVU4iUZUevGP5tFUiQc4PPAAKFEmsb2oa5SfhOhRC9f-V3AQADAgADcwADNgQ",
-        "file_size": 1193,
-        "file_unique_id": "AQADhRJrG9qGuUl4"
-      },
-      {
-        "height": 320,
-        "width": 306,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGR2k3KypVU4iUZUevGP5tFUiQc4PPAAKFEmsb2oa5SfhOhRC9f-V3AQADAgADbQADNgQ",
-        "file_size": 16245,
-        "file_unique_id": "AQADhRJrG9qGuUly"
-      },
-      {
-        "height": 852,
-        "width": 814,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGR2k3KypVU4iUZUevGP5tFUiQc4PPAAKFEmsb2oa5SfhOhRC9f-V3AQADAgADeQADNgQ",
-        "file_size": 44204,
-        "file_unique_id": "AQADhRJrG9qGuUl-"
-      },
-      {
-        "height": 800,
-        "width": 764,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGR2k3KypVU4iUZUevGP5tFUiQc4PPAAKFEmsb2oa5SfhOhRC9f-V3AQADAgADeAADNgQ",
-        "file_size": 63581,
-        "file_unique_id": "AQADhRJrG9qGuUl9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1765223210,
-    "message_id": 1607
-  },
-  {
     "caption": "💎 Участник сообщества TON призвал Павла Дурова запустить гибридную децентрализованную биржу после публикации данных Cointelegraph о лидерстве платформы Hyperliquid с суточными комиссиями в $2 млн.\nОбновление: более развернутое мнение автора.",
     "caption_entities": [
       {
@@ -2770,5 +2705,48 @@
     },
     "date": 1765901792,
     "message_id": 1649
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440764055453200867",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 14,
+        "offset": 16,
+        "type": "mention"
+      },
+      {
+        "length": 7,
+        "offset": 31,
+        "type": "text_link",
+        "url": "https://t.me/TonGentlemens/10481"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "⭐️ Пользователь @MichaelNotCap сообщил о возможной ошибке в Telegram, из-за которой при обмене полученного подарка на звезды репутация списывается у дарителя, а не у получателя.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1765906183,
+    "message_id": 1650
   }
 ]
