@@ -1,40 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1765111786,
-    "entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 4,
-        "offset": 71,
-        "type": "mention"
-      }
-    ],
-    "group_chat_created": false,
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "✈️ Telegram создал новый канал с эксклюзивным трехбуквенным юзернеймом @ufc, регистрация которых технически недоступна обычным пользователям и осуществляется только самой платформой.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1764964277,
-    "message_id": 1600
-  },
-  {
     "caption": "🐒 Владельцы BAYC, MAYC и связанных с ними стикеров или аватаров могут до 23:59 PT 7 декабря бесплатно получить набор стикеров во вкладке Tasks сервиса @mint, если их активы были зафиксированы во время снимка 2 декабря.",
     "caption_entities": [
       {
@@ -2671,5 +2636,70 @@
     },
     "date": 1765839241,
     "message_id": 1640
+  },
+  {
+    "caption": "💎 TON Foundation выбрала платформу OpenPayd для обеспечения глобальной фиатной инфраструктуры и оптимизации казначейских операций.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 18,
+        "type": "text_link",
+        "url": "https://chainwire.org/2025/12/16/ton-foundation-selects-openpayd-to-power-its-global-fiat-infrastructure/"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 54,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGbWlBRVXMdjuK1icIsvLMtLQpBQvgAAJoC2sbcM4RSn-1qa_CJUyzAQADAgADcwADNgQ",
+        "file_size": 648,
+        "file_unique_id": "AQADaAtrG3DOEUp4"
+      },
+      {
+        "height": 192,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGbWlBRVXMdjuK1icIsvLMtLQpBQvgAAJoC2sbcM4RSn-1qa_CJUyzAQADAgADbQADNgQ",
+        "file_size": 5147,
+        "file_unique_id": "AQADaAtrG3DOEUpy"
+      },
+      {
+        "height": 480,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGbWlBRVXMdjuK1icIsvLMtLQpBQvgAAJoC2sbcM4RSn-1qa_CJUyzAQADAgADeAADNgQ",
+        "file_size": 18967,
+        "file_unique_id": "AQADaAtrG3DOEUp9"
+      },
+      {
+        "height": 720,
+        "width": 1200,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGbWlBRVXMdjuK1icIsvLMtLQpBQvgAAJoC2sbcM4RSn-1qa_CJUyzAQADAgADeQADNgQ",
+        "file_size": 19851,
+        "file_unique_id": "AQADaAtrG3DOEUp-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1765885269,
+    "message_id": 1645
   }
 ]
