@@ -2,44 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 113,
-        "type": "text_link",
-        "url": "https://t.me/telelakel/749"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "✈️ Функция авторизации Telegram через ключ доступа Passkey, ранее доступная только пользователям в России, стала доступна всем пользователям мессенджера.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1765292598,
-    "message_id": 1608
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1765302667,
     "entities": [
       {
@@ -2697,6 +2659,45 @@
     "group_chat_created": false,
     "link_preview_options": {
       "url": "https://www.coindesk.com/business/2025/12/15/nasdaq-home-of-coinbase-strategy-stocks-looking-for-23-hour-daily-trading"
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "📈 CoinDesk сообщил, что фондовая биржа Nasdaq подала заявку в SEC на расширение времени торгов акциями и ETF до 23 часов в сутки пять дней в неделю.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1765907278,
+    "message_id": 1651
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1765907285,
+    "entities": [
+      {
+        "custom_emoji_id": "5449424049551733716",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 12,
+        "type": "text_link",
+        "url": "https://www.coindesk.com/business/2025/12/15/nasdaq-home-of-coinbase-strategy-stocks-looking-for-23-hour-daily-trading"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
     },
     "sender_chat": {
       "id": -1002662123418,
