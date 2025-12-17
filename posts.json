@@ -1,63 +1,5 @@
 [
   {
-    "caption": "💎 CoinDesk сообщает, что годовое падение стоимости токена TON приблизилось к 72%, однако удержание поддержки на уровне $1,6025 указывает на появление признаков возможного разворота тренда.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 12,
-        "type": "text_link",
-        "url": "https://www.coindesk.com/markets/2025/12/09/ton-token-yearly-loss-nears-72-but-potential-reversal-signs-emerge"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 55,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGSmk40XT7VU2epyqDgeehUOCRQeTpAAJ6EWsbcznASXqwe9osU9HhAQADAgADcwADNgQ",
-        "file_size": 1183,
-        "file_unique_id": "AQADehFrG3M5wEl4"
-      },
-      {
-        "height": 197,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGSmk40XT7VU2epyqDgeehUOCRQeTpAAJ6EWsbcznASXqwe9osU9HhAQADAgADbQADNgQ",
-        "file_size": 13414,
-        "file_unique_id": "AQADehFrG3M5wEly"
-      },
-      {
-        "height": 430,
-        "width": 700,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGSmk40XT7VU2epyqDgeehUOCRQeTpAAJ6EWsbcznASXqwe9osU9HhAQADAgADeAADNgQ",
-        "file_size": 28160,
-        "file_unique_id": "AQADehFrG3M5wEl9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1765331316,
-    "message_id": 1610
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2754,5 +2696,92 @@
     },
     "date": 1765928279,
     "message_id": 1653
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440764055453200867",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 14,
+        "offset": 16,
+        "type": "mention"
+      },
+      {
+        "length": 8,
+        "offset": 31,
+        "type": "text_link",
+        "url": "https://t.me/TonGentlemens/10547"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "reply_to_message": {
+      "channel_chat_created": false,
+      "delete_chat_photo": false,
+      "edit_date": 1765906232,
+      "entities": [
+        {
+          "custom_emoji_id": "5440764055453200867",
+          "length": 2,
+          "offset": 0,
+          "type": "custom_emoji"
+        },
+        {
+          "length": 14,
+          "offset": 16,
+          "type": "mention"
+        },
+        {
+          "length": 7,
+          "offset": 31,
+          "type": "text_link",
+          "url": "https://t.me/TonGentlemens/10481"
+        }
+      ],
+      "group_chat_created": false,
+      "link_preview_options": {
+        "is_disabled": true
+      },
+      "sender_chat": {
+        "id": -1002662123418,
+        "title": "TON Monitoring",
+        "type": "channel",
+        "username": "tonmonitoring"
+      },
+      "supergroup_chat_created": false,
+      "text": "⭐️ Пользователь @MichaelNotCap сообщил о возможной ошибке в Telegram, из-за которой при обмене полученного подарка на звезды репутация списывается у дарителя, а не у получателя.",
+      "chat": {
+        "id": -1002662123418,
+        "title": "TON Monitoring",
+        "type": "channel",
+        "username": "tonmonitoring"
+      },
+      "date": 1765906183,
+      "message_id": 1650
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "⭐️ Пользователь @MichaelNotCap сообщил, что Telegram исправил его рейтинг.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1765930629,
+    "message_id": 1654
   }
 ]
