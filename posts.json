@@ -1,43 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5314597028901190799",
-        "length": 3,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 26,
-        "type": "text_link",
-        "url": "https://www.globenewswire.com/news-release/2025/12/11/3204253/0/en/AlphaTON-Capital-Corp-Announces-First-Major-Data-Center-Agreement-with-atNorth-Securing-2-2-MW-of-High-Performance-Computing-Capacity-in-Sweden.html"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🅰️ AlphaTON Capital Corp заключила соглашение с европейским оператором atNorth на размещение 2,2 МВт вычислительных мощностей в Швеции для развития ИИ-инфраструктуры экосистемы Telegram.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1765490986,
-    "message_id": 1618
-  },
-  {
     "caption": "💎 TON Studio представила TON Vanity — новый генератор красивых адресов для смарт-контрактов, который работает до 5100 раз быстрее предыдущих решений.",
     "caption_entities": [
       {
@@ -2759,5 +2721,70 @@
     },
     "date": 1765928279,
     "message_id": 1653
+  },
+  {
+    "caption": "💎 Director of Ecosystem в TON Foundation Alenka лишилась официальной верификационной галочки в профиле, что вероятно свидетельствует о прекращении её работы в фонде.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 49,
+        "type": "text_link",
+        "url": "https://t.me/kuznetsovton/1657"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 50,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGfmlDAtDKXN2N7FS2aq8Svh0ajKv0AAL6D2sbtp8YSi1bUoTUYQOhAQADAgADcwADNgQ",
+        "file_size": 896,
+        "file_unique_id": "AQAD-g9rG7afGEp4"
+      },
+      {
+        "height": 178,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGfmlDAtDKXN2N7FS2aq8Svh0ajKv0AAL6D2sbtp8YSi1bUoTUYQOhAQADAgADbQADNgQ",
+        "file_size": 10402,
+        "file_unique_id": "AQAD-g9rG7afGEpy"
+      },
+      {
+        "height": 444,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGfmlDAtDKXN2N7FS2aq8Svh0ajKv0AAL6D2sbtp8YSi1bUoTUYQOhAQADAgADeAADNgQ",
+        "file_size": 39042,
+        "file_unique_id": "AQAD-g9rG7afGEp9"
+      },
+      {
+        "height": 650,
+        "width": 1170,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGfmlDAtDKXN2N7FS2aq8Svh0ajKv0AAL6D2sbtp8YSi1bUoTUYQOhAQADAgADeQADNgQ",
+        "file_size": 41695,
+        "file_unique_id": "AQAD-g9rG7afGEp-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1765999312,
+    "message_id": 1662
   }
 ]
