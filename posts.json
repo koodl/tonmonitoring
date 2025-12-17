@@ -2,40 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 9,
-        "type": "url"
-      }
-    ],
-    "group_chat_created": false,
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 Домен ton.com, ранее принадлежавший брокеру Digimedia, начал перенаправлять пользователей на обозреватель блоков Tonscan.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1765364862,
-    "message_id": 1611
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1765364955,
     "entities": [
       {
@@ -2783,5 +2749,76 @@
     },
     "date": 1765930629,
     "message_id": 1654
+  },
+  {
+    "caption": "🍬 Проект NOT Wise призвал к бойкоту Goodies, обвинив команду в плагиате .tgs-анимации стикеров с заменой оригинальной совы на своего персонажа.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5461068994381381031",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 19,
+        "type": "text_link",
+        "url": "https://t.me/weLoveMondays/888"
+      },
+      {
+        "length": 7,
+        "offset": 46,
+        "type": "text_link",
+        "url": "https://t.me/weLoveMondays/887"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 51,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGd2lCsgfvbwuuhQ1ya4fWdV9cV1vpAAJJDGsbtp8YSo10Elzli6rxAQADAgADcwADNgQ",
+        "file_size": 1782,
+        "file_unique_id": "AQADSQxrG7afGEp4"
+      },
+      {
+        "height": 320,
+        "width": 180,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGd2lCsgfvbwuuhQ1ya4fWdV9cV1vpAAJJDGsbtp8YSo10Elzli6rxAQADAgADbQADNgQ",
+        "file_size": 24398,
+        "file_unique_id": "AQADSQxrG7afGEpy"
+      },
+      {
+        "height": 800,
+        "width": 451,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGd2lCsgfvbwuuhQ1ya4fWdV9cV1vpAAJJDGsbtp8YSo10Elzli6rxAQADAgADeAADNgQ",
+        "file_size": 87575,
+        "file_unique_id": "AQADSQxrG7afGEp9"
+      },
+      {
+        "height": 1179,
+        "width": 665,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGd2lCsgfvbwuuhQ1ya4fWdV9cV1vpAAJJDGsbtp8YSo10Elzli6rxAQADAgADeQADNgQ",
+        "file_size": 97444,
+        "file_unique_id": "AQADSQxrG7afGEp-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1765978631,
+    "message_id": 1655
   }
 ]
