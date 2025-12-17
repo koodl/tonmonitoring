@@ -1,70 +1,5 @@
 [
   {
-    "caption": "💎 TON Studio представила TON Vanity — новый генератор красивых адресов для смарт-контрактов, который работает до 5100 раз быстрее предыдущих решений.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5449794116818862432",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 11,
-        "offset": 14,
-        "type": "text_link",
-        "url": "https://t.me/tondev_news/256"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 71,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGU2k7RXUzOFH-JCrFNrRtjDqY_KUNAALVFWsbniLYSfX1Wh1CmsKpAQADAgADcwADNgQ",
-        "file_size": 1030,
-        "file_unique_id": "AQAD1RVrG54i2El4"
-      },
-      {
-        "height": 254,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGU2k7RXUzOFH-JCrFNrRtjDqY_KUNAALVFWsbniLYSfX1Wh1CmsKpAQADAgADbQADNgQ",
-        "file_size": 8716,
-        "file_unique_id": "AQAD1RVrG54i2Ely"
-      },
-      {
-        "height": 634,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGU2k7RXUzOFH-JCrFNrRtjDqY_KUNAALVFWsbniLYSfX1Wh1CmsKpAQADAgADeAADNgQ",
-        "file_size": 28292,
-        "file_unique_id": "AQAD1RVrG54i2El9"
-      },
-      {
-        "height": 1014,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGU2k7RXUzOFH-JCrFNrRtjDqY_KUNAALVFWsbniLYSfX1Wh1CmsKpAQADAgADeQADNgQ",
-        "file_size": 37984,
-        "file_unique_id": "AQAD1RVrG54i2El-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1765492085,
-    "message_id": 1619
-  },
-  {
     "caption": "🅰️ AlphaTON Capital Corp заключила соглашение с европейским оператором atNorth на размещение 2,2 МВт вычислительных мощностей в Швеции для развития ИИ-инфраструктуры экосистемы Telegram.",
     "caption_entities": [
       {
@@ -2786,5 +2721,70 @@
     },
     "date": 1765999312,
     "message_id": 1662
+  },
+  {
+    "caption": "💎 Ghwnd сообщил, что в сети TON лишь около 50 тысяч реальных пользовательских кошельков имеют баланс свыше $500.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 9,
+        "type": "text_link",
+        "url": "https://t.me/ghwnd/1563"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 77,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGf2lDBbwxWpnQTgPi6qKBSZYAAeUDQQACBRBrG7afGEpydCN715LzJwEAAwIAA3MAAzYE",
+        "file_size": 1173,
+        "file_unique_id": "AQADBRBrG7afGEp4"
+      },
+      {
+        "height": 275,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGf2lDBbwxWpnQTgPi6qKBSZYAAeUDQQACBRBrG7afGEpydCN715LzJwEAAwIAA20AAzYE",
+        "file_size": 13931,
+        "file_unique_id": "AQADBRBrG7afGEpy"
+      },
+      {
+        "height": 688,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGf2lDBbwxWpnQTgPi6qKBSZYAAeUDQQACBRBrG7afGEpydCN715LzJwEAAwIAA3gAAzYE",
+        "file_size": 51195,
+        "file_unique_id": "AQADBRBrG7afGEp9"
+      },
+      {
+        "height": 1101,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGf2lDBbwxWpnQTgPi6qKBSZYAAeUDQQACBRBrG7afGEpydCN715LzJwEAAwIAA3kAAzYE",
+        "file_size": 62989,
+        "file_unique_id": "AQADBRBrG7afGEp-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766000060,
+    "message_id": 1663
   }
 ]
