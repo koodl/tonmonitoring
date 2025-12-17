@@ -1,64 +1,5 @@
 [
   {
-    "caption": "🅰️ AlphaTON Capital Corp заключила соглашение с европейским оператором atNorth на размещение 2,2 МВт вычислительных мощностей в Швеции для развития ИИ-инфраструктуры экосистемы Telegram.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5314597028901190799",
-        "length": 3,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 26,
-        "type": "text_link",
-        "url": "https://www.globenewswire.com/news-release/2025/12/11/3204253/0/en/AlphaTON-Capital-Corp-Announces-First-Major-Data-Center-Agreement-with-atNorth-Securing-2-2-MW-of-High-Performance-Computing-Capacity-in-Sweden.html"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1765496597,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 52,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGUmk7VxVEp9Jxf6AzKRkpHvNWhtPTAALZGmsbniLYSd5cIPSBQtEfAQADAgADcwADNgQ",
-        "file_size": 1571,
-        "file_unique_id": "AQAD2RprG54i2El4"
-      },
-      {
-        "height": 184,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGUmk7VxVEp9Jxf6AzKRkpHvNWhtPTAALZGmsbniLYSd5cIPSBQtEfAQADAgADbQADNgQ",
-        "file_size": 18593,
-        "file_unique_id": "AQAD2RprG54i2Ely"
-      },
-      {
-        "height": 446,
-        "width": 777,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGUmk7VxVEp9Jxf6AzKRkpHvNWhtPTAALZGmsbniLYSd5cIPSBQtEfAQADAgADeAADNgQ",
-        "file_size": 44854,
-        "file_unique_id": "AQAD2RprG54i2El9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1765490986,
-    "message_id": 1618
-  },
-  {
     "caption": "💎 TON Studio представила TON Vanity — новый генератор красивых адресов для смарт-контрактов, который работает до 5100 раз быстрее предыдущих решений.",
     "caption_entities": [
       {
@@ -2793,5 +2734,58 @@
     },
     "date": 1766000060,
     "message_id": 1663
+  },
+  {
+    "caption": "💎 Такая команда TON Foundation нам нужна.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "video": {
+      "file_name": "IMG_5617.MP4",
+      "height": 304,
+      "mime_type": "video/mp4",
+      "width": 464,
+      "thumbnail": {
+        "height": 210,
+        "width": 320,
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgaAaUMPLenRSQZLyjNN-dKECWF-mJAAApWQAAK2nxhKIwO9nKJB8zsBAAdtAAM2BA",
+        "file_size": 10245,
+        "file_unique_id": "AQADlZAAArafGEpy"
+      },
+      "file_id": "BAACAgIAAyEFAASerMeaAAIGgGlDDy3p0UkGS8ozTfnShAlhfpiQAAKVkAACtp8YSiMDvZyiQfM7NgQ",
+      "file_size": 5158306,
+      "file_unique_id": "AgADlZAAArafGEo",
+      "duration": 56,
+      "thumb": {
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgaAaUMPLenRSQZLyjNN-dKECWF-mJAAApWQAAK2nxhKIwO9nKJB8zsBAAdtAAM2BA",
+        "file_unique_id": "AQADlZAAArafGEpy",
+        "file_size": 10245,
+        "width": 320,
+        "height": 210
+      }
+    },
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766002477,
+    "message_id": 1664
   }
 ]
