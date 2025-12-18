@@ -1,70 +1,5 @@
 [
   {
-    "caption": "💎 Анатолий Макосов обратил внимание на слова Павла Дурова о наличии масштабной дорожной карты, в рамках которой Telegram примет более активное участие в развитии технологии TON и сделает ряд громких анонсов в следующем году.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 20,
-        "type": "text_link",
-        "url": "https://t.me/anatolii_makosov/101"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 50,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGXWk8tSLH2Vyzekgz31VbrsX3lf9FAAJdDmsbsdnoSVsx0y709HxwAQADAgADcwADNgQ",
-        "file_size": 1437,
-        "file_unique_id": "AQADXQ5rG7HZ6El4"
-      },
-      {
-        "height": 178,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGXWk8tSLH2Vyzekgz31VbrsX3lf9FAAJdDmsbsdnoSVsx0y709HxwAQADAgADbQADNgQ",
-        "file_size": 18960,
-        "file_unique_id": "AQADXQ5rG7HZ6Ely"
-      },
-      {
-        "height": 445,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGXWk8tSLH2Vyzekgz31VbrsX3lf9FAAJdDmsbsdnoSVsx0y709HxwAQADAgADeAADNgQ",
-        "file_size": 115827,
-        "file_unique_id": "AQADXQ5rG7HZ6El9"
-      },
-      {
-        "height": 712,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGXWk8tSLH2Vyzekgz31VbrsX3lf9FAAJdDmsbsdnoSVsx0y709HxwAQADAgADeQADNgQ",
-        "file_size": 206198,
-        "file_unique_id": "AQADXQ5rG7HZ6El-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1765586210,
-    "message_id": 1629
-  },
-  {
     "caption": "💎 Стартовал прием заявок на участие в The Open Awards, для регистрации в котором претендентам необходимо заполнить короткую форму.",
     "caption_entities": [
       {
@@ -2802,5 +2737,70 @@
     },
     "date": 1766063453,
     "message_id": 1669
+  },
+  {
+    "caption": "💎 TON выиграл награду Community Choice Award в категории «Best Ecosystem program for Developers» по версии издания BeInCrypto.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 7,
+        "type": "text_link",
+        "url": "https://x.com/martinfromton/status/2001647181812634036?s=46"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 53,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGhmlEA4nARXr0oO7L6-mLhnphN2tPAAKZEWsbG84hSsvomK6DyjRXAQADAgADcwADNgQ",
+        "file_size": 1075,
+        "file_unique_id": "AQADmRFrGxvOIUp4"
+      },
+      {
+        "height": 189,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGhmlEA4nARXr0oO7L6-mLhnphN2tPAAKZEWsbG84hSsvomK6DyjRXAQADAgADbQADNgQ",
+        "file_size": 12201,
+        "file_unique_id": "AQADmRFrGxvOIUpy"
+      },
+      {
+        "height": 472,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGhmlEA4nARXr0oO7L6-mLhnphN2tPAAKZEWsbG84hSsvomK6DyjRXAQADAgADeAADNgQ",
+        "file_size": 43315,
+        "file_unique_id": "AQADmRFrGxvOIUp9"
+      },
+      {
+        "height": 658,
+        "width": 1116,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGhmlEA4nARXr0oO7L6-mLhnphN2tPAAKZEWsbG84hSsvomK6DyjRXAQADAgADeQADNgQ",
+        "file_size": 46113,
+        "file_unique_id": "AQADmRFrGxvOIUp-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766065033,
+    "message_id": 1670
   }
 ]
