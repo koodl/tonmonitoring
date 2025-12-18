@@ -1,50 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1765739068,
-    "entities": [
-      {
-        "custom_emoji_id": "5447595991211471135",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 11,
-        "type": "text_link",
-        "url": "https://t.me/villageton/3586"
-      },
-      {
-        "length": 18,
-        "offset": 30,
-        "type": "text_link",
-        "url": "https://t.me/tonnel_network_bot/gifts?startapp=ref_659773038"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🔄 FreeMan обновил комиссии в Tonnel Marketplace для борьбы со злоупотреблениями: льготный возврат до пяти подарков в сутки стоит 0,1 TON, сверх лимита применяется ставка 0,25 TON, а бесплатный перевод доступен только для активов дороже 16 TON при отключенном режиме Internal Purchase.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1765738976,
-    "message_id": 1632
-  },
-  {
     "caption": "🎁 По подсчетам LaLYoU, Telegram ежедневно зарабатывает от 5 млн звезд (около $75 000) на комиссиях за передачу подарков.",
     "caption_entities": [
       {
@@ -2846,5 +2801,70 @@
     },
     "date": 1766076678,
     "message_id": 1673
+  },
+  {
+    "caption": "📈 Команда поддержки Wallet объяснила трудности с продажей TONx нехваткой ликвидности на рынке, предупредив, что аналогичные проблемы могут возникать и с другими токенизированными акциями и фондами даже в рабочее время биржи.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5190741704071743060",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 28,
+        "type": "text_link",
+        "url": "https://t.me/TonGentlemens/10821"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 89,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGimlESwk-ekykfy-TlMhgOH6Bz-PYAALyFWsbG84hSs25zZfzn60JAQADAgADcwADNgQ",
+        "file_size": 918,
+        "file_unique_id": "AQAD8hVrGxvOIUp4"
+      },
+      {
+        "height": 320,
+        "width": 318,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGimlESwk-ekykfy-TlMhgOH6Bz-PYAALyFWsbG84hSs25zZfzn60JAQADAgADbQADNgQ",
+        "file_size": 9306,
+        "file_unique_id": "AQAD8hVrGxvOIUpy"
+      },
+      {
+        "height": 903,
+        "width": 898,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGimlESwk-ekykfy-TlMhgOH6Bz-PYAALyFWsbG84hSs25zZfzn60JAQADAgADeQADNgQ",
+        "file_size": 27777,
+        "file_unique_id": "AQAD8hVrGxvOIUp-"
+      },
+      {
+        "height": 800,
+        "width": 796,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGimlESwk-ekykfy-TlMhgOH6Bz-PYAALyFWsbG84hSs25zZfzn60JAQADAgADeAADNgQ",
+        "file_size": 34492,
+        "file_unique_id": "AQAD8hVrGxvOIUp9"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766083337,
+    "message_id": 1674
   }
 ]
