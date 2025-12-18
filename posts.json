@@ -8,35 +8,6 @@
         "length": 2,
         "offset": 0,
         "type": "custom_emoji"
-      }
-    ],
-    "group_chat_created": false,
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 Появившиеся в Telegram слухи об увольнениях сотрудников TON Foundation ставятся под сомнение, поскольку у упоминаемых специалистов сохраняются официальные верификационные значки организации.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1765542445,
-    "message_id": 1622
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
       },
       {
         "length": 11,
@@ -2753,6 +2724,50 @@
     "group_chat_created": false,
     "link_preview_options": {
       "url": "https://www.investing.com/news/stock-market-news/alphaton-stock-tumbles-after-anduril-ceo-denies-investment-claims-93CH-4413520"
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🅰️ Investing.com сообщил, что акции AlphaTON Capital Corp упали на 16,9% после того, как CEO Anduril Industries Palmer Luckey опроверг заявление компании о стратегических инвестициях в $30 млн, обвинив руководство в обмане инвесторов.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766017121,
+    "message_id": 1665
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1766017226,
+    "entities": [
+      {
+        "custom_emoji_id": "5314597028901190799",
+        "length": 3,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 13,
+        "offset": 4,
+        "type": "url"
+      },
+      {
+        "length": 8,
+        "offset": 18,
+        "type": "text_link",
+        "url": "https://www.investing.com/news/stock-market-news/alphaton-stock-tumbles-after-anduril-ceo-denies-investment-claims-93CH-4413520"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
     },
     "sender_chat": {
       "id": -1002662123418,
