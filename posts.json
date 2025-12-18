@@ -17,76 +17,6 @@
       {
         "length": 17,
         "offset": 137,
-        "type": "mention"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 72,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGXGk8h0Rdyi2B3kwsKo1OfB57tFntAAIKDmsbsdnoSa1Ng5neN_EjAQADAgADcwADNgQ",
-        "file_size": 1504,
-        "file_unique_id": "AQADCg5rG7HZ6El4"
-      },
-      {
-        "height": 255,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGXGk8h0Rdyi2B3kwsKo1OfB57tFntAAIKDmsbsdnoSa1Ng5neN_EjAQADAgADbQADNgQ",
-        "file_size": 16621,
-        "file_unique_id": "AQADCg5rG7HZ6Ely"
-      },
-      {
-        "height": 637,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGXGk8h0Rdyi2B3kwsKo1OfB57tFntAAIKDmsbsdnoSa1Ng5neN_EjAQADAgADeAADNgQ",
-        "file_size": 63424,
-        "file_unique_id": "AQADCg5rG7HZ6El9"
-      },
-      {
-        "height": 931,
-        "width": 1170,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGXGk8h0Rdyi2B3kwsKo1OfB57tFntAAIKDmsbsdnoSa1Ng5neN_EjAQADAgADeQADNgQ",
-        "file_size": 70735,
-        "file_unique_id": "AQADCg5rG7HZ6El-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1765574468,
-    "message_id": 1628
-  },
-  {
-    "caption": "📦 Nicegram запустил вкладку NFT Stickers для отображения коллекционных стикеров, которые на текущем этапе можно приобрести через сервис @ElephantStoreBot и планирует в будущем более глубокую интеграцию.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5449670138292894907",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 12,
-        "type": "text_link",
-        "url": "https://t.me/nicegramapp/880"
-      },
-      {
-        "length": 17,
-        "offset": 137,
         "type": "text_link",
         "url": "https://t.me/ElephantStoreBot?start=_tgr_dmnc7o02NDQ6"
       }
@@ -2807,5 +2737,71 @@
     },
     "date": 1766062908,
     "message_id": 1668
+  },
+  {
+    "caption": "📈 TON Wallet намекнул на скорый запуск ончейн-торговли токенизированными акциями xStocks.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5190741704071743060",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 14,
+        "type": "text_link",
+        "url": "https://t.me/tonwallet_news_cis/70"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1766063374,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGgmlDYv5o1xaGX19MzJlV1UHRoXERAAI1EWsbtp8YSvZMEXe86nFPAQADAgADcwADNgQ",
+        "file_size": 1997,
+        "file_unique_id": "AQADNRFrG7afGEp4"
+      },
+      {
+        "height": 320,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGgmlDYv5o1xaGX19MzJlV1UHRoXERAAI1EWsbtp8YSvZMEXe86nFPAQADAgADbQADNgQ",
+        "file_size": 21777,
+        "file_unique_id": "AQADNRFrG7afGEpy"
+      },
+      {
+        "height": 800,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGgmlDYv5o1xaGX19MzJlV1UHRoXERAAI1EWsbtp8YSvZMEXe86nFPAQADAgADeAADNgQ",
+        "file_size": 75184,
+        "file_unique_id": "AQADNRFrG7afGEp9"
+      },
+      {
+        "height": 1280,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGgmlDYv5o1xaGX19MzJlV1UHRoXERAAI1EWsbtp8YSvZMEXe86nFPAQADAgADeQADNgQ",
+        "file_size": 87517,
+        "file_unique_id": "AQADNRFrG7afGEp-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766023934,
+    "message_id": 1666
   }
 ]
