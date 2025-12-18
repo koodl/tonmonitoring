@@ -1,43 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 96,
-        "type": "text_link",
-        "url": "https://t.me/pgrton/1331"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 На фоне минимального роста сетевой активности за неделю приток TON на централизованные биржи составил 1,87 млн, а ликвидность пулов TON/USDT на основных децентрализованных площадках увеличилась на 60 тыс. USDT.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1765573798,
-    "message_id": 1627
-  },
-  {
     "caption": "📦 Nicegram запустил вкладку NFT Stickers для отображения коллекционных стикеров, которые на текущем этапе можно приобрести через сервис @ElephantStoreBot и планирует в будущем более глубокую интеграцию.",
     "caption_entities": [
       {
@@ -2780,5 +2742,70 @@
     },
     "date": 1766024355,
     "message_id": 1667
+  },
+  {
+    "caption": "📈 На блокчейне TON состоялся запуск сервиса xStocks, который позволяет торговать токенизированными акциями американских компаний напрямую через кошельки TON Wallet, Tonkeeper и MyTONWallet.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5190741704071743060",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 20,
+        "type": "text_link",
+        "url": "https://t.me/toncoin_rus/1901"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 53,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGhGlD-zxR6KHTKa_CbzTWJfWo6ItTAAI6EWsbG84hSiAM0gkc-9-LAQADAgADcwADNgQ",
+        "file_size": 857,
+        "file_unique_id": "AQADOhFrGxvOIUp4"
+      },
+      {
+        "height": 190,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGhGlD-zxR6KHTKa_CbzTWJfWo6ItTAAI6EWsbG84hSiAM0gkc-9-LAQADAgADbQADNgQ",
+        "file_size": 6669,
+        "file_unique_id": "AQADOhFrGxvOIUpy"
+      },
+      {
+        "height": 474,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGhGlD-zxR6KHTKa_CbzTWJfWo6ItTAAI6EWsbG84hSiAM0gkc-9-LAQADAgADeAADNgQ",
+        "file_size": 24849,
+        "file_unique_id": "AQADOhFrGxvOIUp9"
+      },
+      {
+        "height": 758,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGhGlD-zxR6KHTKa_CbzTWJfWo6ItTAAI6EWsbG84hSiAM0gkc-9-LAQADAgADeQADNgQ",
+        "file_size": 28459,
+        "file_unique_id": "AQADOhFrGxvOIUp-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766062908,
+    "message_id": 1668
   }
 ]
