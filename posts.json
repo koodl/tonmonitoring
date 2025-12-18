@@ -2,44 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5447595991211471135",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 11,
-        "type": "text_link",
-        "url": "https://t.me/villageton/3586"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🔄 FreeMan обновил комиссии в Tonnel Marketplace для борьбы со злоупотреблениями: льготный возврат до пяти подарков в сутки стоит 0,1 TON, сверх лимита применяется ставка 0,25 TON, а бесплатный перевод доступен только для активов дороже 16 TON при отключенном режиме Internal Purchase.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1765738976,
-    "message_id": 1632
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1765739068,
     "entities": [
       {
@@ -2807,5 +2769,82 @@
     },
     "date": 1766067703,
     "message_id": 1672
+  },
+  {
+    "caption": "💎🇺🇸 Tonstakers провел эфир с US Hub Manager TON Foundation Angela Brasington, посвященный видению, миссии и влиянию TON US Hub на экосистему. Содержание видео.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "custom_emoji_id": "5451704453847608160",
+        "length": 4,
+        "offset": 2,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 6,
+        "offset": 18,
+        "type": "text_link",
+        "url": "https://x.com/i/broadcasts/1YqJDNBOrlwKV?s=20"
+      },
+      {
+        "length": 16,
+        "offset": 145,
+        "type": "text_link",
+        "url": "https://teletype.in/@selfowner/5rHajM-JlbF"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 47,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGiWlEMQYBgziZ3MtKhXTB8aM3EeH7AALiFGsbG84hSiHO_XwcJDrAAQADAgADcwADNgQ",
+        "file_size": 1183,
+        "file_unique_id": "AQAD4hRrGxvOIUp4"
+      },
+      {
+        "height": 168,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGiWlEMQYBgziZ3MtKhXTB8aM3EeH7AALiFGsbG84hSiHO_XwcJDrAAQADAgADbQADNgQ",
+        "file_size": 12699,
+        "file_unique_id": "AQAD4hRrGxvOIUpy"
+      },
+      {
+        "height": 420,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGiWlEMQYBgziZ3MtKhXTB8aM3EeH7AALiFGsbG84hSiHO_XwcJDrAAQADAgADeAADNgQ",
+        "file_size": 42765,
+        "file_unique_id": "AQAD4hRrGxvOIUp9"
+      },
+      {
+        "height": 672,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGiWlEMQYBgziZ3MtKhXTB8aM3EeH7AALiFGsbG84hSiHO_XwcJDrAAQADAgADeQADNgQ",
+        "file_size": 56251,
+        "file_unique_id": "AQAD4hRrGxvOIUp-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766076678,
+    "message_id": 1673
   }
 ]
