@@ -1,44 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1765577166,
-    "entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 96,
-        "type": "text_link",
-        "url": "https://t.me/pgrton/1331"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 На фоне минимального роста сетевой активности за неделю приток TON на централизованные биржи составил 1,87 млн, а ликвидность пулов TON/USDT на основных децентрализованных площадках увеличилась на 60 тыс. USDT.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1765573798,
-    "message_id": 1627
-  },
-  {
     "caption": "💎 Анатолий Макосов обратил внимание на слова Павла Дурова о наличии масштабной дорожной карты, в рамках которой Telegram примет более активное участие в развитии технологии TON и сделает ряд громких анонсов в следующем году.",
     "caption_entities": [
       {
@@ -2776,5 +2737,70 @@
     },
     "date": 1766024355,
     "message_id": 1667
+  },
+  {
+    "caption": "✈️ По данным МТС AdTech и LiveDune, месячная аудитория Telegram в России достигла рекордного показателя в 105 млн пользователей.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 73,
+        "type": "text_link",
+        "url": "https://t.me/d_code/24670"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 60,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGhWlD_V3Q0e41eRv9DAZ_PXRHdtvRAAJQEWsbG84hSiauFEdKkEf-AQADAgADcwADNgQ",
+        "file_size": 966,
+        "file_unique_id": "AQADUBFrGxvOIUp4"
+      },
+      {
+        "height": 213,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGhWlD_V3Q0e41eRv9DAZ_PXRHdtvRAAJQEWsbG84hSiauFEdKkEf-AQADAgADbQADNgQ",
+        "file_size": 9854,
+        "file_unique_id": "AQADUBFrGxvOIUpy"
+      },
+      {
+        "height": 533,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGhWlD_V3Q0e41eRv9DAZ_PXRHdtvRAAJQEWsbG84hSiauFEdKkEf-AQADAgADeAADNgQ",
+        "file_size": 37333,
+        "file_unique_id": "AQADUBFrGxvOIUp9"
+      },
+      {
+        "height": 853,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGhWlD_V3Q0e41eRv9DAZ_PXRHdtvRAAJQEWsbG84hSiauFEdKkEf-AQADAgADeQADNgQ",
+        "file_size": 46713,
+        "file_unique_id": "AQADUBFrGxvOIUp-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766063453,
+    "message_id": 1669
   }
 ]
