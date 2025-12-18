@@ -1,70 +1,5 @@
 [
   {
-    "caption": "💎 Стартовал прием заявок на участие в The Open Awards, для регистрации в котором претендентам необходимо заполнить короткую форму.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 3,
-        "type": "text_link",
-        "url": "https://t.me/TheOpenAwards/15"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 51,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGXmk8zdaWn8Lht3zaTRmgQBtwuocJAAJsDmsbsdnoSQbWd83k1FLRAQADAgADcwADNgQ",
-        "file_size": 995,
-        "file_unique_id": "AQADbA5rG7HZ6El4"
-      },
-      {
-        "height": 180,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGXmk8zdaWn8Lht3zaTRmgQBtwuocJAAJsDmsbsdnoSQbWd83k1FLRAQADAgADbQADNgQ",
-        "file_size": 8649,
-        "file_unique_id": "AQADbA5rG7HZ6Ely"
-      },
-      {
-        "height": 450,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGXmk8zdaWn8Lht3zaTRmgQBtwuocJAAJsDmsbsdnoSQbWd83k1FLRAQADAgADeAADNgQ",
-        "file_size": 29620,
-        "file_unique_id": "AQADbA5rG7HZ6El9"
-      },
-      {
-        "height": 720,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGXmk8zdaWn8Lht3zaTRmgQBtwuocJAAJsDmsbsdnoSQbWd83k1FLRAQADAgADeQADNgQ",
-        "file_size": 32868,
-        "file_unique_id": "AQADbA5rG7HZ6El-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1765592534,
-    "message_id": 1630
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2802,5 +2737,70 @@
     },
     "date": 1766065033,
     "message_id": 1670
+  },
+  {
+    "caption": "🪟 Сервис Portals запустил десктопную веб-версию платформы с расширенной аналитикой подарков и инструментами для управления инвентарем.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5310031775018285687",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 10,
+        "offset": 38,
+        "type": "text_link",
+        "url": "https://portals.tg/"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGh2lEBhhUCriUJoe6G9rsftT1W8rnAAK4EWsbG84hSqdWaIpy2jioAQADAgADcwADNgQ",
+        "file_size": 2233,
+        "file_unique_id": "AQADuBFrGxvOIUp4"
+      },
+      {
+        "height": 320,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGh2lEBhhUCriUJoe6G9rsftT1W8rnAAK4EWsbG84hSqdWaIpy2jioAQADAgADbQADNgQ",
+        "file_size": 27182,
+        "file_unique_id": "AQADuBFrGxvOIUpy"
+      },
+      {
+        "height": 1000,
+        "width": 1000,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGh2lEBhhUCriUJoe6G9rsftT1W8rnAAK4EWsbG84hSqdWaIpy2jioAQADAgADeQADNgQ",
+        "file_size": 87898,
+        "file_unique_id": "AQADuBFrGxvOIUp-"
+      },
+      {
+        "height": 800,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGh2lEBhhUCriUJoe6G9rsftT1W8rnAAK4EWsbG84hSqdWaIpy2jioAQADAgADeAADNgQ",
+        "file_size": 105122,
+        "file_unique_id": "AQADuBFrGxvOIUp9"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766065688,
+    "message_id": 1671
   }
 ]
