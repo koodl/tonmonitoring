@@ -4,66 +4,6 @@
     "delete_chat_photo": false,
     "entities": [
       {
-        "custom_emoji_id": "5265112348451960063",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 12,
-        "offset": 11,
-        "type": "text_link",
-        "url": "https://t.me/tonmonitoring/1602"
-      },
-      {
-        "custom_emoji_id": "5321457199774471279",
-        "length": 7,
-        "offset": 42,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 6,
-        "offset": 56,
-        "type": "mention"
-      },
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 63,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 14,
-        "offset": 72,
-        "type": "mention"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🗞 Новости 50ой недели.\n\nСпонсоры недели:\n👁️‍🗨️ Канал @vibes\n💎 Канал @the_big_shave",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1765678577,
-    "message_id": 1631
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
         "custom_emoji_id": "5447595991211471135",
         "length": 2,
         "offset": 0,
@@ -2802,5 +2742,70 @@
     },
     "date": 1766065688,
     "message_id": 1671
+  },
+  {
+    "caption": "👛 Платежный сервис Transak сообщил о запуске функции вывода криптовалюты TON в фиатные средства внутри кошелька Tonkeeper.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440610450242827721",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 28,
+        "type": "text_link",
+        "url": "https://x.com/transak/status/2001656693797851606?s=46"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 51,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGiGlEDfdNTNBmIgcpwwivz7A4svs9AAI1EmsbG84hSsY5qPdwnnwOAQADAgADcwADNgQ",
+        "file_size": 1445,
+        "file_unique_id": "AQADNRJrGxvOIUp4"
+      },
+      {
+        "height": 180,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGiGlEDfdNTNBmIgcpwwivz7A4svs9AAI1EmsbG84hSsY5qPdwnnwOAQADAgADbQADNgQ",
+        "file_size": 16636,
+        "file_unique_id": "AQADNRJrGxvOIUpy"
+      },
+      {
+        "height": 450,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGiGlEDfdNTNBmIgcpwwivz7A4svs9AAI1EmsbG84hSsY5qPdwnnwOAQADAgADeAADNgQ",
+        "file_size": 57925,
+        "file_unique_id": "AQADNRJrGxvOIUp9"
+      },
+      {
+        "height": 628,
+        "width": 1116,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGiGlEDfdNTNBmIgcpwwivz7A4svs9AAI1EmsbG84hSsY5qPdwnnwOAQADAgADeQADNgQ",
+        "file_size": 59193,
+        "file_unique_id": "AQADNRJrGxvOIUp-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766067703,
+    "message_id": 1672
   }
 ]
