@@ -1,63 +1,5 @@
 [
   {
-    "caption": "✈️ Financial Times сообщила, что Павел Дуров в 2018 году лично предложил экс-топ-менеджеру Wirecard Яну Марсалеку инвестировать в TON, после чего тот вложил в проект средства ливийских партнеров от своего имени для обхода банковских ограничений.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440479333481217835",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 19,
-        "type": "text_link",
-        "url": "https://t.me/news_sirena/41452"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 50,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGWmk8ZRkcMZR_J4y_Ou3YdvCNRcjEAAJdC2sbsdnoSQX42Lmn3q82AQADAgADcwADNgQ",
-        "file_size": 1041,
-        "file_unique_id": "AQADXQtrG7HZ6El4"
-      },
-      {
-        "height": 179,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGWmk8ZRkcMZR_J4y_Ou3YdvCNRcjEAAJdC2sbsdnoSQX42Lmn3q82AQADAgADbQADNgQ",
-        "file_size": 9030,
-        "file_unique_id": "AQADXQtrG7HZ6Ely"
-      },
-      {
-        "height": 431,
-        "width": 770,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGWmk8ZRkcMZR_J4y_Ou3YdvCNRcjEAAJdC2sbsdnoSQX42Lmn3q82AQADAgADeAADNgQ",
-        "file_size": 21128,
-        "file_unique_id": "AQADXQtrG7HZ6El9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1765565721,
-    "message_id": 1626
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2776,6 +2718,51 @@
     "group_chat_created": false,
     "link_preview_options": {
       "url": "https://t.me/toncoin/2146"
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "👛 Wallet начал сотрудничество с финансовым TikTok-блогером Sinclair Adams, который интегрировал рекламу криптокошелька в свои ролики о деньгах и управлении финансами.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766024355,
+    "message_id": 1667
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1766024489,
+    "entities": [
+      {
+        "custom_emoji_id": "5440704428422229664",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 5,
+        "offset": 10,
+        "type": "text_link",
+        "url": "https://t.me/toncoin/2146"
+      },
+      {
+        "length": 7,
+        "offset": 97,
+        "type": "text_link",
+        "url": "https://vm.tiktok.com/ZMD85WjkW/"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
     },
     "sender_chat": {
       "id": -1002662123418,
