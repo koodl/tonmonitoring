@@ -1,43 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 5,
-        "offset": 14,
-        "type": "text_link",
-        "url": "https://t.me/contest/439"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "✈️ ContestBot начал прием заявок на конкурс Design Contest 2025, для участия в котором необходимо отправить боту ссылку на канал и zip-архив с работой.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1765808395,
-    "message_id": 1636
-  },
-  {
     "caption": "💎 Telegram-канал @cryptodays сообщил, что сотрудники TON Foundation предлагают услуги гаранта.",
     "caption_entities": [
       {
@@ -2851,5 +2813,43 @@
     },
     "date": 1766109767,
     "message_id": 1677
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 47,
+        "type": "text_link",
+        "url": "https://t.me/pgrton/1332"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 Совокупный приток на централизованные биржи составил 3,6 млн TON, при этом пулы TON/USDT на децентрализованных биржах потеряли 330 тысяч USDT на фоне минимального роста активности в сети.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766133677,
+    "message_id": 1678
   }
 ]
