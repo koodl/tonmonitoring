@@ -1,81 +1,5 @@
 [
   {
-    "caption": "💎 FindMini.app представил отчет за ноябрь 2025 года, в котором зафиксировал рост числа мини-приложений на 2% при падении аудитории на 3% и смещение интереса пользователей с игр и криптовалют в сторону утилит и образования.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 12,
-        "offset": 3,
-        "type": "url"
-      },
-      {
-        "length": 10,
-        "offset": 16,
-        "type": "text_link",
-        "url": "https://t.me/TonGentlemens/10441"
-      },
-      {
-        "length": 5,
-        "offset": 27,
-        "type": "text_link",
-        "url": "https://www.findmini.app/files/TMA_Report_FindMiniapp_Nov25.pdf"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 51,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGbmlBStRRv2FK8iw2Qd20l8Ti6FCuAAK9C2sbcM4RSs8LQW8fCJQVAQADAgADcwADNgQ",
-        "file_size": 1161,
-        "file_unique_id": "AQADvQtrG3DOEUp4"
-      },
-      {
-        "height": 180,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGbmlBStRRv2FK8iw2Qd20l8Ti6FCuAAK9C2sbcM4RSs8LQW8fCJQVAQADAgADbQADNgQ",
-        "file_size": 12685,
-        "file_unique_id": "AQADvQtrG3DOEUpy"
-      },
-      {
-        "height": 449,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGbmlBStRRv2FK8iw2Qd20l8Ti6FCuAAK9C2sbcM4RSs8LQW8fCJQVAQADAgADeAADNgQ",
-        "file_size": 45404,
-        "file_unique_id": "AQADvQtrG3DOEUp9"
-      },
-      {
-        "height": 718,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGbmlBStRRv2FK8iw2Qd20l8Ti6FCuAAK9C2sbcM4RSs8LQW8fCJQVAQADAgADeQADNgQ",
-        "file_size": 57401,
-        "file_unique_id": "AQADvQtrG3DOEUp-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1765886676,
-    "message_id": 1646
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2746,5 +2670,71 @@
     },
     "date": 1766152112,
     "message_id": 1681
+  },
+  {
+    "caption": "👛 Команда MyTonWallet выпустила обновление v4.5, в котором появился график изменения стоимости портфеля (Net Worth) и новые функции для мобильной версии Air.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5442808395461583047",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 23,
+        "type": "text_link",
+        "url": "https://mytonwallet.io/ru/blog/v4.5-net-worth-chart-new-features-in-air/"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1766154618,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGkGlFVv4RWo1u7UETVNJEsCFlOZKRAALCEWsbG84pSoIF7BkfGy3ZAQADAgADcwADNgQ",
+        "file_size": 1510,
+        "file_unique_id": "AQADwhFrGxvOKUp4"
+      },
+      {
+        "height": 320,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGkGlFVv4RWo1u7UETVNJEsCFlOZKRAALCEWsbG84pSoIF7BkfGy3ZAQADAgADbQADNgQ",
+        "file_size": 18450,
+        "file_unique_id": "AQADwhFrGxvOKUpy"
+      },
+      {
+        "height": 800,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGkGlFVv4RWo1u7UETVNJEsCFlOZKRAALCEWsbG84pSoIF7BkfGy3ZAQADAgADeAADNgQ",
+        "file_size": 68968,
+        "file_unique_id": "AQADwhFrGxvOKUp9"
+      },
+      {
+        "height": 1280,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGkGlFVv4RWo1u7UETVNJEsCFlOZKRAALCEWsbG84pSoIF7BkfGy3ZAQADAgADeQADNgQ",
+        "file_size": 81573,
+        "file_unique_id": "AQADwhFrGxvOKUp-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766151934,
+    "message_id": 1680
   }
 ]
