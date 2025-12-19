@@ -1,65 +1,5 @@
 [
   {
-    "caption": "🅰️ AlphaTON Capital заподозрили в использовании ботов для искусственного создания видимости интереса к новости о закупке чипов NVIDIA в Telegram-канале компании.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5314597028901190799",
-        "length": 3,
-        "offset": 0,
-        "type": "custom_emoji"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "media_group_id": "14126713933261178",
-    "photo": [
-      {
-        "height": 90,
-        "width": 42,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGaGlAkYmuXA3N5NLXQhuB4UwpgWMtAAKCE2sbT3UBSh9SC38ShjW7AQADAgADcwADNgQ",
-        "file_size": 1004,
-        "file_unique_id": "AQADghNrG091AUp4"
-      },
-      {
-        "height": 320,
-        "width": 148,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGaGlAkYmuXA3N5NLXQhuB4UwpgWMtAAKCE2sbT3UBSh9SC38ShjW7AQADAgADbQADNgQ",
-        "file_size": 17080,
-        "file_unique_id": "AQADghNrG091AUpy"
-      },
-      {
-        "height": 800,
-        "width": 369,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGaGlAkYmuXA3N5NLXQhuB4UwpgWMtAAKCE2sbT3UBSh9SC38ShjW7AQADAgADeAADNgQ",
-        "file_size": 79898,
-        "file_unique_id": "AQADghNrG091AUp9"
-      },
-      {
-        "height": 1280,
-        "width": 591,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGaGlAkYmuXA3N5NLXQhuB4UwpgWMtAAKCE2sbT3UBSh9SC38ShjW7AQADAgADeQADNgQ",
-        "file_size": 103756,
-        "file_unique_id": "AQADghNrG091AUp-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1765839241,
-    "message_id": 1640
-  },
-  {
     "caption": "💎 TON Foundation выбрала платформу OpenPayd для обеспечения глобальной фиатной инфраструктуры и оптимизации казначейских операций.",
     "caption_entities": [
       {
@@ -2794,5 +2734,43 @@
     },
     "date": 1766152112,
     "message_id": 1681
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5443047436161413892",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 12,
+        "type": "text_link",
+        "url": "https://t.me/toncore/97"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "⚙️ TON Core выпустила обновление ноды версии 2025.12, в котором по умолчанию активированы технологии CellDB 2.0 и Fast State Serializer, а также внедрена параллелизация движка валидатора.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766152169,
+    "message_id": 1682
   }
 ]
