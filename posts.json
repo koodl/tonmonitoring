@@ -2,45 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "edit_date": 1765813446,
-    "entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 5,
-        "offset": 14,
-        "type": "text_link",
-        "url": "https://t.me/contest/439"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "✈️ ContestBot начал прием заявок на конкурс Design Contest 2025, для участия в котором необходимо отправить боту ссылку на канал и zip-архив с работой.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1765808395,
-    "message_id": 1636
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "entities": [
       {
         "custom_emoji_id": "5440671546152610057",
@@ -2811,6 +2772,45 @@
     },
     "supergroup_chat_created": false,
     "text": "💎 Анатолий Макосов сообщил, что проект BTC Teleport является инициативой RSquad и TON Foundation, а участие TON Core ограничивается технической и консультационной поддержкой.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766146161,
+    "message_id": 1679
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1766146212,
+    "entities": [
+      {
+        "custom_emoji_id": "5255789207107956347",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 20,
+        "type": "text_link",
+        "url": "https://t.me/anatolii_makosov/102"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "url": "https://t.me/anatolii_makosov/102"
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🔄 Анатолий Макосов сообщил, что проект BTC Teleport является инициативой RSquad и TON Foundation, а участие TON Core ограничивается технической и консультационной поддержкой.",
     "chat": {
       "id": -1002662123418,
       "title": "TON Monitoring",
