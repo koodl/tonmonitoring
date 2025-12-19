@@ -4,44 +4,6 @@
     "delete_chat_photo": false,
     "entities": [
       {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 10,
-        "type": "text_link",
-        "url": "https://t.me/rengev_crypto/1408"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 Rengev сообщил, что на фоне сокращения штата TON Foundation у бывших сотрудников, включая Lead SSEA-хаба, начали отзывать официальную верификацию в Telegram.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1765802571,
-    "message_id": 1635
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
         "custom_emoji_id": "5440613134597387384",
         "length": 2,
         "offset": 0,
@@ -2830,5 +2792,64 @@
     },
     "date": 1766109743,
     "message_id": 1676
+  },
+  {
+    "caption": "💎 В ноябре на TON Builders Portal зарегистрировалось 166 новых проектов, 73 из которых получили маркетинговую поддержку от TON Foundation, а 6 команд успешно завершили программу TON Nest.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 82,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGjWlEskcmdeq3Msh5iXvh1LCjCAHcAALXC2sbG84pSjMjvebJCH3SAQADAgADcwADNgQ",
+        "file_size": 1186,
+        "file_unique_id": "AQAD1wtrGxvOKUp4"
+      },
+      {
+        "height": 292,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGjWlEskcmdeq3Msh5iXvh1LCjCAHcAALXC2sbG84pSjMjvebJCH3SAQADAgADbQADNgQ",
+        "file_size": 16868,
+        "file_unique_id": "AQAD1wtrGxvOKUpy"
+      },
+      {
+        "height": 731,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGjWlEskcmdeq3Msh5iXvh1LCjCAHcAALXC2sbG84pSjMjvebJCH3SAQADAgADeAADNgQ",
+        "file_size": 66682,
+        "file_unique_id": "AQAD1wtrGxvOKUp9"
+      },
+      {
+        "height": 1170,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGjWlEskcmdeq3Msh5iXvh1LCjCAHcAALXC2sbG84pSjMjvebJCH3SAQADAgADeQADNgQ",
+        "file_size": 87306,
+        "file_unique_id": "AQAD1wtrGxvOKUp-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766109767,
+    "message_id": 1677
   }
 ]
