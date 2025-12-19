@@ -1,43 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 11,
-        "offset": 13,
-        "type": "text_link",
-        "url": "https://t.me/zeroikins1/2410"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 Zeroikins опубликовал разбор деятельности TON Foundation в Африке, отметив, что за пять лет ни один государственный проект не был реализован, а программу финансирования встреч свернули из-за злоупотреблений, поэтому ключевым драйвером роста аудитории стала лишь интеграция кошелька в Telegram.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1765829001,
-    "message_id": 1638
-  },
-  {
     "caption": "💎 Rengev сообщил, что автор канала «Слезы Сатоши» Рафаэль сменил сферу деятельности на стриминг CS2, не выполнив обязательства по обратному выкупу Telegram-юзернейма @cryptoholder, проданного в марте 2025 года за 250 000 TON.",
     "caption_entities": [
       {
@@ -2802,6 +2764,45 @@
     "group_chat_created": false,
     "link_preview_options": {
       "url": "https://t.me/anatolii_makosov/102"
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🔄 Анатолий Макосов сообщил, что проект BTC Teleport является инициативой RSquad и TON Foundation, а участие TON Core ограничивается технической и консультационной поддержкой.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766146161,
+    "message_id": 1679
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1766146218,
+    "entities": [
+      {
+        "custom_emoji_id": "5255789207107956347",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 20,
+        "type": "text_link",
+        "url": "https://t.me/anatolii_makosov/102"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
     },
     "sender_chat": {
       "id": -1002662123418,
