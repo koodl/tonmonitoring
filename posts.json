@@ -1,43 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 10,
-        "type": "text_link",
-        "url": "https://meduza.io/en/episodes/2025/12/16/pavel-durov-s-tech-bro-feudalism"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "✈️ Meduza сообщает, что Telegram прогнозирует прибыль свыше $700 млн при выручке $2 млрд по итогам 2025 года, а число платных подписчиков мессенджера удвоилось и достигло 15 млн.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1765889308,
-    "message_id": 1647
-  },
-  {
     "caption": "✈️ Kursiv Media сообщил о выходе новой книги журналиста Николая Кононова «The Populist: The Untold Story of Pavel Durov and Telegram», в которой автор исследует политическое влияние Павла Дурова и описывает его стратегию как «криптопопулизм» .",
     "caption_entities": [
       {
@@ -2736,5 +2698,69 @@
     },
     "date": 1766151934,
     "message_id": 1680
+  },
+  {
+    "caption": "🎁 Минимальная цена подарков на внутреннем рынке перепродажи Telegram при выставлении в TON теперь составляет 7 TON, сообщает @telelakel",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440615647153256792",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 10,
+        "offset": 99,
+        "type": "text_link",
+        "url": "https://t.me/telelakel/762"
+      },
+      {
+        "length": 10,
+        "offset": 126,
+        "type": "mention"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "video": {
+      "file_name": "IMG_5644.MP4",
+      "height": 1280,
+      "mime_type": "video/mp4",
+      "width": 720,
+      "thumbnail": {
+        "height": 320,
+        "width": 180,
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgaTaUXQx13Rzor1Tp1_teYknpWzo0IAAlR-AALpsTFKKx38_TEGvasBAAdtAAM2BA",
+        "file_size": 14871,
+        "file_unique_id": "AQADVH4AAumxMUpy"
+      },
+      "file_id": "BAACAgIAAyEFAASerMeaAAIGk2lF0Mdd0c6K9U6df7XmJJ6Vs6NCAAJUfgAC6bExSisd_P0xBr2rNgQ",
+      "file_size": 2385513,
+      "file_unique_id": "AgADVH4AAumxMUo",
+      "duration": 11,
+      "thumb": {
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgaTaUXQx13Rzor1Tp1_teYknpWzo0IAAlR-AALpsTFKKx38_TEGvasBAAdtAAM2BA",
+        "file_unique_id": "AQADVH4AAumxMUpy",
+        "file_size": 14871,
+        "width": 180,
+        "height": 320
+      }
+    },
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766183112,
+    "message_id": 1683
   }
 ]
