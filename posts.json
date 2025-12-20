@@ -9,65 +9,6 @@
         "type": "custom_emoji"
       },
       {
-        "length": 11,
-        "offset": 11,
-        "type": "text_link",
-        "url": "https://t.me/goodies/207"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "video": {
-      "file_name": "IMG_5586.MP4",
-      "height": 1280,
-      "mime_type": "video/mp4",
-      "width": 1280,
-      "thumbnail": {
-        "height": 320,
-        "width": 320,
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgZxaUGF4DOwPs2dksM12hBRQBeBNCwAAi-VAAJwzhFK-0dQ0W5Mi1IBAAdtAAM2BA",
-        "file_size": 26413,
-        "file_unique_id": "AQADL5UAAnDOEUpy"
-      },
-      "file_id": "BAACAgIAAyEFAASerMeaAAIGcWlBheAzsD7NnZLDNdoQUUAXgTQsAAIvlQACcM4RSvtHUNFuTItSNgQ",
-      "file_size": 959355,
-      "file_unique_id": "AgADL5UAAnDOEUo",
-      "duration": 3,
-      "thumb": {
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgZxaUGF4DOwPs2dksM12hBRQBeBNCwAAi-VAAJwzhFK-0dQ0W5Mi1IBAAdtAAM2BA",
-        "file_unique_id": "AQADL5UAAnDOEUpy",
-        "file_size": 26413,
-        "width": 320,
-        "height": 320
-      }
-    },
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1765901792,
-    "message_id": 1649
-  },
-  {
-    "caption": "📦 Goodies анонсировал продажу стикеров WallStreetBets.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5449670138292894907",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
         "length": 7,
         "offset": 3,
         "type": "text_link",
@@ -2762,5 +2703,70 @@
     },
     "date": 1766183112,
     "message_id": 1683
+  },
+  {
+    "caption": "🦴 Проект DOGS направил более $500 000 в благотворительные фонды Best Friends, Animal Charity Evaluators, Save an Orphan и другие для помощи животным и детям.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5442695223073344113",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 15,
+        "type": "text_link",
+        "url": "https://t.me/dogshouse_bot"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 49,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGlGlGmDW9ws0ZGSaMQlITi-3DmZWcAAKqD2sb6bExSqCDcmisW9ndAQADAgADcwADNgQ",
+        "file_size": 1481,
+        "file_unique_id": "AQADqg9rG-mxMUp4"
+      },
+      {
+        "height": 320,
+        "width": 175,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGlGlGmDW9ws0ZGSaMQlITi-3DmZWcAAKqD2sb6bExSqCDcmisW9ndAQADAgADbQADNgQ",
+        "file_size": 19754,
+        "file_unique_id": "AQADqg9rG-mxMUpy"
+      },
+      {
+        "height": 800,
+        "width": 437,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGlGlGmDW9ws0ZGSaMQlITi-3DmZWcAAKqD2sb6bExSqCDcmisW9ndAQADAgADeAADNgQ",
+        "file_size": 86732,
+        "file_unique_id": "AQADqg9rG-mxMUp9"
+      },
+      {
+        "height": 1280,
+        "width": 699,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGlGlGmDW9ws0ZGSaMQlITi-3DmZWcAAKqD2sb6bExSqCDcmisW9ndAQADAgADeQADNgQ",
+        "file_size": 117678,
+        "file_unique_id": "AQADqg9rG-mxMUp-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766234165,
+    "message_id": 1684
   }
 ]
