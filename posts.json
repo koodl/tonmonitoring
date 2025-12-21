@@ -4,49 +4,6 @@
     "delete_chat_photo": false,
     "entities": [
       {
-        "custom_emoji_id": "5440764055453200867",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 14,
-        "offset": 16,
-        "type": "mention"
-      },
-      {
-        "length": 7,
-        "offset": 31,
-        "type": "text_link",
-        "url": "https://t.me/TonGentlemens/10481"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "⭐️ Пользователь @MichaelNotCap сообщил о возможной ошибке в Telegram, из-за которой при обмене полученного подарка на звезды репутация списывается у дарителя, а не у получателя.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1765906183,
-    "message_id": 1650
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
         "custom_emoji_id": "5449424049551733716",
         "length": 2,
         "offset": 0,
@@ -2706,6 +2663,57 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5265112348451960063",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 12,
+        "offset": 11,
+        "type": "text_link",
+        "url": "https://t.me/tonmonitoring/1631"
+      },
+      {
+        "custom_emoji_id": "5440764055453200867",
+        "length": 2,
+        "offset": 42,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 45,
+        "type": "text_link",
+        "url": "https://t.me/tonmonitoring/8"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🗞 Новости 51ой недели.\n\nСпонсоры недели:\n⭐️ Донатеры\nСпасибо за вашу поддержку!",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766283864,
+    "message_id": 1685
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1766325561,
     "entities": [
       {
         "custom_emoji_id": "5265112348451960063",
