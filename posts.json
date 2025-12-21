@@ -2,44 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5449424049551733716",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 12,
-        "type": "text_link",
-        "url": "https://www.coindesk.com/business/2025/12/15/nasdaq-home-of-coinbase-strategy-stocks-looking-for-23-hour-daily-trading"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "url": "https://www.coindesk.com/business/2025/12/15/nasdaq-home-of-coinbase-strategy-stocks-looking-for-23-hour-daily-trading"
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "📈 CoinDesk сообщил, что фондовая биржа Nasdaq подала заявку в SEC на расширение времени торгов акциями и ETF до 23 часов в сутки пять дней в неделю.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1765907278,
-    "message_id": 1651
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1765907285,
     "entities": [
       {
@@ -2760,5 +2722,70 @@
     },
     "date": 1766283864,
     "message_id": 1685
+  },
+  {
+    "caption": "📦 Команда Sticker Pack отмечает первую годовщину проекта, в рамках которого было выпущено 173 стикерпака из 42 коллекций и привлечено внимание известных IP-брендов к экосистеме Telegram.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5449670138292894907",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 24,
+        "type": "text_link",
+        "url": "https://t.me/stickernews/564"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 58,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGlmlIA_CHqciZUepKlJr4ROFxOAHwAAJ5FWsbxF1ASkZxJCPYzsFIAQADAgADcwADNgQ",
+        "file_size": 728,
+        "file_unique_id": "AQADeRVrG8RdQEp4"
+      },
+      {
+        "height": 208,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGlmlIA_CHqciZUepKlJr4ROFxOAHwAAJ5FWsbxF1ASkZxJCPYzsFIAQADAgADbQADNgQ",
+        "file_size": 10248,
+        "file_unique_id": "AQADeRVrG8RdQEpy"
+      },
+      {
+        "height": 664,
+        "width": 1020,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGlmlIA_CHqciZUepKlJr4ROFxOAHwAAJ5FWsbxF1ASkZxJCPYzsFIAQADAgADeQADNgQ",
+        "file_size": 40699,
+        "file_unique_id": "AQADeRVrG8RdQEp-"
+      },
+      {
+        "height": 521,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGlmlIA_CHqciZUepKlJr4ROFxOAHwAAJ5FWsbxF1ASkZxJCPYzsFIAQADAgADeAADNgQ",
+        "file_size": 47351,
+        "file_unique_id": "AQADeRVrG8RdQEp9"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766327280,
+    "message_id": 1686
   }
 ]
