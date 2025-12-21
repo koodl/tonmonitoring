@@ -1,71 +1,5 @@
 [
   {
-    "caption": "📦 Goodies анонсировал продажу стикеров WallStreetBets.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5449670138292894907",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 3,
-        "type": "text_link",
-        "url": "https://t.me/getgoodies_bot/Goodies?startapp=7RmMwpCaHVZU5y"
-      },
-      {
-        "length": 11,
-        "offset": 11,
-        "type": "text_link",
-        "url": "https://t.me/goodies/207"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1765901863,
-    "group_chat_created": false,
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "video": {
-      "file_name": "IMG_5586.MP4",
-      "height": 1280,
-      "mime_type": "video/mp4",
-      "width": 1280,
-      "thumbnail": {
-        "height": 320,
-        "width": 320,
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgZxaUGF4DOwPs2dksM12hBRQBeBNCwAAi-VAAJwzhFK-0dQ0W5Mi1IBAAdtAAM2BA",
-        "file_size": 26413,
-        "file_unique_id": "AQADL5UAAnDOEUpy"
-      },
-      "file_id": "BAACAgIAAyEFAASerMeaAAIGcWlBheAzsD7NnZLDNdoQUUAXgTQsAAIvlQACcM4RSvtHUNFuTItSNgQ",
-      "file_size": 959355,
-      "file_unique_id": "AgADL5UAAnDOEUo",
-      "duration": 3,
-      "thumb": {
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgZxaUGF4DOwPs2dksM12hBRQBeBNCwAAi-VAAJwzhFK-0dQ0W5Mi1IBAAdtAAM2BA",
-        "file_unique_id": "AQADL5UAAnDOEUpy",
-        "file_size": 26413,
-        "width": 320,
-        "height": 320
-      }
-    },
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1765901792,
-    "message_id": 1649
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2768,5 +2702,55 @@
     },
     "date": 1766234165,
     "message_id": 1684
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5265112348451960063",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 12,
+        "offset": 11,
+        "type": "text_link",
+        "url": "https://t.me/tonmonitoring/1631"
+      },
+      {
+        "custom_emoji_id": "5440764055453200867",
+        "length": 2,
+        "offset": 42,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 45,
+        "type": "text_link",
+        "url": "https://t.me/tonmonitoring/8"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🗞 Новости 51ой недели.\n\nСпонсоры недели:\n⭐️ Донатеры\nСпасибо за вашу поддержку!",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766283864,
+    "message_id": 1685
   }
 ]
