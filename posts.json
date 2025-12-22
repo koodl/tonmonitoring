@@ -1,76 +1,5 @@
 [
   {
-    "caption": "🍬 Проект NOT Wise призвал к бойкоту Goodies, обвинив команду в плагиате .tgs-анимации стикеров с заменой оригинальной совы на своего персонажа.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5461068994381381031",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 19,
-        "type": "text_link",
-        "url": "https://t.me/weLoveMondays/888"
-      },
-      {
-        "length": 7,
-        "offset": 46,
-        "type": "text_link",
-        "url": "https://t.me/weLoveMondays/887"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 51,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGd2lCsgfvbwuuhQ1ya4fWdV9cV1vpAAJJDGsbtp8YSo10Elzli6rxAQADAgADcwADNgQ",
-        "file_size": 1782,
-        "file_unique_id": "AQADSQxrG7afGEp4"
-      },
-      {
-        "height": 320,
-        "width": 180,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGd2lCsgfvbwuuhQ1ya4fWdV9cV1vpAAJJDGsbtp8YSo10Elzli6rxAQADAgADbQADNgQ",
-        "file_size": 24398,
-        "file_unique_id": "AQADSQxrG7afGEpy"
-      },
-      {
-        "height": 800,
-        "width": 451,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGd2lCsgfvbwuuhQ1ya4fWdV9cV1vpAAJJDGsbtp8YSo10Elzli6rxAQADAgADeAADNgQ",
-        "file_size": 87575,
-        "file_unique_id": "AQADSQxrG7afGEp9"
-      },
-      {
-        "height": 1179,
-        "width": 665,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGd2lCsgfvbwuuhQ1ya4fWdV9cV1vpAAJJDGsbtp8YSo10Elzli6rxAQADAgADeQADNgQ",
-        "file_size": 97444,
-        "file_unique_id": "AQADSQxrG7afGEp-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1765978631,
-    "message_id": 1655
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2807,5 +2736,64 @@
     },
     "date": 1766402631,
     "message_id": 1689
+  },
+  {
+    "caption": "💎 Издание CoinTelegraph со ссылкой на данные Artemis сообщило, что за последние 24 часа сеть TON лидирует по притоку стейблкоинов с показателем $500,6 млн.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 57,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGmmlJL5ke7OUl9cF1fFYeXmawGWPfAALxC2sbxF1QSrzIcGHpKdlXAQADAgADcwADNgQ",
+        "file_size": 1049,
+        "file_unique_id": "AQAD8QtrG8RdUEp4"
+      },
+      {
+        "height": 320,
+        "width": 201,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGmmlJL5ke7OUl9cF1fFYeXmawGWPfAALxC2sbxF1QSrzIcGHpKdlXAQADAgADbQADNgQ",
+        "file_size": 13874,
+        "file_unique_id": "AQAD8QtrG8RdUEpy"
+      },
+      {
+        "height": 800,
+        "width": 502,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGmmlJL5ke7OUl9cF1fFYeXmawGWPfAALxC2sbxF1QSrzIcGHpKdlXAQADAgADeAADNgQ",
+        "file_size": 52937,
+        "file_unique_id": "AQAD8QtrG8RdUEp9"
+      },
+      {
+        "height": 1280,
+        "width": 804,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGmmlJL5ke7OUl9cF1fFYeXmawGWPfAALxC2sbxF1QSrzIcGHpKdlXAQADAgADeQADNgQ",
+        "file_size": 69036,
+        "file_unique_id": "AQAD8QtrG8RdUEp-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766403993,
+    "message_id": 1690
   }
 ]
