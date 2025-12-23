@@ -1,65 +1,5 @@
 [
   {
-    "caption": "🍬 Представитель Goodies Lukas Benda пояснил в приватном чате Teddies, что платформа выступает исключительно в роли лаунчпада для брендовых стикеров, однако технически команда сохраняет возможность ретроспективно изменять содержимое наборов как в приложении, так и в блокчейне.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5461068994381381031",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "media_group_id": "14127865384776274",
-    "photo": [
-      {
-        "height": 78,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGeWlCw8VdxtCmiq9ljfA4WM9608sWAAL8DGsbtp8YSqzN6hNXi4ngAQADAgADcwADNgQ",
-        "file_size": 1792,
-        "file_unique_id": "AQAD_AxrG7afGEp4"
-      },
-      {
-        "height": 278,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGeWlCw8VdxtCmiq9ljfA4WM9608sWAAL8DGsbtp8YSqzN6hNXi4ngAQADAgADbQADNgQ",
-        "file_size": 27948,
-        "file_unique_id": "AQAD_AxrG7afGEpy"
-      },
-      {
-        "height": 696,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGeWlCw8VdxtCmiq9ljfA4WM9608sWAAL8DGsbtp8YSqzN6hNXi4ngAQADAgADeAADNgQ",
-        "file_size": 105020,
-        "file_unique_id": "AQAD_AxrG7afGEp9"
-      },
-      {
-        "height": 1018,
-        "width": 1170,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGeWlCw8VdxtCmiq9ljfA4WM9608sWAAL8DGsbtp8YSqzN6hNXi4ngAQADAgADeQADNgQ",
-        "file_size": 115653,
-        "file_unique_id": "AQAD_AxrG7afGEp-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1765983173,
-    "message_id": 1657
-  },
-  {
     "caption": "🍬 Представитель Goodies Lukas Benda пояснил в приватном чате Teddie, что платформа выступает исключительно в роли лаунчпада для брендовых стикеров, однако технически команда сохраняет возможность ретроспективно изменять содержимое наборов как в приложении, так и в блокчейне.",
     "caption_entities": [
       {
@@ -2805,5 +2745,70 @@
     },
     "date": 1766408064,
     "message_id": 1691
+  },
+  {
+    "caption": "💎 В среду, 24 декабря, в 20:00 (UTC+3) состоится AMA-сессия с управляющим партнером DWF Labs Андреем Грачевым, посвященная его профессиональной деятельности и личным вопросам.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 40,
+        "type": "text_link",
+        "url": "https://t.me/web3che/1022"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 51,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGnGlKbRfQeaIrr9Tyrken-PgAAWBDOgACKw5rG9v_WEocdxxfelMYGAEAAwIAA3MAAzYE",
+        "file_size": 1127,
+        "file_unique_id": "AQADKw5rG9v_WEp4"
+      },
+      {
+        "height": 180,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGnGlKbRfQeaIrr9Tyrken-PgAAWBDOgACKw5rG9v_WEocdxxfelMYGAEAAwIAA20AAzYE",
+        "file_size": 12323,
+        "file_unique_id": "AQADKw5rG9v_WEpy"
+      },
+      {
+        "height": 450,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGnGlKbRfQeaIrr9Tyrken-PgAAWBDOgACKw5rG9v_WEocdxxfelMYGAEAAwIAA3gAAzYE",
+        "file_size": 43291,
+        "file_unique_id": "AQADKw5rG9v_WEp9"
+      },
+      {
+        "height": 720,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGnGlKbRfQeaIrr9Tyrken-PgAAWBDOgACKw5rG9v_WEocdxxfelMYGAEAAwIAA3kAAzYE",
+        "file_size": 50550,
+        "file_unique_id": "AQADKw5rG9v_WEp-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766485271,
+    "message_id": 1692
   }
 ]
