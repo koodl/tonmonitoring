@@ -1,70 +1,5 @@
 [
   {
-    "caption": "💎 Director of Ecosystem в TON Foundation Alenka лишилась официальной верификационной галочки в профиле, что вероятно свидетельствует о прекращении её работы в фонде.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 49,
-        "type": "text_link",
-        "url": "https://t.me/kuznetsovton/1657"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 50,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGfmlDAtDKXN2N7FS2aq8Svh0ajKv0AAL6D2sbtp8YSi1bUoTUYQOhAQADAgADcwADNgQ",
-        "file_size": 896,
-        "file_unique_id": "AQAD-g9rG7afGEp4"
-      },
-      {
-        "height": 178,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGfmlDAtDKXN2N7FS2aq8Svh0ajKv0AAL6D2sbtp8YSi1bUoTUYQOhAQADAgADbQADNgQ",
-        "file_size": 10402,
-        "file_unique_id": "AQAD-g9rG7afGEpy"
-      },
-      {
-        "height": 444,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGfmlDAtDKXN2N7FS2aq8Svh0ajKv0AAL6D2sbtp8YSi1bUoTUYQOhAQADAgADeAADNgQ",
-        "file_size": 39042,
-        "file_unique_id": "AQAD-g9rG7afGEp9"
-      },
-      {
-        "height": 650,
-        "width": 1170,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGfmlDAtDKXN2N7FS2aq8Svh0ajKv0AAL6D2sbtp8YSi1bUoTUYQOhAQADAgADeQADNgQ",
-        "file_size": 41695,
-        "file_unique_id": "AQAD-g9rG7afGEp-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1765999312,
-    "message_id": 1662
-  },
-  {
     "caption": "💎 Ghwnd сообщил, что в сети TON лишь около 50 тысяч реальных пользовательских кошельков имеют баланс свыше $500.",
     "caption_entities": [
       {
@@ -2787,5 +2722,75 @@
     },
     "date": 1766514356,
     "message_id": 1697
+  },
+  {
+    "caption": "👑 CEO TON Foundation Max Crown приобрел юзернейм @Robinhood за 37 800 TON, что принесло продавцу прибыль более чем в 37 раз за три года владения.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5213102712563986569",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 32,
+        "type": "text_link",
+        "url": "https://t.me/heritage/776"
+      },
+      {
+        "length": 10,
+        "offset": 50,
+        "type": "mention"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 51,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGomlLJ5rRSX9pcvsmZCHIqCWlLLqnAAKqC2sb2_9gSmH6yGLKlhsRAQADAgADcwADNgQ",
+        "file_size": 978,
+        "file_unique_id": "AQADqgtrG9v_YEp4"
+      },
+      {
+        "height": 180,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGomlLJ5rRSX9pcvsmZCHIqCWlLLqnAAKqC2sb2_9gSmH6yGLKlhsRAQADAgADbQADNgQ",
+        "file_size": 10739,
+        "file_unique_id": "AQADqgtrG9v_YEpy"
+      },
+      {
+        "height": 450,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGomlLJ5rRSX9pcvsmZCHIqCWlLLqnAAKqC2sb2_9gSmH6yGLKlhsRAQADAgADeAADNgQ",
+        "file_size": 35091,
+        "file_unique_id": "AQADqgtrG9v_YEp9"
+      },
+      {
+        "height": 720,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGomlLJ5rRSX9pcvsmZCHIqCWlLLqnAAKqC2sb2_9gSmH6yGLKlhsRAQADAgADeQADNgQ",
+        "file_size": 41848,
+        "file_unique_id": "AQADqgtrG9v_YEp-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766533018,
+    "message_id": 1698
   }
 ]
