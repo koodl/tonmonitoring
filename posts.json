@@ -1,70 +1,5 @@
 [
   {
-    "caption": "🎁 Telegram канал Balenciaga предложил концепт новогодних Telegram‑подарков за Stars (15, 50 и 100 Stars), которые были бы доступны в магазине до 13 января, а затем остались бы только в профилях пользователей как память.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440615647153256792",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 29,
-        "type": "text_link",
-        "url": "https://t.me/groza/1991"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 89,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGfGlC0mT-jamXnJWBAup6COpZKSOnAALHDWsbtp8YSpeibZQ7uFe8AQADAgADcwADNgQ",
-        "file_size": 1731,
-        "file_unique_id": "AQADxw1rG7afGEp4"
-      },
-      {
-        "height": 318,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGfGlC0mT-jamXnJWBAup6COpZKSOnAALHDWsbtp8YSpeibZQ7uFe8AQADAgADbQADNgQ",
-        "file_size": 19905,
-        "file_unique_id": "AQADxw1rG7afGEpy"
-      },
-      {
-        "height": 795,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGfGlC0mT-jamXnJWBAup6COpZKSOnAALHDWsbtp8YSpeibZQ7uFe8AQADAgADeAADNgQ",
-        "file_size": 76145,
-        "file_unique_id": "AQADxw1rG7afGEp9"
-      },
-      {
-        "height": 1163,
-        "width": 1170,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGfGlC0mT-jamXnJWBAup6COpZKSOnAALHDWsbtp8YSpeibZQ7uFe8AQADAgADeQADNgQ",
-        "file_size": 87083,
-        "file_unique_id": "AQADxw1rG7afGEp-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1765986916,
-    "message_id": 1660
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2793,5 +2728,70 @@
     },
     "date": 1766504172,
     "message_id": 1694
+  },
+  {
+    "caption": "✈️ Telegram продолжает внедрение своего Cocoon AI. В Instant View для официальной документации Telegram на тестовом сервере появилась новая вкладка «Summary» под названием «Cocoon AI Summary».",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 10,
+        "offset": 12,
+        "type": "text_link",
+        "url": "https://t.me/telelakel/765"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 51,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGn2lKt-2u4GVsaUFvhqBET-26Nj2CAAKYEWsb2_9YSoFruqIWjVlEAQADAgADcwADNgQ",
+        "file_size": 1236,
+        "file_unique_id": "AQADmBFrG9v_WEp4"
+      },
+      {
+        "height": 320,
+        "width": 180,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGn2lKt-2u4GVsaUFvhqBET-26Nj2CAAKYEWsb2_9YSoFruqIWjVlEAQADAgADbQADNgQ",
+        "file_size": 21315,
+        "file_unique_id": "AQADmBFrG9v_WEpy"
+      },
+      {
+        "height": 800,
+        "width": 449,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGn2lKt-2u4GVsaUFvhqBET-26Nj2CAAKYEWsb2_9YSoFruqIWjVlEAQADAgADeAADNgQ",
+        "file_size": 95800,
+        "file_unique_id": "AQADmBFrG9v_WEp9"
+      },
+      {
+        "height": 1280,
+        "width": 719,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGn2lKt-2u4GVsaUFvhqBET-26Nj2CAAKYEWsb2_9YSoFruqIWjVlEAQADAgADeQADNgQ",
+        "file_size": 126957,
+        "file_unique_id": "AQADmBFrG9v_WEp-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766504429,
+    "message_id": 1695
   }
 ]
