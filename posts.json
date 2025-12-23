@@ -1,66 +1,5 @@
 [
   {
-    "caption": "🍬 Представитель Goodies Lukas Benda пояснил в приватном чате Teddie, что платформа выступает исключительно в роли лаунчпада для брендовых стикеров, однако технически команда сохраняет возможность ретроспективно изменять содержимое наборов как в приложении, так и в блокчейне.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5461068994381381031",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1765983488,
-    "group_chat_created": false,
-    "media_group_id": "14127865384776274",
-    "photo": [
-      {
-        "height": 78,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGeWlCw8VdxtCmiq9ljfA4WM9608sWAAL8DGsbtp8YSqzN6hNXi4ngAQADAgADcwADNgQ",
-        "file_size": 1792,
-        "file_unique_id": "AQAD_AxrG7afGEp4"
-      },
-      {
-        "height": 278,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGeWlCw8VdxtCmiq9ljfA4WM9608sWAAL8DGsbtp8YSqzN6hNXi4ngAQADAgADbQADNgQ",
-        "file_size": 27948,
-        "file_unique_id": "AQAD_AxrG7afGEpy"
-      },
-      {
-        "height": 696,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGeWlCw8VdxtCmiq9ljfA4WM9608sWAAL8DGsbtp8YSqzN6hNXi4ngAQADAgADeAADNgQ",
-        "file_size": 105020,
-        "file_unique_id": "AQAD_AxrG7afGEp9"
-      },
-      {
-        "height": 1018,
-        "width": 1170,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGeWlCw8VdxtCmiq9ljfA4WM9608sWAAL8DGsbtp8YSqzN6hNXi4ngAQADAgADeQADNgQ",
-        "file_size": 115653,
-        "file_unique_id": "AQAD_AxrG7afGEp-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1765983173,
-    "message_id": 1657
-  },
-  {
     "caption": "💎 Martin Masser представил тизер нового шоу Off Script при поддержке The Open Network, в котором Александр Усик высказался о Джейке Поле в преддверии его поединка с Энтони Джошуа.",
     "caption_entities": [
       {
@@ -2810,5 +2749,70 @@
     },
     "date": 1766485271,
     "message_id": 1692
+  },
+  {
+    "caption": "🦴 DOGS запустили собственный маркетплейс, предназначенный исключительно для торговли стикерами из одноименной коллекции.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5442695223073344113",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 8,
+        "type": "text_link",
+        "url": "https://t.me/BullishSticker/399"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGnWlKiXl9N8n6F1iWffsnmGz_jbmnAAKLD2sb2_9YSq74p_nva2W6AQADAgADcwADNgQ",
+        "file_size": 1556,
+        "file_unique_id": "AQADiw9rG9v_WEp4"
+      },
+      {
+        "height": 320,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGnWlKiXl9N8n6F1iWffsnmGz_jbmnAAKLD2sb2_9YSq74p_nva2W6AQADAgADbQADNgQ",
+        "file_size": 20726,
+        "file_unique_id": "AQADiw9rG9v_WEpy"
+      },
+      {
+        "height": 800,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGnWlKiXl9N8n6F1iWffsnmGz_jbmnAAKLD2sb2_9YSq74p_nva2W6AQADAgADeAADNgQ",
+        "file_size": 78165,
+        "file_unique_id": "AQADiw9rG9v_WEp9"
+      },
+      {
+        "height": 1280,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGnWlKiXl9N8n6F1iWffsnmGz_jbmnAAKLD2sb2_9YSq74p_nva2W6AQADAgADeQADNgQ",
+        "file_size": 98119,
+        "file_unique_id": "AQADiw9rG9v_WEp-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766492537,
+    "message_id": 1693
   }
 ]
