@@ -17,71 +17,6 @@
     ],
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 77,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGf2lDBbwxWpnQTgPi6qKBSZYAAeUDQQACBRBrG7afGEpydCN715LzJwEAAwIAA3MAAzYE",
-        "file_size": 1173,
-        "file_unique_id": "AQADBRBrG7afGEp4"
-      },
-      {
-        "height": 275,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGf2lDBbwxWpnQTgPi6qKBSZYAAeUDQQACBRBrG7afGEpydCN715LzJwEAAwIAA20AAzYE",
-        "file_size": 13931,
-        "file_unique_id": "AQADBRBrG7afGEpy"
-      },
-      {
-        "height": 688,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGf2lDBbwxWpnQTgPi6qKBSZYAAeUDQQACBRBrG7afGEpydCN715LzJwEAAwIAA3gAAzYE",
-        "file_size": 51195,
-        "file_unique_id": "AQADBRBrG7afGEp9"
-      },
-      {
-        "height": 1101,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGf2lDBbwxWpnQTgPi6qKBSZYAAeUDQQACBRBrG7afGEpydCN715LzJwEAAwIAA3kAAzYE",
-        "file_size": 62989,
-        "file_unique_id": "AQADBRBrG7afGEp-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1766000060,
-    "message_id": 1663
-  },
-  {
-    "caption": "💎 Ghwnd сообщил, что в сети TON лишь около 50 тысяч реальных пользовательских кошельков имеют баланс свыше $500.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 9,
-        "type": "text_link",
-        "url": "https://t.me/ghwnd/1563"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1766000072,
     "group_chat_created": false,
     "photo": [
@@ -2792,5 +2727,113 @@
     },
     "date": 1766533018,
     "message_id": 1698
+  },
+  {
+    "caption": "📦 Статистика Sticker Pack\n\n🔽41 / 173 — стикерпаков в плюсе\n🔽4.8M / 25М $ — капитализация\n🔽150k / 2.5M — активных юзеров",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5449670138292894907",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 10,
+        "offset": 3,
+        "type": "text_link",
+        "url": "https://t.me/stickernews/571"
+      },
+      {
+        "length": 95,
+        "offset": 28,
+        "type": "blockquote"
+      },
+      {
+        "custom_emoji_id": "5875008416132370818",
+        "length": 2,
+        "offset": 28,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 2,
+        "offset": 30,
+        "type": "bold"
+      },
+      {
+        "length": 5,
+        "offset": 33,
+        "type": "bold"
+      },
+      {
+        "custom_emoji_id": "5875008416132370818",
+        "length": 2,
+        "offset": 61,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 12,
+        "offset": 63,
+        "type": "bold"
+      },
+      {
+        "custom_emoji_id": "5875008416132370818",
+        "length": 2,
+        "offset": 92,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 14,
+        "offset": 94,
+        "type": "bold"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 58,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGo2lL2ljLJSlhEi6DOW4rVgeSec0eAALcDWsbj6RhSsEaYW1OsskuAQADAgADcwADNgQ",
+        "file_size": 1634,
+        "file_unique_id": "AQAD3A1rG4-kYUp4"
+      },
+      {
+        "height": 208,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGo2lL2ljLJSlhEi6DOW4rVgeSec0eAALcDWsbj6RhSsEaYW1OsskuAQADAgADbQADNgQ",
+        "file_size": 21297,
+        "file_unique_id": "AQAD3A1rG4-kYUpy"
+      },
+      {
+        "height": 521,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGo2lL2ljLJSlhEi6DOW4rVgeSec0eAALcDWsbj6RhSsEaYW1OsskuAQADAgADeAADNgQ",
+        "file_size": 79289,
+        "file_unique_id": "AQAD3A1rG4-kYUp9"
+      },
+      {
+        "height": 833,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGo2lL2ljLJSlhEi6DOW4rVgeSec0eAALcDWsbj6RhSsEaYW1OsskuAQADAgADeQADNgQ",
+        "file_size": 91588,
+        "file_unique_id": "AQAD3A1rG4-kYUp-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766578776,
+    "message_id": 1699
   }
 ]
