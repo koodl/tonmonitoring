@@ -1,49 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1766017226,
-    "entities": [
-      {
-        "custom_emoji_id": "5314597028901190799",
-        "length": 3,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 13,
-        "offset": 4,
-        "type": "url"
-      },
-      {
-        "length": 8,
-        "offset": 18,
-        "type": "text_link",
-        "url": "https://www.investing.com/news/stock-market-news/alphaton-stock-tumbles-after-anduril-ceo-denies-investment-claims-93CH-4413520"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🅰️ Investing.com сообщил, что акции AlphaTON Capital Corp упали на 16,9% после того, как CEO Anduril Industries Palmer Luckey опроверг заявление компании о стратегических инвестициях в $30 млн, обвинив руководство в обмане инвесторов.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1766017121,
-    "message_id": 1665
-  },
-  {
     "caption": "📈 TON Wallet намекнул на скорый запуск ончейн-торговли токенизированными акциями xStocks.",
     "caption_entities": [
       {
@@ -2910,5 +2866,70 @@
     },
     "date": 1766578776,
     "message_id": 1699
+  },
+  {
+    "caption": "💎 Atomic Wallet объявил, что кошелёк теперь нативно поддерживает токен TON, позволяя пользователям покупать, обменивать и безопасно хранить монеты сети TON напрямую в приложении.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 17,
+        "type": "text_link",
+        "url": "https://x.com/atomicwallet/status/2003818218054697310?s=46"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 51,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGp2lMdn2HnQg0uL08tW_kkefXA4yQAAJeFGsbj6RhSlfcs63926byAQADAgADcwADNgQ",
+        "file_size": 1316,
+        "file_unique_id": "AQADXhRrG4-kYUp4"
+      },
+      {
+        "height": 180,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGp2lMdn2HnQg0uL08tW_kkefXA4yQAAJeFGsbj6RhSlfcs63926byAQADAgADbQADNgQ",
+        "file_size": 12758,
+        "file_unique_id": "AQADXhRrG4-kYUpy"
+      },
+      {
+        "height": 535,
+        "width": 952,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGp2lMdn2HnQg0uL08tW_kkefXA4yQAAJeFGsbj6RhSlfcs63926byAQADAgADeQADNgQ",
+        "file_size": 36874,
+        "file_unique_id": "AQADXhRrG4-kYUp-"
+      },
+      {
+        "height": 450,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGp2lMdn2HnQg0uL08tW_kkefXA4yQAAJeFGsbj6RhSlfcs63926byAQADAgADeAADNgQ",
+        "file_size": 45814,
+        "file_unique_id": "AQADXhRrG4-kYUp9"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766618749,
+    "message_id": 1703
   }
 ]
