@@ -1,58 +1,5 @@
 [
   {
-    "caption": "💎 Такая команда TON Foundation нам нужна.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "video": {
-      "file_name": "IMG_5617.MP4",
-      "height": 304,
-      "mime_type": "video/mp4",
-      "width": 464,
-      "thumbnail": {
-        "height": 210,
-        "width": 320,
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgaAaUMPLenRSQZLyjNN-dKECWF-mJAAApWQAAK2nxhKIwO9nKJB8zsBAAdtAAM2BA",
-        "file_size": 10245,
-        "file_unique_id": "AQADlZAAArafGEpy"
-      },
-      "file_id": "BAACAgIAAyEFAASerMeaAAIGgGlDDy3p0UkGS8ozTfnShAlhfpiQAAKVkAACtp8YSiMDvZyiQfM7NgQ",
-      "file_size": 5158306,
-      "file_unique_id": "AgADlZAAArafGEo",
-      "duration": 56,
-      "thumb": {
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgaAaUMPLenRSQZLyjNN-dKECWF-mJAAApWQAAK2nxhKIwO9nKJB8zsBAAdtAAM2BA",
-        "file_unique_id": "AQADlZAAArafGEpy",
-        "file_size": 10245,
-        "width": 320,
-        "height": 210
-      }
-    },
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1766002477,
-    "message_id": 1664
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2833,5 +2780,48 @@
     },
     "date": 1766579613,
     "message_id": 1700
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 11,
+        "offset": 3,
+        "type": "url"
+      },
+      {
+        "length": 6,
+        "offset": 25,
+        "type": "text_link",
+        "url": "https://web3.career/web3-companies/ton-foundation/salary?utm_source=tonmonitoring"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 web3.career публикует данные о зарплатах сотрудников TON Foundation (как оценочные на основе аналогичных вакансий), где средние годовые оклады варьируются от $18,000 для копирайтера до $201,000 для AI-разработчика.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766589738,
+    "message_id": 1701
   }
 ]
