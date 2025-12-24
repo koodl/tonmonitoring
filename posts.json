@@ -1,71 +1,5 @@
 [
   {
-    "caption": "💎 Ghwnd сообщил, что в сети TON лишь около 50 тысяч реальных пользовательских кошельков имеют баланс свыше $500.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 9,
-        "type": "text_link",
-        "url": "https://t.me/ghwnd/1563"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1766000072,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 77,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGf2lDBcjqCz5QaOEUS33o8Ex0Cjk_AAIGEGsbtp8YSuo9DQl-BCPhAQADAgADcwADNgQ",
-        "file_size": 1129,
-        "file_unique_id": "AQADBhBrG7afGEp4"
-      },
-      {
-        "height": 275,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGf2lDBcjqCz5QaOEUS33o8Ex0Cjk_AAIGEGsbtp8YSuo9DQl-BCPhAQADAgADbQADNgQ",
-        "file_size": 13599,
-        "file_unique_id": "AQADBhBrG7afGEpy"
-      },
-      {
-        "height": 688,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGf2lDBcjqCz5QaOEUS33o8Ex0Cjk_AAIGEGsbtp8YSuo9DQl-BCPhAQADAgADeAADNgQ",
-        "file_size": 49006,
-        "file_unique_id": "AQADBhBrG7afGEp9"
-      },
-      {
-        "height": 1101,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGf2lDBcjqCz5QaOEUS33o8Ex0Cjk_AAIGEGsbtp8YSuo9DQl-BCPhAQADAgADeQADNgQ",
-        "file_size": 59195,
-        "file_unique_id": "AQADBhBrG7afGEp-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1766000060,
-    "message_id": 1663
-  },
-  {
     "caption": "💎 Такая команда TON Foundation нам нужна.",
     "caption_entities": [
       {
@@ -2835,5 +2769,69 @@
     },
     "date": 1766578776,
     "message_id": 1699
+  },
+  {
+    "caption": "💎 ton.website позволяет получать доступ к сайтам .ton напрямую в браузере без дополнительной настройки.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 11,
+        "offset": 3,
+        "type": "url"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 77,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGpGlL3Z02yWgECKlgCpB8lKwH--lZAAL4DWsbj6RhSkxTayXOXj14AQADAgADcwADNgQ",
+        "file_size": 956,
+        "file_unique_id": "AQAD-A1rG4-kYUp4"
+      },
+      {
+        "height": 320,
+        "width": 275,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGpGlL3Z02yWgECKlgCpB8lKwH--lZAAL4DWsbj6RhSkxTayXOXj14AQADAgADbQADNgQ",
+        "file_size": 12589,
+        "file_unique_id": "AQAD-A1rG4-kYUpy"
+      },
+      {
+        "height": 800,
+        "width": 687,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGpGlL3Z02yWgECKlgCpB8lKwH--lZAAL4DWsbj6RhSkxTayXOXj14AQADAgADeAADNgQ",
+        "file_size": 43983,
+        "file_unique_id": "AQAD-A1rG4-kYUp9"
+      },
+      {
+        "height": 1280,
+        "width": 1099,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGpGlL3Z02yWgECKlgCpB8lKwH--lZAAL4DWsbj6RhSkxTayXOXj14AQADAgADeQADNgQ",
+        "file_size": 53645,
+        "file_unique_id": "AQAD-A1rG4-kYUp-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766579613,
+    "message_id": 1700
   }
 ]
