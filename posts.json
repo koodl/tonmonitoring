@@ -2,50 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440704428422229664",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 5,
-        "offset": 14,
-        "type": "text_link",
-        "url": "https://t.me/toncoin/2146"
-      },
-      {
-        "length": 7,
-        "offset": 101,
-        "type": "text_link",
-        "url": "https://vm.tiktok.com/ZMD85WjkW/"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "👛 TON Wallet начал сотрудничество с финансовым TikTok-блогером Sinclair Adams, который интегрировал рекламу криптокошелька в свои ролики о деньгах и управлении финансами.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1766024355,
-    "message_id": 1667
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1766024484,
     "entities": [
       {
@@ -2931,5 +2887,37 @@
     },
     "date": 1766634406,
     "message_id": 1704
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "length": 7,
+        "offset": 8,
+        "type": "text_link",
+        "url": "https://t.me/RUCointelegraph/3829"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "ZachXBT сообщил о компрометации браузерного расширения Trust Wallet в Google Chrome, по предварительным оценкам ущерб превысил $2 млн, команда пока не комментировала ситуацию.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766694162,
+    "message_id": 1705
   }
 ]
