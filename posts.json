@@ -1,70 +1,5 @@
 [
   {
-    "caption": "📈 TON Wallet намекнул на скорый запуск ончейн-торговли токенизированными акциями xStocks.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5190741704071743060",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 14,
-        "type": "text_link",
-        "url": "https://t.me/tonwallet_news_cis/70"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGgmlDYv5o1xaGX19MzJlV1UHRoXERAAI1EWsbtp8YSvZMEXe86nFPAQADAgADcwADNgQ",
-        "file_size": 1997,
-        "file_unique_id": "AQADNRFrG7afGEp4"
-      },
-      {
-        "height": 320,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGgmlDYv5o1xaGX19MzJlV1UHRoXERAAI1EWsbtp8YSvZMEXe86nFPAQADAgADbQADNgQ",
-        "file_size": 21777,
-        "file_unique_id": "AQADNRFrG7afGEpy"
-      },
-      {
-        "height": 800,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGgmlDYv5o1xaGX19MzJlV1UHRoXERAAI1EWsbtp8YSvZMEXe86nFPAQADAgADeAADNgQ",
-        "file_size": 75184,
-        "file_unique_id": "AQADNRFrG7afGEp9"
-      },
-      {
-        "height": 1280,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGgmlDYv5o1xaGX19MzJlV1UHRoXERAAI1EWsbtp8YSvZMEXe86nFPAQADAgADeQADNgQ",
-        "file_size": 87517,
-        "file_unique_id": "AQADNRFrG7afGEp-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1766023934,
-    "message_id": 1666
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2931,5 +2866,70 @@
     },
     "date": 1766618749,
     "message_id": 1703
+  },
+  {
+    "caption": "💎 FXStreet сообщил, что цена Toncoin (TON) пробила нисходящий клин выше $1,51, подтвердив бычий пробой на фоне улучшения настроений с крупными ордерами китов, ростом бычьих ставок и доминированием покупок.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 12,
+        "type": "text_link",
+        "url": "https://www.fxstreet.com/cryptocurrencies/news/toncoin-price-forecast-ton-bullish-breakout-confirmed-as-sentiment-improves-202512250340?utm_source=telegram&utm_medium=channel&utm_campaign=-1001235679526"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 46,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGqGlMs6ZZwjEpSN4RIiodq2_VdNFoAAJHC2sbj6RpSrkeY2lQ9XViAQADAgADcwADNgQ",
+        "file_size": 924,
+        "file_unique_id": "AQADRwtrG4-kaUp4"
+      },
+      {
+        "height": 163,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGqGlMs6ZZwjEpSN4RIiodq2_VdNFoAAJHC2sbj6RpSrkeY2lQ9XViAQADAgADbQADNgQ",
+        "file_size": 9894,
+        "file_unique_id": "AQADRwtrG4-kaUpy"
+      },
+      {
+        "height": 534,
+        "width": 1050,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGqGlMs6ZZwjEpSN4RIiodq2_VdNFoAAJHC2sbj6RpSrkeY2lQ9XViAQADAgADeQADNgQ",
+        "file_size": 41577,
+        "file_unique_id": "AQADRwtrG4-kaUp-"
+      },
+      {
+        "height": 407,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGqGlMs6ZZwjEpSN4RIiodq2_VdNFoAAJHC2sbj6RpSrkeY2lQ9XViAQADAgADeAADNgQ",
+        "file_size": 43890,
+        "file_unique_id": "AQADRwtrG4-kaUp9"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766634406,
+    "message_id": 1704
   }
 ]
