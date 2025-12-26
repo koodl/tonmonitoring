@@ -1,70 +1,5 @@
 [
   {
-    "caption": "📈 На блокчейне TON состоялся запуск сервиса xStocks, который позволяет торговать токенизированными акциями американских компаний напрямую через кошельки TON Wallet, Tonkeeper и MyTONWallet.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5190741704071743060",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 20,
-        "type": "text_link",
-        "url": "https://t.me/toncoin_rus/1901"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 53,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGhGlD-zxR6KHTKa_CbzTWJfWo6ItTAAI6EWsbG84hSiAM0gkc-9-LAQADAgADcwADNgQ",
-        "file_size": 857,
-        "file_unique_id": "AQADOhFrGxvOIUp4"
-      },
-      {
-        "height": 190,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGhGlD-zxR6KHTKa_CbzTWJfWo6ItTAAI6EWsbG84hSiAM0gkc-9-LAQADAgADbQADNgQ",
-        "file_size": 6669,
-        "file_unique_id": "AQADOhFrGxvOIUpy"
-      },
-      {
-        "height": 474,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGhGlD-zxR6KHTKa_CbzTWJfWo6ItTAAI6EWsbG84hSiAM0gkc-9-LAQADAgADeAADNgQ",
-        "file_size": 24849,
-        "file_unique_id": "AQADOhFrGxvOIUp9"
-      },
-      {
-        "height": 758,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGhGlD-zxR6KHTKa_CbzTWJfWo6ItTAAI6EWsbG84hSiAM0gkc-9-LAQADAgADeQADNgQ",
-        "file_size": 28459,
-        "file_unique_id": "AQADOhFrGxvOIUp-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1766062908,
-    "message_id": 1668
-  },
-  {
     "caption": "📈 TON Wallet намекнул на скорый запуск ончейн-торговли токенизированными акциями xStocks.",
     "caption_entities": [
       {
@@ -2932,5 +2867,70 @@
     },
     "date": 1766755293,
     "message_id": 1707
+  },
+  {
+    "caption": "💎 The Daily Ton предлагает TON сосредоточиться на уникальном торговом предложении (УТП), отличающемся от конкурентов, вместо копирования успешных практик Solana и Ethereum, которые не принесли успеха.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 10,
+        "offset": 17,
+        "type": "text_link",
+        "url": "https://t.me/thedailytonrus/1297"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 44,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGrGlOjD264jryXri1UHo-kGPaEuOrAAKHD2sbgGpxSrOihfs8BWmNAQADAgADcwADNgQ",
+        "file_size": 1170,
+        "file_unique_id": "AQADhw9rG4BqcUp4"
+      },
+      {
+        "height": 157,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGrGlOjD264jryXri1UHo-kGPaEuOrAAKHD2sbgGpxSrOihfs8BWmNAQADAgADbQADNgQ",
+        "file_size": 12721,
+        "file_unique_id": "AQADhw9rG4BqcUpy"
+      },
+      {
+        "height": 393,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGrGlOjD264jryXri1UHo-kGPaEuOrAAKHD2sbgGpxSrOihfs8BWmNAQADAgADeAADNgQ",
+        "file_size": 47756,
+        "file_unique_id": "AQADhw9rG4BqcUp9"
+      },
+      {
+        "height": 629,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGrGlOjD264jryXri1UHo-kGPaEuOrAAKHD2sbgGpxSrOihfs8BWmNAQADAgADeQADNgQ",
+        "file_size": 63495,
+        "file_unique_id": "AQADhw9rG4BqcUp-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766755389,
+    "message_id": 1708
   }
 ]
