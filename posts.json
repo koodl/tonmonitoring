@@ -1,70 +1,5 @@
 [
   {
-    "caption": "✈️ По данным МТС AdTech и LiveDune, месячная аудитория Telegram в России достигла рекордного показателя в 105 млн пользователей.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 73,
-        "type": "text_link",
-        "url": "https://t.me/d_code/24670"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 60,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGhWlD_V3Q0e41eRv9DAZ_PXRHdtvRAAJQEWsbG84hSiauFEdKkEf-AQADAgADcwADNgQ",
-        "file_size": 966,
-        "file_unique_id": "AQADUBFrGxvOIUp4"
-      },
-      {
-        "height": 213,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGhWlD_V3Q0e41eRv9DAZ_PXRHdtvRAAJQEWsbG84hSiauFEdKkEf-AQADAgADbQADNgQ",
-        "file_size": 9854,
-        "file_unique_id": "AQADUBFrGxvOIUpy"
-      },
-      {
-        "height": 533,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGhWlD_V3Q0e41eRv9DAZ_PXRHdtvRAAJQEWsbG84hSiauFEdKkEf-AQADAgADeAADNgQ",
-        "file_size": 37333,
-        "file_unique_id": "AQADUBFrGxvOIUp9"
-      },
-      {
-        "height": 853,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGhWlD_V3Q0e41eRv9DAZ_PXRHdtvRAAJQEWsbG84hSiauFEdKkEf-AQADAgADeQADNgQ",
-        "file_size": 46713,
-        "file_unique_id": "AQADUBFrGxvOIUp-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1766063453,
-    "message_id": 1669
-  },
-  {
     "caption": "💎 TON выиграл награду Community Choice Award в категории «Best Ecosystem program for Developers» по версии издания BeInCrypto.",
     "caption_entities": [
       {
@@ -2964,5 +2899,71 @@
     },
     "date": 1766767803,
     "message_id": 1709
+  },
+  {
+    "caption": "👛 MyTonWallet анонсировал новогодний минт менее 400 уникальных NFT-карт для персонализации кошельков 29 декабря.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5442808395461583047",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 11,
+        "offset": 15,
+        "type": "text_link",
+        "url": "https://t.me/MyTonWalletRu/380"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1766778431,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGq2lOi933rTv67sJg7sV9AfgucERYAAKED2sbgGpxSt4bGgRui6bWAQADAgADcwADNgQ",
+        "file_size": 1776,
+        "file_unique_id": "AQADhA9rG4BqcUp4"
+      },
+      {
+        "height": 320,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGq2lOi933rTv67sJg7sV9AfgucERYAAKED2sbgGpxSt4bGgRui6bWAQADAgADbQADNgQ",
+        "file_size": 22451,
+        "file_unique_id": "AQADhA9rG4BqcUpy"
+      },
+      {
+        "height": 800,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGq2lOi933rTv67sJg7sV9AfgucERYAAKED2sbgGpxSt4bGgRui6bWAQADAgADeAADNgQ",
+        "file_size": 84501,
+        "file_unique_id": "AQADhA9rG4BqcUp9"
+      },
+      {
+        "height": 1280,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGq2lOi933rTv67sJg7sV9AfgucERYAAKED2sbgGpxSt4bGgRui6bWAQADAgADeQADNgQ",
+        "file_size": 105220,
+        "file_unique_id": "AQADhA9rG4BqcUp-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766755293,
+    "message_id": 1707
   }
 ]
