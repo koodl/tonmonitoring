@@ -2,51 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "edit_date": 1766024484,
-    "entities": [
-      {
-        "custom_emoji_id": "5440704428422229664",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 5,
-        "offset": 10,
-        "type": "text_link",
-        "url": "https://t.me/toncoin/2146"
-      },
-      {
-        "length": 7,
-        "offset": 97,
-        "type": "text_link",
-        "url": "https://vm.tiktok.com/ZMD85WjkW/"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "url": "https://t.me/toncoin/2146"
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "👛 Wallet начал сотрудничество с финансовым TikTok-блогером Sinclair Adams, который интегрировал рекламу криптокошелька в свои ролики о деньгах и управлении финансами.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1766024355,
-    "message_id": 1667
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1766024489,
     "entities": [
       {
@@ -2919,5 +2874,43 @@
     },
     "date": 1766694162,
     "message_id": 1705
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 48,
+        "type": "text_link",
+        "url": "https://t.me/pgrton/1333"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 Совокупный отток TON с централизованных бирж составил 5,87 млн, пулы TON/USDT на основных DEX прибавили 160 тыс. USDT (+2,9%) за неделю, а ончейн-активность пользователей значительно снизилась.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766755073,
+    "message_id": 1706
   }
 ]
