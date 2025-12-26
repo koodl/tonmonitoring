@@ -1,50 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1766024489,
-    "entities": [
-      {
-        "custom_emoji_id": "5440704428422229664",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 5,
-        "offset": 10,
-        "type": "text_link",
-        "url": "https://t.me/toncoin/2146"
-      },
-      {
-        "length": 7,
-        "offset": 97,
-        "type": "text_link",
-        "url": "https://vm.tiktok.com/ZMD85WjkW/"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "👛 Wallet начал сотрудничество с финансовым TikTok-блогером Sinclair Adams, который интегрировал рекламу криптокошелька в свои ролики о деньгах и управлении финансами.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1766024355,
-    "message_id": 1667
-  },
-  {
     "caption": "📈 На блокчейне TON состоялся запуск сервиса xStocks, который позволяет торговать токенизированными акциями американских компаний напрямую через кошельки TON Wallet, Tonkeeper и MyTONWallet.",
     "caption_entities": [
       {
@@ -2912,5 +2867,70 @@
     },
     "date": 1766755073,
     "message_id": 1706
+  },
+  {
+    "caption": "👛 MyTonWallet анонсировал новогодний минт менее 400 уникальных NFT-карт для персонализации кошельков 29 декабря.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5442808395461583047",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 11,
+        "offset": 15,
+        "type": "text_link",
+        "url": "https://t.me/MyTonWalletRu/380"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGq2lOi933rTv67sJg7sV9AfgucERYAAKED2sbgGpxSt4bGgRui6bWAQADAgADcwADNgQ",
+        "file_size": 1776,
+        "file_unique_id": "AQADhA9rG4BqcUp4"
+      },
+      {
+        "height": 320,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGq2lOi933rTv67sJg7sV9AfgucERYAAKED2sbgGpxSt4bGgRui6bWAQADAgADbQADNgQ",
+        "file_size": 22451,
+        "file_unique_id": "AQADhA9rG4BqcUpy"
+      },
+      {
+        "height": 800,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGq2lOi933rTv67sJg7sV9AfgucERYAAKED2sbgGpxSt4bGgRui6bWAQADAgADeAADNgQ",
+        "file_size": 84501,
+        "file_unique_id": "AQADhA9rG4BqcUp9"
+      },
+      {
+        "height": 1280,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGq2lOi933rTv67sJg7sV9AfgucERYAAKED2sbgGpxSt4bGgRui6bWAQADAgADeQADNgQ",
+        "file_size": 105220,
+        "file_unique_id": "AQADhA9rG4BqcUp-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766755293,
+    "message_id": 1707
   }
 ]
