@@ -1,50 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1766063399,
-    "entities": [
-      {
-        "custom_emoji_id": "5440704428422229664",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 5,
-        "offset": 10,
-        "type": "text_link",
-        "url": "https://t.me/toncoin/2146"
-      },
-      {
-        "length": 7,
-        "offset": 97,
-        "type": "text_link",
-        "url": "https://vm.tiktok.com/ZMD85WjkW/"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "👛 Wallet начал сотрудничество с финансовым TikTok-блогером Sinclair Adams, который интегрировал рекламу криптокошелька в свои ролики о деньгах и управлении финансами.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1766024355,
-    "message_id": 1667
-  },
-  {
     "caption": "✈️ По данным МТС AdTech и LiveDune, месячная аудитория Telegram в России достигла рекордного показателя в 105 млн пользователей.",
     "caption_entities": [
       {
@@ -2891,6 +2846,78 @@
     ],
     "channel_chat_created": false,
     "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 51,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGrWlOvLuMeedN8sunJlRz2_Un2okdAAKBEWsbgGpxSuG-hg7_GogaAQADAgADcwADNgQ",
+        "file_size": 1096,
+        "file_unique_id": "AQADgRFrG4BqcUp4"
+      },
+      {
+        "height": 180,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGrWlOvLuMeedN8sunJlRz2_Un2okdAAKBEWsbgGpxSuG-hg7_GogaAQADAgADbQADNgQ",
+        "file_size": 13641,
+        "file_unique_id": "AQADgRFrG4BqcUpy"
+      },
+      {
+        "height": 450,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGrWlOvLuMeedN8sunJlRz2_Un2okdAAKBEWsbgGpxSuG-hg7_GogaAQADAgADeAADNgQ",
+        "file_size": 61966,
+        "file_unique_id": "AQADgRFrG4BqcUp9"
+      },
+      {
+        "height": 720,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGrWlOvLuMeedN8sunJlRz2_Un2okdAAKBEWsbgGpxSuG-hg7_GogaAQADAgADeQADNgQ",
+        "file_size": 88632,
+        "file_unique_id": "AQADgRFrG4BqcUp-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766767803,
+    "message_id": 1709
+  },
+  {
+    "caption": "✈️🥚 В бета-версии Telegram для iOS 12.3 при переводе целых чатов появилось уведомление, что функция работает на Cocoon AI.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "custom_emoji_id": "5287229346967229276",
+        "length": 2,
+        "offset": 2,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 66,
+        "type": "text_link",
+        "url": "https://t.me/telelakel/767"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1766767827,
     "group_chat_created": false,
     "photo": [
       {
