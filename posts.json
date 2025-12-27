@@ -1,70 +1,5 @@
 [
   {
-    "caption": "💎 TON выиграл награду Community Choice Award в категории «Best Ecosystem program for Developers» по версии издания BeInCrypto.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 7,
-        "type": "text_link",
-        "url": "https://x.com/martinfromton/status/2001647181812634036?s=46"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 53,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGhmlEA4nARXr0oO7L6-mLhnphN2tPAAKZEWsbG84hSsvomK6DyjRXAQADAgADcwADNgQ",
-        "file_size": 1075,
-        "file_unique_id": "AQADmRFrGxvOIUp4"
-      },
-      {
-        "height": 189,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGhmlEA4nARXr0oO7L6-mLhnphN2tPAAKZEWsbG84hSsvomK6DyjRXAQADAgADbQADNgQ",
-        "file_size": 12201,
-        "file_unique_id": "AQADmRFrGxvOIUpy"
-      },
-      {
-        "height": 472,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGhmlEA4nARXr0oO7L6-mLhnphN2tPAAKZEWsbG84hSsvomK6DyjRXAQADAgADeAADNgQ",
-        "file_size": 43315,
-        "file_unique_id": "AQADmRFrGxvOIUp9"
-      },
-      {
-        "height": 658,
-        "width": 1116,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGhmlEA4nARXr0oO7L6-mLhnphN2tPAAKZEWsbG84hSsvomK6DyjRXAQADAgADeQADNgQ",
-        "file_size": 46113,
-        "file_unique_id": "AQADmRFrGxvOIUp-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1766065033,
-    "message_id": 1670
-  },
-  {
     "caption": "🪟 Сервис Portals запустил десктопную веб-версию платформы с расширенной аналитикой подарков и инструментами для управления инвентарем.",
     "caption_entities": [
       {
@@ -2965,5 +2900,88 @@
     },
     "date": 1766755293,
     "message_id": 1707
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5442635973999488769",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 12,
+        "offset": 12,
+        "type": "text_link",
+        "url": "https://t.me/lalyounft/4266"
+      },
+      {
+        "length": 5,
+        "offset": 39,
+        "type": "mention"
+      },
+      {
+        "length": 5,
+        "offset": 46,
+        "type": "mention"
+      },
+      {
+        "length": 5,
+        "offset": 53,
+        "type": "mention"
+      },
+      {
+        "length": 5,
+        "offset": 60,
+        "type": "mention"
+      },
+      {
+        "length": 5,
+        "offset": 67,
+        "type": "mention"
+      },
+      {
+        "length": 5,
+        "offset": 74,
+        "type": "mention"
+      },
+      {
+        "length": 5,
+        "offset": 81,
+        "type": "mention"
+      },
+      {
+        "length": 5,
+        "offset": 88,
+        "type": "mention"
+      },
+      {
+        "length": 5,
+        "offset": 95,
+        "type": "mention"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🆔 Telegram заблокировал NFT-юзернеймы @chen, @heng, @leng, @tiao, @titi, @tong, @zcdb, @zckr, @zcgq, в результате чего владелец потерял около 45 000 TON (эквивалент $72 000) из-за сдачи активов в аренду скаммерам и хакерам.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766860952,
+    "message_id": 1710
   }
 ]
