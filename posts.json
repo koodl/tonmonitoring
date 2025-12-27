@@ -1,70 +1,5 @@
 [
   {
-    "caption": "🪟 Сервис Portals запустил десктопную веб-версию платформы с расширенной аналитикой подарков и инструментами для управления инвентарем.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5310031775018285687",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 10,
-        "offset": 38,
-        "type": "text_link",
-        "url": "https://portals.tg/"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGh2lEBhhUCriUJoe6G9rsftT1W8rnAAK4EWsbG84hSqdWaIpy2jioAQADAgADcwADNgQ",
-        "file_size": 2233,
-        "file_unique_id": "AQADuBFrGxvOIUp4"
-      },
-      {
-        "height": 320,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGh2lEBhhUCriUJoe6G9rsftT1W8rnAAK4EWsbG84hSqdWaIpy2jioAQADAgADbQADNgQ",
-        "file_size": 27182,
-        "file_unique_id": "AQADuBFrGxvOIUpy"
-      },
-      {
-        "height": 1000,
-        "width": 1000,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGh2lEBhhUCriUJoe6G9rsftT1W8rnAAK4EWsbG84hSqdWaIpy2jioAQADAgADeQADNgQ",
-        "file_size": 87898,
-        "file_unique_id": "AQADuBFrGxvOIUp-"
-      },
-      {
-        "height": 800,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGh2lEBhhUCriUJoe6G9rsftT1W8rnAAK4EWsbG84hSqdWaIpy2jioAQADAgADeAADNgQ",
-        "file_size": 105122,
-        "file_unique_id": "AQADuBFrGxvOIUp9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1766065688,
-    "message_id": 1671
-  },
-  {
     "caption": "👛 Платежный сервис Transak сообщил о запуске функции вывода криптовалюты TON в фиатные средства внутри кошелька Tonkeeper.",
     "caption_entities": [
       {
@@ -2916,6 +2851,90 @@
         "offset": 12,
         "type": "text_link",
         "url": "https://t.me/lalyounft/4266"
+      },
+      {
+        "length": 5,
+        "offset": 39,
+        "type": "mention"
+      },
+      {
+        "length": 5,
+        "offset": 46,
+        "type": "mention"
+      },
+      {
+        "length": 5,
+        "offset": 53,
+        "type": "mention"
+      },
+      {
+        "length": 5,
+        "offset": 60,
+        "type": "mention"
+      },
+      {
+        "length": 5,
+        "offset": 67,
+        "type": "mention"
+      },
+      {
+        "length": 5,
+        "offset": 74,
+        "type": "mention"
+      },
+      {
+        "length": 5,
+        "offset": 81,
+        "type": "mention"
+      },
+      {
+        "length": 5,
+        "offset": 88,
+        "type": "mention"
+      },
+      {
+        "length": 5,
+        "offset": 95,
+        "type": "mention"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🆔 Telegram заблокировал NFT-юзернеймы @chen, @heng, @leng, @tiao, @titi, @tong, @zcdb, @zckr, @zcgq, в результате чего владелец потерял около 45 000 TON (эквивалент $72 000) из-за сдачи активов в аренду скаммерам и хакерам.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766860952,
+    "message_id": 1710
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1766861027,
+    "entities": [
+      {
+        "custom_emoji_id": "5442635973999488769",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 12,
+        "offset": 12,
+        "type": "text_link",
+        "url": "https://t.me/vibes/2019"
       },
       {
         "length": 5,
