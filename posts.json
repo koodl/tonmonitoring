@@ -1,70 +1,5 @@
 [
   {
-    "caption": "📈 Команда поддержки Wallet объяснила трудности с продажей TONx нехваткой ликвидности на рынке, предупредив, что аналогичные проблемы могут возникать и с другими токенизированными акциями и фондами даже в рабочее время биржи.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5190741704071743060",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 28,
-        "type": "text_link",
-        "url": "https://t.me/TonGentlemens/10821"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 89,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGimlESwk-ekykfy-TlMhgOH6Bz-PYAALyFWsbG84hSs25zZfzn60JAQADAgADcwADNgQ",
-        "file_size": 918,
-        "file_unique_id": "AQAD8hVrGxvOIUp4"
-      },
-      {
-        "height": 320,
-        "width": 318,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGimlESwk-ekykfy-TlMhgOH6Bz-PYAALyFWsbG84hSs25zZfzn60JAQADAgADbQADNgQ",
-        "file_size": 9306,
-        "file_unique_id": "AQAD8hVrGxvOIUpy"
-      },
-      {
-        "height": 903,
-        "width": 898,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGimlESwk-ekykfy-TlMhgOH6Bz-PYAALyFWsbG84hSs25zZfzn60JAQADAgADeQADNgQ",
-        "file_size": 27777,
-        "file_unique_id": "AQAD8hVrGxvOIUp-"
-      },
-      {
-        "height": 800,
-        "width": 796,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGimlESwk-ekykfy-TlMhgOH6Bz-PYAALyFWsbG84hSs25zZfzn60JAQADAgADeAADNgQ",
-        "file_size": 34492,
-        "file_unique_id": "AQAD8hVrGxvOIUp9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1766083337,
-    "message_id": 1674
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2937,5 +2872,43 @@
     },
     "date": 1766924827,
     "message_id": 1711
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 40,
+        "type": "text_link",
+        "url": "https://t.me/kuznetsovton/1674"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 379 валидаторов блокчейна TON за год получают около 40,9 млн TON за обеспечение работы сети своими серверами, среди них DWF, TON Strategy с десятками пулов и другие участники.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766945574,
+    "message_id": 1712
   }
 ]
