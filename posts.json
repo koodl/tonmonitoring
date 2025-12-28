@@ -1,70 +1,5 @@
 [
   {
-    "caption": "👛 Платежный сервис Transak сообщил о запуске функции вывода криптовалюты TON в фиатные средства внутри кошелька Tonkeeper.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440610450242827721",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 28,
-        "type": "text_link",
-        "url": "https://x.com/transak/status/2001656693797851606?s=46"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 51,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGiGlEDfdNTNBmIgcpwwivz7A4svs9AAI1EmsbG84hSsY5qPdwnnwOAQADAgADcwADNgQ",
-        "file_size": 1445,
-        "file_unique_id": "AQADNRJrGxvOIUp4"
-      },
-      {
-        "height": 180,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGiGlEDfdNTNBmIgcpwwivz7A4svs9AAI1EmsbG84hSsY5qPdwnnwOAQADAgADbQADNgQ",
-        "file_size": 16636,
-        "file_unique_id": "AQADNRJrGxvOIUpy"
-      },
-      {
-        "height": 450,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGiGlEDfdNTNBmIgcpwwivz7A4svs9AAI1EmsbG84hSsY5qPdwnnwOAQADAgADeAADNgQ",
-        "file_size": 57925,
-        "file_unique_id": "AQADNRJrGxvOIUp9"
-      },
-      {
-        "height": 628,
-        "width": 1116,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGiGlEDfdNTNBmIgcpwwivz7A4svs9AAI1EmsbG84hSsY5qPdwnnwOAQADAgADeQADNgQ",
-        "file_size": 59193,
-        "file_unique_id": "AQADNRJrGxvOIUp-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1766067703,
-    "message_id": 1672
-  },
-  {
     "caption": "💎🇺🇸 Tonstakers провел эфир с US Hub Manager TON Foundation Angela Brasington, посвященный видению, миссии и влиянию TON US Hub на экосистему. Содержание видео.",
     "caption_entities": [
       {
@@ -3002,5 +2937,43 @@
     },
     "date": 1766860952,
     "message_id": 1710
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440627174845473301",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 44,
+        "type": "text_link",
+        "url": "https://t.me/pgrton/1334"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🖼 С начала 2025 года на платформу Fragment поступило 121 млн TON ($198,4 млн), из которых владельцы Telegram-каналов и ботов вывели 54,91 млн TON ($90,1 млн или 45,4%), что привело к чистому накоплению на кошельках платформы 66,09 млн TON ($108,4 млн или 54,6%).",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766924827,
+    "message_id": 1711
   }
 ]
