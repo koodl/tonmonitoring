@@ -1,43 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440479333481217835",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 15,
-        "type": "text_link",
-        "url": "https://x.com/durov/status/2001749646670963146?s=46"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "✈️ Павел Дуров сравнил намерения властей Великобритании признать разработчиков сквозного шифрования «враждебными акторами» с реализацией тоталитарного сценария фильма «V — значит вендетта».",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1766089546,
-    "message_id": 1675
-  },
-  {
     "caption": "💎 Вышел отчет по экосистеме за ноябрь 2025 от TON Foundation.",
     "caption_entities": [
       {
@@ -2910,5 +2872,49 @@
     },
     "date": 1766945574,
     "message_id": 1712
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "custom_emoji_id": "5287229346967229276",
+        "length": 2,
+        "offset": 2,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 57,
+        "type": "text_link",
+        "url": "https://x.com/zunem01/status/2004842220382224765?s=46"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "✈️🥚 Интеграция функции перевода Cocoon в iOS v12.3 beta позволила Telegram сократить затраты на переводы в 6 раз при обеспечении end-to-end шифрования, исключающего доступ третьих лиц к данным.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1766976826,
+    "message_id": 1713
   }
 ]
