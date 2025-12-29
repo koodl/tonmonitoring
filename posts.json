@@ -11,44 +11,6 @@
       },
       {
         "length": 8,
-        "offset": 47,
-        "type": "text_link",
-        "url": "https://t.me/pgrton/1332"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 Совокупный приток на централизованные биржи составил 3,6 млн TON, при этом пулы TON/USDT на децентрализованных биржах потеряли 330 тысяч USDT на фоне минимального роста активности в сети.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1766133677,
-    "message_id": 1678
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
         "offset": 20,
         "type": "text_link",
         "url": "https://t.me/anatolii_makosov/102"
@@ -2907,6 +2869,65 @@
     "group_chat_created": false,
     "link_preview_options": {
       "url": "https://t.me/notyou/1056"
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🆔 Пользователь потерял четыре коротких юзернейма Telegram (@nice, @rockstar, @wild и @dream) общей стоимостью более $500 000 в результате мошеннической сделки с участием поддельного посредника Cupid.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1767017707,
+    "message_id": 1714
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1767017753,
+    "entities": [
+      {
+        "custom_emoji_id": "5442635973999488769",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 16,
+        "type": "text_link",
+        "url": "https://t.me/notyou/1056"
+      },
+      {
+        "length": 5,
+        "offset": 60,
+        "type": "mention"
+      },
+      {
+        "length": 9,
+        "offset": 67,
+        "type": "mention"
+      },
+      {
+        "length": 5,
+        "offset": 78,
+        "type": "mention"
+      },
+      {
+        "length": 6,
+        "offset": 86,
+        "type": "mention"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
     },
     "sender_chat": {
       "id": -1002662123418,
