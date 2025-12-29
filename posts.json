@@ -1,55 +1,5 @@
 [
   {
-    "caption": "💎 Вышел отчет по экосистеме за ноябрь 2025 от TON Foundation.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "document": {
-      "file_name": "2025-11.pdf",
-      "mime_type": "application/pdf",
-      "thumbnail": {
-        "height": 320,
-        "width": 226,
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgaMaUSyL7DGrVFP_naRCrGPs0c8feEAArWIAAIbzilKmRND3zOjv18BAAdtAAM2BA",
-        "file_size": 8120,
-        "file_unique_id": "AQADtYgAAhvOKUpy"
-      },
-      "file_id": "BQACAgIAAyEFAASerMeaAAIGjGlEsi-wxq1RT_52kQqxj7NHPH3hAAK1iAACG84pSpkTQ98zo79fNgQ",
-      "file_size": 11849609,
-      "file_unique_id": "AgADtYgAAhvOKUo",
-      "thumb": {
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgaMaUSyL7DGrVFP_naRCrGPs0c8feEAArWIAAIbzilKmRND3zOjv18BAAdtAAM2BA",
-        "file_unique_id": "AQADtYgAAhvOKUpy",
-        "file_size": 8120,
-        "width": 226,
-        "height": 320
-      }
-    },
-    "group_chat_created": false,
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1766109743,
-    "message_id": 1676
-  },
-  {
     "caption": "💎 В ноябре на TON Builders Portal зарегистрировалось 166 новых проектов, 73 из которых получили маркетинговую поддержку от TON Foundation, а 6 команд успешно завершили программу TON Nest.",
     "caption_entities": [
       {
@@ -2916,5 +2866,63 @@
     },
     "date": 1766976826,
     "message_id": 1713
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5442635973999488769",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 16,
+        "type": "text_link",
+        "url": "https://t.me/notyou/1056"
+      },
+      {
+        "length": 5,
+        "offset": 60,
+        "type": "mention"
+      },
+      {
+        "length": 9,
+        "offset": 67,
+        "type": "mention"
+      },
+      {
+        "length": 5,
+        "offset": 78,
+        "type": "mention"
+      },
+      {
+        "length": 6,
+        "offset": 86,
+        "type": "mention"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🆔 Пользователь потерял четыре коротких юзернейма Telegram (@nice, @rockstar, @wild и @dream) общей стоимостью более $500 000 в результате мошеннической сделки с участием поддельного посредника под псевдонимом Cupid.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1767017707,
+    "message_id": 1714
   }
 ]
