@@ -2,44 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5443047436161413892",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 12,
-        "type": "text_link",
-        "url": "https://t.me/toncore/97"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "⚙️ TON Core выпустила обновление ноды версии 2025.12, в котором по умолчанию активированы технологии CellDB 2.0 и Fast State Serializer, а также внедрена параллелизация движка валидатора.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1766152169,
-    "message_id": 1682
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1766154610,
     "entities": [
       {
@@ -2984,5 +2946,64 @@
     },
     "date": 1767203527,
     "message_id": 1718
+  },
+  {
+    "caption": "🗞 С Новым 2026 годом, дорогие подписчики TON Monitoring!\n\nЖелаю вам всего наилучшего: крепкого здоровья, финансового благополучия и, конечно, взрывного роста экосистемы TON.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5265112348451960063",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 64,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGt2lVjtNqQ0tRFH2LqDh3JfBLJPitAAIrFWsbnoOoShT4oPtqTkaeAQADAgADcwADOAQ",
+        "file_size": 2021,
+        "file_unique_id": "AQADKxVrG56DqEp4"
+      },
+      {
+        "height": 320,
+        "width": 226,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGt2lVjtNqQ0tRFH2LqDh3JfBLJPitAAIrFWsbnoOoShT4oPtqTkaeAQADAgADbQADOAQ",
+        "file_size": 36095,
+        "file_unique_id": "AQADKxVrG56DqEpy"
+      },
+      {
+        "height": 800,
+        "width": 566,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGt2lVjtNqQ0tRFH2LqDh3JfBLJPitAAIrFWsbnoOoShT4oPtqTkaeAQADAgADeAADOAQ",
+        "file_size": 155585,
+        "file_unique_id": "AQADKxVrG56DqEp9"
+      },
+      {
+        "height": 1280,
+        "width": 906,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGt2lVjtNqQ0tRFH2LqDh3JfBLJPitAAIrFWsbnoOoShT4oPtqTkaeAQADAgADeQADOAQ",
+        "file_size": 205944,
+        "file_unique_id": "AQADKxVrG56DqEp-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1767214803,
+    "message_id": 1719
   }
 ]
