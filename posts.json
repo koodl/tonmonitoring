@@ -4,44 +4,6 @@
     "delete_chat_photo": false,
     "entities": [
       {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 20,
-        "type": "text_link",
-        "url": "https://t.me/anatolii_makosov/103"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 Анатолий Макосов сообщил, что команда TON сосредоточена на обновлении блокчейна для ускорения операций до менее одной секунды, параллельно обеспечивая поддержку интеграций с Gemini, Coinbase и Chainlink.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1766152112,
-    "message_id": 1681
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
         "custom_emoji_id": "5443047436161413892",
         "length": 2,
         "offset": 0,
@@ -2964,5 +2926,63 @@
     },
     "date": 1767193338,
     "message_id": 1717
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 23,
+        "type": "mention"
+      },
+      {
+        "length": 11,
+        "offset": 38,
+        "type": "text_link",
+        "url": "https://t.me/katantdev/57"
+      },
+      {
+        "length": 7,
+        "offset": 84,
+        "type": "mention"
+      },
+      {
+        "length": 6,
+        "offset": 119,
+        "type": "mention"
+      },
+      {
+        "length": 7,
+        "offset": 201,
+        "type": "url"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "✈️ Разработчик Notmeme @katant подвел итоги года, сообщив о росте аудитории сервиса @sounds до 4,3 млн пользователей и @clips до 750 тысяч человек, а также о внедрении модерации на базе ИИ в платформу auto.ae.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1767203527,
+    "message_id": 1718
   }
 ]
