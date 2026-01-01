@@ -1,71 +1,5 @@
 [
   {
-    "caption": "👛 Команда MyTonWallet выпустила обновление v4.5, в котором появился график изменения стоимости портфеля (Net Worth) и новые функции для мобильной версии Air.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5442808395461583047",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 23,
-        "type": "text_link",
-        "url": "https://mytonwallet.io/ru/blog/v4.5-net-worth-chart-new-features-in-air/"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1766154618,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGkGlFVv4RWo1u7UETVNJEsCFlOZKRAALCEWsbG84pSoIF7BkfGy3ZAQADAgADcwADNgQ",
-        "file_size": 1510,
-        "file_unique_id": "AQADwhFrGxvOKUp4"
-      },
-      {
-        "height": 320,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGkGlFVv4RWo1u7UETVNJEsCFlOZKRAALCEWsbG84pSoIF7BkfGy3ZAQADAgADbQADNgQ",
-        "file_size": 18450,
-        "file_unique_id": "AQADwhFrGxvOKUpy"
-      },
-      {
-        "height": 800,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGkGlFVv4RWo1u7UETVNJEsCFlOZKRAALCEWsbG84pSoIF7BkfGy3ZAQADAgADeAADNgQ",
-        "file_size": 68968,
-        "file_unique_id": "AQADwhFrGxvOKUp9"
-      },
-      {
-        "height": 1280,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGkGlFVv4RWo1u7UETVNJEsCFlOZKRAALCEWsbG84pSoIF7BkfGy3ZAQADAgADeQADNgQ",
-        "file_size": 81573,
-        "file_unique_id": "AQADwhFrGxvOKUp-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1766151934,
-    "message_id": 1680
-  },
-  {
     "caption": "🎁 Минимальная цена подарков на внутреннем рынке перепродажи Telegram при выставлении в TON теперь составляет 7 TON, сообщает @telelakel",
     "caption_entities": [
       {
@@ -3004,5 +2938,43 @@
     },
     "date": 1767231051,
     "message_id": 1720
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5314597028901190799",
+        "length": 3,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 26,
+        "type": "text_link",
+        "url": "https://www.sec.gov/Archives/edgar/data/1095435/000117184325008135/f6k_123125.htm"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🅰️ AlphaTON Capital Corp заключила мировое соглашение с DWF MaaS Limited, в рамках которого выкупит ценные бумаги на сумму 15 млн долларов и прекратит действие договора по управлению TON-трезори.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1767231074,
+    "message_id": 1721
   }
 ]
