@@ -2,56 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5265112348451960063",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 12,
-        "offset": 11,
-        "type": "text_link",
-        "url": "https://t.me/tonmonitoring/1631"
-      },
-      {
-        "custom_emoji_id": "5440764055453200867",
-        "length": 2,
-        "offset": 42,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 45,
-        "type": "text_link",
-        "url": "https://t.me/tonmonitoring/8"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🗞 Новости 51ой недели.\n\nСпонсоры недели:\n⭐️ Донатеры\nСпасибо за вашу поддержку!",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1766283864,
-    "message_id": 1685
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1766325561,
     "entities": [
       {
@@ -2929,5 +2879,64 @@
     },
     "date": 1767363925,
     "message_id": 1724
+  },
+  {
+    "caption": "💎 С конца 2025 года по 2 января 2026 года цена TON выросла приблизительно на 11%, с $1,69 до $1,88.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 85,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGvmlYAoxdQnwnp8TIg7t-J5RvkZ2kAAJxDGsbwXPASuOMAf2YyPsMAQADAgADcwADOAQ",
+        "file_size": 1136,
+        "file_unique_id": "AQADcQxrG8FzwEp4"
+      },
+      {
+        "height": 320,
+        "width": 304,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGvmlYAoxdQnwnp8TIg7t-J5RvkZ2kAAJxDGsbwXPASuOMAf2YyPsMAQADAgADbQADOAQ",
+        "file_size": 12945,
+        "file_unique_id": "AQADcQxrG8FzwEpy"
+      },
+      {
+        "height": 800,
+        "width": 760,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGvmlYAoxdQnwnp8TIg7t-J5RvkZ2kAAJxDGsbwXPASuOMAf2YyPsMAQADAgADeAADOAQ",
+        "file_size": 46055,
+        "file_unique_id": "AQADcQxrG8FzwEp9"
+      },
+      {
+        "height": 1114,
+        "width": 1058,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGvmlYAoxdQnwnp8TIg7t-J5RvkZ2kAAJxDGsbwXPASuOMAf2YyPsMAQADAgADeQADOAQ",
+        "file_size": 46995,
+        "file_unique_id": "AQADcQxrG8FzwEp-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1767375500,
+    "message_id": 1726
   }
 ]
