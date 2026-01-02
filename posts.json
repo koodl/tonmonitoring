@@ -1,70 +1,5 @@
 [
   {
-    "caption": "🦴 Проект DOGS направил более $500 000 в благотворительные фонды Best Friends, Animal Charity Evaluators, Save an Orphan и другие для помощи животным и детям.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5442695223073344113",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 15,
-        "type": "text_link",
-        "url": "https://t.me/dogshouse_bot"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 49,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGlGlGmDW9ws0ZGSaMQlITi-3DmZWcAAKqD2sb6bExSqCDcmisW9ndAQADAgADcwADNgQ",
-        "file_size": 1481,
-        "file_unique_id": "AQADqg9rG-mxMUp4"
-      },
-      {
-        "height": 320,
-        "width": 175,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGlGlGmDW9ws0ZGSaMQlITi-3DmZWcAAKqD2sb6bExSqCDcmisW9ndAQADAgADbQADNgQ",
-        "file_size": 19754,
-        "file_unique_id": "AQADqg9rG-mxMUpy"
-      },
-      {
-        "height": 800,
-        "width": 437,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGlGlGmDW9ws0ZGSaMQlITi-3DmZWcAAKqD2sb6bExSqCDcmisW9ndAQADAgADeAADNgQ",
-        "file_size": 86732,
-        "file_unique_id": "AQADqg9rG-mxMUp9"
-      },
-      {
-        "height": 1280,
-        "width": 699,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGlGlGmDW9ws0ZGSaMQlITi-3DmZWcAAKqD2sb6bExSqCDcmisW9ndAQADAgADeQADNgQ",
-        "file_size": 117678,
-        "file_unique_id": "AQADqg9rG-mxMUp-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1766234165,
-    "message_id": 1684
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2929,5 +2864,70 @@
     },
     "date": 1767359898,
     "message_id": 1723
+  },
+  {
+    "caption": "💎 Cryptodiffer опубликовал рейтинг топ-блокчейнов по количеству транзакций за 2025 год, где Solana лидирует с 121 млрд транзакций, BNB Chain занимает второе место с 5,6 млрд, Tron — третье с 3,2 млрд, а TON — девятое с 839 млн транзакций.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 11,
+        "offset": 16,
+        "type": "text_link",
+        "url": "https://x.com/cryptodiffer/status/2006916967438102570?s=12"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 76,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGvGlX1VX0EgvScOpVauxecdoYyHBxAAIxEWsbwXO4ShJLSs6wRXOxAQADAgADcwADOAQ",
+        "file_size": 1498,
+        "file_unique_id": "AQADMRFrG8FzuEp4"
+      },
+      {
+        "height": 270,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGvGlX1VX0EgvScOpVauxecdoYyHBxAAIxEWsbwXO4ShJLSs6wRXOxAQADAgADbQADOAQ",
+        "file_size": 23029,
+        "file_unique_id": "AQADMRFrG8FzuEpy"
+      },
+      {
+        "height": 676,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGvGlX1VX0EgvScOpVauxecdoYyHBxAAIxEWsbwXO4ShJLSs6wRXOxAQADAgADeAADOAQ",
+        "file_size": 92925,
+        "file_unique_id": "AQADMRFrG8FzuEp9"
+      },
+      {
+        "height": 1081,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGvGlX1VX0EgvScOpVauxecdoYyHBxAAIxEWsbwXO4ShJLSs6wRXOxAQADAgADeQADOAQ",
+        "file_size": 119287,
+        "file_unique_id": "AQADMRFrG8FzuEp-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1767363925,
+    "message_id": 1724
   }
 ]
