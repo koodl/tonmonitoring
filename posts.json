@@ -1,56 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1766325561,
-    "entities": [
-      {
-        "custom_emoji_id": "5265112348451960063",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 12,
-        "offset": 11,
-        "type": "text_link",
-        "url": "https://t.me/tonmonitoring/1631"
-      },
-      {
-        "custom_emoji_id": "5440764055453200867",
-        "length": 2,
-        "offset": 42,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 45,
-        "type": "text_link",
-        "url": "https://t.me/tonmonitoring/8"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🗞 Новости 51ой недели.\n\nСпонсоры недели:\n⭐️ Донатеры\nСпасибо за вашу поддержку!",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1766283864,
-    "message_id": 1685
-  },
-  {
     "caption": "📦 Команда Sticker Pack отмечает первую годовщину проекта, в рамках которого было выпущено 173 стикерпака из 42 коллекций и привлечено внимание известных IP-брендов к экосистеме Telegram.",
     "caption_entities": [
       {
@@ -2938,5 +2887,76 @@
     },
     "date": 1767375500,
     "message_id": 1726
+  },
+  {
+    "caption": "🦴 В первом тизере официального канала Pixel World появилось изображение, намекающее на интеграцию DOGS и Not Pixel Stickers в Pixel World.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5442695223073344113",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 6,
+        "offset": 12,
+        "type": "text_link",
+        "url": "https://t.me/pixelworld_community/12"
+      },
+      {
+        "length": 9,
+        "offset": 51,
+        "type": "text_link",
+        "url": "https://t.me/zoned/608"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 67,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGv2lZFalNU1ppOvjNocw6yPTZgqxUAAIWDWsbwXPISoL6CwJsb5mfAQADAgADcwADOAQ",
+        "file_size": 1572,
+        "file_unique_id": "AQADFg1rG8FzyEp4"
+      },
+      {
+        "height": 240,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGv2lZFalNU1ppOvjNocw6yPTZgqxUAAIWDWsbwXPISoL6CwJsb5mfAQADAgADbQADOAQ",
+        "file_size": 18393,
+        "file_unique_id": "AQADFg1rG8FzyEpy"
+      },
+      {
+        "height": 823,
+        "width": 1095,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGv2lZFalNU1ppOvjNocw6yPTZgqxUAAIWDWsbwXPISoL6CwJsb5mfAQADAgADeQADOAQ",
+        "file_size": 71855,
+        "file_unique_id": "AQADFg1rG8FzyEp-"
+      },
+      {
+        "height": 601,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGv2lZFalNU1ppOvjNocw6yPTZgqxUAAIWDWsbwXPISoL6CwJsb5mfAQADAgADeAADOAQ",
+        "file_size": 73328,
+        "file_unique_id": "AQADFg1rG8FzyEp9"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1767445929,
+    "message_id": 1727
   }
 ]
