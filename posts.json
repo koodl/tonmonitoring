@@ -1,43 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5238004177031953682",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 53,
-        "type": "text_link",
-        "url": "https://www.marketscreener.com/news/ton-strategy-company-nasdaqcm-tonx-dropped-from-s-p-software-services-select-industry-index-ce7d50d2db8efe27"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 Компания TON Strategy Company (NASDAQ: TONX) была исключена из индекса S&P Software & Services Select Industry Index.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1766368275,
-    "message_id": 1688
-  },
-  {
     "caption": "⭐️ Канал @telelakel сообщил о запуске официального бота поддержки @tgpb_support_bot для решения вопросов, связанных с подписками Telegram Premium и функционалом @PremiumBot .",
     "caption_entities": [
       {
@@ -2868,6 +2830,72 @@
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "edit_date": 1767459462,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 59,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGwWlZSnSitORwb4J8iz7X5g_-vbfIAAJ6D2sbwXPISl4eEnOwWr6SAQADAgADcwADOAQ",
+        "file_size": 1945,
+        "file_unique_id": "AQADeg9rG8FzyEp4"
+      },
+      {
+        "height": 209,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGwWlZSnSitORwb4J8iz7X5g_-vbfIAAJ6D2sbwXPISl4eEnOwWr6SAQADAgADbQADOAQ",
+        "file_size": 29695,
+        "file_unique_id": "AQADeg9rG8FzyEpy"
+      },
+      {
+        "height": 523,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGwWlZSnSitORwb4J8iz7X5g_-vbfIAAJ6D2sbwXPISl4eEnOwWr6SAQADAgADeAADOAQ",
+        "file_size": 125154,
+        "file_unique_id": "AQADeg9rG8FzyEp9"
+      },
+      {
+        "height": 785,
+        "width": 1200,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGwWlZSnSitORwb4J8iz7X5g_-vbfIAAJ6D2sbwXPISl4eEnOwWr6SAQADAgADeQADOAQ",
+        "file_size": 145755,
+        "file_unique_id": "AQADeg9rG8FzyEp-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1767459444,
+    "message_id": 1729
+  },
+  {
+    "caption": "✈️ Telegram в официальном блоге объявил о запуске нового дизайна приложения и функции AI-саммари для контента в каналах.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 32,
+        "type": "text_link",
+        "url": "https://telegram.org/blog/new-design-ai-summaries/ru"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1767459525,
     "group_chat_created": false,
     "photo": [
       {
