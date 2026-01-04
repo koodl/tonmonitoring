@@ -1,64 +1,5 @@
 [
   {
-    "caption": "💎 Издание CoinTelegraph со ссылкой на данные Artemis сообщило, что за последние 24 часа сеть TON лидирует по притоку стейблкоинов с показателем $500,6 млн.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 57,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGmmlJL5ke7OUl9cF1fFYeXmawGWPfAALxC2sbxF1QSrzIcGHpKdlXAQADAgADcwADNgQ",
-        "file_size": 1049,
-        "file_unique_id": "AQAD8QtrG8RdUEp4"
-      },
-      {
-        "height": 320,
-        "width": 201,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGmmlJL5ke7OUl9cF1fFYeXmawGWPfAALxC2sbxF1QSrzIcGHpKdlXAQADAgADbQADNgQ",
-        "file_size": 13874,
-        "file_unique_id": "AQAD8QtrG8RdUEpy"
-      },
-      {
-        "height": 800,
-        "width": 502,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGmmlJL5ke7OUl9cF1fFYeXmawGWPfAALxC2sbxF1QSrzIcGHpKdlXAQADAgADeAADNgQ",
-        "file_size": 52937,
-        "file_unique_id": "AQAD8QtrG8RdUEp9"
-      },
-      {
-        "height": 1280,
-        "width": 804,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGmmlJL5ke7OUl9cF1fFYeXmawGWPfAALxC2sbxF1QSrzIcGHpKdlXAQADAgADeQADNgQ",
-        "file_size": 69036,
-        "file_unique_id": "AQAD8QtrG8RdUEp-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1766403993,
-    "message_id": 1690
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2932,5 +2873,58 @@
     },
     "date": 1767529086,
     "message_id": 1730
+  },
+  {
+    "caption": "🗞 Криптаны и 2026 год.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5265112348451960063",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "video": {
+      "file_name": "IMG_5764.MP4",
+      "height": 848,
+      "mime_type": "video/mp4",
+      "width": 464,
+      "thumbnail": {
+        "height": 320,
+        "width": 180,
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgbDaVq5AAHXdb0oNbXkfPLQw0M19rTBAALclQACCGjYSg_bj58dBIZzAQAHbQADOAQ",
+        "file_size": 10827,
+        "file_unique_id": "AQAD3JUAAgho2Epy"
+      },
+      "file_id": "BAACAgIAAyEFAASerMeaAAIGw2lauQAB13W9KDW15Hzy0MNDNfa0wQAC3JUAAgho2EoP24-fHQSGczgE",
+      "file_size": 23867124,
+      "file_unique_id": "AgAD3JUAAgho2Eo",
+      "duration": 65,
+      "thumb": {
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgbDaVq5AAHXdb0oNbXkfPLQw0M19rTBAALclQACCGjYSg_bj58dBIZzAQAHbQADOAQ",
+        "file_unique_id": "AQAD3JUAAgho2Epy",
+        "file_size": 10827,
+        "width": 180,
+        "height": 320
+      }
+    },
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1767553280,
+    "message_id": 1731
   }
 ]
