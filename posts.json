@@ -1,80 +1,5 @@
 [
   {
-    "caption": "⭐️ Канал @telelakel сообщил о запуске официального бота поддержки @tgpb_support_bot для решения вопросов, связанных с подписками Telegram Premium и функционалом @PremiumBot .",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440764055453200867",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 10,
-        "offset": 9,
-        "type": "text_link",
-        "url": "https://t.me/telelakel/763"
-      },
-      {
-        "length": 17,
-        "offset": 66,
-        "type": "mention"
-      },
-      {
-        "length": 11,
-        "offset": 161,
-        "type": "mention"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 49,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGmWlJKkfXR9tMMpLHfnz6xmYnAAHaTgACtgtrG8RdUEq1XCp8Akd_RAEAAwIAA3MAAzYE",
-        "file_size": 910,
-        "file_unique_id": "AQADtgtrG8RdUEp4"
-      },
-      {
-        "height": 176,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGmWlJKkfXR9tMMpLHfnz6xmYnAAHaTgACtgtrG8RdUEq1XCp8Akd_RAEAAwIAA20AAzYE",
-        "file_size": 6973,
-        "file_unique_id": "AQADtgtrG8RdUEpy"
-      },
-      {
-        "height": 440,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGmWlJKkfXR9tMMpLHfnz6xmYnAAHaTgACtgtrG8RdUEq1XCp8Akd_RAEAAwIAA3gAAzYE",
-        "file_size": 21386,
-        "file_unique_id": "AQADtgtrG8RdUEp9"
-      },
-      {
-        "height": 644,
-        "width": 1170,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGmWlJKkfXR9tMMpLHfnz6xmYnAAHaTgACtgtrG8RdUEq1XCp8Akd_RAEAAwIAA3kAAzYE",
-        "file_size": 23548,
-        "file_unique_id": "AQADtgtrG8RdUEp-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1766402631,
-    "message_id": 1689
-  },
-  {
     "caption": "💎 Издание CoinTelegraph со ссылкой на данные Artemis сообщило, что за последние 24 часа сеть TON лидирует по притоку стейблкоинов с показателем $500,6 млн.",
     "caption_entities": [
       {
@@ -2942,5 +2867,70 @@
     },
     "date": 1767459444,
     "message_id": 1729
+  },
+  {
+    "caption": "✈️ В бета-версии Telegram обнаружена функция Emoji Stake — аналог казино, где пользователи делают ставки в TON и подбрасывают кубик.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 10,
+        "offset": 26,
+        "type": "text_link",
+        "url": "https://kod.ru/telegram-casino"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 62,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGwmlaWn0WNjBJiLlot4Mne4j6L1XXAAJDDmsbCGjYSu4KKPYQqmLUAQADAgADcwADOAQ",
+        "file_size": 1171,
+        "file_unique_id": "AQADQw5rGwho2Ep4"
+      },
+      {
+        "height": 219,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGwmlaWn0WNjBJiLlot4Mne4j6L1XXAAJDDmsbCGjYSu4KKPYQqmLUAQADAgADbQADOAQ",
+        "file_size": 9732,
+        "file_unique_id": "AQADQw5rGwho2Epy"
+      },
+      {
+        "height": 547,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGwmlaWn0WNjBJiLlot4Mne4j6L1XXAAJDDmsbCGjYSu4KKPYQqmLUAQADAgADeAADOAQ",
+        "file_size": 32188,
+        "file_unique_id": "AQADQw5rGwho2Ep9"
+      },
+      {
+        "height": 876,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGwmlaWn0WNjBJiLlot4Mne4j6L1XXAAJDDmsbCGjYSu4KKPYQqmLUAQADAgADeQADOAQ",
+        "file_size": 39707,
+        "file_unique_id": "AQADQw5rGwho2Ep-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1767529086,
+    "message_id": 1730
   }
 ]
