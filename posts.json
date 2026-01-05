@@ -1,70 +1,5 @@
 [
   {
-    "caption": "🦴 DOGS запустили собственный маркетплейс, предназначенный исключительно для торговли стикерами из одноименной коллекции.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5442695223073344113",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 8,
-        "type": "text_link",
-        "url": "https://t.me/BullishSticker/399"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGnWlKiXl9N8n6F1iWffsnmGz_jbmnAAKLD2sb2_9YSq74p_nva2W6AQADAgADcwADNgQ",
-        "file_size": 1556,
-        "file_unique_id": "AQADiw9rG9v_WEp4"
-      },
-      {
-        "height": 320,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGnWlKiXl9N8n6F1iWffsnmGz_jbmnAAKLD2sb2_9YSq74p_nva2W6AQADAgADbQADNgQ",
-        "file_size": 20726,
-        "file_unique_id": "AQADiw9rG9v_WEpy"
-      },
-      {
-        "height": 800,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGnWlKiXl9N8n6F1iWffsnmGz_jbmnAAKLD2sb2_9YSq74p_nva2W6AQADAgADeAADNgQ",
-        "file_size": 78165,
-        "file_unique_id": "AQADiw9rG9v_WEp9"
-      },
-      {
-        "height": 1280,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGnWlKiXl9N8n6F1iWffsnmGz_jbmnAAKLD2sb2_9YSq74p_nva2W6AQADAgADeQADNgQ",
-        "file_size": 98119,
-        "file_unique_id": "AQADiw9rG9v_WEp-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1766492537,
-    "message_id": 1693
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2942,5 +2877,70 @@
     },
     "date": 1767563043,
     "message_id": 1732
+  },
+  {
+    "caption": "💎 Андрей Грачев: «Думаю, мы достаточно отдохнули, это должно активизировать рынок.\nНаслаждайтесь!»",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 14,
+        "offset": 3,
+        "type": "text_link",
+        "url": "https://x.com/ag_dwf/status/2008137462061711396?s=46"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 72,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGxWlboXSaodmG8xQOykVvha5dKmX9AAJKDmsbCGjgSonk42nVOHqdAQADAgADcwADOAQ",
+        "file_size": 1334,
+        "file_unique_id": "AQADSg5rGwho4Ep4"
+      },
+      {
+        "height": 256,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGxWlboXSaodmG8xQOykVvha5dKmX9AAJKDmsbCGjgSonk42nVOHqdAQADAgADbQADOAQ",
+        "file_size": 17602,
+        "file_unique_id": "AQADSg5rGwho4Epy"
+      },
+      {
+        "height": 641,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGxWlboXSaodmG8xQOykVvha5dKmX9AAJKDmsbCGjgSonk42nVOHqdAQADAgADeAADOAQ",
+        "file_size": 66198,
+        "file_unique_id": "AQADSg5rGwho4Ep9"
+      },
+      {
+        "height": 937,
+        "width": 1170,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGxWlboXSaodmG8xQOykVvha5dKmX9AAJKDmsbCGjgSonk42nVOHqdAQADAgADeQADOAQ",
+        "file_size": 73738,
+        "file_unique_id": "AQADSg5rGwho4Ep-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1767612788,
+    "message_id": 1733
   }
 ]
