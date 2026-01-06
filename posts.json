@@ -1,113 +1,5 @@
 [
   {
-    "caption": "📦 Статистика Sticker Pack\n\n🔽41 / 173 — стикерпаков в плюсе\n🔽4.8M / 25М $ — капитализация\n🔽150k / 2.5M — активных юзеров",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5449670138292894907",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 10,
-        "offset": 3,
-        "type": "text_link",
-        "url": "https://t.me/stickernews/571"
-      },
-      {
-        "length": 95,
-        "offset": 28,
-        "type": "blockquote"
-      },
-      {
-        "custom_emoji_id": "5875008416132370818",
-        "length": 2,
-        "offset": 28,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 2,
-        "offset": 30,
-        "type": "bold"
-      },
-      {
-        "length": 5,
-        "offset": 33,
-        "type": "bold"
-      },
-      {
-        "custom_emoji_id": "5875008416132370818",
-        "length": 2,
-        "offset": 61,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 12,
-        "offset": 63,
-        "type": "bold"
-      },
-      {
-        "custom_emoji_id": "5875008416132370818",
-        "length": 2,
-        "offset": 92,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 14,
-        "offset": 94,
-        "type": "bold"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 58,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGo2lL2ljLJSlhEi6DOW4rVgeSec0eAALcDWsbj6RhSsEaYW1OsskuAQADAgADcwADNgQ",
-        "file_size": 1634,
-        "file_unique_id": "AQAD3A1rG4-kYUp4"
-      },
-      {
-        "height": 208,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGo2lL2ljLJSlhEi6DOW4rVgeSec0eAALcDWsbj6RhSsEaYW1OsskuAQADAgADbQADNgQ",
-        "file_size": 21297,
-        "file_unique_id": "AQAD3A1rG4-kYUpy"
-      },
-      {
-        "height": 521,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGo2lL2ljLJSlhEi6DOW4rVgeSec0eAALcDWsbj6RhSsEaYW1OsskuAQADAgADeAADNgQ",
-        "file_size": 79289,
-        "file_unique_id": "AQAD3A1rG4-kYUp9"
-      },
-      {
-        "height": 833,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGo2lL2ljLJSlhEi6DOW4rVgeSec0eAALcDWsbj6RhSsEaYW1OsskuAQADAgADeQADNgQ",
-        "file_size": 91588,
-        "file_unique_id": "AQAD3A1rG4-kYUp-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1766578776,
-    "message_id": 1699
-  },
-  {
     "caption": "💎 ton.website позволяет получать доступ к сайтам .ton напрямую в браузере без дополнительной настройки.",
     "caption_entities": [
       {
@@ -2990,5 +2882,70 @@
     },
     "date": 1767711084,
     "message_id": 1738
+  },
+  {
+    "caption": "🐧 Pudgy Penguins позиционируются как крупный бренд с долгосрочной стратегией развития и планами на горизонте 10–30 лет.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5353060183318753720",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 15,
+        "offset": 18,
+        "type": "text_link",
+        "url": "https://t.me/tg_people/3979"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 60,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGy2ldKKU3mlfH_SEsJf1QhsSumO4AA78PaxtcfelKZfAP9I3oupkBAAMCAANzAAM4BA",
+        "file_size": 1639,
+        "file_unique_id": "AQADvw9rG1x96Up4"
+      },
+      {
+        "height": 320,
+        "width": 213,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGy2ldKKU3mlfH_SEsJf1QhsSumO4AA78PaxtcfelKZfAP9I3oupkBAAMCAANtAAM4BA",
+        "file_size": 27018,
+        "file_unique_id": "AQADvw9rG1x96Upy"
+      },
+      {
+        "height": 800,
+        "width": 533,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGy2ldKKU3mlfH_SEsJf1QhsSumO4AA78PaxtcfelKZfAP9I3oupkBAAMCAAN4AAM4BA",
+        "file_size": 124094,
+        "file_unique_id": "AQADvw9rG1x96Up9"
+      },
+      {
+        "height": 1280,
+        "width": 853,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGy2ldKKU3mlfH_SEsJf1QhsSumO4AA78PaxtcfelKZfAP9I3oupkBAAMCAAN5AAM4BA",
+        "file_size": 168359,
+        "file_unique_id": "AQADvw9rG1x96Up-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1767712933,
+    "message_id": 1739
   }
 ]
