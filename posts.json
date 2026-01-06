@@ -1,43 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5287229346967229276",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 9,
-        "type": "text_link",
-        "url": "https://t.me/ghwnd/1580"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🥚 ghwnd сообщил, что в сети Cocoon активно фармят токены TON четыре участника с 19 воркерами, при этом лидер рейтинга уже заработал 16 тысяч TON и вывел их на биржу Bitget.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1766514356,
-    "message_id": 1697
-  },
-  {
     "caption": "👑 CEO TON Foundation Max Crown приобрел юзернейм @Robinhood за 37 800 TON, что принесло продавцу прибыль более чем в 37 раз за три года владения.",
     "caption_entities": [
       {
@@ -2968,5 +2930,70 @@
     },
     "date": 1767707461,
     "message_id": 1736
+  },
+  {
+    "caption": "🥇 Tether сообщила, что запустила Scudo — новый расчетный юнит для токена Tether Gold (XAU₮), равный одной тысячной тройской унции золота, призванный упростить повседневные расчеты в «цифровом золоте» и сделать дробное владение им более удобным.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5325733269214360857",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 10,
+        "type": "text_link",
+        "url": "https://tether.io/news/tether-introduces-scudo-redefining-fractional-gold-ownership-onchain/"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 84,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGyWldF6S42f_Nfr5CRc3Hg-p-WGH1AAIhD2sbXH3pStD6XXl1FZF4AQADAgADcwADOAQ",
+        "file_size": 1944,
+        "file_unique_id": "AQADIQ9rG1x96Up4"
+      },
+      {
+        "height": 320,
+        "width": 300,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGyWldF6S42f_Nfr5CRc3Hg-p-WGH1AAIhD2sbXH3pStD6XXl1FZF4AQADAgADbQADOAQ",
+        "file_size": 27483,
+        "file_unique_id": "AQADIQ9rG1x96Upy"
+      },
+      {
+        "height": 800,
+        "width": 749,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGyWldF6S42f_Nfr5CRc3Hg-p-WGH1AAIhD2sbXH3pStD6XXl1FZF4AQADAgADeAADOAQ",
+        "file_size": 104958,
+        "file_unique_id": "AQADIQ9rG1x96Up9"
+      },
+      {
+        "height": 1250,
+        "width": 1170,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGyWldF6S42f_Nfr5CRc3Hg-p-WGH1AAIhD2sbXH3pStD6XXl1FZF4AQADAgADeQADOAQ",
+        "file_size": 127078,
+        "file_unique_id": "AQADIQ9rG1x96Up-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1767708580,
+    "message_id": 1737
   }
 ]
