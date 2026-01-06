@@ -1,48 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 11,
-        "offset": 3,
-        "type": "url"
-      },
-      {
-        "length": 6,
-        "offset": 25,
-        "type": "text_link",
-        "url": "https://web3.career/web3-companies/ton-foundation/salary?utm_source=tonmonitoring"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 web3.career публикует данные о зарплатах сотрудников TON Foundation (как оценочные на основе аналогичных вакансий), где средние годовые оклады варьируются от $18,000 для копирайтера до $201,000 для AI-разработчика.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1766589738,
-    "message_id": 1701
-  },
-  {
     "caption": "✈️ Павел Дуров заявил, что архитектор закона ЕС о цензуре, является близким союзником и назначенцем Макрона, который стремится заглушить онлайн-критиков с помощью DSA и Chat Control на фоне низкого рейтинга одобрения.",
     "caption_entities": [
       {
@@ -2926,5 +2883,48 @@
     },
     "date": 1767720854,
     "message_id": 1740
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5202211379875972809",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 16,
+        "type": "text_link",
+        "url": "https://x.com/manuelstotz/status/2008610068820803759?s=12"
+      },
+      {
+        "length": 4,
+        "offset": 58,
+        "type": "cashtag"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 Manuel Stotz заявил, что все проданные Telegram токены $TON имеют четырехлетний вестинг, крупнейшим их покупателем стал TON Strategy (NASDAQ: TONX) как долгосрочный держатель, совокупные TON‑резервы Telegram с декабря 2024 по декабрь 2025 в монетах вряд ли снизились, а в 2026 году Павел Дуров и Telegram намерены усиливать интеграцию и развитие экосистемы TON.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1767725330,
+    "message_id": 1741
   }
 ]
