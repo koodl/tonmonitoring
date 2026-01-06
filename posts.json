@@ -1,75 +1,5 @@
 [
   {
-    "caption": "👑 CEO TON Foundation Max Crown приобрел юзернейм @Robinhood за 37 800 TON, что принесло продавцу прибыль более чем в 37 раз за три года владения.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5213102712563986569",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 32,
-        "type": "text_link",
-        "url": "https://t.me/heritage/776"
-      },
-      {
-        "length": 10,
-        "offset": 50,
-        "type": "mention"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 51,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGomlLJ5rRSX9pcvsmZCHIqCWlLLqnAAKqC2sb2_9gSmH6yGLKlhsRAQADAgADcwADNgQ",
-        "file_size": 978,
-        "file_unique_id": "AQADqgtrG9v_YEp4"
-      },
-      {
-        "height": 180,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGomlLJ5rRSX9pcvsmZCHIqCWlLLqnAAKqC2sb2_9gSmH6yGLKlhsRAQADAgADbQADNgQ",
-        "file_size": 10739,
-        "file_unique_id": "AQADqgtrG9v_YEpy"
-      },
-      {
-        "height": 450,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGomlLJ5rRSX9pcvsmZCHIqCWlLLqnAAKqC2sb2_9gSmH6yGLKlhsRAQADAgADeAADNgQ",
-        "file_size": 35091,
-        "file_unique_id": "AQADqgtrG9v_YEp9"
-      },
-      {
-        "height": 720,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGomlLJ5rRSX9pcvsmZCHIqCWlLLqnAAKqC2sb2_9gSmH6yGLKlhsRAQADAgADeQADNgQ",
-        "file_size": 41848,
-        "file_unique_id": "AQADqgtrG9v_YEp-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1766533018,
-    "message_id": 1698
-  },
-  {
     "caption": "📦 Статистика Sticker Pack\n\n🔽41 / 173 — стикерпаков в плюсе\n🔽4.8M / 25М $ — капитализация\n🔽150k / 2.5M — активных юзеров",
     "caption_entities": [
       {
@@ -2995,5 +2925,70 @@
     },
     "date": 1767708580,
     "message_id": 1737
+  },
+  {
+    "caption": "📦 Stickerhead анонсировал скорый запуск Mystery Collection, для которого пользователи с наибольшей реферальной активностью получат доступ в вайтлист, а также предлагает проверить итоги 2025 года в стикерах.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5449670138292894907",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 11,
+        "offset": 3,
+        "type": "text_link",
+        "url": "https://t.me/stickerhead_bot/app?startapp=ref_JM"
+      },
+      {
+        "length": 11,
+        "offset": 15,
+        "type": "text_link",
+        "url": "https://t.me/stkrhd/75"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "video": {
+      "file_name": "IMG_5776.MP4",
+      "height": 640,
+      "mime_type": "video/mp4",
+      "width": 464,
+      "thumbnail": {
+        "height": 320,
+        "width": 232,
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgbKaV0hbEFfdmnbKMr4ZfAqd-B4OuwAAqCNAAJcfelK45nVdGnLkmEBAAdtAAM4BA",
+        "file_size": 15939,
+        "file_unique_id": "AQADoI0AAlx96Upy"
+      },
+      "file_id": "BAACAgIAAyEFAASerMeaAAIGymldIWxBX3Zp2yjK-GXwKnfgeDrsAAKgjQACXH3pSuOZ1XRpy5JhOAQ",
+      "file_size": 47479,
+      "file_unique_id": "AgADoI0AAlx96Uo",
+      "duration": 2,
+      "thumb": {
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgbKaV0hbEFfdmnbKMr4ZfAqd-B4OuwAAqCNAAJcfelK45nVdGnLkmEBAAdtAAM4BA",
+        "file_unique_id": "AQADoI0AAlx96Upy",
+        "file_size": 15939,
+        "width": 232,
+        "height": 320
+      }
+    },
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1767711084,
+    "message_id": 1738
   }
 ]
