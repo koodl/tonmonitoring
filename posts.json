@@ -1,70 +1,5 @@
 [
   {
-    "caption": "💎 Houdini Swap запустил сервис для анонимных платежей в сети TON, позволяющий скрывать адрес кошелька и историю транзакций при получении средств.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 16,
-        "type": "text_link",
-        "url": "https://t.me/toncoin/2166"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 50,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGoGlKulgEIBtSaTBqryXmFk1GvLkGAAKnEWsb2_9YSuRT33b9dcLHAQADAgADcwADNgQ",
-        "file_size": 1213,
-        "file_unique_id": "AQADpxFrG9v_WEp4"
-      },
-      {
-        "height": 178,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGoGlKulgEIBtSaTBqryXmFk1GvLkGAAKnEWsb2_9YSuRT33b9dcLHAQADAgADbQADNgQ",
-        "file_size": 17644,
-        "file_unique_id": "AQADpxFrG9v_WEpy"
-      },
-      {
-        "height": 446,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGoGlKulgEIBtSaTBqryXmFk1GvLkGAAKnEWsb2_9YSuRT33b9dcLHAQADAgADeAADNgQ",
-        "file_size": 72590,
-        "file_unique_id": "AQADpxFrG9v_WEp9"
-      },
-      {
-        "height": 714,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGoGlKulgEIBtSaTBqryXmFk1GvLkGAAKnEWsb2_9YSuRT33b9dcLHAQADAgADeQADNgQ",
-        "file_size": 95163,
-        "file_unique_id": "AQADpxFrG9v_WEp-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1766505049,
-    "message_id": 1696
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2968,5 +2903,70 @@
     },
     "date": 1767705590,
     "message_id": 1735
+  },
+  {
+    "caption": "✈️ По данным Financial Times, в первой половине 2025 года выручка Telegram составила около $870 млн при росте на 65% год к году, при этом компания по-прежнему планирует по итогам года довести выручку до $2 млрд и прибыль до $720 млн.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 75,
+        "type": "text_link",
+        "url": "https://cointelegraph.com/news/telegram-revenue-2-billion-full-year-target-report"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 60,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGyGldE0WVXIYMLHCiX-CQd3warWkAA_YOaxtcfelK54IkCcJ7Q2sBAAMCAANzAAM4BA",
+        "file_size": 1648,
+        "file_unique_id": "AQAD9g5rG1x96Up4"
+      },
+      {
+        "height": 213,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGyGldE0WVXIYMLHCiX-CQd3warWkAA_YOaxtcfelK54IkCcJ7Q2sBAAMCAANtAAM4BA",
+        "file_size": 23848,
+        "file_unique_id": "AQAD9g5rG1x96Upy"
+      },
+      {
+        "height": 533,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGyGldE0WVXIYMLHCiX-CQd3warWkAA_YOaxtcfelK54IkCcJ7Q2sBAAMCAAN4AAM4BA",
+        "file_size": 97535,
+        "file_unique_id": "AQAD9g5rG1x96Up9"
+      },
+      {
+        "height": 853,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGyGldE0WVXIYMLHCiX-CQd3warWkAA_YOaxtcfelK54IkCcJ7Q2sBAAMCAAN5AAM4BA",
+        "file_size": 129737,
+        "file_unique_id": "AQAD9g5rG1x96Up-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1767707461,
+    "message_id": 1736
   }
 ]
