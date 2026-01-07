@@ -1,114 +1,5 @@
 [
   {
-    "caption": "📦 Статистика Sticker Pack\n\n🔽41 / 173 — стикерпаков в плюсе\n🔽4.8M / 25М $ — капитализация\n🔽150k / 2.5M — активных юзеров",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5449670138292894907",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 10,
-        "offset": 3,
-        "type": "text_link",
-        "url": "https://t.me/stickernews/571"
-      },
-      {
-        "length": 95,
-        "offset": 28,
-        "type": "blockquote"
-      },
-      {
-        "custom_emoji_id": "5875008416132370818",
-        "length": 2,
-        "offset": 28,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 2,
-        "offset": 30,
-        "type": "bold"
-      },
-      {
-        "length": 5,
-        "offset": 33,
-        "type": "bold"
-      },
-      {
-        "custom_emoji_id": "5875008416132370818",
-        "length": 2,
-        "offset": 61,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 12,
-        "offset": 63,
-        "type": "bold"
-      },
-      {
-        "custom_emoji_id": "5875008416132370818",
-        "length": 2,
-        "offset": 92,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 14,
-        "offset": 94,
-        "type": "bold"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1766601884,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 58,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGo2lL2ljLJSlhEi6DOW4rVgeSec0eAALcDWsbj6RhSsEaYW1OsskuAQADAgADcwADNgQ",
-        "file_size": 1634,
-        "file_unique_id": "AQAD3A1rG4-kYUp4"
-      },
-      {
-        "height": 208,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGo2lL2ljLJSlhEi6DOW4rVgeSec0eAALcDWsbj6RhSsEaYW1OsskuAQADAgADbQADNgQ",
-        "file_size": 21297,
-        "file_unique_id": "AQAD3A1rG4-kYUpy"
-      },
-      {
-        "height": 521,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGo2lL2ljLJSlhEi6DOW4rVgeSec0eAALcDWsbj6RhSsEaYW1OsskuAQADAgADeAADNgQ",
-        "file_size": 79289,
-        "file_unique_id": "AQAD3A1rG4-kYUp9"
-      },
-      {
-        "height": 833,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGo2lL2ljLJSlhEi6DOW4rVgeSec0eAALcDWsbj6RhSsEaYW1OsskuAQADAgADeQADNgQ",
-        "file_size": 91588,
-        "file_unique_id": "AQAD3A1rG4-kYUp-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1766578776,
-    "message_id": 1699
-  },
-  {
     "caption": "💎 Atomic Wallet объявил, что кошелёк теперь нативно поддерживает токен TON, позволяя пользователям покупать, обменивать и безопасно хранить монеты сети TON напрямую в приложении.",
     "caption_entities": [
       {
@@ -2931,5 +2822,76 @@
     },
     "date": 1767817317,
     "message_id": 1742
+  },
+  {
+    "caption": "✈️ Присоединяюсь к Илье и Village\"ton и предлагаю свой концепт нижнего меню Telegram. При нажатии на правую нижнюю кнопку появляется меню, в котором находятся: «Настройки», «Приложения», «Кошелек» и так далее.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 4,
+        "offset": 19,
+        "type": "text_link",
+        "url": "https://t.me/kuznetsovton/1687"
+      },
+      {
+        "length": 11,
+        "offset": 26,
+        "type": "text_link",
+        "url": "https://t.me/villageton/3610"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 23,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGz2ley0ltLtNo9dCHpjVQdbyg2gP0AAIzDmsbmy_4Si91jeDSdafoAQADAgADcwADOAQ",
+        "file_size": 702,
+        "file_unique_id": "AQADMw5rG5sv-Ep4"
+      },
+      {
+        "height": 82,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGz2ley0ltLtNo9dCHpjVQdbyg2gP0AAIzDmsbmy_4Si91jeDSdafoAQADAgADbQADOAQ",
+        "file_size": 4821,
+        "file_unique_id": "AQADMw5rG5sv-Epy"
+      },
+      {
+        "height": 205,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGz2ley0ltLtNo9dCHpjVQdbyg2gP0AAIzDmsbmy_4Si91jeDSdafoAQADAgADeAADOAQ",
+        "file_size": 15145,
+        "file_unique_id": "AQADMw5rG5sv-Ep9"
+      },
+      {
+        "height": 300,
+        "width": 1170,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGz2ley0ltLtNo9dCHpjVQdbyg2gP0AAIzDmsbmy_4Si91jeDSdafoAQADAgADeQADOAQ",
+        "file_size": 17496,
+        "file_unique_id": "AQADMw5rG5sv-Ep-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1767820105,
+    "message_id": 1743
   }
 ]
