@@ -1,70 +1,5 @@
 [
   {
-    "caption": "✈️ Павел Дуров заявил, что архитектор закона ЕС о цензуре, является близким союзником и назначенцем Макрона, который стремится заглушить онлайн-критиков с помощью DSA и Chat Control на фоне низкого рейтинга одобрения.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440479333481217835",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 15,
-        "type": "text_link",
-        "url": "https://x.com/durov/status/2003894167563653518?s=46"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 73,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGpmlMMFC_-CxvAX_smhmZvrK6ZYvJAAKkEmsbj6RhShxJgGb7KlceAQADAgADcwADNgQ",
-        "file_size": 1584,
-        "file_unique_id": "AQADpBJrG4-kYUp4"
-      },
-      {
-        "height": 320,
-        "width": 260,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGpmlMMFC_-CxvAX_smhmZvrK6ZYvJAAKkEmsbj6RhShxJgGb7KlceAQADAgADbQADNgQ",
-        "file_size": 27915,
-        "file_unique_id": "AQADpBJrG4-kYUpy"
-      },
-      {
-        "height": 800,
-        "width": 651,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGpmlMMFC_-CxvAX_smhmZvrK6ZYvJAAKkEmsbj6RhShxJgGb7KlceAQADAgADeAADNgQ",
-        "file_size": 107023,
-        "file_unique_id": "AQADpBJrG4-kYUp9"
-      },
-      {
-        "height": 1280,
-        "width": 1041,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGpmlMMFC_-CxvAX_smhmZvrK6ZYvJAAKkEmsbj6RhShxJgGb7KlceAQADAgADeQADNgQ",
-        "file_size": 131491,
-        "file_unique_id": "AQADpBJrG4-kYUp-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1766600784,
-    "message_id": 1702
-  },
-  {
     "caption": "📦 Статистика Sticker Pack\n\n🔽41 / 173 — стикерпаков в плюсе\n🔽4.8M / 25М $ — капитализация\n🔽150k / 2.5M — активных юзеров",
     "caption_entities": [
       {
@@ -2926,5 +2861,75 @@
     },
     "date": 1767725330,
     "message_id": 1741
+  },
+  {
+    "caption": "🎁 По предварительной информации от @telelakel, в Telegram вводится механика крафта подарков, где несколько подарков сжигаются для создания одного нового.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440615647153256792",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 10,
+        "offset": 36,
+        "type": "mention"
+      },
+      {
+        "length": 8,
+        "offset": 59,
+        "type": "text_link",
+        "url": "https://t.me/web3che/1043"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 51,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGzmlewGWbdY53pookFA2gsp-W1x_xAALWDWsbmy_4SufQvH3iONp5AQADAgADcwADOAQ",
+        "file_size": 1341,
+        "file_unique_id": "AQAD1g1rG5sv-Ep4"
+      },
+      {
+        "height": 180,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGzmlewGWbdY53pookFA2gsp-W1x_xAALWDWsbmy_4SufQvH3iONp5AQADAgADbQADOAQ",
+        "file_size": 14669,
+        "file_unique_id": "AQAD1g1rG5sv-Epy"
+      },
+      {
+        "height": 450,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGzmlewGWbdY53pookFA2gsp-W1x_xAALWDWsbmy_4SufQvH3iONp5AQADAgADeAADOAQ",
+        "file_size": 60474,
+        "file_unique_id": "AQAD1g1rG5sv-Ep9"
+      },
+      {
+        "height": 720,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGzmlewGWbdY53pookFA2gsp-W1x_xAALWDWsbmy_4SufQvH3iONp5AQADAgADeQADOAQ",
+        "file_size": 82432,
+        "file_unique_id": "AQAD1g1rG5sv-Ep-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1767817317,
+    "message_id": 1742
   }
 ]
