@@ -4,38 +4,6 @@
     "delete_chat_photo": false,
     "entities": [
       {
-        "length": 7,
-        "offset": 8,
-        "type": "text_link",
-        "url": "https://t.me/RUCointelegraph/3829"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "ZachXBT сообщил о компрометации браузерного расширения Trust Wallet в Google Chrome, по предварительным оценкам ущерб превысил $2 млн, команда пока не комментировала ситуацию.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1766694162,
-    "message_id": 1705
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
         "custom_emoji_id": "5440671546152610057",
         "length": 2,
         "offset": 0,
@@ -2892,5 +2860,62 @@
     },
     "date": 1767890003,
     "message_id": 1744
+  },
+  {
+    "caption": "💎 Ривард заявил: \nПо мере того как мы продолжаем осуществлять операции по поддержке блокчейна TON, дисциплинированный учет и внутренний контроль становятся необходимыми, и я рассчитываю на дальнейшее укрепление функции отчетности компании по мере масштабирования нашего участия в сети.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5238004177031953682",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 267,
+        "offset": 19,
+        "type": "blockquote"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 66,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG0Wlf3iX1imRY4xYbLa7NTCFdmyuWAALGEmsb7QwBS6RWAl9Fd9d2AQADAgADcwADOAQ",
+        "file_size": 1510,
+        "file_unique_id": "AQADxhJrG-0MAUt4"
+      },
+      {
+        "height": 235,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG0Wlf3iX1imRY4xYbLa7NTCFdmyuWAALGEmsb7QwBS6RWAl9Fd9d2AQADAgADbQADOAQ",
+        "file_size": 20017,
+        "file_unique_id": "AQADxhJrG-0MAUty"
+      },
+      {
+        "height": 585,
+        "width": 796,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG0Wlf3iX1imRY4xYbLa7NTCFdmyuWAALGEmsb7QwBS6RWAl9Fd9d2AQADAgADeAADOAQ",
+        "file_size": 64384,
+        "file_unique_id": "AQADxhJrG-0MAUt9"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1767890469,
+    "message_id": 1745
   }
 ]
