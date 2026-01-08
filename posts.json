@@ -1,43 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 48,
-        "type": "text_link",
-        "url": "https://t.me/pgrton/1333"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 Совокупный отток TON с централизованных бирж составил 5,87 млн, пулы TON/USDT на основных DEX прибавили 160 тыс. USDT (+2,9%) за неделю, а ончейн-активность пользователей значительно снизилась.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1766755073,
-    "message_id": 1706
-  },
-  {
     "caption": "👛 MyTonWallet анонсировал новогодний минт менее 400 уникальных NFT-карт для персонализации кошельков 29 декабря.",
     "caption_entities": [
       {
@@ -2917,5 +2879,70 @@
     },
     "date": 1767890469,
     "message_id": 1745
+  },
+  {
+    "caption": "🎁 Plush Pepe #2 выкупили за рекордные 158 814 TON (примерно $297 000).",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440615647153256792",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 17,
+        "type": "text_link",
+        "url": "https://tonviewer.com/transaction/69e3de237c28adf63e8840f85fbb3a8ca953598cc127cfe8da9d25651511118c"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 15,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG0mlf5caGL3M5_UwulTDu_QYGyrecAAInE2sb7QwBS47HwJKRhuUIAQADAgADcwADOAQ",
+        "file_size": 482,
+        "file_unique_id": "AQADJxNrG-0MAUt4"
+      },
+      {
+        "height": 54,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG0mlf5caGL3M5_UwulTDu_QYGyrecAAInE2sb7QwBS47HwJKRhuUIAQADAgADbQADOAQ",
+        "file_size": 3418,
+        "file_unique_id": "AQADJxNrG-0MAUty"
+      },
+      {
+        "height": 134,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG0mlf5caGL3M5_UwulTDu_QYGyrecAAInE2sb7QwBS47HwJKRhuUIAQADAgADeAADOAQ",
+        "file_size": 10949,
+        "file_unique_id": "AQADJxNrG-0MAUt9"
+      },
+      {
+        "height": 215,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG0mlf5caGL3M5_UwulTDu_QYGyrecAAInE2sb7QwBS47HwJKRhuUIAQADAgADeQADOAQ",
+        "file_size": 14401,
+        "file_unique_id": "AQADJxNrG-0MAUt-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1767892422,
+    "message_id": 1746
   }
 ]
