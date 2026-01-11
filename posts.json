@@ -4,44 +4,6 @@
     "delete_chat_photo": false,
     "entities": [
       {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 40,
-        "type": "text_link",
-        "url": "https://t.me/kuznetsovton/1674"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "💎 379 валидаторов блокчейна TON за год получают около 40,9 млн TON за обеспечение работы сети своими серверами, среди них DWF, TON Strategy с десятками пулов и другие участники.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1766945574,
-    "message_id": 1712
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
         "custom_emoji_id": "5440613134597387384",
         "length": 2,
         "offset": 0,
@@ -2851,5 +2813,43 @@
     },
     "date": 1768151970,
     "message_id": 1755
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 10,
+        "offset": 30,
+        "type": "text_link",
+        "url": "https://t.me/tginfo/4370"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "✈️ Исследователь безопасности обнаружил, что мобильные приложения Telegram для Android и iOS не предупреждают пользователей о раскрытии IP-адреса при клике по прокси-ссылкам, в отличие от Telegram Desktop, macOS, Telegram X и веб-версий, где такие ссылки обрабатываются безопасно.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1768168165,
+    "message_id": 1756
   }
 ]
