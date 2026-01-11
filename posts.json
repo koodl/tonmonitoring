@@ -2,44 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5440627174845473301",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 44,
-        "type": "text_link",
-        "url": "https://t.me/pgrton/1334"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🖼 С начала 2025 года на платформу Fragment поступило 121 млн TON ($198,4 млн), из которых владельцы Telegram-каналов и ботов вывели 54,91 млн TON ($90,1 млн или 45,4%), что привело к чистому накоплению на кошельках платформы 66,09 млн TON ($108,4 млн или 54,6%).",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1766924827,
-    "message_id": 1711
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1766935019,
     "entities": [
       {
@@ -2812,5 +2774,70 @@
     },
     "date": 1768145236,
     "message_id": 1753
+  },
+  {
+    "caption": "💎 На данный момент блокчейн TON занимает второе место по объему торговли NFT с $16,3 млн (on + off chain), где лидируют продажи Telegram-номеров +888 8 520 за 246 242,58 TON ($428 354) и +888 8 080 за 192 900 TON ($366 369).",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 33,
+        "type": "text_link",
+        "url": "https://t.me/toncommunitychannel/995"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 51,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG2mlj1Ro-qCagw5GHDA3N46quT1wHAALeEGsb7sQhS3fiuUgWTZm5AQADAgADcwADOAQ",
+        "file_size": 1002,
+        "file_unique_id": "AQAD3hBrG-7EIUt4"
+      },
+      {
+        "height": 180,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG2mlj1Ro-qCagw5GHDA3N46quT1wHAALeEGsb7sQhS3fiuUgWTZm5AQADAgADbQADOAQ",
+        "file_size": 8430,
+        "file_unique_id": "AQAD3hBrG-7EIUty"
+      },
+      {
+        "height": 450,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG2mlj1Ro-qCagw5GHDA3N46quT1wHAALeEGsb7sQhS3fiuUgWTZm5AQADAgADeAADOAQ",
+        "file_size": 28111,
+        "file_unique_id": "AQAD3hBrG-7EIUt9"
+      },
+      {
+        "height": 720,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG2mlj1Ro-qCagw5GHDA3N46quT1wHAALeEGsb7sQhS3fiuUgWTZm5AQADAgADeQADOAQ",
+        "file_size": 37384,
+        "file_unique_id": "AQAD3hBrG-7EIUt-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1768150298,
+    "message_id": 1754
   }
 ]
