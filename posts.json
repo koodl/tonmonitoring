@@ -2,45 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "edit_date": 1766935019,
-    "entities": [
-      {
-        "custom_emoji_id": "5440627174845473301",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 44,
-        "type": "text_link",
-        "url": "https://t.me/pgrton/1334"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🖼 С начала 2025 года на платформу Fragment поступило 121 млн TON ($198,4 млн), из которых владельцы Telegram-каналов и ботов вывели 54,91 млн TON ($90,1 млн или 45,4%), что привело к чистому накоплению на кошельках платформы 66,09 млн TON ($108,4 млн или 54,6%).",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1766924827,
-    "message_id": 1711
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "entities": [
       {
         "custom_emoji_id": "5440671546152610057",
@@ -2839,5 +2800,56 @@
     },
     "date": 1768150298,
     "message_id": 1754
+  },
+  {
+    "caption": "Без комментариев…",
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 42,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG22lj26IHxBCn-Q21_kADQqnVsXjnAAImEWsb7sQhSyeBZkz5uZgVAQADAgADcwADOAQ",
+        "file_size": 725,
+        "file_unique_id": "AQADJhFrG-7EIUt4"
+      },
+      {
+        "height": 320,
+        "width": 148,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG22lj26IHxBCn-Q21_kADQqnVsXjnAAImEWsb7sQhSyeBZkz5uZgVAQADAgADbQADOAQ",
+        "file_size": 6918,
+        "file_unique_id": "AQADJhFrG-7EIUty"
+      },
+      {
+        "height": 800,
+        "width": 369,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG22lj26IHxBCn-Q21_kADQqnVsXjnAAImEWsb7sQhSyeBZkz5uZgVAQADAgADeAADOAQ",
+        "file_size": 25440,
+        "file_unique_id": "AQADJhFrG-7EIUt9"
+      },
+      {
+        "height": 1280,
+        "width": 591,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG22lj26IHxBCn-Q21_kADQqnVsXjnAAImEWsb7sQhSyeBZkz5uZgVAQADAgADeQADOAQ",
+        "file_size": 33286,
+        "file_unique_id": "AQADJhFrG-7EIUt-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1768151970,
+    "message_id": 1755
   }
 ]
