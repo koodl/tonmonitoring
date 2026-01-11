@@ -2,89 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5442635973999488769",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 12,
-        "offset": 12,
-        "type": "text_link",
-        "url": "https://t.me/lalyounft/4266"
-      },
-      {
-        "length": 5,
-        "offset": 39,
-        "type": "mention"
-      },
-      {
-        "length": 5,
-        "offset": 46,
-        "type": "mention"
-      },
-      {
-        "length": 5,
-        "offset": 53,
-        "type": "mention"
-      },
-      {
-        "length": 5,
-        "offset": 60,
-        "type": "mention"
-      },
-      {
-        "length": 5,
-        "offset": 67,
-        "type": "mention"
-      },
-      {
-        "length": 5,
-        "offset": 74,
-        "type": "mention"
-      },
-      {
-        "length": 5,
-        "offset": 81,
-        "type": "mention"
-      },
-      {
-        "length": 5,
-        "offset": 88,
-        "type": "mention"
-      },
-      {
-        "length": 5,
-        "offset": 95,
-        "type": "mention"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🆔 Telegram заблокировал NFT-юзернеймы @chen, @heng, @leng, @tiao, @titi, @tong, @zcdb, @zckr, @zcgq, в результате чего владелец потерял около 45 000 TON (эквивалент $72 000) из-за сдачи активов в аренду скаммерам и хакерам.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1766860952,
-    "message_id": 1710
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1766861027,
     "entities": [
       {
@@ -2849,5 +2766,76 @@
     },
     "date": 1768142100,
     "message_id": 1751
+  },
+  {
+    "caption": "🐣🪙 Официальный аккаунт Solana в X заявил, что платформа X быстро превращается в супер апп , и вскоре в неё будет встроена Solana.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5442612300139752138",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "custom_emoji_id": "5442898186047877972",
+        "length": 2,
+        "offset": 2,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 36,
+        "type": "text_link",
+        "url": "https://x.com/solana/status/2010333797968228449?s=12"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 63,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG2GljuFjrVXhmmgJIWrMOpQeEkXgUAAJXEGsbNlIYS4uaJiLXkSGoAQADAgADcwADOAQ",
+        "file_size": 1144,
+        "file_unique_id": "AQADVxBrGzZSGEt4"
+      },
+      {
+        "height": 320,
+        "width": 224,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG2GljuFjrVXhmmgJIWrMOpQeEkXgUAAJXEGsbNlIYS4uaJiLXkSGoAQADAgADbQADOAQ",
+        "file_size": 11678,
+        "file_unique_id": "AQADVxBrGzZSGEty"
+      },
+      {
+        "height": 800,
+        "width": 559,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG2GljuFjrVXhmmgJIWrMOpQeEkXgUAAJXEGsbNlIYS4uaJiLXkSGoAQADAgADeAADOAQ",
+        "file_size": 40825,
+        "file_unique_id": "AQADVxBrGzZSGEt9"
+      },
+      {
+        "height": 1280,
+        "width": 894,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG2GljuFjrVXhmmgJIWrMOpQeEkXgUAAJXEGsbNlIYS4uaJiLXkSGoAQADAgADeQADOAQ",
+        "file_size": 46936,
+        "file_unique_id": "AQADVxBrGzZSGEt-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1768142936,
+    "message_id": 1752
   }
 ]
