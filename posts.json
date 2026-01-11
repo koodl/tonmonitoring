@@ -2,90 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "edit_date": 1766861027,
-    "entities": [
-      {
-        "custom_emoji_id": "5442635973999488769",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 12,
-        "offset": 12,
-        "type": "text_link",
-        "url": "https://t.me/vibes/2019"
-      },
-      {
-        "length": 5,
-        "offset": 39,
-        "type": "mention"
-      },
-      {
-        "length": 5,
-        "offset": 46,
-        "type": "mention"
-      },
-      {
-        "length": 5,
-        "offset": 53,
-        "type": "mention"
-      },
-      {
-        "length": 5,
-        "offset": 60,
-        "type": "mention"
-      },
-      {
-        "length": 5,
-        "offset": 67,
-        "type": "mention"
-      },
-      {
-        "length": 5,
-        "offset": 74,
-        "type": "mention"
-      },
-      {
-        "length": 5,
-        "offset": 81,
-        "type": "mention"
-      },
-      {
-        "length": 5,
-        "offset": 88,
-        "type": "mention"
-      },
-      {
-        "length": 5,
-        "offset": 95,
-        "type": "mention"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🆔 Telegram заблокировал NFT-юзернеймы @chen, @heng, @leng, @tiao, @titi, @tong, @zcdb, @zckr, @zcgq, в результате чего владелец потерял около 45 000 TON (эквивалент $72 000) из-за сдачи активов в аренду скаммерам и хакерам.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1766860952,
-    "message_id": 1710
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "entities": [
       {
         "custom_emoji_id": "5440627174845473301",
@@ -2837,5 +2753,64 @@
     },
     "date": 1768142936,
     "message_id": 1752
+  },
+  {
+    "caption": "🗞 TON активно эволюционирует в супер-блокчейн, впитывая все функции других чейнов. Поддерживает децентрализованные функции: платежей, торговли, RWA, ИИ, сайты и планируется запуск TON Storage (децентрализованной файловой системы).",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5265112348451960063",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 67,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG2WljwVRKjudE-woVRRpaUbtxoxi0AALwEGsbNlIYSywyHM6j8DRmAQADAgADcwADOAQ",
+        "file_size": 1500,
+        "file_unique_id": "AQAD8BBrGzZSGEt4"
+      },
+      {
+        "height": 240,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG2WljwVRKjudE-woVRRpaUbtxoxi0AALwEGsbNlIYSywyHM6j8DRmAQADAgADbQADOAQ",
+        "file_size": 19945,
+        "file_unique_id": "AQAD8BBrGzZSGEty"
+      },
+      {
+        "height": 750,
+        "width": 1000,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG2WljwVRKjudE-woVRRpaUbtxoxi0AALwEGsbNlIYSywyHM6j8DRmAQADAgADeQADOAQ",
+        "file_size": 84933,
+        "file_unique_id": "AQAD8BBrGzZSGEt-"
+      },
+      {
+        "height": 600,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG2WljwVRKjudE-woVRRpaUbtxoxi0AALwEGsbNlIYSywyHM6j8DRmAQADAgADeAADOAQ",
+        "file_size": 93568,
+        "file_unique_id": "AQAD8BBrGzZSGEt9"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1768145236,
+    "message_id": 1753
   }
 ]
