@@ -4,50 +4,6 @@
     "delete_chat_photo": false,
     "entities": [
       {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "custom_emoji_id": "5287229346967229276",
-        "length": 2,
-        "offset": 2,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 57,
-        "type": "text_link",
-        "url": "https://x.com/zunem01/status/2004842220382224765?s=46"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "✈️🥚 Интеграция функции перевода Cocoon в iOS v12.3 beta позволила Telegram сократить затраты на переводы в 6 раз при обеспечении end-to-end шифрования, исключающего доступ третьих лиц к данным.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1766976826,
-    "message_id": 1713
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
         "custom_emoji_id": "5442635973999488769",
         "length": 2,
         "offset": 0,
@@ -2851,5 +2807,70 @@
     },
     "date": 1768168165,
     "message_id": 1756
+  },
+  {
+    "caption": "Рубрика: Интересный факт\n\n🦴 Spotty — это персонаж-собачка, созданный Павлом Дуровым в 2010 году как дудл для благотворительного аукциона в поддержку детских домов, после чего он стал неофициальным талисманом VK и Telegram, а позже вдохновил создание мемкоина $DOGS на блокчейне TON. А Resistance Dog — это Spotty в черном капюшоне.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5442695223073344113",
+        "length": 2,
+        "offset": 26,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 5,
+        "offset": 260,
+        "type": "cashtag"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1768218398,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 47,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGxmlbtr9ZCPpcal35uhyLlcmXwLJDAALADWsbd4DYShKGcVjZi4IzAQADAgADcwADOAQ",
+        "file_size": 1216,
+        "file_unique_id": "AQADwA1rG3eA2Ep4"
+      },
+      {
+        "height": 320,
+        "width": 168,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGxmlbtr9ZCPpcal35uhyLlcmXwLJDAALADWsbd4DYShKGcVjZi4IzAQADAgADbQADOAQ",
+        "file_size": 14799,
+        "file_unique_id": "AQADwA1rG3eA2Epy"
+      },
+      {
+        "height": 800,
+        "width": 419,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGxmlbtr9ZCPpcal35uhyLlcmXwLJDAALADWsbd4DYShKGcVjZi4IzAQADAgADeAADOAQ",
+        "file_size": 60739,
+        "file_unique_id": "AQADwA1rG3eA2Ep9"
+      },
+      {
+        "height": 1280,
+        "width": 670,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIGxmlbtr9ZCPpcal35uhyLlcmXwLJDAALADWsbd4DYShKGcVjZi4IzAQADAgADeQADOAQ",
+        "file_size": 79751,
+        "file_unique_id": "AQADwA1rG3eA2Ep-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1767618239,
+    "message_id": 1734
   }
 ]
