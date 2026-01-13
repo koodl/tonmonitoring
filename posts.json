@@ -2,65 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "edit_date": 1767017746,
-    "entities": [
-      {
-        "custom_emoji_id": "5442635973999488769",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 16,
-        "type": "text_link",
-        "url": "https://t.me/notyou/1056"
-      },
-      {
-        "length": 5,
-        "offset": 60,
-        "type": "mention"
-      },
-      {
-        "length": 9,
-        "offset": 67,
-        "type": "mention"
-      },
-      {
-        "length": 5,
-        "offset": 78,
-        "type": "mention"
-      },
-      {
-        "length": 6,
-        "offset": 86,
-        "type": "mention"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "url": "https://t.me/notyou/1056"
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🆔 Пользователь потерял четыре коротких юзернейма Telegram (@nice, @rockstar, @wild и @dream) общей стоимостью более $500 000 в результате мошеннической сделки с участием поддельного посредника Cupid.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1767017707,
-    "message_id": 1714
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1767017753,
     "entities": [
       {
@@ -2852,5 +2793,70 @@
     },
     "date": 1768219995,
     "message_id": 1757
+  },
+  {
+    "caption": "💎 Вышел первый эпизод шоу Off Script with TON с участием Head of Future Finance в Citi Bank Ronit Ghose, в котором обсуждались история денег, роль стейблкоинов и опыт использования блокчейна TON через Telegram.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 13,
+        "offset": 9,
+        "type": "text_link",
+        "url": "https://www.youtube.com/watch?v=kmq333JxQ-w"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 51,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG3mlmZM2IF9PnoQq28VUSLUGpD7S_AAJUEmsb8PwwS-ZsDxX_i9PyAQADAgADcwADOAQ",
+        "file_size": 1476,
+        "file_unique_id": "AQADVBJrG_D8MEt4"
+      },
+      {
+        "height": 180,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG3mlmZM2IF9PnoQq28VUSLUGpD7S_AAJUEmsb8PwwS-ZsDxX_i9PyAQADAgADbQADOAQ",
+        "file_size": 16586,
+        "file_unique_id": "AQADVBJrG_D8MEty"
+      },
+      {
+        "height": 450,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG3mlmZM2IF9PnoQq28VUSLUGpD7S_AAJUEmsb8PwwS-ZsDxX_i9PyAQADAgADeAADOAQ",
+        "file_size": 65116,
+        "file_unique_id": "AQADVBJrG_D8MEt9"
+      },
+      {
+        "height": 720,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG3mlmZM2IF9PnoQq28VUSLUGpD7S_AAJUEmsb8PwwS-ZsDxX_i9PyAQADAgADeQADOAQ",
+        "file_size": 86928,
+        "file_unique_id": "AQADVBJrG_D8MEt-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1768318157,
+    "message_id": 1758
   }
 ]
