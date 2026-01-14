@@ -2,65 +2,6 @@
   {
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "edit_date": 1767017784,
-    "entities": [
-      {
-        "custom_emoji_id": "5442635973999488769",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 16,
-        "type": "text_link",
-        "url": "https://t.me/notyou/1055"
-      },
-      {
-        "length": 5,
-        "offset": 60,
-        "type": "mention"
-      },
-      {
-        "length": 9,
-        "offset": 67,
-        "type": "mention"
-      },
-      {
-        "length": 5,
-        "offset": 78,
-        "type": "mention"
-      },
-      {
-        "length": 6,
-        "offset": 86,
-        "type": "mention"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🆔 Пользователь потерял четыре коротких юзернейма Telegram (@nice, @rockstar, @wild и @dream) общей стоимостью более $500 000 в результате мошеннической сделки с участием поддельного посредника Cupid.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1767017707,
-    "message_id": 1714
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "entities": [
       {
         "custom_emoji_id": "5411157501557110248",
@@ -2837,5 +2778,43 @@
     },
     "date": 1768349442,
     "message_id": 1759
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5314597028901190799",
+        "length": 3,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 26,
+        "type": "text_link",
+        "url": "https://www.globenewswire.com/news-release/2026/01/13/3218209/0/en/AlphaTON-Capital-Corp-Announces-15-Million-Registered-Direct-Offering.html"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🅰️ AlphaTON Capital Corp объявила о заключении соглашения на продажу 15 млн обыкновенных акций по $1 за акцию в рамках зарегистрированного прямого размещения на $15 млн с ожидаемым закрытием 14 января 2026 года. H.C. Wainwright & Co. выступает эксклюзивным агентом по размещению, а средства пойдут на масштабирование GPU-развертывания для Cocoon AI, оборотный капитал и общие корпоративные цели.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1768351171,
+    "message_id": 1760
   }
 ]
