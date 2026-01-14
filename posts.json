@@ -1,70 +1,5 @@
 [
   {
-    "caption": "🤖 Telegram ввел невозвратную комиссию в размере 15% на покупки через Telegram Stars для тех TPA, которые активируют режим тем в личных чатах с пользователями.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5463103013583351970",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 4,
-        "offset": 12,
-        "type": "text_link",
-        "url": "https://t.me/tgmarketing/1629"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 71,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGtWlVOvrVfGsx5RV0biMmLXnxge5QAAJNEGsbnoOoSvNeM7jvX6QqAQADAgADcwADOAQ",
-        "file_size": 1556,
-        "file_unique_id": "AQADTRBrG56DqEp4"
-      },
-      {
-        "height": 320,
-        "width": 254,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGtWlVOvrVfGsx5RV0biMmLXnxge5QAAJNEGsbnoOoSvNeM7jvX6QqAQADAgADbQADOAQ",
-        "file_size": 33154,
-        "file_unique_id": "AQADTRBrG56DqEpy"
-      },
-      {
-        "height": 800,
-        "width": 636,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGtWlVOvrVfGsx5RV0biMmLXnxge5QAAJNEGsbnoOoSvNeM7jvX6QqAQADAgADeAADOAQ",
-        "file_size": 131759,
-        "file_unique_id": "AQADTRBrG56DqEp9"
-      },
-      {
-        "height": 1280,
-        "width": 1018,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGtWlVOvrVfGsx5RV0biMmLXnxge5QAAJNEGsbnoOoSvNeM7jvX6QqAQADAgADeQADOAQ",
-        "file_size": 163142,
-        "file_unique_id": "AQADTRBrG56DqEp-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1767193338,
-    "message_id": 1717
-  },
-  {
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "entities": [
@@ -2799,5 +2734,58 @@
     },
     "date": 1768356521,
     "message_id": 1761
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 3,
+        "type": "mention"
+      },
+      {
+        "length": 13,
+        "offset": 11,
+        "type": "text_link",
+        "url": "https://t.me/kudrya_write/817"
+      },
+      {
+        "length": 16,
+        "offset": 55,
+        "type": "url"
+      },
+      {
+        "length": 17,
+        "offset": 94,
+        "type": "mention"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 @rrrusx разрабатывает утилиту для дефайщиков аналог t.me/stables_apy для TON под названием @ton_yields_daily.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1768399527,
+    "message_id": 1762
   }
 ]
