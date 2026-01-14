@@ -4,44 +4,6 @@
     "delete_chat_photo": false,
     "entities": [
       {
-        "custom_emoji_id": "5411157501557110248",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 17,
-        "type": "text_link",
-        "url": "https://t.me/kuznetsovton/1678"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🕐 Илья Кузнецов заявил, что Telegram внедряет наиболее успешные истории TON-сообщества, включая собственный маркет и аукционную систему продажи подарков.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1767124839,
-    "message_id": 1715
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
         "custom_emoji_id": "5463103013583351970",
         "length": 2,
         "offset": 0,
@@ -2816,5 +2778,34 @@
     },
     "date": 1768351171,
     "message_id": 1760
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5310031775018285687",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      }
+    ],
+    "group_chat_created": false,
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🪟 В Portals выявили дюп кепок, из-за которого они продаются в стакане, хотя отсутствуют на маркете, а пользователи, создавшие офферы, потеряли деньги без возможности вывода предметов из инвентаря.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1768356521,
+    "message_id": 1761
   }
 ]
