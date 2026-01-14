@@ -13,44 +13,6 @@
         "length": 9,
         "offset": 26,
         "type": "text_link",
-        "url": "https://www.sec.gov/Archives/edgar/data/1095435/000117184325008136/f6k_122325.htm"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🅰️ AlphaTON Capital Corp уведомила SEC о реализации инвестором права на обратный выкуп 658 644 акций в обмен на возврат более 1,4 млн токенов TON, предоставленных в рамках сентябрьского приватного раунда финансирования.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1767231051,
-    "message_id": 1720
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5314597028901190799",
-        "length": 3,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 26,
-        "type": "text_link",
         "url": "https://www.sec.gov/Archives/edgar/data/1095435/000117184325008135/f6k_123125.htm"
       }
     ],
@@ -2747,5 +2709,70 @@
     },
     "date": 1768402735,
     "message_id": 1763
+  },
+  {
+    "caption": "🤖 Crypto Bot объявил о делистинге и прекращении поддержки монет Notcoin (NOT), DOGS, HMSTR, MEMHASH, TRUMP, MAJOR, MELANIA, WIF, MY, CATI, PEPE, BONK до 15 февраля 2026 года, после чего торговля и вывод этих монет станут недоступны.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440490204043439438",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 14,
+        "type": "text_link",
+        "url": "https://t.me/CryptoBotRU/471"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG5Glnr8KFgNrNDbwYtrxiRAj4-3s_AAKKEWsb8Pw4S1x8HjsyqkUtAQADAgADcwADOAQ",
+        "file_size": 1201,
+        "file_unique_id": "AQADihFrG_D8OEt4"
+      },
+      {
+        "height": 320,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG5Glnr8KFgNrNDbwYtrxiRAj4-3s_AAKKEWsb8Pw4S1x8HjsyqkUtAQADAgADbQADOAQ",
+        "file_size": 13057,
+        "file_unique_id": "AQADihFrG_D8OEty"
+      },
+      {
+        "height": 800,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG5Glnr8KFgNrNDbwYtrxiRAj4-3s_AAKKEWsb8Pw4S1x8HjsyqkUtAQADAgADeAADOAQ",
+        "file_size": 46583,
+        "file_unique_id": "AQADihFrG_D8OEt9"
+      },
+      {
+        "height": 1280,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG5Glnr8KFgNrNDbwYtrxiRAj4-3s_AAKKEWsb8Pw4S1x8HjsyqkUtAQADAgADeQADOAQ",
+        "file_size": 54953,
+        "file_unique_id": "AQADihFrG_D8OEt-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1768402882,
+    "message_id": 1764
   }
 ]
