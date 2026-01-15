@@ -4,44 +4,6 @@
     "delete_chat_photo": false,
     "entities": [
       {
-        "custom_emoji_id": "5314597028901190799",
-        "length": 3,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 9,
-        "offset": 26,
-        "type": "text_link",
-        "url": "https://www.sec.gov/Archives/edgar/data/1095435/000117184325008135/f6k_123125.htm"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🅰️ AlphaTON Capital Corp заключила мировое соглашение с DWF MaaS Limited, в рамках которого выкупит ценные бумаги на сумму 15 млн долларов и прекратит действие договора по управлению TON-трезори.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1767231074,
-    "message_id": 1721
-  },
-  {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
         "custom_emoji_id": "5440671546152610057",
         "length": 2,
         "offset": 0,
@@ -2774,5 +2736,57 @@
     },
     "date": 1768402882,
     "message_id": 1764
+  },
+  {
+    "caption": "Без комментариев…",
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1768516260,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 42,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG22lj26IHxBCn-Q21_kADQqnVsXjnAAImEWsb7sQhSyeBZkz5uZgVAQADAgADcwADOAQ",
+        "file_size": 725,
+        "file_unique_id": "AQADJhFrG-7EIUt4"
+      },
+      {
+        "height": 320,
+        "width": 148,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG22lj26IHxBCn-Q21_kADQqnVsXjnAAImEWsb7sQhSyeBZkz5uZgVAQADAgADbQADOAQ",
+        "file_size": 6918,
+        "file_unique_id": "AQADJhFrG-7EIUty"
+      },
+      {
+        "height": 800,
+        "width": 369,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG22lj26IHxBCn-Q21_kADQqnVsXjnAAImEWsb7sQhSyeBZkz5uZgVAQADAgADeAADOAQ",
+        "file_size": 25440,
+        "file_unique_id": "AQADJhFrG-7EIUt9"
+      },
+      {
+        "height": 1280,
+        "width": 591,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG22lj26IHxBCn-Q21_kADQqnVsXjnAAImEWsb7sQhSyeBZkz5uZgVAQADAgADeQADOAQ",
+        "file_size": 33286,
+        "file_unique_id": "AQADJhFrG-7EIUt-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1768151970,
+    "message_id": 1755
   }
 ]
