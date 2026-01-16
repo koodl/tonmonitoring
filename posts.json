@@ -1,64 +1,5 @@
 [
   {
-    "caption": "💎 С конца 2025 года по 2 января 2026 года цена TON выросла приблизительно на 11%, с $1,69 до $1,88.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 85,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGvmlYAoxdQnwnp8TIg7t-J5RvkZ2kAAJxDGsbwXPASuOMAf2YyPsMAQADAgADcwADOAQ",
-        "file_size": 1136,
-        "file_unique_id": "AQADcQxrG8FzwEp4"
-      },
-      {
-        "height": 320,
-        "width": 304,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGvmlYAoxdQnwnp8TIg7t-J5RvkZ2kAAJxDGsbwXPASuOMAf2YyPsMAQADAgADbQADOAQ",
-        "file_size": 12945,
-        "file_unique_id": "AQADcQxrG8FzwEpy"
-      },
-      {
-        "height": 800,
-        "width": 760,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGvmlYAoxdQnwnp8TIg7t-J5RvkZ2kAAJxDGsbwXPASuOMAf2YyPsMAQADAgADeAADOAQ",
-        "file_size": 46055,
-        "file_unique_id": "AQADcQxrG8FzwEp9"
-      },
-      {
-        "height": 1114,
-        "width": 1058,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGvmlYAoxdQnwnp8TIg7t-J5RvkZ2kAAJxDGsbwXPASuOMAf2YyPsMAQADAgADeQADOAQ",
-        "file_size": 46995,
-        "file_unique_id": "AQADcQxrG8FzwEp-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1767375500,
-    "message_id": 1726
-  },
-  {
     "caption": "🦴 В первом тизере официального канала Pixel World появилось изображение, намекающее на интеграцию DOGS и Not Pixel Stickers в Pixel World.",
     "caption_entities": [
       {
@@ -2782,5 +2723,69 @@
     },
     "date": 1768576701,
     "message_id": 1767
+  },
+  {
+    "caption": "📦 Moonbirds запустили Telegram-бот @birbish_bot для подключения кошелька Solana к стикерам TON, причем только пользователи, подключившиеся до 20 января, будут допущены к предстоящему SBT.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5449670138292894907",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 13,
+        "type": "text_link",
+        "url": "https://x.com/moonbirds/status/2012241221645980155?s=12"
+      },
+      {
+        "length": 12,
+        "offset": 36,
+        "type": "mention"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "video": {
+      "file_name": "IMG_5837.MP4",
+      "height": 1280,
+      "mime_type": "video/mp4",
+      "width": 592,
+      "thumbnail": {
+        "height": 320,
+        "width": 148,
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgboaWrDFO_a23B7qft11QkifevrzM4AAiaFAAIL-FhLPxsnSoIeTmoBAAdtAAM4BA",
+        "file_size": 6141,
+        "file_unique_id": "AQADJoUAAgv4WEty"
+      },
+      "file_id": "BAACAgIAAyEFAASerMeaAAIG6GlqwxTv2ttwe6n7ddUJIn3r68zOAAImhQACC_hYSz8bJ0qCHk5qOAQ",
+      "file_size": 13983859,
+      "file_unique_id": "AgADJoUAAgv4WEs",
+      "duration": 44,
+      "thumb": {
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgboaWrDFO_a23B7qft11QkifevrzM4AAiaFAAIL-FhLPxsnSoIeTmoBAAdtAAM4BA",
+        "file_unique_id": "AQADJoUAAgv4WEty",
+        "file_size": 6141,
+        "width": 148,
+        "height": 320
+      }
+    },
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1768604437,
+    "message_id": 1768
   }
 ]
