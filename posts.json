@@ -1,49 +1,5 @@
 [
   {
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "entities": [
-      {
-        "custom_emoji_id": "5287229346967229276",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 12,
-        "type": "text_link",
-        "url": "https://www.novacorein.com/"
-      },
-      {
-        "length": 8,
-        "offset": 21,
-        "type": "text_link",
-        "url": "https://www.engineering.com/novacore-to-supply-blackwell-gpu-compute-for-cocoon-network/"
-      }
-    ],
-    "group_chat_created": false,
-    "link_preview_options": {
-      "is_disabled": true
-    },
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "text": "🥚 Компания Novacore поставит серверы на базе графических процессоров NVIDIA Blackwell для обеспечения инфраструктуры конфиденциальных вычислений децентрализованной ИИ-сети Cocoon.",
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1767359898,
-    "message_id": 1723
-  },
-  {
     "caption": "💎 Cryptodiffer опубликовал рейтинг топ-блокчейнов по количеству транзакций за 2025 год, где Solana лидирует с 121 млрд транзакций, BNB Chain занимает второе место с 5,6 млрд, Tron — третье с 3,2 млрд, а TON — девятое с 839 млн транзакций.",
     "caption_entities": [
       {
@@ -2815,5 +2771,43 @@
     },
     "date": 1768519738,
     "message_id": 1765
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 26,
+        "type": "text_link",
+        "url": "https://t.me/exploitex/31184"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "✈️ Депутат Андрей Свинцов заявил, что блокировка Telegram в России не ожидается, поскольку мессенджер активно взаимодействует с властями страны. Роскомнадзор замедляет работу Telegram из-за слишком медленной блокировки анонимных каналов, сообщил тот же депутат.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1768574034,
+    "message_id": 1766
   }
 ]
