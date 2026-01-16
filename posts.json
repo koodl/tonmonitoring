@@ -1,70 +1,5 @@
 [
   {
-    "caption": "💎 Cryptodiffer опубликовал рейтинг топ-блокчейнов по количеству транзакций за 2025 год, где Solana лидирует с 121 млрд транзакций, BNB Chain занимает второе место с 5,6 млрд, Tron — третье с 3,2 млрд, а TON — девятое с 839 млн транзакций.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 11,
-        "offset": 16,
-        "type": "text_link",
-        "url": "https://x.com/cryptodiffer/status/2006916967438102570?s=12"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 76,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGvGlX1VX0EgvScOpVauxecdoYyHBxAAIxEWsbwXO4ShJLSs6wRXOxAQADAgADcwADOAQ",
-        "file_size": 1498,
-        "file_unique_id": "AQADMRFrG8FzuEp4"
-      },
-      {
-        "height": 270,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGvGlX1VX0EgvScOpVauxecdoYyHBxAAIxEWsbwXO4ShJLSs6wRXOxAQADAgADbQADOAQ",
-        "file_size": 23029,
-        "file_unique_id": "AQADMRFrG8FzuEpy"
-      },
-      {
-        "height": 676,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGvGlX1VX0EgvScOpVauxecdoYyHBxAAIxEWsbwXO4ShJLSs6wRXOxAQADAgADeAADOAQ",
-        "file_size": 92925,
-        "file_unique_id": "AQADMRFrG8FzuEp9"
-      },
-      {
-        "height": 1081,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGvGlX1VX0EgvScOpVauxecdoYyHBxAAIxEWsbwXO4ShJLSs6wRXOxAQADAgADeQADOAQ",
-        "file_size": 119287,
-        "file_unique_id": "AQADMRFrG8FzuEp-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1767363925,
-    "message_id": 1724
-  },
-  {
     "caption": "💎 С конца 2025 года по 2 января 2026 года цена TON выросла приблизительно на 11%, с $1,69 до $1,88.",
     "caption_entities": [
       {
@@ -2809,5 +2744,43 @@
     },
     "date": 1768574034,
     "message_id": 1766
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 8,
+        "type": "text_link",
+        "url": "https://t.me/tass_agency/8981"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "✈️ ТАСС сообщил, что российский суд постановил заблокировать Telegram в России.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1768576701,
+    "message_id": 1767
   }
 ]
