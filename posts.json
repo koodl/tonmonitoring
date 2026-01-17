@@ -1,70 +1,5 @@
 [
   {
-    "caption": "✈️ Telegram в официальном блоге объявил о запуске нового дизайна приложения и функции AI-саммари для суммирования контента в чатах.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 7,
-        "offset": 32,
-        "type": "text_link",
-        "url": "https://telegram.org/blog/new-design-ai-summaries/ru"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 59,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGwWlZSnSitORwb4J8iz7X5g_-vbfIAAJ6D2sbwXPISl4eEnOwWr6SAQADAgADcwADOAQ",
-        "file_size": 1945,
-        "file_unique_id": "AQADeg9rG8FzyEp4"
-      },
-      {
-        "height": 209,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGwWlZSnSitORwb4J8iz7X5g_-vbfIAAJ6D2sbwXPISl4eEnOwWr6SAQADAgADbQADOAQ",
-        "file_size": 29695,
-        "file_unique_id": "AQADeg9rG8FzyEpy"
-      },
-      {
-        "height": 523,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGwWlZSnSitORwb4J8iz7X5g_-vbfIAAJ6D2sbwXPISl4eEnOwWr6SAQADAgADeAADOAQ",
-        "file_size": 125154,
-        "file_unique_id": "AQADeg9rG8FzyEp9"
-      },
-      {
-        "height": 785,
-        "width": 1200,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGwWlZSnSitORwb4J8iz7X5g_-vbfIAAJ6D2sbwXPISl4eEnOwWr6SAQADAgADeQADOAQ",
-        "file_size": 145755,
-        "file_unique_id": "AQADeg9rG8FzyEp-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1767459444,
-    "message_id": 1729
-  },
-  {
     "caption": "✈️ Telegram в официальном блоге объявил о запуске нового дизайна приложения и функции AI-саммари для контента в чатах.",
     "caption_entities": [
       {
@@ -2792,5 +2727,74 @@
     },
     "date": 1768659590,
     "message_id": 1770
+  },
+  {
+    "caption": "📦 $STKRHD появился в приложении, где карма пользователей теперь приносит очки $STKRHD, а выполнение квестов, продвижение рефералов и хранение NFT-стикеров увеличивают прогресс для участия в будущих дропах и разблокировки наград.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5449670138292894907",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 3,
+        "type": "cashtag"
+      },
+      {
+        "length": 8,
+        "offset": 11,
+        "type": "text_link",
+        "url": "https://t.me/stkrhd/76"
+      },
+      {
+        "length": 7,
+        "offset": 79,
+        "type": "cashtag"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "video": {
+      "file_name": "IMG_5840.MP4",
+      "height": 848,
+      "mime_type": "video/mp4",
+      "width": 848,
+      "thumbnail": {
+        "height": 320,
+        "width": 320,
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgbraWuhUoe9USes_wzVXAlXkhGI4-0AAvCQAAIL-GBLQTkQ7qGEoBsBAAdtAAM4BA",
+        "file_size": 16961,
+        "file_unique_id": "AQAD8JAAAgv4YEty"
+      },
+      "file_id": "BAACAgIAAyEFAASerMeaAAIG62lroVKHvVEnrP8M1VwJV5IRiOPtAALwkAACC_hgS0E5EO6hhKAbOAQ",
+      "file_size": 2694397,
+      "file_unique_id": "AgAD8JAAAgv4YEs",
+      "duration": 13,
+      "thumb": {
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgbraWuhUoe9USes_wzVXAlXkhGI4-0AAvCQAAIL-GBLQTkQ7qGEoBsBAAdtAAM4BA",
+        "file_unique_id": "AQAD8JAAAgv4YEty",
+        "file_size": 16961,
+        "width": 320,
+        "height": 320
+      }
+    },
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1768661330,
+    "message_id": 1771
   }
 ]
