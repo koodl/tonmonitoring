@@ -1,64 +1,5 @@
 [
   {
-    "caption": "💎 Никита Ануфриев о TON Foundation.\nИсточник",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 37,
-        "type": "text_link",
-        "url": "https://t.me/premium_not/18548"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "video": {
-      "file_name": "IMG_5755.MP4",
-      "height": 720,
-      "mime_type": "video/mp4",
-      "width": 1280,
-      "thumbnail": {
-        "height": 180,
-        "width": 320,
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgbAaVkqcBs26UlDXGDq-EIPZgJ_xGAAAqiOAALBc8hK0hstMlOl5cYBAAdtAAM4BA",
-        "file_size": 8676,
-        "file_unique_id": "AQADqI4AAsFzyEpy"
-      },
-      "file_id": "BAACAgIAAyEFAASerMeaAAIGwGlZKnAbNulJQ1xg6vhCD2YCf8RgAAKojgACwXPIStIbLTJTpeXGOAQ",
-      "file_size": 5696673,
-      "file_unique_id": "AgADqI4AAsFzyEo",
-      "duration": 16,
-      "thumb": {
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgbAaVkqcBs26UlDXGDq-EIPZgJ_xGAAAqiOAALBc8hK0hstMlOl5cYBAAdtAAM4BA",
-        "file_unique_id": "AQADqI4AAsFzyEpy",
-        "file_size": 8676,
-        "width": 320,
-        "height": 180
-      }
-    },
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1767451248,
-    "message_id": 1728
-  },
-  {
     "caption": "✈️ Telegram в официальном блоге объявил о запуске нового дизайна приложения и функции AI-саммари для суммирования контента в чатах.",
     "caption_entities": [
       {
@@ -2781,5 +2722,75 @@
     },
     "date": 1768659280,
     "message_id": 1769
+  },
+  {
+    "caption": "📦 После анонса TGE токена $BIRB цена стикерпаков Moonbirds в Telegram выросла: Set 2: Sketch +37%, Set 2 +108%, Originals +111%.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5449670138292894907",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 5,
+        "offset": 27,
+        "type": "cashtag"
+      },
+      {
+        "length": 8,
+        "offset": 71,
+        "type": "text_link",
+        "url": "https://t.me/stickernews/607"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 58,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG6mlrmoYHvMRW5MDidRznIa7IoKpxAAIMC2sbC_hgSwyxqQvRlXyoAQADAgADcwADOAQ",
+        "file_size": 1120,
+        "file_unique_id": "AQADDAtrGwv4YEt4"
+      },
+      {
+        "height": 208,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG6mlrmoYHvMRW5MDidRznIa7IoKpxAAIMC2sbC_hgSwyxqQvRlXyoAQADAgADbQADOAQ",
+        "file_size": 14498,
+        "file_unique_id": "AQADDAtrGwv4YEty"
+      },
+      {
+        "height": 521,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG6mlrmoYHvMRW5MDidRznIa7IoKpxAAIMC2sbC_hgSwyxqQvRlXyoAQADAgADeAADOAQ",
+        "file_size": 55449,
+        "file_unique_id": "AQADDAtrGwv4YEt9"
+      },
+      {
+        "height": 833,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG6mlrmoYHvMRW5MDidRznIa7IoKpxAAIMC2sbC_hgSwyxqQvRlXyoAQADAgADeQADOAQ",
+        "file_size": 65501,
+        "file_unique_id": "AQADDAtrGwv4YEt-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1768659590,
+    "message_id": 1770
   }
 ]
