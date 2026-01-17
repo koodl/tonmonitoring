@@ -1,76 +1,5 @@
 [
   {
-    "caption": "🦴 В первом тизере официального канала Pixel World появилось изображение, намекающее на интеграцию DOGS и Not Pixel Stickers в Pixel World.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5442695223073344113",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 6,
-        "offset": 12,
-        "type": "text_link",
-        "url": "https://t.me/pixelworld_community/12"
-      },
-      {
-        "length": 9,
-        "offset": 51,
-        "type": "text_link",
-        "url": "https://t.me/zoned/608"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 67,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGv2lZFalNU1ppOvjNocw6yPTZgqxUAAIWDWsbwXPISoL6CwJsb5mfAQADAgADcwADOAQ",
-        "file_size": 1572,
-        "file_unique_id": "AQADFg1rG8FzyEp4"
-      },
-      {
-        "height": 240,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGv2lZFalNU1ppOvjNocw6yPTZgqxUAAIWDWsbwXPISoL6CwJsb5mfAQADAgADbQADOAQ",
-        "file_size": 18393,
-        "file_unique_id": "AQADFg1rG8FzyEpy"
-      },
-      {
-        "height": 823,
-        "width": 1095,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGv2lZFalNU1ppOvjNocw6yPTZgqxUAAIWDWsbwXPISoL6CwJsb5mfAQADAgADeQADOAQ",
-        "file_size": 71855,
-        "file_unique_id": "AQADFg1rG8FzyEp-"
-      },
-      {
-        "height": 601,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGv2lZFalNU1ppOvjNocw6yPTZgqxUAAIWDWsbwXPISoL6CwJsb5mfAQADAgADeAADOAQ",
-        "file_size": 73328,
-        "file_unique_id": "AQADFg1rG8FzyEp9"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1767445929,
-    "message_id": 1727
-  },
-  {
     "caption": "💎 Никита Ануфриев о TON Foundation.\nИсточник",
     "caption_entities": [
       {
@@ -2787,5 +2716,70 @@
     },
     "date": 1768604437,
     "message_id": 1768
+  },
+  {
+    "caption": "✈️ В Beta-версии Telegram для Android 12.3.1 добавлено окно предупреждения о возможном раскрытии IP-адреса при подключении прокси по ссылкам.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5440613134597387384",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 9,
+        "offset": 45,
+        "type": "text_link",
+        "url": "https://t.me/betainfo/2186"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 56,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG6WlrmVDaEReEHRcv3iuUGjpQuUNkAAIGC2sbC_hgS0W4yChvfVfQAQADAgADcwADOAQ",
+        "file_size": 1230,
+        "file_unique_id": "AQADBgtrGwv4YEt4"
+      },
+      {
+        "height": 200,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG6WlrmVDaEReEHRcv3iuUGjpQuUNkAAIGC2sbC_hgS0W4yChvfVfQAQADAgADbQADOAQ",
+        "file_size": 13734,
+        "file_unique_id": "AQADBgtrGwv4YEty"
+      },
+      {
+        "height": 501,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG6WlrmVDaEReEHRcv3iuUGjpQuUNkAAIGC2sbC_hgS0W4yChvfVfQAQADAgADeAADOAQ",
+        "file_size": 60147,
+        "file_unique_id": "AQADBgtrGwv4YEt9"
+      },
+      {
+        "height": 801,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG6WlrmVDaEReEHRcv3iuUGjpQuUNkAAIGC2sbC_hgS0W4yChvfVfQAQADAgADeQADOAQ",
+        "file_size": 84449,
+        "file_unique_id": "AQADBgtrGwv4YEt-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1768659280,
+    "message_id": 1769
   }
 ]
