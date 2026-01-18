@@ -1,70 +1,5 @@
 [
   {
-    "caption": "🦴 Монета $DOGS на блокчейне TON за сегодняшний день выросла на 17% до $0.00005 при рыночной капитализации $25.9 млн.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5442695223073344113",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 5,
-        "offset": 10,
-        "type": "cashtag"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "edit_date": 1767575274,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 45,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGxGla3yNm3HbmVmgTbHP1nCw97fuRAAKNFGsbCGjYSq-MCstw9QSNAQADAgADcwADOAQ",
-        "file_size": 962,
-        "file_unique_id": "AQADjRRrGwho2Ep4"
-      },
-      {
-        "height": 320,
-        "width": 160,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGxGla3yNm3HbmVmgTbHP1nCw97fuRAAKNFGsbCGjYSq-MCstw9QSNAQADAgADbQADOAQ",
-        "file_size": 11586,
-        "file_unique_id": "AQADjRRrGwho2Epy"
-      },
-      {
-        "height": 800,
-        "width": 400,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGxGla3yNm3HbmVmgTbHP1nCw97fuRAAKNFGsbCGjYSq-MCstw9QSNAQADAgADeAADOAQ",
-        "file_size": 42943,
-        "file_unique_id": "AQADjRRrGwho2Ep9"
-      },
-      {
-        "height": 1280,
-        "width": 640,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGxGla3yNm3HbmVmgTbHP1nCw97fuRAAKNFGsbCGjYSq-MCstw9QSNAQADAgADeQADOAQ",
-        "file_size": 54548,
-        "file_unique_id": "AQADjRRrGwho2Ep-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1767563043,
-    "message_id": 1732
-  },
-  {
     "caption": "💎 Андрей Грачев: «Думаю, мы достаточно отдохнули, это должно активизировать рынок.\nНаслаждайтесь!»",
     "caption_entities": [
       {
@@ -2806,5 +2741,70 @@
     },
     "date": 1768757094,
     "message_id": 1773
+  },
+  {
+    "caption": "🪙 Минимальная цена (floor) Plush Pepe почти достигла 10 000 TON (17 300$).",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5197450760815668186",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 45,
+        "type": "text_link",
+        "url": "https://getgems.io/collection/EQBG-g6ahkAUGWpefWbx-D_9sQ8oWbvy6puuq78U2c4NUDFS"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 90,
+        "width": 60,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG7mltGlV8AAGRTqW-tVPoBXUIMQsDhwAChAtrG2WScEs-s1tMZI1ImAEAAwIAA3MAAzgE",
+        "file_size": 1433,
+        "file_unique_id": "AQADhAtrG2WScEt4"
+      },
+      {
+        "height": 320,
+        "width": 212,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG7mltGlV8AAGRTqW-tVPoBXUIMQsDhwAChAtrG2WScEs-s1tMZI1ImAEAAwIAA20AAzgE",
+        "file_size": 17197,
+        "file_unique_id": "AQADhAtrG2WScEty"
+      },
+      {
+        "height": 800,
+        "width": 531,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG7mltGlV8AAGRTqW-tVPoBXUIMQsDhwAChAtrG2WScEs-s1tMZI1ImAEAAwIAA3gAAzgE",
+        "file_size": 60742,
+        "file_unique_id": "AQADhAtrG2WScEt9"
+      },
+      {
+        "height": 1280,
+        "width": 850,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG7mltGlV8AAGRTqW-tVPoBXUIMQsDhwAChAtrG2WScEs-s1tMZI1ImAEAAwIAA3kAAzgE",
+        "file_size": 77904,
+        "file_unique_id": "AQADhAtrG2WScEt-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1768757845,
+    "message_id": 1774
   }
 ]
