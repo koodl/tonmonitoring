@@ -1,58 +1,5 @@
 [
   {
-    "caption": "🗞 Криптаны и 2026 год.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5265112348451960063",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "video": {
-      "file_name": "IMG_5764.MP4",
-      "height": 848,
-      "mime_type": "video/mp4",
-      "width": 464,
-      "thumbnail": {
-        "height": 320,
-        "width": 180,
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgbDaVq5AAHXdb0oNbXkfPLQw0M19rTBAALclQACCGjYSg_bj58dBIZzAQAHbQADOAQ",
-        "file_size": 10827,
-        "file_unique_id": "AQAD3JUAAgho2Epy"
-      },
-      "file_id": "BAACAgIAAyEFAASerMeaAAIGw2lauQAB13W9KDW15Hzy0MNDNfa0wQAC3JUAAgho2EoP24-fHQSGczgE",
-      "file_size": 23867124,
-      "file_unique_id": "AgAD3JUAAgho2Eo",
-      "duration": 65,
-      "thumb": {
-        "file_id": "AAMCAgADIQUABJ6sx5oAAgbDaVq5AAHXdb0oNbXkfPLQw0M19rTBAALclQACCGjYSg_bj58dBIZzAQAHbQADOAQ",
-        "file_unique_id": "AQAD3JUAAgho2Epy",
-        "file_size": 10827,
-        "width": 180,
-        "height": 320
-      }
-    },
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1767553280,
-    "message_id": 1731
-  },
-  {
     "caption": "🦴 Монета $DOGS на блокчейне TON за сегодняшний день выросла на 17% до $0.00005 при рыночной капитализации $25.9 млн.",
     "caption_entities": [
       {
@@ -2769,6 +2716,82 @@
     "channel_chat_created": false,
     "delete_chat_photo": false,
     "edit_date": 1768713040,
+    "group_chat_created": false,
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "video": {
+      "file_name": "IMG_5840.MP4",
+      "height": 848,
+      "mime_type": "video/mp4",
+      "width": 848,
+      "thumbnail": {
+        "height": 320,
+        "width": 320,
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgbraWuhUoe9USes_wzVXAlXkhGI4-0AAvCQAAIL-GBLQTkQ7qGEoBsBAAdtAAM4BA",
+        "file_size": 16961,
+        "file_unique_id": "AQAD8JAAAgv4YEty"
+      },
+      "file_id": "BAACAgIAAyEFAASerMeaAAIG62lroVKHvVEnrP8M1VwJV5IRiOPtAALwkAACC_hgS0E5EO6hhKAbOAQ",
+      "file_size": 2694397,
+      "file_unique_id": "AgAD8JAAAgv4YEs",
+      "duration": 13,
+      "thumb": {
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgbraWuhUoe9USes_wzVXAlXkhGI4-0AAvCQAAIL-GBLQTkQ7qGEoBsBAAdtAAM4BA",
+        "file_unique_id": "AQAD8JAAAgv4YEty",
+        "file_size": 16961,
+        "width": 320,
+        "height": 320
+      }
+    },
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1768661330,
+    "message_id": 1771
+  },
+  {
+    "caption": "😁 $STKRHD появился в приложении, где карма пользователей теперь приносит очки $STKRHD, а выполнение квестов, привлечение рефералов и хранение NFT-стикеров увеличивают прогресс для участия в будущих дропах и разблокировки наград.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5431386831881016337",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 3,
+        "type": "cashtag"
+      },
+      {
+        "length": 8,
+        "offset": 11,
+        "type": "text_link",
+        "url": "https://t.me/stkrhd/76"
+      },
+      {
+        "length": 11,
+        "offset": 22,
+        "type": "text_link",
+        "url": "https://t.me/stickerhead_bot/app?startapp=ref_JM"
+      },
+      {
+        "length": 7,
+        "offset": 79,
+        "type": "cashtag"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1768715961,
     "group_chat_created": false,
     "sender_chat": {
       "id": -1002662123418,
