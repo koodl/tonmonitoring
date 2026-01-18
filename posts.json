@@ -16,70 +16,6 @@
     ],
     "channel_chat_created": false,
     "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 45,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGxGla3yNm3HbmVmgTbHP1nCw97fuRAAKNFGsbCGjYSq-MCstw9QSNAQADAgADcwADOAQ",
-        "file_size": 962,
-        "file_unique_id": "AQADjRRrGwho2Ep4"
-      },
-      {
-        "height": 320,
-        "width": 160,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGxGla3yNm3HbmVmgTbHP1nCw97fuRAAKNFGsbCGjYSq-MCstw9QSNAQADAgADbQADOAQ",
-        "file_size": 11586,
-        "file_unique_id": "AQADjRRrGwho2Epy"
-      },
-      {
-        "height": 800,
-        "width": 400,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGxGla3yNm3HbmVmgTbHP1nCw97fuRAAKNFGsbCGjYSq-MCstw9QSNAQADAgADeAADOAQ",
-        "file_size": 42943,
-        "file_unique_id": "AQADjRRrGwho2Ep9"
-      },
-      {
-        "height": 1280,
-        "width": 640,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGxGla3yNm3HbmVmgTbHP1nCw97fuRAAKNFGsbCGjYSq-MCstw9QSNAQADAgADeQADOAQ",
-        "file_size": 54548,
-        "file_unique_id": "AQADjRRrGwho2Ep-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1767563043,
-    "message_id": 1732
-  },
-  {
-    "caption": "🦴 Монета $DOGS на блокчейне TON за сегодняшний день выросла на 17% до $0.00005 при рыночной капитализации $25.9 млн.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5442695223073344113",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 5,
-        "offset": 10,
-        "type": "cashtag"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
     "edit_date": 1767575274,
     "group_chat_created": false,
     "photo": [
@@ -2832,5 +2768,43 @@
     },
     "date": 1768661330,
     "message_id": 1771
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5440671546152610057",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 48,
+        "type": "text_link",
+        "url": "https://t.me/pgrton/1345"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "💎 Совокупный отток TON с централизованных бирж составил 2,3 млн TON, пулы TON/USDT на основных DEX за неделю не претерпели значительных изменений, а ончейн-активность пользователей демонстрирует снижение.",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1768757094,
+    "message_id": 1773
   }
 ]
