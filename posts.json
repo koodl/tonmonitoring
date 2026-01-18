@@ -1,70 +1,5 @@
 [
   {
-    "caption": "✈️ В бета-версии Telegram обнаружена функция Emoji Stake — аналог казино, где пользователи делают ставки в TON и подбрасывают кубик.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 10,
-        "offset": 26,
-        "type": "text_link",
-        "url": "https://kod.ru/telegram-casino"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 62,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGwmlaWn0WNjBJiLlot4Mne4j6L1XXAAJDDmsbCGjYSu4KKPYQqmLUAQADAgADcwADOAQ",
-        "file_size": 1171,
-        "file_unique_id": "AQADQw5rGwho2Ep4"
-      },
-      {
-        "height": 219,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGwmlaWn0WNjBJiLlot4Mne4j6L1XXAAJDDmsbCGjYSu4KKPYQqmLUAQADAgADbQADOAQ",
-        "file_size": 9732,
-        "file_unique_id": "AQADQw5rGwho2Epy"
-      },
-      {
-        "height": 547,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGwmlaWn0WNjBJiLlot4Mne4j6L1XXAAJDDmsbCGjYSu4KKPYQqmLUAQADAgADeAADOAQ",
-        "file_size": 32188,
-        "file_unique_id": "AQADQw5rGwho2Ep9"
-      },
-      {
-        "height": 876,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGwmlaWn0WNjBJiLlot4Mne4j6L1XXAAJDDmsbCGjYSu4KKPYQqmLUAQADAgADeQADOAQ",
-        "file_size": 39707,
-        "file_unique_id": "AQADQw5rGwho2Ep-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1767529086,
-    "message_id": 1730
-  },
-  {
     "caption": "🗞 Криптаны и 2026 год.",
     "caption_entities": [
       {
@@ -2798,5 +2733,81 @@
     },
     "date": 1768681852,
     "message_id": 1772
+  },
+  {
+    "caption": "📦 $STKRHD появился в приложении, где карма пользователей теперь приносит очки $STKRHD, а выполнение квестов, привлечение рефералов и хранение NFT-стикеров увеличивают прогресс для участия в будущих дропах и разблокировки наград.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5449670138292894907",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 7,
+        "offset": 3,
+        "type": "cashtag"
+      },
+      {
+        "length": 8,
+        "offset": 11,
+        "type": "text_link",
+        "url": "https://t.me/stkrhd/76"
+      },
+      {
+        "length": 11,
+        "offset": 22,
+        "type": "text_link",
+        "url": "https://t.me/stickerhead_bot/app?startapp=ref_JM"
+      },
+      {
+        "length": 7,
+        "offset": 79,
+        "type": "cashtag"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "edit_date": 1768713040,
+    "group_chat_created": false,
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "video": {
+      "file_name": "IMG_5840.MP4",
+      "height": 848,
+      "mime_type": "video/mp4",
+      "width": 848,
+      "thumbnail": {
+        "height": 320,
+        "width": 320,
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgbraWuhUoe9USes_wzVXAlXkhGI4-0AAvCQAAIL-GBLQTkQ7qGEoBsBAAdtAAM4BA",
+        "file_size": 16961,
+        "file_unique_id": "AQAD8JAAAgv4YEty"
+      },
+      "file_id": "BAACAgIAAyEFAASerMeaAAIG62lroVKHvVEnrP8M1VwJV5IRiOPtAALwkAACC_hgS0E5EO6hhKAbOAQ",
+      "file_size": 2694397,
+      "file_unique_id": "AgAD8JAAAgv4YEs",
+      "duration": 13,
+      "thumb": {
+        "file_id": "AAMCAgADIQUABJ6sx5oAAgbraWuhUoe9USes_wzVXAlXkhGI4-0AAvCQAAIL-GBLQTkQ7qGEoBsBAAdtAAM4BA",
+        "file_unique_id": "AQAD8JAAAgv4YEty",
+        "file_size": 16961,
+        "width": 320,
+        "height": 320
+      }
+    },
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1768661330,
+    "message_id": 1771
   }
 ]
