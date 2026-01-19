@@ -1,69 +1,5 @@
 [
   {
-    "caption": "Рубрика: Интересный факт\n\n🦴 Spotty — это персонаж-собачка, созданный Павлом Дуровым в 2010 году как дудл для благотворительного аукциона в поддержку детских домов, после чего он стал неофициальным талисманом VK и Telegram, а позже вдохновил создание мемкоина $DOGS на блокчейне TON. А Resistance Dog — это Spotty в черном капюшоне.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5442695223073344113",
-        "length": 2,
-        "offset": 26,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 5,
-        "offset": 260,
-        "type": "cashtag"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 90,
-        "width": 47,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGxmlbtr9ZCPpcal35uhyLlcmXwLJDAALADWsbd4DYShKGcVjZi4IzAQADAgADcwADOAQ",
-        "file_size": 1216,
-        "file_unique_id": "AQADwA1rG3eA2Ep4"
-      },
-      {
-        "height": 320,
-        "width": 168,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGxmlbtr9ZCPpcal35uhyLlcmXwLJDAALADWsbd4DYShKGcVjZi4IzAQADAgADbQADOAQ",
-        "file_size": 14799,
-        "file_unique_id": "AQADwA1rG3eA2Epy"
-      },
-      {
-        "height": 800,
-        "width": 419,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGxmlbtr9ZCPpcal35uhyLlcmXwLJDAALADWsbd4DYShKGcVjZi4IzAQADAgADeAADOAQ",
-        "file_size": 60739,
-        "file_unique_id": "AQADwA1rG3eA2Ep9"
-      },
-      {
-        "height": 1280,
-        "width": 670,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGxmlbtr9ZCPpcal35uhyLlcmXwLJDAALADWsbd4DYShKGcVjZi4IzAQADAgADeQADOAQ",
-        "file_size": 79751,
-        "file_unique_id": "AQADwA1rG3eA2Ep-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1767618239,
-    "message_id": 1734
-  },
-  {
     "caption": "✈️ «Код Дурова» сообщил, что блокировка облигаций на $500 млн касается в основном уже погашенного старого выпуска и не затрагивает новый выпуск 2025 года, в котором российских инвесторов не было.",
     "caption_entities": [
       {
@@ -2819,5 +2755,70 @@
     },
     "date": 1768795753,
     "message_id": 1775
+  },
+  {
+    "caption": "📈 NYSE объявила о разработке блокчейн‑платформы, которая после одобрения регуляторов обеспечит круглосуточную торговлю токенизированными акциями и ETF с мгновенными расчетами и возможностью использовать стейблкоины, сохраняя для инвесторов стандартные права акционеров.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5449424049551733716",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 8,
+        "type": "text_link",
+        "url": "https://ru.cointelegraph.com/news/nyse-anonsirovala-platformu-dla-kruglosutocnoj-torgovli-tokenizirovannymi-akciami"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 60,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG8GluXTK0PT8BL8AGLsF7clQkXNSyAALwDGsbDgh5S8ILPPTDJr-5AQADAgADcwADOAQ",
+        "file_size": 1839,
+        "file_unique_id": "AQAD8AxrGw4IeUt4"
+      },
+      {
+        "height": 213,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG8GluXTK0PT8BL8AGLsF7clQkXNSyAALwDGsbDgh5S8ILPPTDJr-5AQADAgADbQADOAQ",
+        "file_size": 30039,
+        "file_unique_id": "AQAD8AxrGw4IeUty"
+      },
+      {
+        "height": 533,
+        "width": 800,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG8GluXTK0PT8BL8AGLsF7clQkXNSyAALwDGsbDgh5S8ILPPTDJr-5AQADAgADeAADOAQ",
+        "file_size": 131206,
+        "file_unique_id": "AQAD8AxrGw4IeUt9"
+      },
+      {
+        "height": 853,
+        "width": 1280,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG8GluXTK0PT8BL8AGLsF7clQkXNSyAALwDGsbDgh5S8ILPPTDJr-5AQADAgADeQADOAQ",
+        "file_size": 179131,
+        "file_unique_id": "AQAD8AxrGw4IeUt-"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1768840498,
+    "message_id": 1776
   }
 ]
