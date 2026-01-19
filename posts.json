@@ -1,70 +1,5 @@
 [
   {
-    "caption": "💎 Андрей Грачев: «Думаю, мы достаточно отдохнули, это должно активизировать рынок.\nНаслаждайтесь!»",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440671546152610057",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 14,
-        "offset": 3,
-        "type": "text_link",
-        "url": "https://x.com/ag_dwf/status/2008137462061711396?s=46"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 72,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGxWlboXSaodmG8xQOykVvha5dKmX9AAJKDmsbCGjgSonk42nVOHqdAQADAgADcwADOAQ",
-        "file_size": 1334,
-        "file_unique_id": "AQADSg5rGwho4Ep4"
-      },
-      {
-        "height": 256,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGxWlboXSaodmG8xQOykVvha5dKmX9AAJKDmsbCGjgSonk42nVOHqdAQADAgADbQADOAQ",
-        "file_size": 17602,
-        "file_unique_id": "AQADSg5rGwho4Epy"
-      },
-      {
-        "height": 641,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGxWlboXSaodmG8xQOykVvha5dKmX9AAJKDmsbCGjgSonk42nVOHqdAQADAgADeAADOAQ",
-        "file_size": 66198,
-        "file_unique_id": "AQADSg5rGwho4Ep9"
-      },
-      {
-        "height": 937,
-        "width": 1170,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGxWlboXSaodmG8xQOykVvha5dKmX9AAJKDmsbCGjgSonk42nVOHqdAQADAgADeQADOAQ",
-        "file_size": 73738,
-        "file_unique_id": "AQADSg5rGwho4Ep-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1767612788,
-    "message_id": 1733
-  },
-  {
     "caption": "Рубрика: Интересный факт\n\n🦴 Spotty — это персонаж-собачка, созданный Павлом Дуровым в 2010 году как дудл для благотворительного аукциона в поддержку детских домов, после чего он стал неофициальным талисманом VK и Telegram, а позже вдохновил создание мемкоина $DOGS на блокчейне TON. А Resistance Dog — это Spotty в черном капюшоне.",
     "caption_entities": [
       {
@@ -2806,5 +2741,83 @@
     },
     "date": 1768757845,
     "message_id": 1774
+  },
+  {
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "entities": [
+      {
+        "custom_emoji_id": "5442635973999488769",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 4,
+        "offset": 45,
+        "type": "text_link",
+        "url": "https://t.me/heritage/795"
+      },
+      {
+        "length": 6,
+        "offset": 50,
+        "type": "mention"
+      },
+      {
+        "length": 4,
+        "offset": 66,
+        "type": "cashtag"
+      },
+      {
+        "length": 6,
+        "offset": 87,
+        "type": "mention"
+      },
+      {
+        "length": 4,
+        "offset": 102,
+        "type": "cashtag"
+      },
+      {
+        "length": 10,
+        "offset": 110,
+        "type": "mention"
+      },
+      {
+        "length": 5,
+        "offset": 123,
+        "type": "mention"
+      },
+      {
+        "length": 4,
+        "offset": 140,
+        "type": "cashtag"
+      },
+      {
+        "length": 4,
+        "offset": 183,
+        "type": "cashtag"
+      }
+    ],
+    "group_chat_created": false,
+    "link_preview_options": {
+      "is_disabled": true
+    },
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "text": "🆔 Лидером продаж недели Telegram юзернеймов стал @yyyyy с 50 000 $TON, за ним следуют @zcash (30 000 $TON) и @singapore с @flux (по 15 000 $TON), общий объем продаж составил 794 072 $TON (~$1 373 063).",
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1768795753,
+    "message_id": 1775
   }
 ]
