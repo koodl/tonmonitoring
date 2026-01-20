@@ -1,70 +1,5 @@
 [
   {
-    "caption": "✈️ «Код Дурова» сообщил, что блокировка облигаций на $500 млн касается в основном уже погашенного старого выпуска и не затрагивает новый выпуск 2025 года, в котором российских инвесторов не было.",
-    "caption_entities": [
-      {
-        "custom_emoji_id": "5440613134597387384",
-        "length": 2,
-        "offset": 0,
-        "type": "custom_emoji"
-      },
-      {
-        "length": 8,
-        "offset": 16,
-        "type": "text_link",
-        "url": "https://t.me/d_code/24838"
-      }
-    ],
-    "channel_chat_created": false,
-    "delete_chat_photo": false,
-    "group_chat_created": false,
-    "photo": [
-      {
-        "height": 60,
-        "width": 90,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGx2ldC_Yv9WcI4lcmbpx-6FnmPfUFAAKZDmsbXH3pSkFoFc5nJdFQAQADAgADcwADOAQ",
-        "file_size": 1138,
-        "file_unique_id": "AQADmQ5rG1x96Up4"
-      },
-      {
-        "height": 213,
-        "width": 320,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGx2ldC_Yv9WcI4lcmbpx-6FnmPfUFAAKZDmsbXH3pSkFoFc5nJdFQAQADAgADbQADOAQ",
-        "file_size": 16979,
-        "file_unique_id": "AQADmQ5rG1x96Upy"
-      },
-      {
-        "height": 533,
-        "width": 800,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGx2ldC_Yv9WcI4lcmbpx-6FnmPfUFAAKZDmsbXH3pSkFoFc5nJdFQAQADAgADeAADOAQ",
-        "file_size": 112409,
-        "file_unique_id": "AQADmQ5rG1x96Up9"
-      },
-      {
-        "height": 853,
-        "width": 1280,
-        "file_id": "AgACAgIAAyEFAASerMeaAAIGx2ldC_Yv9WcI4lcmbpx-6FnmPfUFAAKZDmsbXH3pSkFoFc5nJdFQAQADAgADeQADOAQ",
-        "file_size": 176150,
-        "file_unique_id": "AQADmQ5rG1x96Up-"
-      }
-    ],
-    "sender_chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "supergroup_chat_created": false,
-    "chat": {
-      "id": -1002662123418,
-      "title": "TON Monitoring",
-      "type": "channel",
-      "username": "tonmonitoring"
-    },
-    "date": 1767705590,
-    "message_id": 1735
-  },
-  {
     "caption": "✈️ По данным Financial Times, в первой половине 2025 года выручка Telegram составила около $870 млн при росте на 65% год к году, при этом компания по-прежнему планирует по итогам года довести выручку до $2 млрд и прибыль до $720 млн.",
     "caption_entities": [
       {
@@ -2820,5 +2755,63 @@
     },
     "date": 1768840498,
     "message_id": 1776
+  },
+  {
+    "caption": "🛡 CoinTelegraph сообщил, что в 2025 году объем криптовалютных хищений достиг рекордных $4 млрд, а мошенничество в криптовалюте усложняется схемами pig butchering, rug pull и фишингом через Telegram с использованием ИИ.",
+    "caption_entities": [
+      {
+        "custom_emoji_id": "5447638103365806920",
+        "length": 2,
+        "offset": 0,
+        "type": "custom_emoji"
+      },
+      {
+        "length": 8,
+        "offset": 17,
+        "type": "text_link",
+        "url": "https://ru.cointelegraph.com/learn/articles/kriptomosennicestvo-v-2026-godu-shemy-i-sposoby-raspoznavania?utm_source=telegram&utm_medium=social&utm_campaign=CT"
+      }
+    ],
+    "channel_chat_created": false,
+    "delete_chat_photo": false,
+    "group_chat_created": false,
+    "photo": [
+      {
+        "height": 60,
+        "width": 90,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG8WlvRtew1rXmxyYfEiRA3stuMNenAAKpC2sbDgiBS8Kv1wcyebRDAQADAgADcwADOAQ",
+        "file_size": 1320,
+        "file_unique_id": "AQADqQtrGw4IgUt4"
+      },
+      {
+        "height": 213,
+        "width": 320,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG8WlvRtew1rXmxyYfEiRA3stuMNenAAKpC2sbDgiBS8Kv1wcyebRDAQADAgADbQADOAQ",
+        "file_size": 19761,
+        "file_unique_id": "AQADqQtrGw4IgUty"
+      },
+      {
+        "height": 500,
+        "width": 752,
+        "file_id": "AgACAgIAAyEFAASerMeaAAIG8WlvRtew1rXmxyYfEiRA3stuMNenAAKpC2sbDgiBS8Kv1wcyebRDAQADAgADeAADOAQ",
+        "file_size": 50315,
+        "file_unique_id": "AQADqQtrGw4IgUt9"
+      }
+    ],
+    "sender_chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "supergroup_chat_created": false,
+    "chat": {
+      "id": -1002662123418,
+      "title": "TON Monitoring",
+      "type": "channel",
+      "username": "tonmonitoring"
+    },
+    "date": 1768900311,
+    "message_id": 1777
   }
 ]
